@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" width="400" height="280">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <rect x="16" y="12" width="368" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="200" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Q16: Three Vertical Poles Alignment
+  </text>
+
+  <!-- Ground -->
+  <line x1="40" y1="230" x2="360" y2="230" stroke="#94a3b8" stroke-width="2" />
+
+  <!-- Tallest pole: x=100, y=60 to 230 (H=17) -->
+  <line x1="100" y1="60" x2="100" y2="230" stroke="#38bdf8" stroke-width="4" />
+
+  <!-- Middle pole: x=220, y=150 to 230 (H=8) -->
+  <line x1="220" y1="150" x2="220" y2="230" stroke="#38bdf8" stroke-width="4" />
+
+  <!-- Shortest pole: x=300, y=200 to 230 (H=3) -->
+  <line x1="300" y1="200" x2="300" y2="230" stroke="#38bdf8" stroke-width="4" />
+
+  <!-- Incline sight line -->
+  <line x1="100" y1="60" x2="300" y2="200" stroke="#f59e0b" stroke-dasharray="5,5" stroke-width="2" />
+
+  <!-- Distance labels -->
+  <text x="155" y="250" font-family="sans-serif" font-size="13" fill="#e2e8f0">9 m</text>
+  <text x="255" y="250" font-family="sans-serif" font-size="13" fill="#e2e8f0">5 m</text>
+  <text x="230" y="190" font-family="sans-serif" font-size="12" fill="#38bdf8">8 m</text>
+  <text x="310" y="220" font-family="sans-serif" font-size="12" fill="#38bdf8">3 m</text>
+</svg>

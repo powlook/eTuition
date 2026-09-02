@@ -1,0 +1,19 @@
+{
+  "name": "eTuition Portal",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:24",
+  "runArgs": ["--env-file", "${localWorkspaceFolder}/.env"],
+  "containerEnv": { "AGENT_BROWSER_EXECUTABLE_PATH": "/usr/bin/chromium" },
+  "forwardPorts": [3000, 5000],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "postCreateCommand": "bash .devcontainer/setup.sh"
+}

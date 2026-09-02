@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="320" viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0f172a" />
+  <g>
+    <!-- Row 1 -->
+    <polygon points="170.72,40 205.36,60 205.36,100 170.72,120 136.08,100 136.08,60" fill="#38bdf8" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+    <polygon points="240,40 274.64,60 274.64,100 240,120 205.36,100 205.36,60" fill="#f59e0b" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+    <polygon points="309.28,40 343.92,60 343.92,100 309.28,120 274.64,100 274.64,60" fill="#38bdf8" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+
+    <!-- Row 2 -->
+    <polygon points="136.08,100 170.72,120 170.72,160 136.08,180 101.44,160 101.44,120" fill="#f59e0b" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+    <polygon points="205.36,100 240,120 240,160 205.36,180 170.72,160 170.72,120" fill="#c084fc" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+    <polygon points="274.64,100 309.28,120 309.28,160 274.64,180 240,160 240,120" fill="#38bdf8" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+    <polygon points="343.92,100 378.56,120 378.56,160 343.92,180 309.28,160 309.28,120" fill="#f59e0b" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+
+    <!-- Row 3 -->
+    <polygon points="170.72,160 205.36,180 205.36,220 170.72,240 136.08,220 136.08,180" fill="#38bdf8" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+    <polygon points="240,160 274.64,180 274.64,220 240,240 205.36,220 205.36,180" fill="#f59e0b" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+    <polygon points="309.28,160 343.92,180 343.92,220 309.28,240 274.64,220 274.64,180" fill="#c084fc" stroke="#0f172a" stroke-width="2.5" opacity="0.9" />
+
+    <!-- Highlighted Vertex where 3 Hexagons meet -->
+    <circle cx="240" cy="120" r="6" fill="#ef4444" stroke="#ffffff" stroke-width="2" />
+  </g>
+
+  <text x="240" y="275" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">Regular Hexagon Tessellation (3 Hexagons at Vertex: 3 × 120° = 360°)</text>
+</svg>

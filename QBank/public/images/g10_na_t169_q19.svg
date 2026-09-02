@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">Quadratic functions. #19</text>
+  
+      <g transform="translate(60, 40)">
+        <line x1="20" y1="180" x2="340" y2="180" stroke="#475569" stroke-width="2" />
+        <line x1="180" y1="20" x2="180" y2="260" stroke="#475569" stroke-width="2" />
+        <!-- Parabola Curve -->
+        <path d="M 50,240 Q 180,20 310,240" fill="none" stroke="#f59e0b" stroke-width="3.5" />
+        <!-- Axis of symmetry -->
+        <line x1="180" y1="20" x2="180" y2="260" stroke="#ec4899" stroke-width="1.5" stroke-dasharray="4,4" />
+        <circle cx="180" cy="20" r="5" fill="#ec4899" />
+        <text x="185" y="35" font-family="sans-serif" font-size="13" fill="#ec4899" font-weight="bold">Vertex (h, k)</text>
+        <text x="240" y="100" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">f(x) = a(x - h)² + k</text>
+      </g>
+    
+</svg>

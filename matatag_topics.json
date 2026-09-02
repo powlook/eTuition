@@ -1,0 +1,794 @@
+[
+  {
+    "id": 89,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Tessellation of shapes.",
+    "title": "Tessellation of shapes.",
+    "description": "1. explore whether or not a shape tessellates. 2. tessellate a surface using different shapes, including triangles, squares, and rectangles. 3. draw resulting images of shapes that undergo translation, reflection, rotation",
+    "competencies": "MATATAG-M6MG-89"
+  },
+  {
+    "id": 90,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Translation, reflection and rota...",
+    "title": "Translation, reflection and rotation with shapes",
+    "description": "1. explore whether or not a shape tessellates. 2. tessellate a surface using different shapes, including triangles, squares, and rectangles. 3. draw resulting images of shapes that undergo translation, reflection, rotation",
+    "competencies": "MATATAG-M6MG-90"
+  },
+  {
+    "id": 91,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Units of volume and  capacity.",
+    "title": "Units of volume and  capacity.",
+    "description": "1. determine appropriate units for measuring volume and capacity. 2. convert cu. cm to L, and vice versa. 3. find the volume of a cube and of a rectangular prism using standard units of measurement. 4. solve problems involving volumes of cubes and rectangular prisms. 5. solve problems involving ",
+    "competencies": "MATATAG-M6MG-91"
+  },
+  {
+    "id": 92,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Volume of cubes and  rectangular...",
+    "title": "Volume of cubes and  rectangular prisms.",
+    "description": "1. determine appropriate units for measuring volume and capacity. 2. convert cu. cm to L, and vice versa. 3. find the volume of a cube and of a rectangular prism using standard units of measurement. 4. solve problems involving volumes of cubes and rectangular prisms. 5. solve problems involving ",
+    "competencies": "MATATAG-M6MG-92"
+  },
+  {
+    "id": 93,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Perimeter and area of  triangles...",
+    "title": "Perimeter and area of  triangles, parallelograms,  trapezoids, and composite  figures composed of  triangles, squares, and  rectangles.",
+    "description": "1. determine appropriate units for measuring volume and capacity. 2. convert cu. cm to L, and vice versa. 3. find the volume of a cube and of a rectangular prism using standard units of measurement. 4. solve problems involving volumes of cubes and rectangular prisms. 5. solve problems involving ",
+    "competencies": "MATATAG-M6MG-93"
+  },
+  {
+    "id": 94,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Parts of a circle, including  ci...",
+    "title": "Parts of a circle, including  circumference",
+    "description": "1. determine appropriate units for measuring volume and capacity. 2. convert cu. cm to L, and vice versa. 3. find the volume of a cube and of a rectangular prism using standard units of measurement. 4. solve problems involving volumes of cubes and rectangular prisms. 5. solve problems involving ",
+    "competencies": "MATATAG-M6MG-94"
+  },
+  {
+    "id": 95,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Area of a circle",
+    "title": "Area of a circle",
+    "description": "1. explore inductively the area of a circle leading to the formula A=pi*r2 2. find the area of a circle using the formula. 3. find the area of composite figures composed of any two or more of the following: triangle, square, rectangle, circle, and semicircle. 4. solve problems involving circumfer",
+    "competencies": "MATATAG-M6MG-95"
+  },
+  {
+    "id": 96,
+    "form_level": 6,
+    "strand": "Measurement and Geometry",
+    "unit": "Composite figures composed of an...",
+    "title": "Composite figures composed of any two or more of: triangle, square, rectangle, circle, semi-circle.",
+    "description": "1. explore inductively the area of a circle leading to the formula A=pi*r2 2. find the area of a circle using the formula. 3. find the area of composite figures composed of any two or more of the following: triangle, square, rectangle, circle, and semicircle. 4. solve problems involving circumfer",
+    "competencies": "MATATAG-M6MG-96"
+  },
+  {
+    "id": 97,
+    "form_level": 6,
+    "strand": "Number and Algebra",
+    "unit": "The four operations with decimals.",
+    "title": "The four operations with decimals.",
+    "description": "4. add and subtract decimals with decimal parts of up to 4 decimal places. 5. solve multi-step problems involving addition and/or subtraction of decimals, including problems involving money. 6. mentally multiply decimals of up to 2 decimal places by 0.1, 0.01, 0.001, 10, 100, and 1000. 7. solve m",
+    "competencies": "MATATAG-M6NA-97"
+  },
+  {
+    "id": 98,
+    "form_level": 6,
+    "strand": "Number and Algebra",
+    "unit": "The four operations with differe...",
+    "title": "The four operations with different combinations of fractions, whole numbers, and mixed numbers.",
+    "description": "4. add and subtract decimals with decimal parts of up to 4 decimal places. 5. solve multi-step problems involving addition and/or subtraction of decimals, including problems involving money. 6. mentally multiply decimals of up to 2 decimal places by 0.1, 0.01, 0.001, 10, 100, and 1000. 7. solve m",
+    "competencies": "MATATAG-M6NA-98"
+  },
+  {
+    "id": 99,
+    "form_level": 6,
+    "strand": "Number and Algebra",
+    "unit": "Ratio and proportion.",
+    "title": "Ratio and proportion.",
+    "description": "1. describe the relationship between quantities using ratio for: a. part-whole relationships, and b. part-part relationships. 2. express one number as a fraction of another given their ratio, and vice versa. 3. identify and write equivalent ratios. 4. solve problems involving ratio. 5. illustr",
+    "competencies": "MATATAG-M6NA-99"
+  },
+  {
+    "id": 100,
+    "form_level": 6,
+    "strand": "Number and Algebra",
+    "unit": "Percentages, and their relations...",
+    "title": "Percentages, and their relationships with fractions and decimals.",
+    "description": "1. describe the relationship between quantities using ratio for: a. part-whole relationships, and b. part-part relationships. 2. express one number as a fraction of another given their ratio, and vice versa. 3. identify and write equivalent ratios. 4. solve problems involving ratio. 5. illustr",
+    "competencies": "MATATAG-M6NA-100"
+  },
+  {
+    "id": 101,
+    "form_level": 6,
+    "strand": "Number and Algebra",
+    "unit": "Exponential form, including calc...",
+    "title": "Exponential form, including calculation using the GEMDAS rules.",
+    "description": "1. describe the relationship between quantities using ratio for: a. part-whole relationships, and b. part-part relationships. 2. express one number as a fraction of another given their ratio, and vice versa. 3. identify and write equivalent ratios. 4. solve problems involving ratio. 5. illustr",
+    "competencies": "MATATAG-M6NA-101"
+  },
+  {
+    "id": 102,
+    "form_level": 6,
+    "strand": "Number and Algebra",
+    "unit": "Common factors, greatest common ...",
+    "title": "Common factors, greatest common factors, common multiples, and least common multiples.",
+    "description": "11. determine the common factors and the greatest common factor (GCF) of two numbers using the following methods: listing, prime factorization, and continuous division. 12. find the common multiples and least common multiple (LCM) of two numbers using the following methods: listing, prime factoriza",
+    "competencies": "MATATAG-M6NA-102"
+  },
+  {
+    "id": 103,
+    "form_level": 6,
+    "strand": "Data and Probability",
+    "unit": "Pie graphs.",
+    "title": "Pie graphs.",
+    "description": "5. find the angle measures and/or percentages based on the given data for a pie graph. 6. construct a pie graph using appropriate tools. 7. interpret data presented in a pie graph. 8. interpret data from digital media that are presented in tabular or graphical form. 9. draw conclusions or make i",
+    "competencies": "MATATAG-M6DP-103"
+  },
+  {
+    "id": 104,
+    "form_level": 7,
+    "strand": "Measurement and Geometry",
+    "unit": "Regular  and irregular polygons ...",
+    "title": "Regular  and irregular polygons and their features/properties.",
+    "description": "1. draw and describe regular and irregular polygons with 5, 6, 8, or 10 sides, based on measurements of sides and angles, using a ruler and protractor. 2. draw triangles, quadrilaterals, and regular polygons (5, 6, 8, or 10 sides) with given angle measures. 3. describe and explain the relationship",
+    "competencies": "MATATAG-M7MG-104"
+  },
+  {
+    "id": 105,
+    "form_level": 7,
+    "strand": "Measurement and Geometry",
+    "unit": "Determination of measures of ang...",
+    "title": "Determination of measures of angles and number of sides of polygons.",
+    "description": "1. draw and describe regular and irregular polygons with 5, 6, 8, or 10 sides, based on measurements of sides and angles, using a ruler and protractor. 2. draw triangles, quadrilaterals, and regular polygons (5, 6, 8, or 10 sides) with given angle measures. 3. describe and explain the relationship",
+    "competencies": "MATATAG-M7MG-105"
+  },
+  {
+    "id": 106,
+    "form_level": 7,
+    "strand": "Measurement and Geometry",
+    "unit": "Conversion of units of measure.",
+    "title": "Conversion of units of measure.",
+    "description": "3. convert units of measure within the International System of Units (SI) and across different systems of measure. 4. explain inductively the volume of a cylinder using the area of a circle, leading to the identification of the formula. 5. find the volume of a cylinder. 6. solve problems involvin",
+    "competencies": "MATATAG-M7MG-106"
+  },
+  {
+    "id": 107,
+    "form_level": 7,
+    "strand": "Measurement and Geometry",
+    "unit": "Volume of square and rectangular...",
+    "title": "Volume of square and rectangular pyramids, and cylinders.",
+    "description": "3. convert units of measure within the International System of Units (SI) and across different systems of measure. 4. explain inductively the volume of a cylinder using the area of a circle, leading to the identification of the formula. 5. find the volume of a cylinder. 6. solve problems involvin",
+    "competencies": "MATATAG-M7MG-107"
+  },
+  {
+    "id": 108,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Application of percentages.",
+    "title": "Application of percentages.",
+    "description": "7. solve problems involving: a. percentage increase, and b. percentage decrease. 8. solve money problems involving percentages (e. g., discount, commission, sales tax, simple interest). 9. create a financial plan. 10. identify and explain the uses of rates. 11. solve problems involving rates (",
+    "competencies": "MATATAG-M7NA-108"
+  },
+  {
+    "id": 109,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Use of rates.",
+    "title": "Use of rates.",
+    "description": "7. solve problems involving: a. percentage increase, and b. percentage decrease. 8. solve money problems involving percentages (e. g., discount, commission, sales tax, simple interest). 9. create a financial plan. 10. identify and explain the uses of rates. 11. solve problems involving rates (",
+    "competencies": "MATATAG-M7NA-109"
+  },
+  {
+    "id": 110,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Rational numbers.",
+    "title": "Rational numbers.",
+    "description": "7. solve problems involving: a. percentage increase, and b. percentage decrease. 8. solve money problems involving percentages (e. g., discount, commission, sales tax, simple interest). 9. create a financial plan. 10. identify and explain the uses of rates. 11. solve problems involving rates (",
+    "competencies": "MATATAG-M7NA-110"
+  },
+  {
+    "id": 111,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Square roots of perfect squares,...",
+    "title": "Square roots of perfect squares, cube roots of perfect cubes, and irrational numbers.",
+    "description": "1. determine the square roots of perfect squares and the cube roots of perfect cubes. 2. identify irrational numbers involving square roots and cube roots, and their locations on the number line.",
+    "competencies": "MATATAG-M7NA-111"
+  },
+  {
+    "id": 112,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Sets and subsets, and the union ...",
+    "title": "Sets and subsets, and the union and intersection of sets using Venn diagrams",
+    "description": "10. describe sets and their subsets, the union of sets, and the intersection of sets 11. illustrate sets and their subsets, the union of sets, and the intersection of sets, through the use of Venn diagrams. 12. illustrate the different subsets of real numbers.",
+    "competencies": "MATATAG-M7NA-112"
+  },
+  {
+    "id": 113,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Subset of real numbers.",
+    "title": "Subset of real numbers.",
+    "description": "10. describe sets and their subsets, the union of sets, and the intersection of sets 11. illustrate sets and their subsets, the union of sets, and the intersection of sets, through the use of Venn diagrams. 12. illustrate the different subsets of real numbers.",
+    "competencies": "MATATAG-M7NA-113"
+  },
+  {
+    "id": 114,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "The set of integers, and compari...",
+    "title": "The set of integers, and comparing and ordering integers",
+    "description": "5. describe the set of integers. 6. use positive and negative numbers to describe directions or opposites in real-life situations. 7. locate integers on the number line. 8. compare and order integers. 9. add and subtract integers; using concrete models (e.g., counters, integer chips), pictorial ",
+    "competencies": "MATATAG-M7NA-114"
+  },
+  {
+    "id": 115,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "The four operations with integers.",
+    "title": "The four operations with integers.",
+    "description": "5. describe the set of integers. 6. use positive and negative numbers to describe directions or opposites in real-life situations. 7. locate integers on the number line. 8. compare and order integers. 9. add and subtract integers; using concrete models (e.g., counters, integer chips), pictorial ",
+    "competencies": "MATATAG-M7NA-115"
+  },
+  {
+    "id": 116,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Simplification of numerical expr...",
+    "title": "Simplification of numerical expressions involving integers.",
+    "description": "5. describe the set of integers. 6. use positive and negative numbers to describe directions or opposites in real-life situations. 7. locate integers on the number line. 8. compare and order integers. 9. add and subtract integers; using concrete models (e.g., counters, integer chips), pictorial ",
+    "competencies": "MATATAG-M7NA-116"
+  },
+  {
+    "id": 117,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Absolute value of an integer.",
+    "title": "Absolute value of an integer.",
+    "description": "5. describe the set of integers. 6. use positive and negative numbers to describe directions or opposites in real-life situations. 7. locate integers on the number line. 8. compare and order integers. 9. add and subtract integers; using concrete models (e.g., counters, integer chips), pictorial ",
+    "competencies": "MATATAG-M7NA-117"
+  },
+  {
+    "id": 118,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "The solution of simple equations.",
+    "title": "The solution of simple equations.",
+    "description": "1. solve simple equations represented by bar models to find unknowns. 2. distinguish a variable from a constant in an algebraic expression. 3. evaluate algebraic expressions given the value/s of the variable/s. 4. translate verbal phrases into algebraic expressions. 5. illustrate the properties ",
+    "competencies": "MATATAG-M7NA-118"
+  },
+  {
+    "id": 119,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "The evaluation of algebraic expr...",
+    "title": "The evaluation of algebraic expressions following substitution.",
+    "description": "1. solve simple equations represented by bar models to find unknowns. 2. distinguish a variable from a constant in an algebraic expression. 3. evaluate algebraic expressions given the value/s of the variable/s. 4. translate verbal phrases into algebraic expressions. 5. illustrate the properties ",
+    "competencies": "MATATAG-M7NA-119"
+  },
+  {
+    "id": 120,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "The rearrangement of a formula t...",
+    "title": "The rearrangement of a formula to make a different variable the subject of the formula.",
+    "description": "1. solve simple equations represented by bar models to find unknowns. 2. distinguish a variable from a constant in an algebraic expression. 3. evaluate algebraic expressions given the value/s of the variable/s. 4. translate verbal phrases into algebraic expressions. 5. illustrate the properties ",
+    "competencies": "MATATAG-M7NA-120"
+  },
+  {
+    "id": 121,
+    "form_level": 7,
+    "strand": "Number and Algebra",
+    "unit": "Operations using scientific nota...",
+    "title": "Operations using scientific notation.",
+    "description": "13. write numbers in scientific notation to represent very large or very small numbers, and vice versa. 14. perform operations on numbers expressed in scientific notation.",
+    "competencies": "MATATAG-M7NA-121"
+  },
+  {
+    "id": 122,
+    "form_level": 7,
+    "strand": "Data and Probability",
+    "unit": "Data collection and sampling tec...",
+    "title": "Data collection and sampling techniques, and the presentation of data in appropriate tables and graphs.",
+    "description": "1. investigate different data collection and sampling techniques. 2. organize statistical data in a frequency distribution table. 3. use appropriate graphs to represent organized data: pie graph, bar graph, line graph, and stem-and-leaf plot. 4. interpret statistical graphs.",
+    "competencies": "MATATAG-M7DP-122"
+  },
+  {
+    "id": 123,
+    "form_level": 7,
+    "strand": "Data and Probability",
+    "unit": "Interpretation of statistical gr...",
+    "title": "Interpretation of statistical graphs.",
+    "description": "1. investigate different data collection and sampling techniques. 2. organize statistical data in a frequency distribution table. 3. use appropriate graphs to represent organized data: pie graph, bar graph, line graph, and stem-and-leaf plot. 4. interpret statistical graphs.",
+    "competencies": "MATATAG-M7DP-123"
+  },
+  {
+    "id": 124,
+    "form_level": 7,
+    "strand": "Data and Probability",
+    "unit": "Outcomes from experiments.",
+    "title": "Outcomes from experiments.",
+    "description": "10. collect data from experiments (e.g., number of heads obtained when tossing a coin, a number of times, number of prime numbers obtained when rolling a die a number of times). 11. express outcomes in words and/or symbols, and represents outcomes in tables and/or graphs. 12. solve problems using ",
+    "competencies": "MATATAG-M7DP-124"
+  },
+  {
+    "id": 125,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Algebraic expressions and  opera...",
+    "title": "Algebraic expressions and  operations with monomials,  binomials, and multinomials.",
+    "description": "3. model real-life situations using algebraic expressions. 4. add and subtract simple monomials. 5. multiply and divide simple monomials, leading to the derivation of the laws of exponents. 6. multiply simple monomials and binomials with simple binomials and multinomials, using the distributive p",
+    "competencies": "MATATAG-M8NA-125"
+  },
+  {
+    "id": 126,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Special products for binomials, ...",
+    "title": "Special products for binomials,  and factorization of polynomials.",
+    "description": "3. model real-life situations using algebraic expressions. 4. add and subtract simple monomials. 5. multiply and divide simple monomials, leading to the derivation of the laws of exponents. 6. multiply simple monomials and binomials with simple binomials and multinomials, using the distributive p",
+    "competencies": "MATATAG-M8NA-126"
+  },
+  {
+    "id": 127,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Rational algebraic expressions a...",
+    "title": "Rational algebraic expressions and  equations.",
+    "description": "3. model real-life situations using algebraic expressions. 4. add and subtract simple monomials. 5. multiply and divide simple monomials, leading to the derivation of the laws of exponents. 6. multiply simple monomials and binomials with simple binomials and multinomials, using the distributive p",
+    "competencies": "MATATAG-M8NA-127"
+  },
+  {
+    "id": 128,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Rules for obtaining terms in  se...",
+    "title": "Rules for obtaining terms in  sequences.",
+    "description": "3. model real-life situations using algebraic expressions. 4. add and subtract simple monomials. 5. multiply and divide simple monomials, leading to the derivation of the laws of exponents. 6. multiply simple monomials and binomials with simple binomials and multinomials, using the distributive p",
+    "competencies": "MATATAG-M8NA-128"
+  },
+  {
+    "id": 129,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Plotting points, and finding dis...",
+    "title": "Plotting points, and finding distance and the midpoint of line segments on the Cartesian coordinate plane.",
+    "description": "1. illustrate and describe the Cartesian coordinate plane. 2. plot points on the Cartesian coordinate plane and determine the coordinates of a point on the plane. 3. solve problems involving distance between two points and midpoint of a line segment on the Cartesian coordinate plane.",
+    "competencies": "MATATAG-M8NA-129"
+  },
+  {
+    "id": 130,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Earning money, profit and loss, ...",
+    "title": "Earning money, profit and loss, ‘best buys’, buying on terms.",
+    "description": "12. solve financial problems involving: a. earning money, b. profit and loss, c. buying amounts of products that represent the best value (‘best buys’), and d. buying on terms (‘instalment plan’).",
+    "competencies": "MATATAG-M8NA-130"
+  },
+  {
+    "id": 131,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Linear equations in one variable.",
+    "title": "Linear equations in one variable.",
+    "description": "1. solve linear equations in one variable. 2. solve problems (e.g., number problems, geometry problems, and money problems) involving linear equations in one variable. 3. solve linear inequalities in one variable. 4. graph on a number line the solution of linear inequalities in one variable. 5. ",
+    "competencies": "MATATAG-M8NA-131"
+  },
+  {
+    "id": 132,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Linear inequalities in one varia...",
+    "title": "Linear inequalities in one variable  and their graphs.",
+    "description": "1. solve linear equations in one variable. 2. solve problems (e.g., number problems, geometry problems, and money problems) involving linear equations in one variable. 3. solve linear inequalities in one variable. 4. graph on a number line the solution of linear inequalities in one variable. 5. ",
+    "competencies": "MATATAG-M8NA-132"
+  },
+  {
+    "id": 133,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Linear equations in two variable...",
+    "title": "Linear equations in two variables  and their graphs.",
+    "description": "1. solve linear equations in one variable. 2. solve problems (e.g., number problems, geometry problems, and money problems) involving linear equations in one variable. 3. solve linear inequalities in one variable. 4. graph on a number line the solution of linear inequalities in one variable. 5. ",
+    "competencies": "MATATAG-M8NA-133"
+  },
+  {
+    "id": 134,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Systems of linear equations in t...",
+    "title": "Systems of linear equations in two  variables.",
+    "description": "1. solve linear equations in one variable. 2. solve problems (e.g., number problems, geometry problems, and money problems) involving linear equations in one variable. 3. solve linear inequalities in one variable. 4. graph on a number line the solution of linear inequalities in one variable. 5. ",
+    "competencies": "MATATAG-M8NA-134"
+  },
+  {
+    "id": 135,
+    "form_level": 8,
+    "strand": "Number and Algebra",
+    "unit": "Linear inequalities in two varia...",
+    "title": "Linear inequalities in two variables.",
+    "description": "1. solve linear equations in one variable. 2. solve problems (e.g., number problems, geometry problems, and money problems) involving linear equations in one variable. 3. solve linear inequalities in one variable. 4. graph on a number line the solution of linear inequalities in one variable. 5. ",
+    "competencies": "MATATAG-M8NA-135"
+  },
+  {
+    "id": 136,
+    "form_level": 8,
+    "strand": "Measurement and Geometry",
+    "unit": "Volume of pyramids (other than s...",
+    "title": "Volume of pyramids (other than square and rectangular pyramids), cones, and spheres.",
+    "description": "4. explore inductively the volume of pyramids other than square and rectangular pyramids. 5. find the volume of pyramids other than square and rectangular pyramids. 6. solve problems involving volume of pyramids. 7. explore inductively the volumes of cones and spheres, leading to their formulas.\r",
+    "competencies": "MATATAG-M8MG-136"
+  },
+  {
+    "id": 137,
+    "form_level": 8,
+    "strand": "Measurement and Geometry",
+    "unit": "The Pythagorean Theorem.",
+    "title": "The Pythagorean Theorem.",
+    "description": "4. explore inductively the volume of pyramids other than square and rectangular pyramids. 5. find the volume of pyramids other than square and rectangular pyramids. 6. solve problems involving volume of pyramids. 7. explore inductively the volumes of cones and spheres, leading to their formulas.\r",
+    "competencies": "MATATAG-M8MG-137"
+  },
+  {
+    "id": 138,
+    "form_level": 8,
+    "strand": "Measurement and Geometry",
+    "unit": "Triangle inequality theorems.",
+    "title": "Triangle inequality theorems.",
+    "description": "4. explore inductively the volume of pyramids other than square and rectangular pyramids. 5. find the volume of pyramids other than square and rectangular pyramids. 6. solve problems involving volume of pyramids. 7. explore inductively the volumes of cones and spheres, leading to their formulas.\r",
+    "competencies": "MATATAG-M8MG-138"
+  },
+  {
+    "id": 139,
+    "form_level": 8,
+    "strand": "Data and Probability",
+    "unit": "Measures of central tendency of ...",
+    "title": "Measures of central tendency of ungrouped data.",
+    "description": "1. determine measures of central tendency of ungrouped data. 2. draw conclusions from statistical data using the measures of central tendency.",
+    "competencies": "MATATAG-M8DP-139"
+  },
+  {
+    "id": 140,
+    "form_level": 8,
+    "strand": "Data and Probability",
+    "unit": "Measures of variability for  ung...",
+    "title": "Measures of variability for  ungrouped data.",
+    "description": "1. calculate the measures of variability (range, mean deviation, and standard deviation) for ungrouped data. 2. draw conclusions from statistical data using the measures of variability. 3. investigate, interpret, and analyze graphs from primary data (e.g., examination scores). 4. investigate, int",
+    "competencies": "MATATAG-M8DP-140"
+  },
+  {
+    "id": 141,
+    "form_level": 8,
+    "strand": "Data and Probability",
+    "unit": "Interpretation and analysis of  ...",
+    "title": "Interpretation and analysis of  graphs from primary and  secondary data.",
+    "description": "1. calculate the measures of variability (range, mean deviation, and standard deviation) for ungrouped data. 2. draw conclusions from statistical data using the measures of variability. 3. investigate, interpret, and analyze graphs from primary data (e.g., examination scores). 4. investigate, int",
+    "competencies": "MATATAG-M8DP-141"
+  },
+  {
+    "id": 142,
+    "form_level": 8,
+    "strand": "Data and Probability",
+    "unit": "Experimental and theoretical  pr...",
+    "title": "Experimental and theoretical  probability.",
+    "description": "1. calculate the measures of variability (range, mean deviation, and standard deviation) for ungrouped data. 2. draw conclusions from statistical data using the measures of variability. 3. investigate, interpret, and analyze graphs from primary data (e.g., examination scores). 4. investigate, int",
+    "competencies": "MATATAG-M8DP-142"
+  },
+  {
+    "id": 143,
+    "form_level": 8,
+    "strand": "Data and Probability",
+    "unit": "The Fundamental Counting  Princi...",
+    "title": "The Fundamental Counting  Principle.",
+    "description": "1. calculate the measures of variability (range, mean deviation, and standard deviation) for ungrouped data. 2. draw conclusions from statistical data using the measures of variability. 3. investigate, interpret, and analyze graphs from primary data (e.g., examination scores). 4. investigate, int",
+    "competencies": "MATATAG-M8DP-143"
+  },
+  {
+    "id": 144,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Simple geometric concepts and no...",
+    "title": "Simple geometric concepts and notations.",
+    "description": "1. illustrate and describe point, line, ray, line segment, angle, and plane using models and geometric notations. 2. construct perpendicular and parallel lines. 3. identify the relationships between angles formed by parallel lines cut by a transversal. 4. determine angle measures involving angle ",
+    "competencies": "MATATAG-M9MG-144"
+  },
+  {
+    "id": 145,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Perpendicular and parallel lines...",
+    "title": "Perpendicular and parallel lines, and angles formed by parallel lines cut by a transversal.",
+    "description": "1. illustrate and describe point, line, ray, line segment, angle, and plane using models and geometric notations. 2. construct perpendicular and parallel lines. 3. identify the relationships between angles formed by parallel lines cut by a transversal. 4. determine angle measures involving angle ",
+    "competencies": "MATATAG-M9MG-145"
+  },
+  {
+    "id": 146,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Parallelism and perpendicularity...",
+    "title": "Parallelism and perpendicularity of lines.",
+    "description": "1. determine conditions that guarantee parallelism and perpendicularity of lines. 2. classify quadrilaterals based on formal definitions. 3. use properties of parallelograms to find measures of angles, sides, perpendicular height,and diagonals. 4. solve problems involving parallelograms, rectangl",
+    "competencies": "MATATAG-M9MG-146"
+  },
+  {
+    "id": 147,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Different quadrilaterals and the...",
+    "title": "Different quadrilaterals and their properties.",
+    "description": "1. determine conditions that guarantee parallelism and perpendicularity of lines. 2. classify quadrilaterals based on formal definitions. 3. use properties of parallelograms to find measures of angles, sides, perpendicular height,and diagonals. 4. solve problems involving parallelograms, rectangl",
+    "competencies": "MATATAG-M9MG-147"
+  },
+  {
+    "id": 148,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Congruence of triangles.",
+    "title": "Congruence of triangles.",
+    "description": "1. determine conditions that guarantee parallelism and perpendicularity of lines. 2. classify quadrilaterals based on formal definitions. 3. use properties of parallelograms to find measures of angles, sides, perpendicular height,and diagonals. 4. solve problems involving parallelograms, rectangl",
+    "competencies": "MATATAG-M9MG-148"
+  },
+  {
+    "id": 149,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Congruence proofs.",
+    "title": "Congruence proofs.",
+    "description": "1. determine conditions that guarantee parallelism and perpendicularity of lines. 2. classify quadrilaterals based on formal definitions. 3. use properties of parallelograms to find measures of angles, sides, perpendicular height,and diagonals. 4. solve problems involving parallelograms, rectangl",
+    "competencies": "MATATAG-M9MG-149"
+  },
+  {
+    "id": 150,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Similarity of polygons.",
+    "title": "Similarity of polygons.",
+    "description": "10. illustrate similarity of polygons. 11. illustrate and apply triangle similarity theorems in different situations. 12. solve problems involving triangle similarity. 13. solve problems involving measures of sides and angles of special triangles (30-60-90, 45-45-90).",
+    "competencies": "MATATAG-M9MG-150"
+  },
+  {
+    "id": 151,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Special triangles.",
+    "title": "Special triangles.",
+    "description": "10. illustrate similarity of polygons. 11. illustrate and apply triangle similarity theorems in different situations. 12. solve problems involving triangle similarity. 13. solve problems involving measures of sides and angles of special triangles (30-60-90, 45-45-90).",
+    "competencies": "MATATAG-M9MG-151"
+  },
+  {
+    "id": 152,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "Triangle theorems and triangle i...",
+    "title": "Triangle theorems and triangle inequality theorems.",
+    "description": "1. solve problems involving the perpendicular bisector theorem, isosceles triangle theorem, theorems on equilateral triangles, and the midline theorem. 2. explain theorems on triangle inequalities and apply these theorems in comparing measures in a triangle. 3. determine the values of the sine, co",
+    "competencies": "MATATAG-M9MG-152"
+  },
+  {
+    "id": 153,
+    "form_level": 9,
+    "strand": "Measurement and Geometry",
+    "unit": "The trigonometric ratios and the...",
+    "title": "The trigonometric ratios and their application.",
+    "description": "1. solve problems involving the perpendicular bisector theorem, isosceles triangle theorem, theorems on equilateral triangles, and the midline theorem. 2. explain theorems on triangle inequalities and apply these theorems in comparing measures in a triangle. 3. determine the values of the sine, co",
+    "competencies": "MATATAG-M9MG-153"
+  },
+  {
+    "id": 154,
+    "form_level": 9,
+    "strand": "Number and Algebra",
+    "unit": "Relations and functions.",
+    "title": "Relations and functions.",
+    "description": "5. identify relations that are functions based on the definitions of relations and functions. 6. determine the domain and the range of a function expressed in different representations. 7. express the relationship between two variables as a function. 8. determine the slopes (as rate of change) an",
+    "competencies": "MATATAG-M9NA-154"
+  },
+  {
+    "id": 155,
+    "form_level": 9,
+    "strand": "Number and Algebra",
+    "unit": "Graphs of linear functions, and ...",
+    "title": "Graphs of linear functions, and the identification of domain and range, slope, intercepts, and zeros.",
+    "description": "5. identify relations that are functions based on the definitions of relations and functions. 6. determine the domain and the range of a function expressed in different representations. 7. express the relationship between two variables as a function. 8. determine the slopes (as rate of change) an",
+    "competencies": "MATATAG-M9NA-155"
+  },
+  {
+    "id": 156,
+    "form_level": 9,
+    "strand": "Number and Algebra",
+    "unit": "Quadratic equations and graphs  ...",
+    "title": "Quadratic equations and graphs  of quadratic functions.",
+    "description": "1. represent real-life situations that can be modelled using quadratic relationships. 2. graph equations in two variables to represent quadratic relationships, such as 3. interpret features of a parabola such as vertex, axis of symmetry, x–intercepts, opening direction, minimum or maximum value, z",
+    "competencies": "MATATAG-M9NA-156"
+  },
+  {
+    "id": 157,
+    "form_level": 9,
+    "strand": "Number and Algebra",
+    "unit": "The solution of quadratic  equat...",
+    "title": "The solution of quadratic  equations.",
+    "description": "1. represent real-life situations that can be modelled using quadratic relationships. 2. graph equations in two variables to represent quadratic relationships, such as 3. interpret features of a parabola such as vertex, axis of symmetry, x–intercepts, opening direction, minimum or maximum value, z",
+    "competencies": "MATATAG-M9NA-157"
+  },
+  {
+    "id": 158,
+    "form_level": 9,
+    "strand": "Number and Algebra",
+    "unit": "Direct and inverse variation",
+    "title": "Direct and inverse variation",
+    "description": "14. illustrate real-life situations that involve direct variation and real-life situations that involve inverse variation. 15. translate a relationship between two quantities into a variation statement and/or a mathematical equation, given a table of values or a graph. 16. solve problems involving",
+    "competencies": "MATATAG-M9NA-158"
+  },
+  {
+    "id": 159,
+    "form_level": 9,
+    "strand": "Data and Probability",
+    "unit": "Interpretation and analysis of d...",
+    "title": "Interpretation and analysis of data to assess whether the data may be misleading.",
+    "description": "8. interpret and analyze data from the digital media that are in tabular or graphical formto assess whether the data may be misleading. 9. illustrate simple and compound events. 10. determine the probabilities of simple and compound events. 11. solve problems involving probabilities of simple and",
+    "competencies": "MATATAG-M9DP-159"
+  },
+  {
+    "id": 160,
+    "form_level": 9,
+    "strand": "Data and Probability",
+    "unit": "Probabilities of simple and comp...",
+    "title": "Probabilities of simple and compound events.",
+    "description": "8. interpret and analyze data from the digital media that are in tabular or graphical formto assess whether the data may be misleading. 9. illustrate simple and compound events. 10. determine the probabilities of simple and compound events. 11. solve problems involving probabilities of simple and",
+    "competencies": "MATATAG-M9DP-160"
+  },
+  {
+    "id": 161,
+    "form_level": 10,
+    "strand": "Measurement and Geometry",
+    "unit": "The laws of sines and the laws o...",
+    "title": "The laws of sines and the laws of cosines.",
+    "description": "1. apply laws of sines in solving oblique triangles, including ambiguous cases. 2. apply laws of cosines in solving oblique triangles. 3. describe the position of points in the Cartesian plane. 4. describe translations, reflections, and rotations, in the Cartesian plane using coordinates. 5. sol",
+    "competencies": "MATATAG-M10MG-161"
+  },
+  {
+    "id": 162,
+    "form_level": 10,
+    "strand": "Measurement and Geometry",
+    "unit": "Translations, reflections, and r...",
+    "title": "Translations, reflections, and rotations, in the Cartesian plane.",
+    "description": "1. apply laws of sines in solving oblique triangles, including ambiguous cases. 2. apply laws of cosines in solving oblique triangles. 3. describe the position of points in the Cartesian plane. 4. describe translations, reflections, and rotations, in the Cartesian plane using coordinates. 5. sol",
+    "competencies": "MATATAG-M10MG-162"
+  },
+  {
+    "id": 163,
+    "form_level": 10,
+    "strand": "Measurement and Geometry",
+    "unit": "Central angles; inscribed angles...",
+    "title": "Central angles; inscribed angles; and angles and lengths formed by intersecting chords, secants, and tangents of a circle.",
+    "description": "7. establish properties and relationships for central angles, inscribed angles, secants, and tangents, of a circle. 8. solve problems involving: a. central angles, b. inscribed angles, c. angles formed by two intersecting chords, d. angles formed by two secants intersecting outside the circle,\r",
+    "competencies": "MATATAG-M10MG-163"
+  },
+  {
+    "id": 164,
+    "form_level": 10,
+    "strand": "Measurement and Geometry",
+    "unit": "Sectors and segments of a circle...",
+    "title": "Sectors and segments of a circle, and their areas.",
+    "description": "7. establish properties and relationships for central angles, inscribed angles, secants, and tangents, of a circle. 8. solve problems involving: a. central angles, b. inscribed angles, c. angles formed by two intersecting chords, d. angles formed by two secants intersecting outside the circle,\r",
+    "competencies": "MATATAG-M10MG-164"
+  },
+  {
+    "id": 165,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "Quadratic inequalities in one va...",
+    "title": "Quadratic inequalities in one variable and in two variables.",
+    "description": "6. illustrate on the number line quadratic inequalities in one variable. 7. solve quadratic inequalities in one variable and expresses solutions in various notations. 8. solve problems involving quadratic inequalities in one variable. 9. solve quadratic inequalities in two variables. 10. determi",
+    "competencies": "MATATAG-M10NA-165"
+  },
+  {
+    "id": 166,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "Absolute value equations and ine...",
+    "title": "Absolute value equations and inequalities in one variable and their graphs.",
+    "description": "6. illustrate on the number line quadratic inequalities in one variable. 7. solve quadratic inequalities in one variable and expresses solutions in various notations. 8. solve problems involving quadratic inequalities in one variable. 9. solve quadratic inequalities in two variables. 10. determi",
+    "competencies": "MATATAG-M10NA-166"
+  },
+  {
+    "id": 167,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "Radical expressions.",
+    "title": "Radical expressions.",
+    "description": "6. illustrate the laws of rational non-integral exponents. 7. simplify radical expressions. 8. perform operations involving radical expressions, including rationalizing the denominator. 9. determine the nature of roots of a quadratic equation using the discriminant. 10. determine the equation of",
+    "competencies": "MATATAG-M10NA-167"
+  },
+  {
+    "id": 168,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "The roots of a quadratic equation.",
+    "title": "The roots of a quadratic equation.",
+    "description": "6. illustrate the laws of rational non-integral exponents. 7. simplify radical expressions. 8. perform operations involving radical expressions, including rationalizing the denominator. 9. determine the nature of roots of a quadratic equation using the discriminant. 10. determine the equation of",
+    "competencies": "MATATAG-M10NA-168"
+  },
+  {
+    "id": 169,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "Quadratic functions.",
+    "title": "Quadratic functions.",
+    "description": "6. illustrate the laws of rational non-integral exponents. 7. simplify radical expressions. 8. perform operations involving radical expressions, including rationalizing the denominator. 9. determine the nature of roots of a quadratic equation using the discriminant. 10. determine the equation of",
+    "competencies": "MATATAG-M10NA-169"
+  },
+  {
+    "id": 170,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "Equations reducible to quadratic...",
+    "title": "Equations reducible to quadratic equations.",
+    "description": "6. illustrate the laws of rational non-integral exponents. 7. simplify radical expressions. 8. perform operations involving radical expressions, including rationalizing the denominator. 9. determine the nature of roots of a quadratic equation using the discriminant. 10. determine the equation of",
+    "competencies": "MATATAG-M10NA-170"
+  },
+  {
+    "id": 171,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "Equation of a circle and the gra...",
+    "title": "Equation of a circle and the graph of a circle.",
+    "description": "1. transform the equation of a circle from center-radius form to general form, and vice versa. 2. determine the center and the radius of a circle from a given equation. 3. sketch the graph of a circle given its equation. 4. find the equation of a circle from given conditions, e.g., given two poin",
+    "competencies": "MATATAG-M10NA-171"
+  },
+  {
+    "id": 172,
+    "form_level": 10,
+    "strand": "Number and Algebra",
+    "unit": "Simple interest, compound intere...",
+    "title": "Simple interest, compound interest, and depreciation.",
+    "description": "1. explore inductively the relationship between simple interest and compound interest. 2. calculate compound interest by repeated applications of simple interest. 3. solve problems involving compound interest by repeated applications of simple interest. 4. explain inductively the formulas for com",
+    "competencies": "MATATAG-M10NA-172"
+  },
+  {
+    "id": 173,
+    "form_level": 10,
+    "strand": "Data and Probability",
+    "unit": "Box-and-whisker plots, and cumul...",
+    "title": "Box-and-whisker plots, and cumulative frequency histograms and polygons.",
+    "description": "1. illustrate measures of position (quartiles, deciles, and percentiles). 2. construct and interpret box-and-whisker plots and cumulative frequency histograms and polygons. 3. calculate a specified measure of position, interquartile range, and outliers, from ungrouped data. 4. calculate the perce",
+    "competencies": "MATATAG-M10DP-173"
+  },
+  {
+    "id": 174,
+    "form_level": 10,
+    "strand": "Data and Probability",
+    "unit": "Quartiles, deciles, and percenti...",
+    "title": "Quartiles, deciles, and percentiles; interquartile range, and outliers.",
+    "description": "1. illustrate measures of position (quartiles, deciles, and percentiles). 2. construct and interpret box-and-whisker plots and cumulative frequency histograms and polygons. 3. calculate a specified measure of position, interquartile range, and outliers, from ungrouped data. 4. calculate the perce",
+    "competencies": "MATATAG-M10DP-174"
+  },
+  {
+    "id": 175,
+    "form_level": 10,
+    "strand": "Data and Probability",
+    "unit": "Evaluation of statistical reports.",
+    "title": "Evaluation of statistical reports.",
+    "description": "6. evaluate statistical reports by linking claims to displays, statistics, and representative data. 7. illustrate mutually exclusive events and non-mutually exclusive events. 8. identify complementary events. 9. solve probability problems involving: a. union and intersection of events, including",
+    "competencies": "MATATAG-M10DP-175"
+  },
+  {
+    "id": 176,
+    "form_level": 10,
+    "strand": "Data and Probability",
+    "unit": "Union and intersection of events...",
+    "title": "Union and intersection of events, dependent and independent events, and complementary events.",
+    "description": "6. evaluate statistical reports by linking claims to displays, statistics, and representative data. 7. illustrate mutually exclusive events and non-mutually exclusive events. 8. identify complementary events. 9. solve probability problems involving: a. union and intersection of events, including",
+    "competencies": "MATATAG-M10DP-176"
+  }
+]

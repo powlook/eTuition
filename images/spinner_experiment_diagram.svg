@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgSpin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="320" rx="16" fill="url(#bgSpin)" stroke="#334155" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="300" y="36" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="700" fill="#f8fafc" text-anchor="middle">4-Sector Probability Spinner Experiment (N = 100 Spins)</text>
+  
+  <!-- Spinner Center at (180, 175), Radius = 100 -->
+  <!-- Sector 1: Red (35%, 126 deg: 0 to 126 deg) -->
+  <path d="M 180 175 L 280 175 A 100 100 0 0 1 121.2 255.9 Z" fill="#ef4444" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector 2: Blue (30%, 108 deg: 126 to 234 deg) -->
+  <path d="M 180 175 L 121.2 255.9 A 100 100 0 0 1 121.2 94.1 Z" fill="#3b82f6" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector 3: Green (20%, 72 deg: 234 to 306 deg) -->
+  <path d="M 180 175 L 121.2 94.1 A 100 100 0 0 1 238.8 94.1 Z" fill="#10b981" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector 4: Yellow (15%, 54 deg: 306 to 360 deg) -->
+  <path d="M 180 175 L 238.8 94.1 A 100 100 0 0 1 280 175 Z" fill="#eab308" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector Labels inside Spinner -->
+  <text x="210" y="215" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Red (35%)</text>
+  <text x="120" y="180" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Blue (30%)</text>
+  <text x="165" y="125" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff">Green (20%)</text>
+  <text x="220" y="145" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#0f172a">Yel (15%)</text>
+  
+  <!-- Center Arrow Pointer -->
+  <polygon points="180,175 225,130 215,145" fill="#ffffff" stroke="#0f172a" stroke-width="1.5"/>
+  <circle cx="180" cy="175" r="10" fill="#ffffff" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Recorded Outcomes Table (Right Side) -->
+  <rect x="330" y="65" width="230" height="220" rx="12" fill="#1e293b" fill-opacity="0.85" stroke="#475569" stroke-width="1.5"/>
+  <text x="445" y="92" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#f8fafc" text-anchor="middle">Recorded Frequencies</text>
+  <line x1="345" y1="102" x2="545" y2="102" stroke="#334155" stroke-width="1"/>
+  
+  <text x="360" y="130" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#cbd5e1">Color Sector</text>
+  <text x="510" y="130" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#cbd5e1" text-anchor="end">Spins (f)</text>
+  <line x1="345" y1="140" x2="545" y2="140" stroke="#334155" stroke-width="1"/>
+  
+  <circle cx="360" cy="160" r="6" fill="#ef4444"/>
+  <text x="375" y="164" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#f1f5f9">Red (126°)</text>
+  <text x="510" y="164" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#ef4444" text-anchor="end">35</text>
+  
+  <circle cx="360" cy="190" r="6" fill="#3b82f6"/>
+  <text x="375" y="194" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#f1f5f9">Blue (108°)</text>
+  <text x="510" y="194" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#3b82f6" text-anchor="end">30</text>
+  
+  <circle cx="360" cy="220" r="6" fill="#10b981"/>
+  <text x="375" y="224" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#f1f5f9">Green (72°)</text>
+  <text x="510" y="224" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#10b981" text-anchor="end">20</text>
+  
+  <circle cx="360" cy="250" r="6" fill="#eab308"/>
+  <text x="375" y="254" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#f1f5f9">Yellow (54°)</text>
+  <text x="510" y="254" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#eab308" text-anchor="end">15</text>
+  
+  <line x1="345" y1="265" x2="545" y2="265" stroke="#475569" stroke-width="1.5"/>
+  <text x="360" y="278" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#fde047">Total Spins</text>
+  <text x="510" y="278" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="end">100</text>
+</svg>

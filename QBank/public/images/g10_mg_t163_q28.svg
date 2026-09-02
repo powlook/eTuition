@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">Central angles; inscribed angles; and angles and lengths formed by intersecting chords, secants, and tangents of a circle. #28</text>
+  
+        <g transform="translate(70, 30)">
+          <circle cx="150" cy="150" r="100" fill="rgba(56, 189, 248, 0.08)" stroke="#38bdf8" stroke-width="3" />
+          <circle cx="150" cy="150" r="4" fill="#e2e8f0" />
+          <text x="135" y="145" font-family="sans-serif" font-size="14" fill="#e2e8f0" font-weight="bold">O</text>
+          <!-- Radius OP to point of tangency T -->
+          <line x1="150" y1="150" x2="150" y2="250" stroke="#f59e0b" stroke-width="2.5" />
+          <circle cx="150" cy="250" r="4" fill="#f59e0b" />
+          <text x="145" y="270" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">T</text>
+          <!-- Tangent Line at T -->
+          <line x1="30" y1="250" x2="310" y2="250" stroke="#ec4899" stroke-width="3" />
+          <!-- Right angle symbol -->
+          <rect x="150" y="235" width="15" height="15" fill="none" stroke="#e2e8f0" stroke-width="1.5" />
+          <!-- External Point P -->
+          <line x1="150" y1="150" x2="310" y2="250" stroke="#10b981" stroke-width="2" stroke-dasharray="4,4" />
+          <circle cx="310" cy="250" r="4" fill="#ec4899" />
+          <text x="315" y="265" font-family="sans-serif" font-size="14" fill="#ec4899" font-weight="bold">P</text>
+          <text x="220" y="240" font-family="sans-serif" font-size="13" fill="#ec4899" font-weight="bold">PT</text>
+          <text x="130" y="200" font-family="sans-serif" font-size="13" fill="#f59e0b" font-weight="bold">r</text>
+        </g>
+      
+</svg>

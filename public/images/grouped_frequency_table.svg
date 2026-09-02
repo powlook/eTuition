@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="tableHeadGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="320" rx="16" fill="url(#bgGrad4)" stroke="#334155" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="300" y="36" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="700" fill="#f8fafc" text-anchor="middle">Grouped Frequency Distribution Table (N = 50)</text>
+  
+  <!-- Table Container -->
+  <rect x="50" y="58" width="500" height="235" rx="12" fill="#1e293b" fill-opacity="0.85" stroke="#475569" stroke-width="1.5"/>
+  
+  <!-- Table Header -->
+  <rect x="50" y="58" width="500" height="42" rx="12" fill="url(#tableHeadGrad)"/>
+  <rect x="50" y="88" width="500" height="12" fill="url(#tableHeadGrad)"/>
+  
+  <text x="140" y="84" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Class Interval</text>
+  <text x="280" y="84" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Tally</text>
+  <text x="390" y="84" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Frequency (f)</text>
+  <text x="490" y="84" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Relative %</text>
+  
+  <!-- Divider Lines -->
+  <line x1="210" y1="58" x2="210" y2="293" stroke="#475569" stroke-width="1"/>
+  <line x1="330" y1="58" x2="330" y2="293" stroke="#475569" stroke-width="1"/>
+  <line x1="440" y1="58" x2="440" y2="293" stroke="#475569" stroke-width="1"/>
+  
+  <!-- Row 1 -->
+  <line x1="50" y1="135" x2="550" y2="135" stroke="#334155" stroke-width="1"/>
+  <text x="140" y="122" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9" text-anchor="middle">50 – 59</text>
+  <text x="280" y="122" font-family="'JetBrains Mono', monospace" font-size="14" fill="#a7f3d0" text-anchor="middle">卌 卌 ||</text>
+  <text x="390" y="122" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9" text-anchor="middle">12</text>
+  <text x="490" y="122" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#cbd5e1" text-anchor="middle">24%</text>
+  
+  <!-- Row 2 (Highlighted) -->
+  <rect x="51" y="136" width="498" height="38" fill="#6366f1" fill-opacity="0.2"/>
+  <line x1="50" y1="175" x2="550" y2="175" stroke="#334155" stroke-width="1"/>
+  <text x="140" y="162" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#38bdf8" text-anchor="middle">60 – 69</text>
+  <text x="280" y="162" font-family="'JetBrains Mono', monospace" font-size="14" fill="#38bdf8" text-anchor="middle">卌 卌 卌 |||</text>
+  <text x="390" y="162" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" font-weight="700" fill="#38bdf8" text-anchor="middle">18</text>
+  <text x="490" y="162" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" font-weight="700" fill="#38bdf8" text-anchor="middle">36% ★</text>
+  
+  <!-- Row 3 -->
+  <line x1="50" y1="215" x2="550" y2="215" stroke="#334155" stroke-width="1"/>
+  <text x="140" y="202" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9" text-anchor="middle">70 – 79</text>
+  <text x="280" y="202" font-family="'JetBrains Mono', monospace" font-size="14" fill="#a7f3d0" text-anchor="middle">卌 卌 卌</text>
+  <text x="390" y="202" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9" text-anchor="middle">15</text>
+  <text x="490" y="202" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#cbd5e1" text-anchor="middle">30%</text>
+  
+  <!-- Row 4 -->
+  <line x1="50" y1="255" x2="550" y2="255" stroke="#334155" stroke-width="1.5"/>
+  <text x="140" y="242" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9" text-anchor="middle">80 – 89</text>
+  <text x="280" y="242" font-family="'JetBrains Mono', monospace" font-size="14" fill="#a7f3d0" text-anchor="middle">卌</text>
+  <text x="390" y="242" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9" text-anchor="middle">5</text>
+  <text x="490" y="242" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="600" fill="#cbd5e1" text-anchor="middle">10%</text>
+  
+  <!-- Total Row -->
+  <text x="140" y="278" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">TOTAL</text>
+  <text x="280" y="278" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600" fill="#94a3b8" text-anchor="middle">Sum of Tallies</text>
+  <text x="390" y="278" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" font-weight="700" fill="#fde047" text-anchor="middle">Σf = 50</text>
+  <text x="490" y="278" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" font-weight="700" fill="#fde047" text-anchor="middle">100%</text>
+</svg>

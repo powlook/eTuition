@@ -1,0 +1,16 @@
+.env
+CLAUDE.md
+skills-lock.json
+.agents
+node_modules
+dist
+QBank/node_modules
+QBank/dist
+.vercel
+*.xlsx
+*.pdf
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.log

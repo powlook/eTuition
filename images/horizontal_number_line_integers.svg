@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220">
+  <rect width="100%" height="100%" fill="#0f172a" rx="14" />
+  
+  <!-- Header Bar -->
+  <rect x="16" y="12" width="528" height="32" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="280" y="33" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">
+    Horizontal Integer Number Line &amp; Ordering (← Decreasing | Increasing →)
+  </text>
+
+  <!-- Number Line Main Axis -->
+  <line x1="40" y1="120" x2="520" y2="120" stroke="#94a3b8" stroke-width="3" />
+  
+  <!-- Left Arrowhead -->
+  <polygon points="40,120 52,113 52,127" fill="#94a3b8" />
+  <!-- Right Arrowhead -->
+  <polygon points="520,120 508,113 508,127" fill="#94a3b8" />
+
+  <!-- Ticks and Labels: -10 to +10 -->
+  <!-- -10 -->
+  <line x1="70" y1="110" x2="70" y2="130" stroke="#f43f5e" stroke-width="2.5" />
+  <text x="70" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f43f5e">-10</text>
+
+  <!-- -8 -->
+  <line x1="114" y1="110" x2="114" y2="130" stroke="#f43f5e" stroke-width="2.5" />
+  <circle cx="114" cy="120" r="5" fill="#f43f5e" />
+  <text x="114" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f43f5e">-8</text>
+
+  <!-- -5 -->
+  <line x1="180" y1="110" x2="180" y2="130" stroke="#f43f5e" stroke-width="2.5" />
+  <text x="180" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f43f5e">-5</text>
+
+  <!-- -1 -->
+  <line x1="236" y1="110" x2="236" y2="130" stroke="#f43f5e" stroke-width="2.5" />
+  <circle cx="236" cy="120" r="5" fill="#f43f5e" />
+  <text x="236" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f43f5e">-1</text>
+
+  <!-- 0 (Origin Center) -->
+  <line x1="280" y1="104" x2="280" y2="136" stroke="#f59e0b" stroke-width="3" />
+  <circle cx="280" cy="120" r="6" fill="#f59e0b" />
+  <text x="280" y="155" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#fbbf24">0</text>
+
+  <!-- +3 -->
+  <line x1="346" y1="110" x2="346" y2="130" stroke="#4ade80" stroke-width="2.5" />
+  <circle cx="346" cy="120" r="5" fill="#4ade80" />
+  <text x="346" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4ade80">+3</text>
+
+  <!-- +6 -->
+  <line x1="412" y1="110" x2="412" y2="130" stroke="#4ade80" stroke-width="2.5" />
+  <circle cx="412" cy="120" r="5" fill="#4ade80" />
+  <text x="412" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4ade80">+6</text>
+
+  <!-- +10 -->
+  <line x1="490" y1="110" x2="490" y2="130" stroke="#4ade80" stroke-width="2.5" />
+  <text x="490" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4ade80">+10</text>
+
+  <!-- Guide Annotation Labels -->
+  <text x="140" y="82" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fda4af">← Smaller Values (Negative)</text>
+  <text x="420" y="82" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#86efac">Larger Values (Positive) →</text>
+  <path d="M 180 90 L 100 90" fill="none" stroke="#f43f5e" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 380 90 L 460 90" fill="none" stroke="#4ade80" stroke-width="1.5" />
+
+  <!-- Legend -->
+  <text x="280" y="195" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#94a3b8">
+    Rule: Integers further to the left are LESS than integers to the right (e.g. -8 &lt; -1 &lt; 3 &lt; 6)
+  </text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" width="360" height="320">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <!-- Title Badge -->
+  <rect x="16" y="16" width="328" height="32" rx="6" fill="rgba(245, 158, 11, 0.12)" stroke="rgba(245, 158, 11, 0.3)" />
+  <text x="180" y="37" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">
+    Irregular Hexagon (6 Unequal Sides)
+  </text>
+  
+  <!-- Polygon Outline -->
+  <polygon points="140,60 280,75 330,180 250,280 100,260 45,160" fill="rgba(245, 158, 11, 0.08)" stroke="#f59e0b" stroke-width="3" stroke-linejoin="round" />
+  
+  <!-- Vertices and Labels -->
+  <circle cx="140" cy="60" r="4" fill="#f59e0b" />
+    <circle cx="280" cy="75" r="4" fill="#f59e0b" />
+    <circle cx="330" cy="180" r="4" fill="#f59e0b" />
+    <circle cx="250" cy="280" r="4" fill="#f59e0b" />
+    <circle cx="100" cy="260" r="4" fill="#f59e0b" />
+    <circle cx="45" cy="160" r="4" fill="#f59e0b" />
+  <text x="124" y="44" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">A</text>
+    <text x="296" y="59" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">B</text>
+    <text x="346" y="196" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">C</text>
+    <text x="266" y="296" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">D</text>
+    <text x="84" y="276" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">E</text>
+    <text x="29" y="144" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">F</text>
+</svg>

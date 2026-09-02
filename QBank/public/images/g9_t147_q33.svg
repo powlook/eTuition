@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+
+  <!-- Header Title -->
+  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Different quadrilaterals and their properties. #33
+  </text>
+
+  <!-- Body Content -->
+  
+        <g transform="translate(140, 70)">
+          <polygon points="100,20 190,110 100,200 10,110" fill="rgba(236, 72, 153, 0.15)" stroke="#ec4899" stroke-width="3" />
+          <line x1="100" y1="20" x2="100" y2="200" stroke="#f59e0b" stroke-width="2" />
+          <line x1="10" y1="110" x2="190" y2="110" stroke="#f59e0b" stroke-width="2" />
+          <rect x="90" y="100" width="10" height="10" fill="none" stroke="#10b981" stroke-width="1.5" />
+          <text x="100" y="225" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#ec4899" font-weight="bold">Rhombus (Perpendicular Diagonals ⊥)</text>
+        </g>
+      
+</svg>

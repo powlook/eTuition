@@ -1,0 +1,1666 @@
+{
+  "T05": {
+    "topic_code": "T05",
+    "topic_name": "Quadratic inequalities in one variable and in two variables",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Illustrate on number lines; solve quadratic inequalities in one variable across notations; solve quadratic inequalities in two variables; determine solution regions of systems.",
+    "questions": [
+      {
+        "item_id": "T05-Q001",
+        "suggested_question": "Define a quadratic inequality in one variable and write its standard forms using >, <, ≥, and ≤."
+      },
+      {
+        "item_id": "T05-Q002",
+        "suggested_question": "State the step-by-step procedure for solving a quadratic inequality in one variable using test intervals / sign chart method."
+      },
+      {
+        "item_id": "T05-Q003",
+        "suggested_question": "Solve the quadratic inequality and graph the solution on a number line: x² - 5x - 6 > 0."
+      },
+      {
+        "item_id": "T05-Q004",
+        "suggested_question": "Solve the quadratic inequality: x² - 7x + 12 ≤ 0. Express the solution in interval notation and set-builder notation."
+      },
+      {
+        "item_id": "T05-Q005",
+        "suggested_question": "Solve the quadratic inequality: 2x² + 5x - 3 ≥ 0."
+      },
+      {
+        "item_id": "T05-Q006",
+        "suggested_question": "Solve the quadratic inequality: 3x² - 10x + 8 < 0."
+      },
+      {
+        "item_id": "T05-Q007",
+        "suggested_question": "Solve the quadratic inequality: x² - 16 ≥ 0."
+      },
+      {
+        "item_id": "T05-Q008",
+        "suggested_question": "Solve the quadratic inequality: 4 - x² > 0."
+      },
+      {
+        "item_id": "T05-Q009",
+        "suggested_question": "Solve the quadratic inequality: x² + 4x + 4 > 0 and describe the exceptional solution set."
+      },
+      {
+        "item_id": "T05-Q010",
+        "suggested_question": "Solve the quadratic inequality: x² - 6x + 9 ≤ 0."
+      },
+      {
+        "item_id": "T05-Q011",
+        "suggested_question": "Solve the quadratic inequality: x² + 2x + 5 > 0 by analyzing the discriminant and leading coefficient."
+      },
+      {
+        "item_id": "T05-Q012",
+        "suggested_question": "Solve the quadratic inequality: -2x² + 3x - 5 ≥ 0."
+      },
+      {
+        "item_id": "T05-Q013",
+        "suggested_question": "Solve the quadratic inequality: (x - 3)(x + 4)(x - 1)² ≤ 0 using critical values on the number line."
+      },
+      {
+        "item_id": "T05-Q014",
+        "suggested_question": "Solve the rational inequality related to quadratic factors: (x - 2) / (x² - 9) ≥ 0."
+      },
+      {
+        "item_id": "T05-Q015",
+        "suggested_question": "Solve the inequality: (x² - 4x + 3) / (x + 2) < 0."
+      },
+      {
+        "item_id": "T05-Q016",
+        "suggested_question": "A rectangular banner has a length 3 meters longer than its width. If the area must be at least 40 m², find the range of possible widths."
+      },
+      {
+        "item_id": "T05-Q017",
+        "suggested_question": "The height h (in meters) of a projectile is given by h(t) = -5t² + 30t. For what time interval is the projectile at least 25 meters above the ground?"
+      },
+      {
+        "item_id": "T05-Q018",
+        "suggested_question": "A manufacturing firm finds that its profit P(x) from producing x thousand items is P(x) = -x² + 14x - 40 (in thousands of pesos). For what production levels is the company profitable (P(x) > 0)?"
+      },
+      {
+        "item_id": "T05-Q019",
+        "suggested_question": "Find the domain of the function f(x) = √(x² - 8x + 12)."
+      },
+      {
+        "item_id": "T05-Q020",
+        "suggested_question": "Find the domain of the function g(x) = 1 / √(25 - x²)."
+      },
+      {
+        "item_id": "T05-Q021",
+        "suggested_question": "Define a quadratic inequality in two variables and list its standard forms (e.g., y > ax² + bx + c)."
+      },
+      {
+        "item_id": "T05-Q022",
+        "suggested_question": "Explain how to determine whether the boundary parabola of a quadratic inequality in two variables is solid or dashed."
+      },
+      {
+        "item_id": "T05-Q023",
+        "suggested_question": "Explain how to use a test point (such as the origin (0, 0)) to determine which region to shade for y ≤ x² - 4x + 3."
+      },
+      {
+        "item_id": "T05-Q024",
+        "suggested_question": "Graph the quadratic inequality in two variables: y > x² - 2x - 3."
+      },
+      {
+        "item_id": "T05-Q025",
+        "suggested_question": "Graph the quadratic inequality in two variables: y ≤ -x² + 4."
+      },
+      {
+        "item_id": "T05-Q026",
+        "suggested_question": "Graph the quadratic inequality in two variables: y ≥ 2x² + 4x - 6."
+      },
+      {
+        "item_id": "T05-Q027",
+        "suggested_question": "Determine whether the ordered pairs (0, 0), (2, -1), (-3, 5), and (1, 4) satisfy the inequality y < x² - 3x + 2."
+      },
+      {
+        "item_id": "T05-Q028",
+        "suggested_question": "Graph the system of inequalities consisting of a linear and a quadratic inequality: { y ≥ x² - 4 ; y ≤ x + 2 }."
+      },
+      {
+        "item_id": "T05-Q029",
+        "suggested_question": "Find the region of solutions for the system: { y < -x² + 6 ; y > 2x - 2 } and determine two integer coordinates in the solution set."
+      },
+      {
+        "item_id": "T05-Q030",
+        "suggested_question": "Graph the system of quadratic inequalities: { y ≥ x² - 1 ; y ≤ 5 - x² }."
+      },
+      {
+        "item_id": "T05-Q031",
+        "suggested_question": "Find the intersection points of the boundary curves in Question 30 by solving x² - 1 = 5 - x²."
+      },
+      {
+        "item_id": "T05-Q032",
+        "suggested_question": "Graph the system of inequalities: { y ≥ (x - 2)² - 1 ; x + y < 5 ; y ≥ 0 }."
+      },
+      {
+        "item_id": "T05-Q033",
+        "suggested_question": "A sports ball's trajectory is bounded above by y ≤ -0.05x² + 2x + 1 and must clear a 10-meter fence. Set up and solve the inequality to find where the ball is above 10 meters."
+      },
+      {
+        "item_id": "T05-Q034",
+        "suggested_question": "For what values of k does the quadratic equation x² - kx + (k + 3) = 0 have no real roots? (Solve discriminant inequality D < 0)."
+      },
+      {
+        "item_id": "T05-Q035",
+        "suggested_question": "Find all values of m for which the quadratic equation mx² + 4x + (m - 3) = 0 has two distinct real roots."
+      },
+      {
+        "item_id": "T05-Q036",
+        "suggested_question": "Find the values of c such that the quadratic function f(x) = x² - 6x + c is strictly positive for all real x."
+      },
+      {
+        "item_id": "T05-Q037",
+        "suggested_question": "Solve the double quadratic inequality: 3 ≤ x² - 2x ≤ 8."
+      },
+      {
+        "item_id": "T05-Q038",
+        "suggested_question": "Solve the inequality: x(x - 2) ≥ 8."
+      },
+      {
+        "item_id": "T05-Q039",
+        "suggested_question": "Solve the inequality: (2x - 1)² < (x + 4)²."
+      },
+      {
+        "item_id": "T05-Q040",
+        "suggested_question": "A farmer wants to fence a rectangular garden with at most 60 meters of fence. If the area must be at least 200 m², find the permissible range of the garden length."
+      },
+      {
+        "item_id": "T05-Q041",
+        "suggested_question": "Explain why multiplying or dividing both sides of an inequality by a negative variable quantity requires splitting into cases."
+      },
+      {
+        "item_id": "T05-Q042",
+        "suggested_question": "Solve the inequality: x + (12 / x) ≤ 7."
+      },
+      {
+        "item_id": "T05-Q043",
+        "suggested_question": "Solve the inequality: (x² + 1) / (x² - 4) > 0."
+      },
+      {
+        "item_id": "T05-Q044",
+        "suggested_question": "Determine the solution set of: |x² - 5x| < 6."
+      },
+      {
+        "item_id": "T05-Q045",
+        "suggested_question": "Determine the solution set of: |x² - 4| ≥ 5."
+      },
+      {
+        "item_id": "T05-Q046",
+        "suggested_question": "Graph the solution set of y > x² on the Cartesian plane and describe the region in words."
+      },
+      {
+        "item_id": "T05-Q047",
+        "suggested_question": "Graph the solution set of y ≤ 9 - x² and x ≥ 0."
+      },
+      {
+        "item_id": "T05-Q048",
+        "suggested_question": "A rectangular swimming pool is to be built with a perimeter of 50 m. If the surface area must exceed 150 m², determine the allowable range of width."
+      },
+      {
+        "item_id": "T05-Q049",
+        "suggested_question": "Solve the system of quadratic inequalities: { x² + y² ≤ 25 ; y ≥ x² - 5 }."
+      },
+      {
+        "item_id": "T05-Q050",
+        "suggested_question": "A rocket altitude model requires h(t) = -4.9t² + 49t + 10 ≥ 100 meters. Solve for the time interval during which the rocket stays at or above 100 meters."
+      }
+    ]
+  },
+  "T06": {
+    "topic_code": "T06",
+    "topic_name": "Absolute value equations and inequalities in one variable and their graphs",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Solve absolute value equations in one variable; solve absolute value inequalities in one variable; express solutions across notations; graph absolute value functions and inequality solution sets.",
+    "questions": [
+      {
+        "item_id": "T06-Q001",
+        "suggested_question": "Define the absolute value of a real number |x| algebraically and geometrically as a distance on the number line."
+      },
+      {
+        "item_id": "T06-Q002",
+        "suggested_question": "State the fundamental property: |x| = a (where a > 0) is equivalent to x = a or x = -a."
+      },
+      {
+        "item_id": "T06-Q003",
+        "suggested_question": "Solve the absolute value equation: |2x - 5| = 9."
+      },
+      {
+        "item_id": "T06-Q004",
+        "suggested_question": "Solve the absolute value equation: |3x + 7| = 22."
+      },
+      {
+        "item_id": "T06-Q005",
+        "suggested_question": "Solve the equation: 4|x - 3| + 5 = 29."
+      },
+      {
+        "item_id": "T06-Q006",
+        "suggested_question": "Solve the equation: -2|5x - 1| + 8 = -14."
+      },
+      {
+        "item_id": "T06-Q007",
+        "suggested_question": "Explain why the absolute value equation |3x - 8| = -5 has no solution."
+      },
+      {
+        "item_id": "T06-Q008",
+        "suggested_question": "Solve the equation with absolute value on both sides: |2x + 3| = |x - 5|."
+      },
+      {
+        "item_id": "T06-Q009",
+        "suggested_question": "Solve the equation: |4x - 7| = |4x + 3|."
+      },
+      {
+        "item_id": "T06-Q010",
+        "suggested_question": "Solve the equation: |x² - 7| = 9."
+      },
+      {
+        "item_id": "T06-Q011",
+        "suggested_question": "Solve the equation: |x² - 3x| = 4."
+      },
+      {
+        "item_id": "T06-Q012",
+        "suggested_question": "Solve the equation with extraneous solutions: |2x - 1| = 3x + 4 and check both proposed roots."
+      },
+      {
+        "item_id": "T06-Q013",
+        "suggested_question": "Solve the equation: |x + 6| = 2x - 3 and verify valid solutions."
+      },
+      {
+        "item_id": "T06-Q014",
+        "suggested_question": "State the property for 'less than' absolute value inequalities: |x| < a ⇔ -a < x < a (where a > 0)."
+      },
+      {
+        "item_id": "T06-Q015",
+        "suggested_question": "State the property for 'greater than' absolute value inequalities: |x| > a ⇔ x < -a or x > a (where a > 0)."
+      },
+      {
+        "item_id": "T06-Q016",
+        "suggested_question": "Solve and graph on a number line: |x - 4| < 7."
+      },
+      {
+        "item_id": "T06-Q017",
+        "suggested_question": "Solve and express in interval notation: |2x + 5| ≤ 13."
+      },
+      {
+        "item_id": "T06-Q018",
+        "suggested_question": "Solve the inequality: |3x - 2| > 10 and graph the union of rays on a number line."
+      },
+      {
+        "item_id": "T06-Q019",
+        "suggested_question": "Solve the inequality: |4x + 1| ≥ 17."
+      },
+      {
+        "item_id": "T06-Q020",
+        "suggested_question": "Solve the inequality: 3|x - 2| + 4 < 19."
+      },
+      {
+        "item_id": "T06-Q021",
+        "suggested_question": "Solve the inequality: -2|3x + 1| - 5 ≥ -17."
+      },
+      {
+        "item_id": "T06-Q022",
+        "suggested_question": "Explain the solution set of |2x - 7| > -3 without algebraic manipulation."
+      },
+      {
+        "item_id": "T06-Q023",
+        "suggested_question": "Explain the solution set of |5x + 4| ≤ -2."
+      },
+      {
+        "item_id": "T06-Q024",
+        "suggested_question": "Solve the absolute value inequality: |(2x - 3) / 5| ≤ 3."
+      },
+      {
+        "item_id": "T06-Q025",
+        "suggested_question": "Solve the inequality: |(3x + 2) / 4| > 2."
+      },
+      {
+        "item_id": "T06-Q026",
+        "suggested_question": "A machine manufactures steel rods with an ideal length of 120 cm. A rod is acceptable if its length differs from ideal by at most 0.05 cm. Write and solve an absolute value inequality for acceptable length L."
+      },
+      {
+        "item_id": "T06-Q027",
+        "suggested_question": "The temperature in a climate-controlled greenhouse is maintained at 24°C with a tolerance of ±2.5°C. Write an absolute value inequality and find the allowable temperature range."
+      },
+      {
+        "item_id": "T06-Q028",
+        "suggested_question": "A cereal box is advertised as containing 500 grams. Quality control rejects any box where |w - 500| > 8 grams. What box weights are rejected?"
+      },
+      {
+        "item_id": "T06-Q029",
+        "suggested_question": "Solve the absolute value inequality involving quadratic expressions: |x² - 4| < 5."
+      },
+      {
+        "item_id": "T06-Q030",
+        "suggested_question": "Solve the inequality: |x² - 2x - 3| ≥ 5."
+      },
+      {
+        "item_id": "T06-Q031",
+        "suggested_question": "Write the interval [-3, 11] as a single absolute value inequality of the form |x - c| ≤ r."
+      },
+      {
+        "item_id": "T06-Q032",
+        "suggested_question": "Write the union of intervals (-∞, -8) ∪ (4, ∞) as an absolute value inequality of the form |x - c| > r."
+      },
+      {
+        "item_id": "T06-Q033",
+        "suggested_question": "Find the center c and radius r of the tolerance interval represented by |x - 7.5| ≤ 1.2."
+      },
+      {
+        "item_id": "T06-Q034",
+        "suggested_question": "Solve the double absolute value inequality: 2 < |x - 3| ≤ 6 and graph the solution set."
+      },
+      {
+        "item_id": "T06-Q035",
+        "suggested_question": "Solve the equation: |x - 2| + |x - 5| = 7 by dividing the real line into three intervals: x < 2, 2 ≤ x ≤ 5, and x > 5."
+      },
+      {
+        "item_id": "T06-Q036",
+        "suggested_question": "Solve the equation: |x + 3| + |x - 1| = 4."
+      },
+      {
+        "item_id": "T06-Q037",
+        "suggested_question": "Solve the equation: |2x - 4| - |x + 1| = 3."
+      },
+      {
+        "item_id": "T06-Q038",
+        "suggested_question": "Graph the function f(x) = |x - 3| - 2 on the Cartesian plane and identify its vertex, axis of symmetry, domain, and range."
+      },
+      {
+        "item_id": "T06-Q039",
+        "suggested_question": "Graph the function g(x) = -2|x + 1| + 4 and determine its x-intercepts and y-intercept."
+      },
+      {
+        "item_id": "T06-Q040",
+        "suggested_question": "Solve the inequality: |x - 3| < 2x - 1 algebraically and graphically."
+      },
+      {
+        "item_id": "T06-Q041",
+        "suggested_question": "Find all real solutions to x² - 5|x| + 6 = 0."
+      },
+      {
+        "item_id": "T06-Q042",
+        "suggested_question": "Solve the equation: x² + 2|x| - 8 = 0."
+      },
+      {
+        "item_id": "T06-Q043",
+        "suggested_question": "Solve the inequality: |x / (x - 2)| ≥ 3."
+      },
+      {
+        "item_id": "T06-Q044",
+        "suggested_question": "Solve the inequality: |(x + 1) / (x - 1)| < 1."
+      },
+      {
+        "item_id": "T06-Q045",
+        "suggested_question": "State the Triangle Inequality for real numbers: |a + b| ≤ |a| + |b| and verify it for a = 4, b = -7."
+      },
+      {
+        "item_id": "T06-Q046",
+        "suggested_question": "Determine when equality holds in the Triangle Inequality: |a + b| = |a| + |b|."
+      },
+      {
+        "item_id": "T06-Q047",
+        "suggested_question": "Solve the equation: |3x - 6| = 0."
+      },
+      {
+        "item_id": "T06-Q048",
+        "suggested_question": "Solve the inequality: |4x - 12| ≤ 0."
+      },
+      {
+        "item_id": "T06-Q049",
+        "suggested_question": "An aircraft altimeter has an accuracy error modeled by |h_measured - h_actual| ≤ 15 meters. If the measured altitude is 3,200 m, find the range of actual altitude."
+      },
+      {
+        "item_id": "T06-Q050",
+        "suggested_question": "Solve the system of absolute value inequalities: { |x - 2| ≤ 4 ; |x + 1| > 2 }."
+      }
+    ]
+  },
+  "T07": {
+    "topic_code": "T07",
+    "topic_name": "Radical expressions",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Illustrate laws of rational exponents; simplify radical expressions; perform operations and rationalize denominators; solve radical equations and applied formulas.",
+    "questions": [
+      {
+        "item_id": "T07-Q001",
+        "suggested_question": "State the definition of a rational exponent: x^(m/n) = ⁿ√(xᵐ) = (ⁿ√x)ᵐ where n is a positive integer."
+      },
+      {
+        "item_id": "T07-Q002",
+        "suggested_question": "Convert the following expressions with rational exponents into radical form: a) x^(3/4), b) (5a)^(2/3), c) 8^(2/3)."
+      },
+      {
+        "item_id": "T07-Q003",
+        "suggested_question": "Convert the following radical expressions into exponential form: a) ∛(x⁵), b) ⁵√(32a³b⁴), c) √(7xy³)."
+      },
+      {
+        "item_id": "T07-Q004",
+        "suggested_question": "Evaluate without a calculator: a) 64^(1/2), b) 27^(2/3), c) 16^(-3/4), d) (8/27)^(-2/3)."
+      },
+      {
+        "item_id": "T07-Q005",
+        "suggested_question": "State the Product Rule for radicals: ⁿ√(ab) = ⁿ√a · ⁿ√b and the Quotient Rule: ⁿ√(a/b) = ⁿ√a / ⁿ√b."
+      },
+      {
+        "item_id": "T07-Q006",
+        "suggested_question": "Simplify the radical expression completely: √(72x⁵y⁶)."
+      },
+      {
+        "item_id": "T07-Q007",
+        "suggested_question": "Simplify the radical expression: ∛(54a⁷b¹¹)."
+      },
+      {
+        "item_id": "T07-Q008",
+        "suggested_question": "Simplify the radical expression: ⁴√(162x⁹y¹⁴)."
+      },
+      {
+        "item_id": "T07-Q009",
+        "suggested_question": "Simplify the radical expression: ⁵√(96m¹²n²³)."
+      },
+      {
+        "item_id": "T07-Q010",
+        "suggested_question": "Perform the addition/subtraction of like radicals: 3√50 - 2√18 + 5√32."
+      },
+      {
+        "item_id": "T07-Q011",
+        "suggested_question": "Simplify: 4∛54 + 2∛16 - 5∛128."
+      },
+      {
+        "item_id": "T07-Q012",
+        "suggested_question": "Simplify: 2x√(27xy²) - 5y√(12x³y) + 3√(75x³y³)."
+      },
+      {
+        "item_id": "T07-Q013",
+        "suggested_question": "Multiply and simplify: (2√3)(5√6)."
+      },
+      {
+        "item_id": "T07-Q014",
+        "suggested_question": "Multiply and simplify: 3√2(4√6 - 2√10)."
+      },
+      {
+        "item_id": "T07-Q015",
+        "suggested_question": "Expand and simplify the product of two binomial radical expressions: (3√2 - 2√5)(4√2 + 3√5)."
+      },
+      {
+        "item_id": "T07-Q016",
+        "suggested_question": "Expand and simplify: (2√3 + 5√2)²."
+      },
+      {
+        "item_id": "T07-Q017",
+        "suggested_question": "Expand and simplify: (4√7 - 3√2)(4√7 + 3√2)."
+      },
+      {
+        "item_id": "T07-Q018",
+        "suggested_question": "Define what it means to rationalize the denominator of a radical fraction."
+      },
+      {
+        "item_id": "T07-Q019",
+        "suggested_question": "Rationalize the denominator: 6 / √3."
+      },
+      {
+        "item_id": "T07-Q020",
+        "suggested_question": "Rationalize the denominator: 10 / √(5x)."
+      },
+      {
+        "item_id": "T07-Q021",
+        "suggested_question": "Rationalize the denominator of the cube root: 4 / ∛2."
+      },
+      {
+        "item_id": "T07-Q022",
+        "suggested_question": "Rationalize the denominator: 6 / ∛(9x²)."
+      },
+      {
+        "item_id": "T07-Q023",
+        "suggested_question": "Define the conjugate of a binomial radical expression and rationalize the denominator of: 4 / (3 - √5)."
+      },
+      {
+        "item_id": "T07-Q024",
+        "suggested_question": "Rationalize the denominator: (2 + √3) / (4 - √3)."
+      },
+      {
+        "item_id": "T07-Q025",
+        "suggested_question": "Rationalize the denominator: (√6 - √2) / (√6 + √2)."
+      },
+      {
+        "item_id": "T07-Q026",
+        "suggested_question": "Rationalize the denominator: 12 / (2√5 - 3√2)."
+      },
+      {
+        "item_id": "T07-Q027",
+        "suggested_question": "Simplify the complex radical fraction: [ (1 / √2) + (1 / √3) ] / [ (1 / √2) - (1 / √3) ]."
+      },
+      {
+        "item_id": "T07-Q028",
+        "suggested_question": "Solve the radical equation: √(2x + 7) = 5."
+      },
+      {
+        "item_id": "T07-Q029",
+        "suggested_question": "Solve the radical equation: ∛(3x - 4) = 2."
+      },
+      {
+        "item_id": "T07-Q030",
+        "suggested_question": "Solve the radical equation: √(4x + 9) - x = 3 and identify any extraneous roots."
+      },
+      {
+        "item_id": "T07-Q031",
+        "suggested_question": "Solve the radical equation: √(2x + 3) = x."
+      },
+      {
+        "item_id": "T07-Q032",
+        "suggested_question": "Solve the radical equation: √(x + 5) + √(x - 3) = 4."
+      },
+      {
+        "item_id": "T07-Q033",
+        "suggested_question": "Solve the radical equation: √(2x + 5) - √(x - 1) = 2."
+      },
+      {
+        "item_id": "T07-Q034",
+        "suggested_question": "Solve the radical equation: √(3x + 1) = 1 + √(x + 4)."
+      },
+      {
+        "item_id": "T07-Q035",
+        "suggested_question": "Explain why extraneous roots can arise when both sides of an equation are raised to an even power."
+      },
+      {
+        "item_id": "T07-Q036",
+        "suggested_question": "Solve the radical equation: ⁴√(x² + 7) = 2."
+      },
+      {
+        "item_id": "T07-Q037",
+        "suggested_question": "The period T (in seconds) of a simple pendulum of length L (in meters) is given by T = 2π√(L / 9.8). Find the pendulum length L for a period of 2 seconds."
+      },
+      {
+        "item_id": "T07-Q038",
+        "suggested_question": "The speed of a tsunami v (in m/s) is related to ocean depth d (in meters) by v = √(9.8d). Find the ocean depth if a tsunami travels at 200 m/s."
+      },
+      {
+        "item_id": "T07-Q039",
+        "suggested_question": "The distance d (in miles) to the horizon from an altitude h (in feet) is approximated by d = √(1.5h). How high must an observer be to see 30 miles away?"
+      },
+      {
+        "item_id": "T07-Q040",
+        "suggested_question": "Simplify the nested radical: √(7 + 2√10) by finding two numbers that add to 7 and multiply to 10."
+      },
+      {
+        "item_id": "T07-Q041",
+        "suggested_question": "Simplify the nested radical: √(14 - 6√5)."
+      },
+      {
+        "item_id": "T07-Q042",
+        "suggested_question": "Simplify the radical expression with fractional exponents: (x^(1/2) · y^(-2/3)) / (x^(-1/4) · y^(1/3))."
+      },
+      {
+        "item_id": "T07-Q043",
+        "suggested_question": "Solve the equation with rational exponents: (2x - 3)^(2/3) = 9."
+      },
+      {
+        "item_id": "T07-Q044",
+        "suggested_question": "Solve the equation: (x + 2)^(3/4) = 8."
+      },
+      {
+        "item_id": "T07-Q045",
+        "suggested_question": "Simplify: √(24) / √(6) + √(54) / √(6)."
+      },
+      {
+        "item_id": "T07-Q046",
+        "suggested_question": "If x = 2 + √3, evaluate the value of x + (1/x) and x² + (1/x²)."
+      },
+      {
+        "item_id": "T07-Q047",
+        "suggested_question": "Prove that (√a + √b)² = a + b + 2√(ab) for non-negative real numbers a and b."
+      },
+      {
+        "item_id": "T07-Q048",
+        "suggested_question": "Solve the radical inequality: √(3x - 6) ≤ 3."
+      },
+      {
+        "item_id": "T07-Q049",
+        "suggested_question": "Solve the radical inequality: √(2x + 8) > x."
+      },
+      {
+        "item_id": "T07-Q050",
+        "suggested_question": "Express the following in simplest radical form: ∛(x · √(x))."
+      }
+    ]
+  },
+  "T08": {
+    "topic_code": "T08",
+    "topic_name": "The roots of a quadratic equation",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Determine the nature of roots using the discriminant; apply Vieta's formulas relating roots and coefficients; construct quadratic equations given roots or conditions; solve problems.",
+    "questions": [
+      {
+        "item_id": "T08-Q001",
+        "suggested_question": "State the general quadratic equation ax² + bx + c = 0 and define the discriminant D = b² - 4ac."
+      },
+      {
+        "item_id": "T08-Q002",
+        "suggested_question": "State the four cases for the nature of the roots based on the value of the discriminant D: a) D > 0 (perfect square), b) D > 0 (not perfect square), c) D = 0, d) D < 0."
+      },
+      {
+        "item_id": "T08-Q003",
+        "suggested_question": "Determine the discriminant and describe the nature of the roots of: x² - 6x + 9 = 0."
+      },
+      {
+        "item_id": "T08-Q004",
+        "suggested_question": "Determine the discriminant and describe the nature of the roots of: 2x² - 5x - 3 = 0."
+      },
+      {
+        "item_id": "T08-Q005",
+        "suggested_question": "Determine the discriminant and describe the nature of the roots of: 3x² + 4x + 2 = 0."
+      },
+      {
+        "item_id": "T08-Q006",
+        "suggested_question": "Determine the discriminant and describe the nature of the roots of: 4x² - 12x + 7 = 0."
+      },
+      {
+        "item_id": "T08-Q007",
+        "suggested_question": "Find the value(s) of k such that the equation x² + kx + 25 = 0 has exactly one real (repeated) root."
+      },
+      {
+        "item_id": "T08-Q008",
+        "suggested_question": "Find the value(s) of p such that 3x² - 6x + p = 0 has equal roots."
+      },
+      {
+        "item_id": "T08-Q009",
+        "suggested_question": "Find the range of values of k for which 2x² - 4x + k = 0 has two distinct real roots."
+      },
+      {
+        "item_id": "T08-Q010",
+        "suggested_question": "Find the range of values of m for which x² + 6x + m = 0 has non-real (complex) roots."
+      },
+      {
+        "item_id": "T08-Q011",
+        "suggested_question": "State Vieta's formulas for a quadratic equation: Sum of roots r₁ + r₂ = -b/a and Product of roots r₁ · r₂ = c/a."
+      },
+      {
+        "item_id": "T08-Q012",
+        "suggested_question": "Without solving, find the sum and product of the roots of: 3x² - 15x + 7 = 0."
+      },
+      {
+        "item_id": "T08-Q013",
+        "suggested_question": "Without solving, find the sum and product of the roots of: 5x² + 8x - 11 = 0."
+      },
+      {
+        "item_id": "T08-Q014",
+        "suggested_question": "Form a quadratic equation in standard form with integer coefficients whose roots are 5 and -8."
+      },
+      {
+        "item_id": "T08-Q015",
+        "suggested_question": "Form a quadratic equation whose roots are 3/4 and -2/3."
+      },
+      {
+        "item_id": "T08-Q016",
+        "suggested_question": "Form a quadratic equation whose roots are 4 + √7 and 4 - √7."
+      },
+      {
+        "item_id": "T08-Q017",
+        "suggested_question": "Form a quadratic equation whose roots are 2 + 3i and 2 - 3i."
+      },
+      {
+        "item_id": "T08-Q018",
+        "suggested_question": "If the roots of 2x² - 7x + 3 = 0 are r₁ and r₂, calculate the value of: a) r₁² + r₂², b) (1/r₁) + (1/r₂)."
+      },
+      {
+        "item_id": "T08-Q019",
+        "suggested_question": "If the roots of x² - 6x + 4 = 0 are α and β, evaluate: a) α³ + β³, b) (α/β) + (β/α)."
+      },
+      {
+        "item_id": "T08-Q020",
+        "suggested_question": "If one root of the quadratic equation x² - kx + 18 = 0 is twice the other root, find the value of k and both roots."
+      },
+      {
+        "item_id": "T08-Q021",
+        "suggested_question": "If one root of 3x² + kx - 24 = 0 is -4, find the value of k and the other root."
+      },
+      {
+        "item_id": "T08-Q022",
+        "suggested_question": "If the difference between the two roots of x² - 8x + c = 0 is 4, find the value of c."
+      },
+      {
+        "item_id": "T08-Q023",
+        "suggested_question": "The roots of the equation x² - px + q = 0 differ by 1. Prove that p² = 4q + 1."
+      },
+      {
+        "item_id": "T08-Q024",
+        "suggested_question": "Find a quadratic equation whose roots are each 3 greater than the roots of 2x² - 5x + 1 = 0."
+      },
+      {
+        "item_id": "T08-Q025",
+        "suggested_question": "Find a quadratic equation whose roots are the squares of the roots of x² - 4x + 2 = 0."
+      },
+      {
+        "item_id": "T08-Q026",
+        "suggested_question": "Find a quadratic equation whose roots are the reciprocals of the roots of 3x² - 7x + 5 = 0."
+      },
+      {
+        "item_id": "T08-Q027",
+        "suggested_question": "Determine the value of k such that the sum of the roots of kx² - (k + 3)x + 12 = 0 is equal to their product."
+      },
+      {
+        "item_id": "T08-Q028",
+        "suggested_question": "Solve the quadratic equation by factoring: 6x² - 11x - 10 = 0."
+      },
+      {
+        "item_id": "T08-Q029",
+        "suggested_question": "Solve the quadratic equation by completing the square: 2x² - 8x + 3 = 0."
+      },
+      {
+        "item_id": "T08-Q030",
+        "suggested_question": "Solve the quadratic equation using the quadratic formula: 3x² - 5x - 1 = 0."
+      },
+      {
+        "item_id": "T08-Q031",
+        "suggested_question": "Determine whether the quadratic equation (k + 1)x² - 2(k - 1)x + 1 = 0 has real roots for all real values of k."
+      },
+      {
+        "item_id": "T08-Q032",
+        "suggested_question": "For what values of a does the equation (a - 2)x² + 2ax + (a + 3) = 0 have equal roots?"
+      },
+      {
+        "item_id": "T08-Q033",
+        "suggested_question": "If the roots of ax² + bx + c = 0 are real and rational, what condition must b² - 4ac satisfy assuming a, b, c are rational?"
+      },
+      {
+        "item_id": "T08-Q034",
+        "suggested_question": "Prove that if a, b, c are odd integers, the quadratic equation ax² + bx + c = 0 cannot have rational roots."
+      },
+      {
+        "item_id": "T08-Q035",
+        "suggested_question": "If the discriminant of ax² + bx + c = 0 is zero, explain the geometric relationship between the graph of y = ax² + bx + c and the x-axis."
+      },
+      {
+        "item_id": "T08-Q036",
+        "suggested_question": "If the discriminant is negative, describe the visual position of the parabola y = ax² + bx + c relative to the x-axis when a > 0."
+      },
+      {
+        "item_id": "T08-Q037",
+        "suggested_question": "Write a quadratic equation whose roots are sin 30° and cos 60°."
+      },
+      {
+        "item_id": "T08-Q038",
+        "suggested_question": "Write a quadratic equation whose roots are tan 45° and tan 60°."
+      },
+      {
+        "item_id": "T08-Q039",
+        "suggested_question": "If r₁ and r₂ are the roots of x² - 5x + 6 = 0, construct the equation whose roots are (2r₁ + 1) and (2r₂ + 1)."
+      },
+      {
+        "item_id": "T08-Q040",
+        "suggested_question": "Show that the roots of the equation x² - 2px + (p² - q²) = 0 are p + q and p - q."
+      },
+      {
+        "item_id": "T08-Q041",
+        "suggested_question": "Find the condition on constants p and q such that the roots of x² + px + q = 0 are in the ratio 1 : 3."
+      },
+      {
+        "item_id": "T08-Q042",
+        "suggested_question": "If the sum of the roots of ax² + bx + c = 0 is equal to the sum of the squares of the roots, show that 2ac = ab + b²."
+      },
+      {
+        "item_id": "T08-Q043",
+        "suggested_question": "Find all values of k such that the roots of x² - (k - 2)x + (k² - 4) = 0 are opposite in sign and equal in magnitude (sum of roots = 0)."
+      },
+      {
+        "item_id": "T08-Q044",
+        "suggested_question": "Find all values of k such that one root of x² - 8x + k = 0 is zero."
+      },
+      {
+        "item_id": "T08-Q045",
+        "suggested_question": "If both roots of x² - 4x + k = 0 are positive, determine the range of values for k."
+      },
+      {
+        "item_id": "T08-Q046",
+        "suggested_question": "If both roots of x² + 6x + c = 0 are negative, determine the range of values for c."
+      },
+      {
+        "item_id": "T08-Q047",
+        "suggested_question": "Solve the quadratic equation involving complex roots: 2x² - 4x + 5 = 0."
+      },
+      {
+        "item_id": "T08-Q048",
+        "suggested_question": "If α and β are the roots of 2x² + 3x - 7 = 0, form the quadratic equation with roots 1/α² and 1/β²."
+      },
+      {
+        "item_id": "T08-Q049",
+        "suggested_question": "Explain how the sign of c/a determines whether the roots of a quadratic equation have the same sign or opposite signs."
+      },
+      {
+        "item_id": "T08-Q050",
+        "suggested_question": "A ball's trajectory is modeled by h(t) = -5t² + 18t + 8. Use the quadratic formula to find when the ball hits the ground (h = 0)."
+      }
+    ]
+  },
+  "T09": {
+    "topic_code": "T09",
+    "topic_name": "Quadratic functions",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Determine equations of quadratic functions from tables, graphs, and zeros; analyze vertex, axis of symmetry, min/max; transform forms; solve optimization and contextual problems.",
+    "questions": [
+      {
+        "item_id": "T09-Q001",
+        "suggested_question": "Determine the equation of a quadratic function f(x) = ax² + bx + c given a table of values: (0, 3), (1, 6), (2, 11), (3, 18)."
+      },
+      {
+        "item_id": "T09-Q002",
+        "suggested_question": "Determine the equation of the quadratic function passing through (-1, 8), (0, 3), and (2, 5)."
+      },
+      {
+        "item_id": "T09-Q003",
+        "suggested_question": "Find the quadratic function whose vertex is at (3, -4) and which passes through the point (1, 4)."
+      },
+      {
+        "item_id": "T09-Q004",
+        "suggested_question": "Find the quadratic function whose vertex is at (-2, 5) and whose y-intercept is (0, -3)."
+      },
+      {
+        "item_id": "T09-Q005",
+        "suggested_question": "Determine the quadratic function in factored form given its zeros x = -3 and x = 5, and passing through (1, -16)."
+      },
+      {
+        "item_id": "T09-Q006",
+        "suggested_question": "Find the quadratic function with zeros at x = 2/3 and x = -4, passing through (2, 32)."
+      },
+      {
+        "item_id": "T09-Q007",
+        "suggested_question": "From a given parabolic graph with axis of symmetry x = 1, maximum value 9, and x-intercept (4, 0), find the equation of the quadratic function."
+      },
+      {
+        "item_id": "T09-Q008",
+        "suggested_question": "Convert the standard form quadratic function f(x) = 2x² - 12x + 11 into vertex form f(x) = a(x - h)² + k."
+      },
+      {
+        "item_id": "T09-Q009",
+        "suggested_question": "Convert the vertex form f(x) = -3(x + 2)² + 15 into standard polynomial form."
+      },
+      {
+        "item_id": "T09-Q010",
+        "suggested_question": "Find the axis of symmetry, vertex coordinates, and opening direction of f(x) = -4x² + 16x - 7."
+      },
+      {
+        "item_id": "T09-Q011",
+        "suggested_question": "Determine the maximum or minimum value of the quadratic function f(x) = 3x² - 18x + 25 and the value of x at which it occurs."
+      },
+      {
+        "item_id": "T09-Q012",
+        "suggested_question": "Determine the domain and range of the function f(x) = -2(x - 5)² + 18."
+      },
+      {
+        "item_id": "T09-Q013",
+        "suggested_question": "Find the intervals on which the quadratic function f(x) = x² - 6x + 8 is increasing and decreasing."
+      },
+      {
+        "item_id": "T09-Q014",
+        "suggested_question": "Find the x-intercepts and y-intercept of the quadratic function f(x) = 2x² + 3x - 14."
+      },
+      {
+        "item_id": "T09-Q015",
+        "suggested_question": "A revenue function from selling x items is R(x) = -2x² + 120x. Find the number of items x that maximizes revenue and determine maximum revenue."
+      },
+      {
+        "item_id": "T09-Q016",
+        "suggested_question": "A manufacturer models unit production cost as C(x) = 0.05x² - 20x + 3000, where x is the number of units produced. Find the production level that minimizes cost."
+      },
+      {
+        "item_id": "T09-Q017",
+        "suggested_question": "A farmer has 160 meters of fencing to create a rectangular corral divided into two equal compartments by a fence parallel to one side. Find the dimensions that maximize total area."
+      },
+      {
+        "item_id": "T09-Q018",
+        "suggested_question": "A projectile is fired upward from a platform 20 meters high with an initial velocity of 40 m/s. Its height is h(t) = -5t² + 40t + 20. Find its maximum height and time to reach it."
+      },
+      {
+        "item_id": "T09-Q019",
+        "suggested_question": "Referring to Question 18, determine when the projectile hits the ground."
+      },
+      {
+        "item_id": "T09-Q020",
+        "suggested_question": "A travel agency charges ₱2,000 per person for a tour with a minimum of 30 people. For every additional person beyond 30, the price per person is reduced by ₱40. Find the group size that maximizes agency revenue."
+      },
+      {
+        "item_id": "T09-Q021",
+        "suggested_question": "Find two numbers whose sum is 36 and whose product is a maximum."
+      },
+      {
+        "item_id": "T09-Q022",
+        "suggested_question": "Find two numbers whose difference is 14 such that their product is a minimum."
+      },
+      {
+        "item_id": "T09-Q023",
+        "suggested_question": "The sum of the base and height of a triangle is 24 cm. Find the dimensions that maximize the triangle's area."
+      },
+      {
+        "item_id": "T09-Q024",
+        "suggested_question": "A rectangular window frame has a perimeter of 12 meters. What dimensions will admit the maximum amount of light?"
+      },
+      {
+        "item_id": "T09-Q025",
+        "suggested_question": "Describe the sequence of transformations that maps the parent function y = x² onto f(x) = -(1/2)(x + 4)² - 6."
+      },
+      {
+        "item_id": "T09-Q026",
+        "suggested_question": "Describe how parameter 'a' affects the steepness and opening direction of f(x) = ax²."
+      },
+      {
+        "item_id": "T09-Q027",
+        "suggested_question": "Describe how parameter 'k' affects the vertical translation of f(x) = x² + k."
+      },
+      {
+        "item_id": "T09-Q028",
+        "suggested_question": "Describe how parameter 'h' affects the horizontal translation of f(x) = (x - h)²."
+      },
+      {
+        "item_id": "T09-Q029",
+        "suggested_question": "Find the quadratic function whose graph is a reflection of y = 2(x - 3)² + 4 across the x-axis."
+      },
+      {
+        "item_id": "T09-Q030",
+        "suggested_question": "Find the quadratic function whose graph is a reflection of y = 2(x - 3)² + 4 across the y-axis."
+      },
+      {
+        "item_id": "T09-Q031",
+        "suggested_question": "A suspension bridge main cable hangs in the shape of a parabola between two 30-meter towers spaced 120 meters apart. If the lowest point of the cable is 6 meters above the roadway, find the equation of the parabola."
+      },
+      {
+        "item_id": "T09-Q032",
+        "suggested_question": "A parabolic satellite dish has a diameter of 1.2 meters and a depth of 0.2 meters. Set up the quadratic equation modeling the cross-section."
+      },
+      {
+        "item_id": "T09-Q033",
+        "suggested_question": "A skateboard half-pipe is shaped like a parabola 3 meters high and 8 meters wide at the top. Write the quadratic function representing the half-pipe profile."
+      },
+      {
+        "item_id": "T09-Q034",
+        "suggested_question": "Find the equation of the line tangent to the parabola y = x² - 4x + 5 at the point (3, 2)."
+      },
+      {
+        "item_id": "T09-Q035",
+        "suggested_question": "Find the point of intersection between the line y = 2x - 1 and the parabola y = x² - 3x + 3."
+      },
+      {
+        "item_id": "T09-Q036",
+        "suggested_question": "Find the value(s) of m for which the line y = mx - 4 is tangent to the parabola y = x² - 2x."
+      },
+      {
+        "item_id": "T09-Q037",
+        "suggested_question": "A store sells 100 shirts per week at ₱300 each. Market research shows that for each ₱20 price increase, 5 fewer shirts are sold. Formulate the revenue function and find the optimal selling price."
+      },
+      {
+        "item_id": "T09-Q038",
+        "suggested_question": "Given f(x) = x² - 4x + k, find k such that the minimum value of the function is -9."
+      },
+      {
+        "item_id": "T09-Q039",
+        "suggested_question": "Given f(x) = -x² + 2kx + 7, find k such that the maximum value of the function is 16."
+      },
+      {
+        "item_id": "T09-Q040",
+        "suggested_question": "Find the coordinates of the vertex of f(x) = ax² + bx + c by completing the square in general terms."
+      },
+      {
+        "item_id": "T09-Q041",
+        "suggested_question": "A parabolic water stream from a fountain reaches a maximum height of 4 meters at a horizontal distance of 2 meters from the nozzle. Find where the stream lands on the ground."
+      },
+      {
+        "item_id": "T09-Q042",
+        "suggested_question": "Explain why the axis of symmetry always passes through the midpoint between the two x-intercepts of a parabola."
+      },
+      {
+        "item_id": "T09-Q043",
+        "suggested_question": "Find the quadratic function that satisfies f(1) = 0, f(2) = -3, and f(-1) = 12."
+      },
+      {
+        "item_id": "T09-Q044",
+        "suggested_question": "Determine the average rate of change of f(x) = 2x² - 3x + 1 over the interval [1, 4]."
+      },
+      {
+        "item_id": "T09-Q045",
+        "suggested_question": "Compare the average rate of change of f(x) = x² on [0, 2] versus [2, 4] and interpret what this indicates about parabolic curvature."
+      },
+      {
+        "item_id": "T09-Q046",
+        "suggested_question": "Graph f(x) = -x² + 4x + 5 by finding its vertex, axis of symmetry, intercepts, and a symmetric table of points."
+      },
+      {
+        "item_id": "T09-Q047",
+        "suggested_question": "Find the range of the quadratic function f(x) = 4x² - 16x + 9."
+      },
+      {
+        "item_id": "T09-Q048",
+        "suggested_question": "A rectangle has a perimeter of 40 cm. Write the area A as a function of its width w, sketch the graph of A(w), and identify the vertex."
+      },
+      {
+        "item_id": "T09-Q049",
+        "suggested_question": "Determine if the quadratic function f(x) = -3x² + 12x - 15 has real zeros by computing its discriminant."
+      },
+      {
+        "item_id": "T09-Q050",
+        "suggested_question": "A tunnel arch is modeled by y = -0.4x² + 4, where x and y are in meters. Can a truck 2.5 meters wide and 3 meters tall pass safely through the tunnel?"
+      }
+    ]
+  },
+  "T10": {
+    "topic_code": "T10",
+    "topic_name": "Equations reducible to quadratic equations",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Identify equations reducible to quadratic form; solve biquadratic, rational, radical, exponential, trigonometric, and reciprocal equations using algebraic substitution.",
+    "questions": [
+      {
+        "item_id": "T10-Q001",
+        "suggested_question": "Define an equation reducible to quadratic form (quasi-quadratic equation) and describe the substitution technique u = g(x)."
+      },
+      {
+        "item_id": "T10-Q002",
+        "suggested_question": "Solve the biquadratic equation: x⁴ - 13x² + 36 = 0."
+      },
+      {
+        "item_id": "T10-Q003",
+        "suggested_question": "Solve the biquadratic equation: x⁴ - 5x² - 36 = 0."
+      },
+      {
+        "item_id": "T10-Q004",
+        "suggested_question": "Solve the biquadratic equation: 4x⁴ - 17x² + 4 = 0."
+      },
+      {
+        "item_id": "T10-Q005",
+        "suggested_question": "Solve the biquadratic equation: 9x⁴ - 10x² + 1 = 0."
+      },
+      {
+        "item_id": "T10-Q006",
+        "suggested_question": "Solve the equation using substitution u = x²: 2x⁴ + 3x² - 5 = 0."
+      },
+      {
+        "item_id": "T10-Q007",
+        "suggested_question": "Solve the polynomial equation reducible to quadratic form: (x² - 3x)² - 2(x² - 3x) - 8 = 0."
+      },
+      {
+        "item_id": "T10-Q008",
+        "suggested_question": "Solve the equation: (x² + 2x)² - 11(x² + 2x) + 24 = 0."
+      },
+      {
+        "item_id": "T10-Q009",
+        "suggested_question": "Solve the equation: (x² - 5x + 7)² - (x - 2)(x - 3) = 1."
+      },
+      {
+        "item_id": "T10-Q010",
+        "suggested_question": "Solve the rational equation reducible to quadratic form: x + (12 / x) = 7."
+      },
+      {
+        "item_id": "T10-Q011",
+        "suggested_question": "Solve the rational equation: (2 / x²) - (5 / x) + 2 = 0."
+      },
+      {
+        "item_id": "T10-Q012",
+        "suggested_question": "Solve the rational equation: (x / (x - 1)) + ((x - 1) / x) = 13/6."
+      },
+      {
+        "item_id": "T10-Q013",
+        "suggested_question": "Solve the rational equation: ((x + 2) / (x - 2)) - ((x - 2) / (x + 2)) = 8/3."
+      },
+      {
+        "item_id": "T10-Q014",
+        "suggested_question": "Solve the equation: (3 / (x + 1)) + (4 / (x - 2)) = 2."
+      },
+      {
+        "item_id": "T10-Q015",
+        "suggested_question": "Solve the equation: (x² + 1) / x + x / (x² + 1) = 2.5."
+      },
+      {
+        "item_id": "T10-Q016",
+        "suggested_question": "Solve the equation with fractional exponents: x^(2/3) - 5x^(1/3) + 6 = 0."
+      },
+      {
+        "item_id": "T10-Q017",
+        "suggested_question": "Solve the equation: x^(2/3) + x^(1/3) - 12 = 0."
+      },
+      {
+        "item_id": "T10-Q018",
+        "suggested_question": "Solve the equation: 2x^(1/2) - 5x^(1/4) + 2 = 0."
+      },
+      {
+        "item_id": "T10-Q019",
+        "suggested_question": "Solve the equation: x^(-2) - 3x^(-1) - 4 = 0."
+      },
+      {
+        "item_id": "T10-Q020",
+        "suggested_question": "Solve the equation: 3x^(-4) - 5x^(-2) + 2 = 0."
+      },
+      {
+        "item_id": "T10-Q021",
+        "suggested_question": "Solve the radical equation reducible to quadratic form: x - 5√x + 6 = 0."
+      },
+      {
+        "item_id": "T10-Q022",
+        "suggested_question": "Solve the equation: x - √x - 12 = 0."
+      },
+      {
+        "item_id": "T10-Q023",
+        "suggested_question": "Solve the equation: 2x - 3√x - 2 = 0."
+      },
+      {
+        "item_id": "T10-Q024",
+        "suggested_question": "Solve the equation: x² - 3x - √(x² - 3x + 5) = 1 using substitution u = √(x² - 3x + 5)."
+      },
+      {
+        "item_id": "T10-Q025",
+        "suggested_question": "Solve the equation: x² + √(x² + 9) = 21."
+      },
+      {
+        "item_id": "T10-Q026",
+        "suggested_question": "Solve the equation: √(2x + 1) + 6 / √(2x + 1) = 5."
+      },
+      {
+        "item_id": "T10-Q027",
+        "suggested_question": "Solve the exponential equation reducible to quadratic form: 4ˣ - 3 · 2ˣ - 4 = 0."
+      },
+      {
+        "item_id": "T10-Q028",
+        "suggested_question": "Solve the exponential equation: 3^(2x) - 10 · 3ˣ + 9 = 0."
+      },
+      {
+        "item_id": "T10-Q029",
+        "suggested_question": "Solve the exponential equation: 2^(2x + 1) - 9 · 2ˣ + 4 = 0."
+      },
+      {
+        "item_id": "T10-Q030",
+        "suggested_question": "Solve the exponential equation: 9ˣ - 4 · 3^(x + 1) + 27 = 0."
+      },
+      {
+        "item_id": "T10-Q031",
+        "suggested_question": "Solve the trigonometric equation reducible to quadratic form: 2 sin² θ - 3 sin θ + 1 = 0 for 0° ≤ θ ≤ 360°."
+      },
+      {
+        "item_id": "T10-Q032",
+        "suggested_question": "Solve the trigonometric equation: 2 cos² θ + cos θ - 1 = 0 for 0° ≤ θ ≤ 360°."
+      },
+      {
+        "item_id": "T10-Q033",
+        "suggested_question": "Solve the trigonometric equation: tan² θ - (√3 + 1) tan θ + √3 = 0 for 0° ≤ θ < 360°."
+      },
+      {
+        "item_id": "T10-Q034",
+        "suggested_question": "Solve the equation: (x + 1/x)² - 3(x + 1/x) + 2 = 0."
+      },
+      {
+        "item_id": "T10-Q035",
+        "suggested_question": "Solve the reciprocal polynomial equation: 2x⁴ + x³ - 6x² + x + 2 = 0 by dividing by x² and setting u = x + 1/x."
+      },
+      {
+        "item_id": "T10-Q036",
+        "suggested_question": "Solve the symmetric equation: x⁴ - 4x³ + 5x² - 4x + 1 = 0."
+      },
+      {
+        "item_id": "T10-Q037",
+        "suggested_question": "Solve the equation: 6x⁴ - 35x³ + 62x² - 35x + 6 = 0."
+      },
+      {
+        "item_id": "T10-Q038",
+        "suggested_question": "Solve the absolute value equation reducible to quadratic form: x² - 4|x| + 3 = 0."
+      },
+      {
+        "item_id": "T10-Q039",
+        "suggested_question": "Solve the absolute value equation: 2x² - 5|x| - 3 = 0."
+      },
+      {
+        "item_id": "T10-Q040",
+        "suggested_question": "Solve the equation: (x - 2)⁴ - 5(x - 2)² + 4 = 0."
+      },
+      {
+        "item_id": "T10-Q041",
+        "suggested_question": "Solve the equation: (2x + 3)⁴ - 10(2x + 3)² + 9 = 0."
+      },
+      {
+        "item_id": "T10-Q042",
+        "suggested_question": "A rectangular swimming pool has an area of 200 m². If length is doubled and width is increased by 5 m, the new area is 600 m². Set up and solve the resulting quadratic-reducible system."
+      },
+      {
+        "item_id": "T10-Q043",
+        "suggested_question": "Two pipes together fill a tank in 12 hours. If one pipe takes 10 hours longer than the other alone, set up the rational equation and solve for the individual fill times."
+      },
+      {
+        "item_id": "T10-Q044",
+        "suggested_question": "A boat travels 24 km upstream and 24 km downstream in a total time of 5 hours. If the river current flows at 2 km/h, set up and solve the equation for the boat's speed in still water."
+      },
+      {
+        "item_id": "T10-Q045",
+        "suggested_question": "A group of friends agreed to share the ₱1,800 cost of a cottage equally. When 3 friends joined the group, each person's share decreased by ₱20. Find the original group size."
+      },
+      {
+        "item_id": "T10-Q046",
+        "suggested_question": "Solve the system of equations reducible to quadratic form: { x + y = 7 ; x² + y² = 25 }."
+      },
+      {
+        "item_id": "T10-Q047",
+        "suggested_question": "Solve the system: { xy = 12 ; x² + y² = 25 }."
+      },
+      {
+        "item_id": "T10-Q048",
+        "suggested_question": "Solve the system: { 2x² - y² = 7 ; x² + 3y² = 28 } using substitution u = x² and v = y²."
+      },
+      {
+        "item_id": "T10-Q049",
+        "suggested_question": "Solve the logarithmic equation reducible to quadratic form: (log₂ x)² - log₂ (x³) + 2 = 0."
+      },
+      {
+        "item_id": "T10-Q050",
+        "suggested_question": "Solve the equation: √(x / (1 - x)) + √((1 - x) / x) = 13/6."
+      }
+    ]
+  },
+  "T11": {
+    "topic_code": "T11",
+    "topic_name": "Equation of a circle and the graph of a circle",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Transform between center-radius form and general form; determine center and radius; sketch graphs; find equations from geometric conditions; solve circle problems in the Cartesian plane.",
+    "questions": [
+      {
+        "item_id": "T11-Q001",
+        "suggested_question": "State the definition of a circle as a geometric locus in the Cartesian plane."
+      },
+      {
+        "item_id": "T11-Q002",
+        "suggested_question": "State the standard center-radius form of the equation of a circle: (x - h)² + (y - k)² = r²."
+      },
+      {
+        "item_id": "T11-Q003",
+        "suggested_question": "State the general form of the equation of a circle: x² + y² + Dx + Ey + F = 0."
+      },
+      {
+        "item_id": "T11-Q004",
+        "suggested_question": "Write the standard equation of a circle with center at the origin (0, 0) and radius r = 7."
+      },
+      {
+        "item_id": "T11-Q005",
+        "suggested_question": "Write the standard equation of a circle with center C(3, -5) and radius r = 4."
+      },
+      {
+        "item_id": "T11-Q006",
+        "suggested_question": "Write the standard equation of a circle with center C(-4, 2) and radius r = 3√2."
+      },
+      {
+        "item_id": "T11-Q007",
+        "suggested_question": "Determine the center (h, k) and radius r of the circle: (x - 6)² + (y + 1)² = 49."
+      },
+      {
+        "item_id": "T11-Q008",
+        "suggested_question": "Determine the center and radius of the circle: (x + 2)² + y² = 18."
+      },
+      {
+        "item_id": "T11-Q009",
+        "suggested_question": "Transform the circle equation from center-radius form (x - 3)² + (y + 4)² = 25 to general form x² + y² + Dx + Ey + F = 0."
+      },
+      {
+        "item_id": "T11-Q010",
+        "suggested_question": "Transform (x + 5)² + (y - 2)² = 16 to general form."
+      },
+      {
+        "item_id": "T11-Q011",
+        "suggested_question": "Transform the general form equation x² + y² - 6x + 8y - 11 = 0 into center-radius form by completing the square."
+      },
+      {
+        "item_id": "T11-Q012",
+        "suggested_question": "Find the center and radius of the circle given by: x² + y² + 4x - 10y + 13 = 0."
+      },
+      {
+        "item_id": "T11-Q013",
+        "suggested_question": "Find the center and radius of the circle: 2x² + 2y² - 8x + 12y - 6 = 0."
+      },
+      {
+        "item_id": "T11-Q014",
+        "suggested_question": "Determine the center and radius of: x² + y² - 12x - 4y + 40 = 0."
+      },
+      {
+        "item_id": "T11-Q015",
+        "suggested_question": "Explain what geometric figure is represented by x² + y² - 4x + 6y + 13 = 0 (point circle / degenerate circle)."
+      },
+      {
+        "item_id": "T11-Q016",
+        "suggested_question": "Explain what is represented by x² + y² + 2x - 4y + 10 = 0 (imaginary circle / empty set)."
+      },
+      {
+        "item_id": "T11-Q017",
+        "suggested_question": "Find the equation of the circle having the line segment connecting A(-2, 5) and B(4, -3) as its diameter."
+      },
+      {
+        "item_id": "T11-Q018",
+        "suggested_question": "Find the equation of the circle with diameter endpoints P(1, 4) and Q(7, -2)."
+      },
+      {
+        "item_id": "T11-Q019",
+        "suggested_question": "Find the equation of the circle with center at (2, -3) that passes through the point (5, 1)."
+      },
+      {
+        "item_id": "T11-Q020",
+        "suggested_question": "Find the equation of the circle with center at (-1, 4) and tangent to the x-axis."
+      },
+      {
+        "item_id": "T11-Q021",
+        "suggested_question": "Find the equation of the circle with center at (3, -2) and tangent to the y-axis."
+      },
+      {
+        "item_id": "T11-Q022",
+        "suggested_question": "Find the equation of the circle with center at (4, 3) and tangent to the line 3x + 4y - 4 = 0."
+      },
+      {
+        "item_id": "T11-Q023",
+        "suggested_question": "Find the equation of the circle passing through the three points (0, 0), (6, 0), and (0, 8)."
+      },
+      {
+        "item_id": "T11-Q024",
+        "suggested_question": "Find the equation of the circle passing through (1, 1), (2, 4), and (5, 3)."
+      },
+      {
+        "item_id": "T11-Q025",
+        "suggested_question": "Determine whether the point (3, 4) lies inside, outside, or on the circle (x - 1)² + (y + 2)² = 36."
+      },
+      {
+        "item_id": "T11-Q026",
+        "suggested_question": "Determine the position of the points P(2, 1), Q(0, 5), and R(4, -3) relative to the circle x² + y² - 4x + 2y - 20 = 0."
+      },
+      {
+        "item_id": "T11-Q027",
+        "suggested_question": "Find the x-intercepts and y-intercepts of the circle (x - 2)² + (y + 1)² = 25."
+      },
+      {
+        "item_id": "T11-Q028",
+        "suggested_question": "Find the intercepts of the circle x² + y² - 8x - 6y + 9 = 0 on both coordinate axes."
+      },
+      {
+        "item_id": "T11-Q029",
+        "suggested_question": "Sketch the graph of the circle (x + 3)² + (y - 2)² = 16 clearly indicating its center, radius, and four cardinal boundary points."
+      },
+      {
+        "item_id": "T11-Q030",
+        "suggested_question": "Find the equation of the tangent line to the circle x² + y² = 25 at the point (3, 4)."
+      },
+      {
+        "item_id": "T11-Q031",
+        "suggested_question": "Find the equation of the tangent line to the circle (x - 2)² + (y + 1)² = 25 at the point (5, 3)."
+      },
+      {
+        "item_id": "T11-Q032",
+        "suggested_question": "Find the length of the tangent segment drawn from the external point P(8, 6) to the circle x² + y² = 25."
+      },
+      {
+        "item_id": "T11-Q033",
+        "suggested_question": "Find the length of the tangent segment from P(-3, 7) to the circle x² + y² - 4x + 6y - 12 = 0."
+      },
+      {
+        "item_id": "T11-Q034",
+        "suggested_question": "Determine the points of intersection between the circle x² + y² = 25 and the line x - y + 1 = 0."
+      },
+      {
+        "item_id": "T11-Q035",
+        "suggested_question": "Determine the points of intersection between the circle (x - 1)² + (y - 2)² = 10 and the line y = 2x + 1."
+      },
+      {
+        "item_id": "T11-Q036",
+        "suggested_question": "Show that the line 3x - 4y + 25 = 0 is tangent to the circle x² + y² = 25 and find the point of tangency."
+      },
+      {
+        "item_id": "T11-Q037",
+        "suggested_question": "Find the value(s) of k such that the line y = x + k is tangent to the circle x² + y² = 18."
+      },
+      {
+        "item_id": "T11-Q038",
+        "suggested_question": "Find the points of intersection of the two circles: C₁: x² + y² = 25 and C₂: x² + y² - 6x - 8y + 9 = 0."
+      },
+      {
+        "item_id": "T11-Q039",
+        "suggested_question": "Find the equation of the common chord (radical axis) of the circles x² + y² - 4x - 6y + 4 = 0 and x² + y² + 2x - 4y - 6 = 0."
+      },
+      {
+        "item_id": "T11-Q040",
+        "suggested_question": "Determine whether the two circles (x - 3)² + (y - 1)² = 16 and (x + 2)² + (y - 1)² = 9 are externally tangent, internally tangent, intersecting, or non-intersecting."
+      },
+      {
+        "item_id": "T11-Q041",
+        "suggested_question": "Two circles have equations (x - 1)² + (y - 2)² = 25 and (x - 7)² + (y - 10)² = 9. Calculate the distance between their centers and determine their relative position."
+      },
+      {
+        "item_id": "T11-Q042",
+        "suggested_question": "A cellular network tower has a broadcast coverage circle modeled by x² + y² - 8x - 10y + 16 = 0 (1 unit = 1 km). Find the tower location (center) and broadcast range (radius)."
+      },
+      {
+        "item_id": "T11-Q043",
+        "suggested_question": "Referring to Question 42, determine whether a user at coordinates (7, 9) receives the cell signal."
+      },
+      {
+        "item_id": "T11-Q044",
+        "suggested_question": "An earthquake epicenter is located at coordinates (3, -2). The tremor is felt within a radius of 45 km. Write the inequality representing the affected geographic zone."
+      },
+      {
+        "item_id": "T11-Q045",
+        "suggested_question": "A circular rotary (roundabout) is modeled by x² + y² = 400 (in meters). An approaching road follows the tangent line at (12, 16). Write the equation of the road."
+      },
+      {
+        "item_id": "T11-Q046",
+        "suggested_question": "Find the equation of the circle concentric with x² + y² - 6x + 4y - 12 = 0 and having a radius twice as large."
+      },
+      {
+        "item_id": "T11-Q047",
+        "suggested_question": "Find the equation of the circle with radius 5 that is tangent to both coordinate axes in the second quadrant."
+      },
+      {
+        "item_id": "T11-Q048",
+        "suggested_question": "Find the equation of the circle passing through (2, 3) and tangent to both axes in the first quadrant."
+      },
+      {
+        "item_id": "T11-Q049",
+        "suggested_question": "Prove using coordinate geometry that the angle inscribed in a semicircle of x² + y² = r² is a right angle."
+      },
+      {
+        "item_id": "T11-Q050",
+        "suggested_question": "Find the locus of a point P(x, y) that moves such that the ratio of its distances from A(-2, 0) and B(4, 0) is 1 : 2 (Circle of Apollonius)."
+      }
+    ]
+  },
+  "T12": {
+    "topic_code": "T12",
+    "topic_name": "Simple interest, compound interest, and depreciation",
+    "domain": "Number and Algebra (NA)",
+    "competency": "Explore simple and compound interest; calculate compound interest by repeated applications and formulas; analyze compounding frequencies; solve real-life compound interest and depreciation problems.",
+    "questions": [
+      {
+        "item_id": "T12-Q001",
+        "suggested_question": "Define simple interest and state its formula: I = P · r · t, explaining each variable."
+      },
+      {
+        "item_id": "T12-Q002",
+        "suggested_question": "Calculate the simple interest and maturity value on a principal of ₱45,000 invested at an annual interest rate of 6% for 3 years."
+      },
+      {
+        "item_id": "T12-Q003",
+        "suggested_question": "A loan of ₱80,000 charged simple interest of ₱14,400 over 4 years. Calculate the annual interest rate."
+      },
+      {
+        "item_id": "T12-Q004",
+        "suggested_question": "How many years will it take for a deposit of ₱25,000 to earn ₱7,500 in simple interest at an annual rate of 5%?"
+      },
+      {
+        "item_id": "T12-Q005",
+        "suggested_question": "Define compound interest and explain how it differs conceptually from simple interest."
+      },
+      {
+        "item_id": "T12-Q006",
+        "suggested_question": "State the compound interest formula for compounding m times per year: A = P(1 + r/m)^(m·t)."
+      },
+      {
+        "item_id": "T12-Q007",
+        "suggested_question": "Explain the meaning of nominal interest rate versus effective annual rate (EAR / APY)."
+      },
+      {
+        "item_id": "T12-Q008",
+        "suggested_question": "Demonstrate compound interest by repeated applications of simple interest year-by-year for ₱10,000 invested at 8% compounded annually for 3 years."
+      },
+      {
+        "item_id": "T12-Q009",
+        "suggested_question": "Calculate the maturity value (future value) and total compound interest earned on ₱50,000 invested at 6% compounded annually for 5 years."
+      },
+      {
+        "item_id": "T12-Q010",
+        "suggested_question": "Calculate the compound amount on ₱30,000 invested at 8% compounded semi-annually (m = 2) for 4 years."
+      },
+      {
+        "item_id": "T12-Q011",
+        "suggested_question": "Calculate the maturity value on ₱20,000 invested at 12% compounded quarterly (m = 4) for 3 years."
+      },
+      {
+        "item_id": "T12-Q012",
+        "suggested_question": "Calculate the maturity value on ₱15,000 invested at 9% compounded monthly (m = 12) for 2.5 years."
+      },
+      {
+        "item_id": "T12-Q013",
+        "suggested_question": "Compare the total compound interest earned on ₱100,000 invested at 6% for 5 years when compounded: a) annually, b) quarterly, c) monthly."
+      },
+      {
+        "item_id": "T12-Q014",
+        "suggested_question": "Find the present value (principal P) that must be invested today at 7% compounded quarterly to accumulate to ₱120,000 in 6 years."
+      },
+      {
+        "item_id": "T12-Q015",
+        "suggested_question": "How much money should parents invest in a college fund at 8% compounded monthly to have ₱500,000 when their child turns 18 (in 15 years)?"
+      },
+      {
+        "item_id": "T12-Q016",
+        "suggested_question": "Using the Rule of 72, approximate the number of years required for an investment to double at an annual interest rate of 9%."
+      },
+      {
+        "item_id": "T12-Q017",
+        "suggested_question": "Calculate the exact doubling time for an investment growing at 6% compounded annually using logarithms."
+      },
+      {
+        "item_id": "T12-Q018",
+        "suggested_question": "Find the effective annual rate (EAR) equivalent to a nominal rate of 10% compounded quarterly."
+      },
+      {
+        "item_id": "T12-Q019",
+        "suggested_question": "Which investment option yields a higher return: Option A offering 7.8% compounded monthly, or Option B offering 8.0% compounded semi-annually?"
+      },
+      {
+        "item_id": "T12-Q020",
+        "suggested_question": "Define depreciation and explain straight-line depreciation versus reducing-balance (declining balance) depreciation."
+      },
+      {
+        "item_id": "T12-Q021",
+        "suggested_question": "State the reducing-balance depreciation formula: V(t) = P(1 - r)^t."
+      },
+      {
+        "item_id": "T12-Q022",
+        "suggested_question": "A delivery van was purchased for ₱1,200,000. If it depreciates at an annual rate of 15% on a declining balance, calculate its book value after 4 years."
+      },
+      {
+        "item_id": "T12-Q023",
+        "suggested_question": "Calculate the total depreciation loss on a computer system bought for ₱85,000 that depreciates at 20% per year after 3 years."
+      },
+      {
+        "item_id": "T12-Q024",
+        "suggested_question": "A piece of heavy industrial machinery bought for ₱2,500,000 has a salvage value of ₱400,000 after 10 years using straight-line depreciation. Calculate the annual depreciation expense."
+      },
+      {
+        "item_id": "T12-Q025",
+        "suggested_question": "A motorcycle depreciates by 12% each year. If its current value is ₱68,000, find its original purchase price 3 years ago."
+      },
+      {
+        "item_id": "T12-Q026",
+        "suggested_question": "How many years will it take for a vehicle purchased for ₱900,000 to depreciate to half its original value at a reducing rate of 10% per year?"
+      },
+      {
+        "item_id": "T12-Q027",
+        "suggested_question": "A company buys office furniture for ₱150,000. The furniture depreciates at 18% per year. Find its value after 5 years."
+      },
+      {
+        "item_id": "T12-Q028",
+        "suggested_question": "An investor deposits ₱5,000 at the end of each month into an annuity account paying 6% compounded monthly. Calculate the future value of the ordinary annuity after 4 years."
+      },
+      {
+        "item_id": "T12-Q029",
+        "suggested_question": "A person borrows ₱250,000 to start a small business. The loan is to be repaid in equal monthly installments over 3 years at 10% interest compounded monthly. Calculate the monthly payment."
+      },
+      {
+        "item_id": "T12-Q030",
+        "suggested_question": "Explain continuous compounding and state the formula A = P·e^(rt). Calculate the maturity value of ₱40,000 invested at 7% compounded continuously for 5 years."
+      },
+      {
+        "item_id": "T12-Q031",
+        "suggested_question": "Calculate the compound interest on ₱60,000 at 10% per annum for 1.5 years compounded semi-annually."
+      },
+      {
+        "item_id": "T12-Q032",
+        "suggested_question": "A bank offers two credit card repayment plans. Explain why compounding interest monthly on unpaid balances leads to rapid debt accumulation."
+      },
+      {
+        "item_id": "T12-Q033",
+        "suggested_question": "If inflation averages 4.5% per year, what will be the purchasing power of ₱100,000 after 10 years?"
+      },
+      {
+        "item_id": "T12-Q034",
+        "suggested_question": "A rare vintage car appreciates in value at a rate of 8% per year. If it is currently worth ₱1,500,000, find its projected value in 6 years."
+      },
+      {
+        "item_id": "T12-Q035",
+        "suggested_question": "Determine the annual compounding rate r required for ₱50,000 to grow to ₱80,000 in 5 years."
+      },
+      {
+        "item_id": "T12-Q036",
+        "suggested_question": "A commercial printer costs ₱350,000 and has an estimated useful life of 8 years with a scrap value of ₱30,000. Calculate its book value after 3 years using straight-line depreciation."
+      },
+      {
+        "item_id": "T12-Q037",
+        "suggested_question": "Explain how a spreadsheet schedule can be constructed to track the amortized payments, interest portion, principal reduction, and remaining loan balance."
+      },
+      {
+        "item_id": "T12-Q038",
+        "suggested_question": "A cooperative offers a dividend of 9% compounded annually. If a member maintains ₱75,000 in share capital for 6 years, find the total earnings."
+      },
+      {
+        "item_id": "T12-Q039",
+        "suggested_question": "Calculate the difference between simple interest and compound interest on ₱200,000 invested at 8% per annum for 3 years."
+      },
+      {
+        "item_id": "T12-Q040",
+        "suggested_question": "A business owner takes a short-term promissory note of ₱50,000 discounted at 8% simple discount for 9 months. Find the proceeds received by the borrower."
+      },
+      {
+        "item_id": "T12-Q041",
+        "suggested_question": "Find the accumulated value of ₱10,000 invested for 3 years at 6% compounded semi-annually for the first year, and 8% compounded quarterly for the remaining two years."
+      },
+      {
+        "item_id": "T12-Q042",
+        "suggested_question": "An electronic device depreciates 30% in its first year and 15% per year for each subsequent year. If its initial cost was ₱45,000, find its value after 3 years."
+      },
+      {
+        "item_id": "T12-Q043",
+        "suggested_question": "A savings bond matures to ₱100,000 in 10 years. If the interest rate is 5.5% compounded semi-annually, find its issue purchase price."
+      },
+      {
+        "item_id": "T12-Q044",
+        "suggested_question": "Explain the concept of capital growth vs income yield in long-term financial investments."
+      },
+      {
+        "item_id": "T12-Q045",
+        "suggested_question": "A mobile phone worth ₱35,000 loses 25% of its remaining value each year. Graph its depreciation curve over 5 years."
+      },
+      {
+        "item_id": "T12-Q046",
+        "suggested_question": "Determine how much interest is earned in the 3rd year alone for an investment of ₱50,000 at 7% compounded annually."
+      },
+      {
+        "item_id": "T12-Q047",
+        "suggested_question": "An individual wishes to have ₱1,000,000 at retirement in 20 years. If an investment account yields 9% compounded annually, calculate the single lump-sum deposit required today."
+      },
+      {
+        "item_id": "T12-Q048",
+        "suggested_question": "Find the annual depreciation rate of a factory asset that declines from ₱500,000 to ₱204,800 in 4 years on a reducing-balance basis."
+      },
+      {
+        "item_id": "T12-Q049",
+        "suggested_question": "A loan of ₱100,000 is settled with a single payment of ₱140,000 after 3 years. Find the nominal annual interest rate if interest was compounded quarterly."
+      },
+      {
+        "item_id": "T12-Q050",
+        "suggested_question": "Compare how simple interest grows linearly while compound interest grows exponentially over time."
+      }
+    ]
+  }
+}

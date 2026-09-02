@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" width="420" height="280">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <rect x="16" y="12" width="388" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="210" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Q7: Congruent Triangles (ΔABC ≅ ΔEDC)
+  </text>
+
+  <!-- Triangle ABC (left right-triangle) & Triangle EDC (right right-triangle) sharing baseline AC-CD -->
+  <!-- A: (40, 220), C: (210, 220), B: (210, 90) -->
+  <!-- E: (210, 50), B is on EC: (210, 90), D: (380, 220) -->
+
+  <!-- Baseline A -> C -> D -->
+  <line x1="40" y1="220" x2="380" y2="220" stroke="#94a3b8" stroke-width="2" />
+  <!-- Vertical line E -> B -> C -->
+  <line x1="210" y1="50" x2="210" y2="220" stroke="#94a3b8" stroke-width="2" />
+
+  <!-- Triangle ABC sides -->
+  <line x1="40" y1="220" x2="210" y2="90" stroke="#38bdf8" stroke-width="3" />
+  <!-- Triangle EDC sides -->
+  <line x1="210" y1="50" x2="380" y2="220" stroke="#f59e0b" stroke-width="3" />
+
+  <!-- Right angle mark at C -->
+  <rect x="198" y="208" width="12" height="12" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+  <rect x="210" y="208" width="12" height="12" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+
+  <!-- Vertices -->
+  <circle cx="40" cy="220" r="4" fill="#38bdf8" />
+  <text x="25" y="235" font-family="sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">A</text>
+
+  <circle cx="210" cy="90" r="4" fill="#38bdf8" />
+  <text x="220" y="95" font-family="sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">B</text>
+
+  <circle cx="210" cy="220" r="4" fill="#94a3b8" />
+  <text x="210" y="245" font-family="sans-serif" font-size="14" font-weight="bold" fill="#94a3b8">C</text>
+
+  <circle cx="210" cy="50" r="4" fill="#f59e0b" />
+  <text x="210" y="40" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">E</text>
+
+  <circle cx="380" cy="220" r="4" fill="#f59e0b" />
+  <text x="390" y="235" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">D</text>
+
+  <!-- Arc for 37 deg at A -->
+  <path d="M 70 220 A 30 30 0 0 0 62 203" fill="none" stroke="#38bdf8" stroke-width="2" />
+  <text x="75" y="210" font-family="sans-serif" font-size="12" fill="#38bdf8">37°</text>
+
+  <!-- Arc for x deg at D -->
+  <path d="M 350 220 A 30 30 0 0 1 358 203" fill="none" stroke="#f59e0b" stroke-width="2" />
+  <text x="340" y="210" font-family="sans-serif" font-size="12" fill="#f59e0b">x°</text>
+
+  <!-- Dimensions -->
+  <text x="115" y="145" font-family="sans-serif" font-size="13" font-weight="bold" fill="#e2e8f0">10 cm</text>
+  <text x="305" y="130" font-family="sans-serif" font-size="13" font-weight="bold" fill="#e2e8f0">10 cm</text>
+  <text x="115" y="240" font-family="sans-serif" font-size="13" fill="#e2e8f0">8 cm</text>
+  <text x="285" y="240" font-family="sans-serif" font-size="13" fill="#e2e8f0">y cm</text>
+  <text x="190" y="70" font-family="sans-serif" font-size="12" fill="#e2e8f0">2 cm</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+
+  <!-- Header Title -->
+  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Exterior Angle Inequality Theorem #17
+  </text>
+
+  <!-- Body Content -->
+  
+      <g transform="translate(80, 90)">
+        <!-- Triangle ABC with extended base -->
+        <line x1="0" y1="160" x2="300" y2="160" stroke="#94a3b8" stroke-width="2" />
+        <polygon points="40,160 220,160 140,40" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="2.5" />
+        <!-- Exterior angle arc -->
+        <path d="M 220 160 L 250 160 A 30 30 0 0 0 236 139 Z" fill="rgba(239, 68, 68, 0.3)" stroke="#ef4444" stroke-width="2" />
+        <text x="255" y="145" font-family="sans-serif" font-size="12" fill="#ef4444" font-weight="bold">Ext ∠4</text>
+        <!-- Remote interior angles -->
+        <text x="55" y="150" font-family="sans-serif" font-size="12" fill="#10b981" font-weight="bold">Int ∠1</text>
+        <text x="140" y="70" font-family="sans-serif" font-size="12" fill="#10b981" font-weight="bold">Int ∠2</text>
+
+        <rect x="20" y="210" width="260" height="30" rx="6" fill="rgba(239, 68, 68, 0.9)" />
+        <text x="150" y="230" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2</text>
+      </g>
+    
+</svg>

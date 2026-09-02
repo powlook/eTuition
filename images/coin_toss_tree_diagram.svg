@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgTree" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="650" height="340" rx="16" fill="url(#bgTree)" stroke="#334155" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="325" y="35" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="700" fill="#f8fafc" text-anchor="middle">Tree Diagram: 3 Coin Tosses (|S| = 2³ = 8 Outcomes)</text>
+  
+  <!-- Column Headers -->
+  <text x="60" y="65" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#94a3b8" text-anchor="middle">START</text>
+  <text x="190" y="65" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#818cf8" text-anchor="middle">TOSS 1</text>
+  <text x="330" y="65" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#38bdf8" text-anchor="middle">TOSS 2</text>
+  <text x="470" y="65" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#34d399" text-anchor="middle">TOSS 3</text>
+  <text x="580" y="65" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#fde047" text-anchor="middle">OUTCOME</text>
+  
+  <!-- Start Node -->
+  <circle cx="60" cy="180" r="10" fill="#6366f1"/>
+  
+  <!-- Branches: Level 1 -->
+  <line x1="70" y1="180" x2="175" y2="120" stroke="#818cf8" stroke-width="2"/>
+  <line x1="70" y1="180" x2="175" y2="240" stroke="#818cf8" stroke-width="2"/>
+  
+  <!-- Level 1 Nodes -->
+  <circle cx="190" cy="120" r="16" fill="#4f46e5"/>
+  <text x="190" y="125" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">H</text>
+  
+  <circle cx="190" cy="240" r="16" fill="#4f46e5"/>
+  <text x="190" y="245" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+  
+  <!-- Branches: Level 2 -->
+  <line x1="205" y1="120" x2="315" y2="90" stroke="#38bdf8" stroke-width="1.5"/>
+  <line x1="205" y1="120" x2="315" y2="150" stroke="#38bdf8" stroke-width="1.5"/>
+  <line x1="205" y1="240" x2="315" y2="210" stroke="#38bdf8" stroke-width="1.5"/>
+  <line x1="205" y1="240" x2="315" y2="270" stroke="#38bdf8" stroke-width="1.5"/>
+  
+  <!-- Level 2 Nodes -->
+  <circle cx="330" cy="90" r="14" fill="#0284c7"/>
+  <text x="330" y="94" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">H</text>
+  <circle cx="330" cy="150" r="14" fill="#0284c7"/>
+  <text x="330" y="154" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+  <circle cx="330" cy="210" r="14" fill="#0284c7"/>
+  <text x="330" y="214" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">H</text>
+  <circle cx="330" cy="270" r="14" fill="#0284c7"/>
+  <text x="330" y="274" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+  
+  <!-- Branches: Level 3 -->
+  <line x1="344" y1="90" x2="456" y2="75" stroke="#34d399" stroke-width="1.2"/>
+  <line x1="344" y1="90" x2="456" y2="105" stroke="#34d399" stroke-width="1.2"/>
+  <line x1="344" y1="150" x2="456" y2="135" stroke="#34d399" stroke-width="1.2"/>
+  <line x1="344" y1="150" x2="456" y2="165" stroke="#34d399" stroke-width="1.2"/>
+  <line x1="344" y1="210" x2="456" y2="195" stroke="#34d399" stroke-width="1.2"/>
+  <line x1="344" y1="210" x2="456" y2="225" stroke="#34d399" stroke-width="1.2"/>
+  <line x1="344" y1="270" x2="456" y2="255" stroke="#34d399" stroke-width="1.2"/>
+  <line x1="344" y1="270" x2="456" y2="285" stroke="#34d399" stroke-width="1.2"/>
+  
+  <!-- Level 3 Nodes & Outcomes -->
+  <circle cx="470" cy="75" r="12" fill="#059669"/>
+  <text x="470" y="79" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">H</text>
+  <text x="580" y="80" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">HHH</text>
+  
+  <circle cx="470" cy="105" r="12" fill="#059669"/>
+  <text x="470" y="109" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+  <text x="580" y="110" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">HHT</text>
+  
+  <circle cx="470" cy="135" r="12" fill="#059669"/>
+  <text x="470" y="139" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">H</text>
+  <text x="580" y="140" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">HTH</text>
+  
+  <circle cx="470" cy="165" r="12" fill="#059669"/>
+  <text x="470" y="169" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+  <text x="580" y="170" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">HTT</text>
+  
+  <circle cx="470" cy="195" r="12" fill="#059669"/>
+  <text x="470" y="199" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">H</text>
+  <text x="580" y="200" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">THH</text>
+  
+  <circle cx="470" cy="225" r="12" fill="#059669"/>
+  <text x="470" y="229" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+  <text x="580" y="230" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">THT</text>
+  
+  <circle cx="470" cy="255" r="12" fill="#059669"/>
+  <text x="470" y="259" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">H</text>
+  <text x="580" y="260" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">TTH</text>
+  
+  <circle cx="470" cy="285" r="12" fill="#059669"/>
+  <text x="470" y="289" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+  <text x="580" y="290" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#fde047" text-anchor="middle">TTT</text>
+  
+  <!-- Footer Note -->
+  <text x="325" y="322" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Each path from Root to Leaf represents 1 outcome with P = (1/2)³ = 1/8 = 12.5%</text>
+</svg>

@@ -1,0 +1,216 @@
+
+==========================================
+TOPIC T01: The laws of sines and the laws of cosines
+==========================================
+[T01-Q001] State the Law of Sines formula relating the sides a, b, c and the opposite angles A, B, C of an oblique triangle.
+[T01-Q002] State the three standard forms of the Law of Cosines for finding side lengths a, b, and c.
+[T01-Q003] State the rearranged forms of the Law of Cosines used to solve for angles A, B, and C given all three sides (SSS).
+[T01-Q004] Explain when to use the Law of Sines versus the Law of Cosines when solving oblique triangles.
+[T01-Q005] In △ABC, given A = 40°, B = 60°, and a = 12 cm, set up and solve the Law of Sines to find side b.
+[T01-Q006] In △ABC, given B = 35°, C = 75°, and b = 8 cm, calculate the length of side c.
+[T01-Q007] In △PQR, given P = 110°, Q = 30°, and r = 15 cm, find the lengths of sides p and q.
+[T01-Q008] Explain the 'Ambiguous Case' (SSA) of the Law of Sines and the geometric conditions leading to zero, one, or two possible triangles.
+[T01-Q009] In △ABC, given A = 30°, a = 6, and b = 10, determine the height h = b sin A and state the number of possible triangles.
+[T01-Q010] In △ABC, given A = 45°, a = 8√2, and b = 16, determine whether a unique right triangle, two triangles, or no triangle exists.
+[T01-Q011] In △ABC, given A = 30°, a = 8, and b = 10, calculate the two possible angle measures for B.
+[T01-Q012] In △ABC, given A = 60°, a = 14 cm, and b = 12 cm, solve for angle B, angle C, and side c.
+[T01-Q013] In △ABC, given a = 7 cm, b = 9 cm, and included angle C = 48°, use the Law of Cosines to find the length of side c.
+[T01-Q014] In △XYZ, given x = 11 cm, z = 14 cm, and Y = 105°, calculate side y to two decimal places.
+[T01-Q015] In △ABC, given three sides a = 5 cm, b = 7 cm, and c = 8 cm, use the Law of Cosines to calculate the measure of angle C.
+[T01-Q016] In △PQR, given p = 12 cm, q = 15 cm, and r = 20 cm, find the measure of the largest interior angle.
+[T01-Q017] In △DEF, given d = 6 cm, e = 9 cm, and f = 13 cm, determine the measure of the smallest angle.
+[T01-Q018] Explain why the Law of Sines cannot be used as the initial step to solve a triangle given only three side lengths (SSS).
+[T01-Q019] State Heron's Formula for the area of a triangle given three sides a, b, c, and define the semi-perimeter s.
+[T01-Q020] Use Heron's Formula to calculate the area of a triangle with side lengths 9 cm, 12 cm, and 15 cm.
+[T01-Q021] State the trigonometric area formula for a triangle: Area = (1/2)ab sin C. Calculate the area of △ABC with a = 14 cm, b = 10 cm, and C = 54°.
+[T01-Q022] Two ships leave port at the same time. Ship A sails on a bearing of N 40° E at 18 knots, while Ship B sails on a bearing of S 70° E at 22 knots. Find the distance between the two ships after 2 hours.
+[T01-Q023] A surveyor at point C observes two landmarks A and B. The distance CA is 240 m, CB is 310 m, and ∠ACB = 62°. Calculate the distance between the landmarks AB.
+[T01-Q024] A fire lookout tower at A spots smoke on a bearing of N 35° E. Another tower B, located 20 km due East of A, spots the same smoke on a bearing of N 45° W. Find the distance from tower A to the fire.
+[T01-Q025] An airplane flies 150 km on a heading of 050° and then turns and flies 200 km on a heading of 140°. Find the airplane's direct distance and bearing from its starting point.
+[T01-Q026] A radio transmission tower is supported by two guy wires anchored on level ground on opposite sides of the tower. The wires make angles of 48° and 58° with the ground, and the anchors are 65 meters apart. Find the height of the tower.
+[T01-Q027] A 15-meter vertical pole stands on a hillside that slopes downward at an angle of 12° to the horizontal. A guy wire is attached to the top of the pole and anchored 20 meters uphill from the base. Find the length of the wire.
+[T01-Q028] In △ABC, prove that (a - b) / c = (sin A - sin B) / sin C using the Law of Sines.
+[T01-Q029] In △ABC, given a = 15, b = 18, and c = 24, find the length of the median drawn from vertex A to side a.
+[T01-Q030] In △ABC, if sin A / sin B = 2 and cos A / cos B = 1/3, determine the angle measures of the triangle.
+[T01-Q031] A lighthouse at point L detects two sailboats at points P and Q. If LP = 4.2 km, LQ = 6.5 km, and ∠PLQ = 78°, find the distance between the sailboats.
+[T01-Q032] A triangular plot of land has frontage sides measuring 85 m and 110 m meeting at an angle of 72°. Calculate the perimeter and area of the plot.
+[T01-Q033] In △ABC, given A = 52°, B = 68°, and the perimeter is 45 cm, calculate the length of side c.
+[T01-Q034] Solve the oblique triangle ABC completely: A = 102°, b = 5.4 cm, c = 7.2 cm.
+[T01-Q035] Solve the oblique triangle ABC completely: a = 16.5, b = 12.4, c = 21.8.
+[T01-Q036] In △ABC, given A = 38°, a = 12 cm, and b = 15 cm, find both possible values for the perimeter of △ABC.
+[T01-Q037] A tunnel is to be built through a mountain between points A and B. A surveyor measures distances to a point C: CA = 380 m, CB = 520 m, and ∠ACB = 67.5°. Find the length of the tunnel.
+[T01-Q038] A golfer hits a drive 220 yards, but 12° off-line to the right. If the hole was originally 380 yards straight from the tee, how far is the ball from the hole?
+[T01-Q039] Two radar stations 50 km apart track an unidentified aircraft. The angles from the baseline connecting the stations to the aircraft are 42° and 76°. Calculate the distance from each station to the aircraft.
+[T01-Q040] A bridge spans a gorge from point A to point B. From point C located 120 meters down the gorge, the angles ∠CAB = 82° and ∠CBA = 64° are measured. Calculate the span AB.
+[T01-Q041] In an acute triangle, if a² = b² + c² - bc, find the exact measure of angle A in degrees.
+[T01-Q042] In △ABC, if b² + c² < a², prove that angle A is an obtuse angle using the Law of Cosines.
+[T01-Q043] A solar panel is mounted on a roof pitched at 25°. The panel is supported by a 1.2 m prop making an angle of 60° with the roof. Find the length of the solar panel.
+[T01-Q044] A kite is held by two lines anchored 30 meters apart on the ground. The lines make angles of 55° and 70° with the ground. Find the altitude of the kite.
+[T01-Q045] In △ABC, given a = 6, b = 8, and c = 10, verify using the Law of Cosines that angle C is 90°.
+[T01-Q046] Three circles of radii 4 cm, 6 cm, and 8 cm are externally tangent to each other. Find the three interior angles of the triangle formed by connecting their centers.
+[T01-Q047] A search and rescue helicopter flies from base on a course of 120° for 80 km, then changes course to 210° for 60 km. Determine the helicopter's direct distance and return heading to base.
+[T01-Q048] In △ABC, if a cos B = b cos A, prove that △ABC is an isosceles triangle.
+[T01-Q049] Calculate the radius R of the circumscribed circle (circumcircle) of △ABC where a = 14 cm and A = 45° using R = a / (2 sin A).
+[T01-Q050] A crane boom of length 20 m makes an angle of 40° with the horizontal. A 15 m cable hangs from the tip to a load on the ground. Find the distance from the crane base to the load.
+
+==========================================
+TOPIC T02: Translations, reflections, and rotations in the Cartesian plane
+==========================================
+[T02-Q001] Define a geometric transformation in the Cartesian plane and distinguish isometric (rigid) from non-rigid transformations.
+[T02-Q002] Define a translation in the Cartesian plane and state its coordinate mapping notation (x, y) → (x + h, y + k).
+[T02-Q003] Find the image of the point P(-4, 7) under the translation T(x, y) = (x + 6, y - 9).
+[T02-Q004] A triangle with vertices A(1, 2), B(5, 3), and C(3, 7) is translated 4 units left and 5 units up. Find the coordinates of the image vertices A', B', C'.
+[T02-Q005] If the image of point Q(3, -5) under a translation is Q'(-2, 4), determine the translation vector <h, k>.
+[T02-Q006] State the coordinate reflection rules for mapping (x, y) across: a) the x-axis, b) the y-axis, c) the line y = x, d) the line y = -x.
+[T02-Q007] Find the coordinates of the image of point M(-6, 8) after reflection across the x-axis.
+[T02-Q008] Find the coordinates of the image of point N(5, -9) after reflection across the y-axis.
+[T02-Q009] Find the coordinates of the image of point K(-3, 7) after reflection across the line y = x.
+[T02-Q010] Find the coordinates of the image of point L(4, -2) after reflection across the line y = -x.
+[T02-Q011] Find the coordinates of point P(2, 5) after reflection across the vertical line x = 4.
+[T02-Q012] Find the coordinates of point Q(-3, 1) after reflection across the horizontal line y = -2.
+[T02-Q013] Reflect the line segment with endpoints A(-2, 3) and B(4, -1) across the line y = 2. Find the endpoints of the reflected segment.
+[T02-Q014] Define a rotation about the origin and specify the standard convention for positive (counterclockwise) and negative (clockwise) direction.
+[T02-Q015] State the coordinate mapping rules for rotations about the origin (0, 0) by: a) 90° counterclockwise, b) 180°, c) 270° counterclockwise.
+[T02-Q016] Find the coordinates of the image of point P(4, -6) after a 90° counterclockwise rotation about the origin.
+[T02-Q017] Find the coordinates of the image of point Q(-7, 3) after a 180° rotation about the origin.
+[T02-Q018] Find the coordinates of the image of point R(-2, -8) after a 270° counterclockwise rotation about the origin.
+[T02-Q019] Find the coordinates of point A(5, 2) after a 90° clockwise rotation about the point (1, -1).
+[T02-Q020] Find the coordinates of point B(3, 7) after a 180° rotation about the center C(2, 4).
+[T02-Q021] Describe the single transformation equivalent to two consecutive reflections across intersecting perpendicular lines.
+[T02-Q022] Describe the single transformation equivalent to two consecutive reflections across two parallel lines separated by distance d.
+[T02-Q023] A polygon is transformed by first reflecting across the y-axis and then translating by <3, -4>. Find the image of vertex V(-5, 2).
+[T02-Q024] Determine whether the composition of transformations is commutative: compare Translation followed by Reflection versus Reflection followed by Translation.
+[T02-Q025] Define line symmetry (reflectional symmetry) and determine the number of lines of symmetry for an equilateral triangle, a square, and a regular hexagon.
+[T02-Q026] Define rotational symmetry and determine the order and angle of rotational symmetry for a regular pentagon.
+[T02-Q027] A point P(x, y) is rotated 90° counterclockwise about the origin, then translated by <-2, 5>, resulting in P'(3, 8). Find the original coordinates (x, y).
+[T02-Q028] Prove that a translation preserves distance (isometry) by computing the length of segment AB with A(0, 0), B(3, 4) and its image under T(x, y) = (x + 2, y - 1).
+[T02-Q029] Prove that reflection across the line y = x maps the line 2x + 3y = 12 onto 3x + 2y = 12.
+[T02-Q030] Find the equation of the line obtained by reflecting y = 3x - 5 across the x-axis.
+[T02-Q031] Find the equation of the line obtained by reflecting y = -2x + 4 across the y-axis.
+[T02-Q032] Find the image of the circle (x - 2)² + (y + 3)² = 16 after a translation by <-5, 4>.
+[T02-Q033] Find the equation of the circle (x + 1)² + (y - 4)² = 9 after reflection across the line y = x.
+[T02-Q034] A graphic designer rotates a company logo vertex at (6, 0) by 60° counterclockwise about the origin. Use trigonometric rotation formulas to find the new coordinates.
+[T02-Q035] State the general 2D rotation formulas for rotating point (x, y) counterclockwise by angle θ about the origin: x' = x cos θ - y sin θ, y' = x sin θ + y cos θ.
+[T02-Q036] Rotate the point (4, 2) by 45° counterclockwise about the origin. Express the exact image coordinates.
+[T02-Q037] Describe the transformation that maps the parabola y = x² onto y = (x - 3)² + 5.
+[T02-Q038] Describe the transformations that map the parabola y = x² onto y = -(x + 4)² - 2.
+[T02-Q039] Determine the invariant points (fixed points) under: a) reflection across line y = 2x, b) rotation of 180° about (3, -1).
+[T02-Q040] A quadrilateral has vertices P(1, 1), Q(4, 2), R(5, 5), and S(2, 4). Show that it is a parallelogram and find its image under a 90° rotation about the origin.
+[T02-Q041] Find the matrix representation of a reflection across the x-axis and apply it to the vector [3, -7]ᵀ.
+[T02-Q042] Find the matrix representation of a 90° counterclockwise rotation about the origin and apply it to [-4, 2]ᵀ.
+[T02-Q043] Explain what a glide reflection is and provide an example mapping coordinates in the Cartesian plane.
+[T02-Q044] Determine the glide reflection image of point (3, -1) with reflection line y = 0 and translation vector <4, 0>.
+[T02-Q045] Identify which transformations preserve orientation (direct isometries) and which reverse orientation (opposite isometries).
+[T02-Q046] A tessellation pattern is created by repeating a motif using translations <6, 0> and <3, 5.196>. Describe the geometric lattice formed.
+[T02-Q047] Reflect the point (-3, 5) across the line y = 2x + 1 using geometric constructions or coordinate algebra.
+[T02-Q048] A robotic arm end-effector at (8, 4) rotates 30° about its elbow joint at (2, 1). Calculate the new position of the end-effector.
+[T02-Q049] In computer graphics, why are translations, rotations, and reflections represented using homogeneous coordinates (3x3 matrices)?
+[T02-Q050] Given △ABC with vertices A(-2, 1), B(0, 4), and C(3, 2), perform a sequence of transformations: reflect across y-axis, then rotate 180° about origin. Find final coordinates.
+
+==========================================
+TOPIC T03: Central angles, inscribed angles, chords, secants, and tangents
+==========================================
+[T03-Q001] Define a central angle of a circle and state the relationship between the measure of a central angle and its intercepted arc.
+[T03-Q002] Define an inscribed angle of a circle and state the Inscribed Angle Theorem.
+[T03-Q003] In circle O, if central angle ∠AOB = 76°, find the degree measure of minor arc AB and major arc ACB.
+[T03-Q004] In circle O, an inscribed angle ∠PQR intercepts an arc PR measuring 110°. Find m∠PQR.
+[T03-Q005] In circle O, an inscribed angle ∠ABC measures 43°. Find the degree measure of its intercepted arc AC.
+[T03-Q006] State the Inscribed Right Triangle Theorem (Thales' Theorem): prove that an angle inscribed in a semicircle is a right angle.
+[T03-Q007] In circle O, chord AB is a diameter and C is any point on the circle. If m∠BAC = 38°, find m∠ABC.
+[T03-Q008] State the theorem regarding two inscribed angles that intercept the same arc or congruent arcs.
+[T03-Q009] In a circle, inscribed angles ∠ADB and ∠ACB intercept arc AB. If m∠ADB = (3x + 14)° and m∠ACB = (5x - 18)°, find x and m∠ADB.
+[T03-Q010] State the Inscribed Quadrilateral Theorem (Cyclic Quadrilateral Theorem) concerning opposite angles.
+[T03-Q011] Quadrilateral ABCD is inscribed in a circle. If m∠A = 82° and m∠B = 104°, find the measures of ∠C and ∠D.
+[T03-Q012] Inscribed quadrilateral PQRS has m∠P = (2x + 15)° and m∠R = (3x + 35)°. Find the value of x and m∠P.
+[T03-Q013] Define a chord, a secant line, and a tangent line of a circle.
+[T03-Q014] State the Radius-Tangent Theorem regarding the angle between a tangent line and the radius drawn to the point of tangency.
+[T03-Q015] Line AB is tangent to circle O at point P. If radius OP = 5 cm and distance OA = 13 cm, find the length of tangent segment AP.
+[T03-Q016] State the Tangent Segments Theorem (Two-Tangent Theorem) for segments drawn from an external point to a circle.
+[T03-Q017] Two tangent segments PA and PB are drawn to circle O from external point P. If PA = 4x + 7 and PB = 6x - 11, find x and PA.
+[T03-Q018] State the theorem for the angle formed by two intersecting chords inside a circle: Angle = (1/2)(sum of intercepted arcs).
+[T03-Q019] Chords AB and CD intersect inside a circle at point E. If arc AC = 64° and arc BD = 88°, find m∠AEC.
+[T03-Q020] Chords PQ and RS intersect inside a circle at E. If m∠PER = 75° and arc PR = 95°, find the measure of arc QS.
+[T03-Q021] State the theorem for the angle formed by two secants intersecting outside a circle: Angle = (1/2)(difference of intercepted arcs).
+[T03-Q022] Two secants PAB and PCD intersect at external point P. If arc BD = 110° and arc AC = 30°, calculate m∠P.
+[T03-Q023] Two tangents PA and PB touch circle O at A and B, meeting at external point P. If minor arc AB = 130°, find m∠P.
+[T03-Q024] A tangent PA and a secant PBC are drawn from external point P. If arc AC = 140° and arc AB = 50°, find m∠P.
+[T03-Q025] State the Tangent-Chord Theorem for the angle formed by a chord and a tangent at the point of contact.
+[T03-Q026] Tangent line t touches a circle at point T, and chord TS is drawn. If arc TS = 124°, find the measure of the angle between tangent t and chord TS.
+[T03-Q027] State the Intersecting Chords Length Theorem (Chord Segments Theorem): AE · EB = CE · ED.
+[T03-Q028] Chords AB and CD intersect at E. If AE = 4 cm, EB = 9 cm, and CE = 6 cm, find the length of ED.
+[T03-Q029] Chords PQ and RS intersect at E. If PE = x, EQ = x + 3, RE = 2, and ES = 9, solve for x.
+[T03-Q030] State the Secant Segments Length Theorem: PA · PB = PC · PD for secants PAB and PCD from external point P.
+[T03-Q031] Secants PAB and PCD intersect outside a circle at P. If PA = 4 cm, AB = 6 cm, and PC = 5 cm, find the length of secant segment PD and external segment CD.
+[T03-Q032] State the Tangent-Secant Length Theorem: (Tangent Segment)² = (External Secant Segment) · (Entire Secant Segment), or PT² = PA · PB.
+[T03-Q033] Tangent PT touches a circle at T, and secant PAB passes through points A and B. If PA = 4 cm and AB = 12 cm, find the length of tangent PT.
+[T03-Q034] A tangent segment from external point P to a circle measures 12 cm. A secant line from P passes through the center of the circle, with external segment measuring 8 cm. Find the radius of the circle.
+[T03-Q035] State the Perpendicular Bisector of a Chord Theorem: a radius perpendicular to a chord bisects the chord and its arc.
+[T03-Q036] In circle O of radius 10 cm, chord AB is 16 cm long. Find the perpendicular distance from the center O to the chord AB.
+[T03-Q037] In a circle, a chord is 24 cm long and is 5 cm away from the center. Find the radius and diameter of the circle.
+[T03-Q038] Prove that congruent chords in a circle are equidistant from the center of the circle.
+[T03-Q039] Two parallel chords AB and CD lie in a circle of radius 15 cm. If AB = 24 cm and CD = 18 cm and they lie on opposite sides of the center, find the distance between the chords.
+[T03-Q040] Two parallel chords AB and CD of lengths 16 cm and 12 cm lie on the same side of the center in a circle of radius 10 cm. Find the distance between the chords.
+[T03-Q041] In circle O, chords AB and CD are perpendicular and intersect at E. If AE = 2, EB = 6, and CE = 3, find ED and the radius of the circle.
+[T03-Q042] A belt connects two pulleys of radii 12 cm and 4 cm with center distance 20 cm. Find the length of the external common tangent segment.
+[T03-Q043] Two circles with radii 9 cm and 4 cm are externally tangent. Find the length of their common external tangent segment.
+[T03-Q044] Two circles of radii 8 cm and 3 cm have centers 13 cm apart. Find the length of their internal common tangent segment.
+[T03-Q045] A circular arch of a bridge has a span of 30 meters and a central rise (sagitta) of 5 meters. Calculate the radius of the circular arch.
+[T03-Q046] Explain why a line cannot intersect a circle at more than two distinct points.
+[T03-Q047] In a circle, a central angle of 60° subtends a chord of length 8 cm. Find the radius of the circle.
+[T03-Q048] In △ABC circumscribed around a circle, the sides touch the circle at D, E, F. If AD = 5, BE = 7, and CF = 9, find the perimeter of △ABC.
+[T03-Q049] Prove that the angle between two tangents drawn from an external point is supplementary to the central angle subtended by the points of contact.
+[T03-Q050] A round decorative window has 6 equally spaced radial spokes. Find the measure of each central angle and the inscribed angle subtended by one spoke section.
+
+==========================================
+TOPIC T04: Sectors and segments of a circle, and their areas
+==========================================
+[T04-Q001] Define a sector of a circle and state the formula for its area: Area = (θ / 360°) · πr² (where θ is in degrees).
+[T04-Q002] Define arc length and state the formula: s = (θ / 360°) · 2πr.
+[T04-Q003] A circle has a radius of 12 cm. Find the arc length and area of a sector with a central angle of 60° (exact in terms of π).
+[T04-Q004] A circle has a radius of 9 cm. Find the area of a sector with a central angle of 140° to two decimal places.
+[T04-Q005] Find the central angle θ of a sector whose area is 15π cm² in a circle of radius 6 cm.
+[T04-Q006] The perimeter of a sector of a circle of radius 8 cm is 28 cm. Find the arc length and area of the sector.
+[T04-Q007] Define a segment of a circle and explain how its area is calculated: Area of Segment = Area of Sector - Area of Triangle.
+[T04-Q008] A circle has a radius of 6 cm. Find the area of the segment bounded by a chord subtending a central angle of 90°.
+[T04-Q009] In a circle of radius 10 cm, find the exact area of the minor segment subtended by a central angle of 60°.
+[T04-Q010] In a circle of radius 12 cm, find the area of the minor segment subtended by a central angle of 120°.
+[T04-Q011] Explain the difference between a minor segment and a major segment of a circle, and state how to compute the area of a major segment.
+[T04-Q012] Find the area of the major segment corresponding to a minor segment with central angle 90° in a circle of radius 8 cm.
+[T04-Q013] A windshield wiper of length 45 cm sweeps through an angle of 110°. Calculate the area of the windshield cleared by the wiper blade.
+[T04-Q014] A lawn sprinkler sprays water over a radius of 7 meters through an oscillating angle of 135°. Find the area of grass watered.
+[T04-Q015] A pizza of diameter 36 cm is cut into 8 equal slices. Calculate the area and perimeter of a single slice.
+[T04-Q016] A circular target has a bullseye of radius 5 cm surrounded by three concentric rings each 5 cm wide. Find the area of each ring (annulus).
+[T04-Q017] State the formula for the area of an annulus (ring between concentric circles of radii R and r): Area = π(R² - r²).
+[T04-Q018] A circular running track has an inner radius of 30 m and an outer radius of 38 m. Find the surface area of the track.
+[T04-Q019] In a square of side length 14 cm, four quarter-circles of radius 7 cm are removed from the four corners. Find the area of the remaining shaded region.
+[T04-Q020] A square of side length 10 cm is inscribed in a circle. Find the area of the region inside the circle but outside the square.
+[T04-Q021] An equilateral triangle of side length 12 cm is inscribed in a circle. Find the area of the three circular segments outside the triangle.
+[T04-Q022] A circle of radius 6 cm is inscribed in an equilateral triangle. Calculate the area inside the triangle but outside the circle.
+[T04-Q023] Two identical circles of radius 6 cm intersect such that each passes through the center of the other. Find the area of their overlapping lens region.
+[T04-Q024] A goat is tethered by a 6-meter rope to the corner of a rectangular barn measuring 8 m by 10 m. Calculate the total grazing area accessible to the goat.
+[T04-Q025] Referring to Question 24, calculate the grazing area if the rope length is increased to 12 meters.
+[T04-Q026] A circular pendant is designed with a silver sector of central angle 75° and radius 4 cm. Calculate the cost of silver if it costs ₱250 per cm².
+[T04-Q027] Find the exact area of a crescent (lune) formed by two intersecting circular arcs of radii 10 cm and 10√2 cm.
+[T04-Q028] In a circle of radius r, if the perimeter of a sector equals half the circumference of the circle, find the central angle in radians and degrees.
+[T04-Q029] A decorative stained-glass window is in the shape of a Norman window (a rectangle surmounted by a semicircle). If total width is 2 m and total height is 3 m, find its area.
+[T04-Q030] A Gothic arch is formed by two circular arcs of radius equal to the span s = 4 m. Find the area enclosed beneath the Gothic arch.
+[T04-Q031] Find the area of the shaded region between an inscribed regular hexagon of side 8 cm and its circumscribed circle.
+[T04-Q032] In a circle of radius 15 cm, a chord of length 18 cm is drawn. Find the central angle subtended by the chord and the area of the minor segment.
+[T04-Q033] A sector of a circle has an area of 48 cm² and an arc length of 12 cm. Find the radius of the circle and the central angle.
+[T04-Q034] If the radius of a circle is doubled while its central angle is halved, what happens to the area of the sector?
+[T04-Q035] If the central angle of a sector is increased by 20% and the radius is decreased by 10%, find the percentage change in the sector's area.
+[T04-Q036] A highway curve is designed as a circular sector with radius 250 m and central angle 42°. Find the length of the curved roadway section.
+[T04-Q037] A circular clock has an hour hand of length 9 cm and a minute hand of length 12 cm. Find the area swept by the minute hand between 2:00 PM and 2:35 PM.
+[T04-Q038] Find the area swept by the hour hand of the clock in Question 37 between 1:00 PM and 5:00 PM.
+[T04-Q039] Three congruent circles of radius 10 cm are bound tightly by a rubber band. Find the area of the enclosed region between the three circles.
+[T04-Q040] In a circle of radius 8 cm, two perpendicular diameters divide the circle into four quadrants. In each quadrant, a semicircle is drawn on the radius. Find the total area of the four-leaf clover shape formed.
+[T04-Q041] A drainage pipe of diameter 1.2 m has water flowing through it at a depth of 0.3 m. Find the cross-sectional area of the water stream.
+[T04-Q042] Calculate the volume of water in a 10-meter long horizontal cylindrical tank of radius 1 m filled to a depth of 1.5 m.
+[T04-Q043] A folding fan opens to an angle of 150° with paper blades extending from radius 10 cm to radius 25 cm. Calculate the area of paper used.
+[T04-Q044] Find the ratio of the area of an inscribed square to the area of the circumscribed circle.
+[T04-Q045] Find the ratio of the area of an inscribed equilateral triangle to the area of the circumscribed circle.
+[T04-Q046] A coin of radius 1 cm rolls around the outside perimeter of a square of side 4 cm. Find the total area swept by the coin in one full revolution.
+[T04-Q047] In a circle of radius 10 cm, find the area of a sector whose perimeter is equal to the perimeter of a square of side 5 cm.
+[T04-Q048] A floral design consists of 8 congruent circular segments of central angle 45° around a circle of radius 6 cm. Find the total area of the floral petals.
+[T04-Q049] Prove that the area of a sector can be expressed as A = (1/2)r s, where r is the radius and s is the arc length.
+[T04-Q050] An astronomical observatory dome is hemispherical with radius 14 m. A shutter opens a sector of 30° from top to base. Find the area of the open dome aperture.

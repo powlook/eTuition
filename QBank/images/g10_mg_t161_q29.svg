@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">The laws of sines and the laws of cosines. #29</text>
+  
+        <g transform="translate(60, 40)">
+          <!-- Ground -->
+          <line x1="20" y1="250" x2="340" y2="250" stroke="#64748b" stroke-width="3" />
+          <!-- Tower -->
+          <line x1="180" y1="250" x2="180" y2="50" stroke="#e2e8f0" stroke-width="4" />
+          <!-- Wires -->
+          <line x1="40" y1="250" x2="180" y2="50" stroke="#38bdf8" stroke-width="3" />
+          <line x1="320" y1="250" x2="180" y2="50" stroke="#f59e0b" stroke-width="3" />
+          <circle cx="180" cy="50" r="5" fill="#ec4899" />
+          <circle cx="40" cy="250" r="5" fill="#38bdf8" />
+          <circle cx="320" cy="250" r="5" fill="#f59e0b" />
+          <text x="185" y="150" font-family="sans-serif" font-size="14" fill="#e2e8f0" font-weight="bold">h</text>
+          <text x="80" y="140" font-family="sans-serif" font-size="13" fill="#38bdf8" font-weight="bold">Wire 1</text>
+          <text x="260" y="140" font-family="sans-serif" font-size="13" fill="#f59e0b" font-weight="bold">Wire 2</text>
+          <text x="160" y="275" font-family="sans-serif" font-size="13" fill="#94a3b8" font-weight="bold">Ground Baseline</text>
+        </g>
+      
+</svg>

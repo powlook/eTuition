@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+  <defs>
+    <radialGradient id="sphereGradient" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#0284c7" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </radialGradient>
+    <radialGradient id="basketballGrad" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#fb923c" />
+      <stop offset="70%" stop-color="#ea580c" />
+      <stop offset="100%" stop-color="#7c2d12" />
+    </radialGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+
+  <!-- Header Title -->
+  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Triangular Pyramid Volume #31
+  </text>
+
+  <!-- Body Content -->
+  
+      <!-- Base right triangle -->
+      <polygon points="140,270 240,290 200,220" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="2" />
+      <line x1="140" y1="270" x2="200" y2="220" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4,4" />
+      <!-- Right angle marker -->
+      <path d="M 150 265 L 158 272 L 148 277" fill="none" stroke="#f59e0b" stroke-width="1.5" />
+      <!-- Apex -->
+      <circle cx="210" cy="90" r="4" fill="#f59e0b" />
+      <!-- Edges to Apex -->
+      <line x1="210" y1="90" x2="140" y2="270" stroke="#38bdf8" stroke-width="2.5" />
+      <line x1="210" y1="90" x2="240" y2="290" stroke="#38bdf8" stroke-width="2.5" />
+      <line x1="210" y1="90" x2="200" y2="220" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4,4" />
+      <!-- Altitude -->
+      <line x1="210" y1="90" x2="210" y2="260" stroke="#10b981" stroke-width="2" stroke-dasharray="4,4" />
+      <!-- Labels -->
+      <text x="180" y="295" font-family="sans-serif" font-size="12" fill="#e2e8f0" font-weight="bold">a = 8 cm</text>
+      <text x="155" y="240" font-family="sans-serif" font-size="12" fill="#e2e8f0" font-weight="bold">b = 8 cm</text>
+      <text x="218" y="175" font-family="sans-serif" font-size="12" fill="#10b981" font-weight="bold">h = 15 cm</text>
+      <text x="210" y="78" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">Apex</text>
+    
+</svg>

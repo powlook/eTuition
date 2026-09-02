@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">Central angles; inscribed angles; and angles and lengths formed by intersecting chords, secants, and tangents of a circle. #46</text>
+  
+        <g transform="translate(70, 30)">
+          <circle cx="170" cy="150" r="100" fill="rgba(56, 189, 248, 0.08)" stroke="#38bdf8" stroke-width="3" />
+          <!-- Secants from P outside -->
+          <circle cx="310" cy="150" r="5" fill="#ec4899" />
+          <text x="320" y="155" font-family="sans-serif" font-size="15" fill="#ec4899" font-weight="bold">P</text>
+          <!-- Secant 1 -->
+          <line x1="310" y1="150" x2="80" y2="90" stroke="#f59e0b" stroke-width="2.5" />
+          <circle cx="215" cy="125" r="4" fill="#f59e0b" />
+          <circle cx="80" cy="90" r="4" fill="#f59e0b" />
+          <text x="215" y="115" font-family="sans-serif" font-size="13" fill="#f59e0b" font-weight="bold">A</text>
+          <text x="65" y="90" font-family="sans-serif" font-size="13" fill="#f59e0b" font-weight="bold">B</text>
+          <!-- Secant 2 -->
+          <line x1="310" y1="150" x2="100" y2="225" stroke="#10b981" stroke-width="2.5" />
+          <circle cx="230" cy="178" r="4" fill="#10b981" />
+          <circle cx="100" cy="225" r="4" fill="#10b981" />
+          <text x="235" y="195" font-family="sans-serif" font-size="13" fill="#10b981" font-weight="bold">C</text>
+          <text x="85" y="240" font-family="sans-serif" font-size="13" fill="#10b981" font-weight="bold">D</text>
+          <text x="270" y="135" font-family="sans-serif" font-size="12" fill="#ec4899" font-weight="bold">∠P = ½(BD - AC)</text>
+        </g>
+      
+</svg>

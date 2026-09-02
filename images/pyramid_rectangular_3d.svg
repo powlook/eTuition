@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" width="400" height="280">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <rect x="16" y="12" width="368" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="200" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    3D Rectangular Pyramid: V = ⅓ l w h
+  </text>
+
+  <!-- Base Fill -->
+  <polygon points="100,215 280,215 340,165 160,165" fill="rgba(56, 189, 248, 0.12)" />
+
+  <!-- Hidden Base Edges -->
+  <line x1="160" y1="165" x2="340" y2="165" stroke="#64748b" stroke-width="2" stroke-dasharray="5 5" />
+  <line x1="160" y1="165" x2="100" y2="215" stroke="#64748b" stroke-width="2" stroke-dasharray="5 5" />
+
+  <!-- Visible Base Edges -->
+  <line x1="100" y1="215" x2="280" y2="215" stroke="#38bdf8" stroke-width="2.5" />
+  <line x1="280" y1="215" x2="340" y2="165" stroke="#38bdf8" stroke-width="2.5" />
+
+  <!-- Apex and Height Axis -->
+  <line x1="200" y1="55" x2="220" y2="190" stroke="#f59e0b" stroke-width="2" stroke-dasharray="5 5" />
+  <circle cx="200" cy="55" r="5" fill="#f59e0b" />
+  <text x="200" y="45" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">Apex (P)</text>
+  <text x="228" y="130" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">h</text>
+
+  <!-- Hidden Lateral Edge -->
+  <line x1="200" y1="55" x2="160" y2="165" stroke="#64748b" stroke-width="2" stroke-dasharray="5 5" />
+
+  <!-- Visible Lateral Edges -->
+  <line x1="200" y1="55" x2="100" y2="215" stroke="#38bdf8" stroke-width="2.5" />
+  <line x1="200" y1="55" x2="280" y2="215" stroke="#38bdf8" stroke-width="2.5" />
+  <line x1="200" y1="55" x2="340" y2="165" stroke="#38bdf8" stroke-width="2.5" />
+
+  <!-- Dimensions -->
+  <text x="185" y="235" font-family="sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">l (Length)</text>
+  <text x="315" y="198" font-family="sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">w (Width)</text>
+</svg>

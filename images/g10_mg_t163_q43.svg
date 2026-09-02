@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">Central angles; inscribed angles; and angles and lengths formed by intersecting chords, secants, and tangents of a circle. #43</text>
+  
+        <g transform="translate(70, 30)">
+          <!-- Circle -->
+          <circle cx="170" cy="150" r="110" fill="rgba(56, 189, 248, 0.08)" stroke="#38bdf8" stroke-width="3" />
+          <circle cx="170" cy="150" r="4" fill="#e2e8f0" />
+          <text x="175" y="145" font-family="sans-serif" font-size="14" fill="#e2e8f0" font-weight="bold">O</text>
+          <!-- Central Angle AOB -->
+          <line x1="170" y1="150" x2="80" y2="215" stroke="#f59e0b" stroke-width="2.5" />
+          <line x1="170" y1="150" x2="260" y2="215" stroke="#f59e0b" stroke-width="2.5" />
+          <text x="70" y="235" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">A</text>
+          <text x="265" y="235" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">B</text>
+          <!-- Inscribed Angle APB -->
+          <line x1="170" y1="40" x2="80" y2="215" stroke="#10b981" stroke-width="2.5" />
+          <line x1="170" y1="40" x2="260" y2="215" stroke="#10b981" stroke-width="2.5" />
+          <circle cx="170" cy="40" r="4" fill="#10b981" />
+          <text x="165" y="25" font-family="sans-serif" font-size="14" fill="#10b981" font-weight="bold">P</text>
+          <text x="170" y="90" font-family="sans-serif" font-size="12" fill="#10b981" font-weight="bold">½θ</text>
+          <text x="170" y="180" font-family="sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">θ</text>
+        </g>
+      
+</svg>

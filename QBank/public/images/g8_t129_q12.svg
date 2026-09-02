@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  
+  <!-- Header Title -->
+  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Distance between A(-3,-3) and B(5,1)
+  </text>
+
+  <!-- Grid Lines -->
+  <line x1="105" y1="65" x2="105" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="335" x2="435" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="124.28571428571429" y1="65" x2="124.28571428571429" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="315.7142857142857" x2="435" y2="315.7142857142857" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="143.57142857142858" y1="65" x2="143.57142857142858" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="296.42857142857144" x2="435" y2="296.42857142857144" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="162.85714285714286" y1="65" x2="162.85714285714286" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="277.1428571428571" x2="435" y2="277.1428571428571" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="182.14285714285714" y1="65" x2="182.14285714285714" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="257.85714285714283" x2="435" y2="257.85714285714283" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="201.42857142857144" y1="65" x2="201.42857142857144" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="238.57142857142856" x2="435" y2="238.57142857142856" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="220.71428571428572" y1="65" x2="220.71428571428572" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="219.28571428571428" x2="435" y2="219.28571428571428" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="259.2857142857143" y1="65" x2="259.2857142857143" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="180.71428571428572" x2="435" y2="180.71428571428572" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="278.57142857142856" y1="65" x2="278.57142857142856" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="161.42857142857144" x2="435" y2="161.42857142857144" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="297.85714285714283" y1="65" x2="297.85714285714283" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="142.14285714285714" x2="435" y2="142.14285714285714" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="317.1428571428571" y1="65" x2="317.1428571428571" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="122.85714285714286" x2="435" y2="122.85714285714286" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="336.42857142857144" y1="65" x2="336.42857142857144" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="103.57142857142858" x2="435" y2="103.57142857142858" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="355.7142857142857" y1="65" x2="355.7142857142857" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="84.28571428571429" x2="435" y2="84.28571428571429" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="375" y1="65" x2="375" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="65" x2="435" y2="65" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" />
+
+  <!-- Axes -->
+  <!-- X-Axis -->
+  <line x1="45" y1="200" x2="435" y2="200" stroke="#e2e8f0" stroke-width="2" />
+  <polygon points="435,200 427,196 427,204" fill="#e2e8f0" />
+  <text x="447" y="204" font-family="system-ui" font-size="12" font-weight="bold" fill="#e2e8f0">X</text>
+
+  <!-- Y-Axis -->
+  <line x1="240" y1="335" x2="240" y2="65" stroke="#e2e8f0" stroke-width="2" />
+  <polygon points="240,65 236,73 244,73" fill="#e2e8f0" />
+  <text x="240" y="57" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="bold" fill="#e2e8f0">Y</text>
+
+  <!-- Axis Ticks & Numbers -->
+  <text x="105" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-7</text><text x="228" y="339" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-7</text><text x="124.28571428571429" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-6</text><text x="228" y="319.7142857142857" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-6</text><text x="143.57142857142858" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-5</text><text x="228" y="300.42857142857144" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-5</text><text x="162.85714285714286" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-4</text><text x="228" y="281.1428571428571" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-4</text><text x="182.14285714285714" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-3</text><text x="228" y="261.85714285714283" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-3</text><text x="201.42857142857144" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-2</text><text x="228" y="242.57142857142856" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-2</text><text x="220.71428571428572" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-1</text><text x="228" y="223.28571428571428" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-1</text><text x="259.2857142857143" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">1</text><text x="228" y="184.71428571428572" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">1</text><text x="278.57142857142856" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">2</text><text x="228" y="165.42857142857144" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">2</text><text x="297.85714285714283" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">3</text><text x="228" y="146.14285714285714" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">3</text><text x="317.1428571428571" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">4</text><text x="228" y="126.85714285714286" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">4</text><text x="336.42857142857144" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">5</text><text x="228" y="107.57142857142858" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">5</text><text x="355.7142857142857" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">6</text><text x="228" y="88.28571428571429" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">6</text><text x="375" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">7</text><text x="228" y="69" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">7</text>
+
+  <!-- Origin (0,0) label -->
+  <text x="232" y="214" font-family="system-ui" font-size="10" fill="#94a3b8">0</text>
+
+  <!-- Dynamic Shape Overlay -->
+  
+      <!-- Right triangle legs for distance -->
+      <line x1="182.14285714285714" y1="257.85714285714283" x2="336.42857142857144" y2="257.85714285714283" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4,4" />
+      <line x1="336.42857142857144" y1="257.85714285714283" x2="336.42857142857144" y2="180.71428571428572" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4,4" />
+      
+      <!-- Right angle symbol -->
+      <rect x="326.42857142857144" y="247.85714285714283" width="10" height="10" fill="none" stroke="#94a3b8" stroke-width="1" />
+
+      <!-- Hypotenuse Segment AB -->
+      <line x1="182.14285714285714" y1="257.85714285714283" x2="336.42857142857144" y2="180.71428571428572" stroke="#38bdf8" stroke-width="3" />
+
+      <!-- Point A -->
+      <circle cx="182.14285714285714" cy="257.85714285714283" r="5" fill="#38bdf8" />
+      <text x="170.14285714285714" y="249.85714285714283" font-family="sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">A(-3, -3)</text>
+
+      <!-- Point B -->
+      <circle cx="336.42857142857144" cy="180.71428571428572" r="5" fill="#38bdf8" />
+      <text x="344.42857142857144" y="172.71428571428572" font-family="sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">B(5, 1)</text>
+
+      <!-- Distance Label -->
+      <rect x="224.28571428571428" y="197.28571428571428" width="70" height="20" rx="4" fill="rgba(15, 23, 42, 0.9)" stroke="#38bdf8" stroke-width="1" />
+      <text x="259.2857142857143" y="211.28571428571428" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">d = \sqrt{80}</text>
+    
+</svg>

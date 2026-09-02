@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">Quadratic inequalities in one variable and in two variables. #8</text>
+  
+        <g transform="translate(60, 40)">
+          <line x1="20" y1="140" x2="340" y2="140" stroke="#475569" stroke-width="2" />
+          <line x1="180" y1="20" x2="180" y2="260" stroke="#475569" stroke-width="2" />
+          <!-- Parabola Curve -->
+          <path d="M 60,30 Q 180,240 300,30" fill="none" stroke="#ec4899" stroke-width="3" />
+          <!-- Shaded Region Inside Parabola -->
+          <path d="M 60,30 Q 180,240 300,30 Z" fill="rgba(236, 72, 153, 0.2)" />
+          <circle cx="180" cy="135" r="5" fill="#f59e0b" />
+          <text x="190" y="130" font-family="sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">Test Point (0,0)</text>
+          <text x="180" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ec4899" font-weight="bold">y &gt; ax² + bx + c</text>
+        </g>
+      
+</svg>

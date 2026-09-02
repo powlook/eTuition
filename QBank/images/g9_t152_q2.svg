@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+
+  <!-- Header Title -->
+  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Triangle theorems and triangle inequality theorems. #2
+  </text>
+
+  <!-- Body Content -->
+  
+      <g transform="translate(110, 80)">
+        <polygon points="0,180 240,180 100,30" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="3" />
+        <line x1="50" y1="105" x2="170" y2="105" stroke="#f59e0b" stroke-width="3" />
+        <circle cx="50" cy="105" r="4" fill="#f59e0b" />
+        <circle cx="170" cy="105" r="4" fill="#f59e0b" />
+        <text x="110" y="95" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">Midsegment DE = ½ BC</text>
+        <text x="120" y="205" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#38bdf8" font-weight="bold">Base BC</text>
+      </g>
+    
+</svg>

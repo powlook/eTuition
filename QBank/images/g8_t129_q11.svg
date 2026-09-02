@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  
+  <!-- Header Title -->
+  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Point P(-4, 4) Quadrant Location
+  </text>
+
+  <!-- Grid Lines -->
+  <line x1="105" y1="65" x2="105" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="335" x2="435" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="127.5" y1="65" x2="127.5" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="312.5" x2="435" y2="312.5" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="150" y1="65" x2="150" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="290" x2="435" y2="290" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="172.5" y1="65" x2="172.5" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="267.5" x2="435" y2="267.5" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="195" y1="65" x2="195" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="245" x2="435" y2="245" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="217.5" y1="65" x2="217.5" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="222.5" x2="435" y2="222.5" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="262.5" y1="65" x2="262.5" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="177.5" x2="435" y2="177.5" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="285" y1="65" x2="285" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="155" x2="435" y2="155" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="307.5" y1="65" x2="307.5" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="132.5" x2="435" y2="132.5" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="330" y1="65" x2="330" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="110" x2="435" y2="110" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="352.5" y1="65" x2="352.5" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="87.5" x2="435" y2="87.5" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="375" y1="65" x2="375" y2="335" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" /><line x1="45" y1="65" x2="435" y2="65" stroke="rgba(148, 163, 184, 0.15)" stroke-width="1" />
+
+  <!-- Axes -->
+  <!-- X-Axis -->
+  <line x1="45" y1="200" x2="435" y2="200" stroke="#e2e8f0" stroke-width="2" />
+  <polygon points="435,200 427,196 427,204" fill="#e2e8f0" />
+  <text x="447" y="204" font-family="system-ui" font-size="12" font-weight="bold" fill="#e2e8f0">X</text>
+
+  <!-- Y-Axis -->
+  <line x1="240" y1="335" x2="240" y2="65" stroke="#e2e8f0" stroke-width="2" />
+  <polygon points="240,65 236,73 244,73" fill="#e2e8f0" />
+  <text x="240" y="57" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="bold" fill="#e2e8f0">Y</text>
+
+  <!-- Axis Ticks & Numbers -->
+  <text x="105" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-6</text><text x="228" y="339" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-6</text><text x="127.5" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-5</text><text x="228" y="316.5" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-5</text><text x="150" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-4</text><text x="228" y="294" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-4</text><text x="172.5" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-3</text><text x="228" y="271.5" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-3</text><text x="195" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-2</text><text x="228" y="249" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-2</text><text x="217.5" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">-1</text><text x="228" y="226.5" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">-1</text><text x="262.5" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">1</text><text x="228" y="181.5" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">1</text><text x="285" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">2</text><text x="228" y="159" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">2</text><text x="307.5" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">3</text><text x="228" y="136.5" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">3</text><text x="330" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">4</text><text x="228" y="114" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">4</text><text x="352.5" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">5</text><text x="228" y="91.5" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">5</text><text x="375" y="215" text-anchor="middle" font-family="system-ui" font-size="10" fill="#64748b">6</text><text x="228" y="69" text-anchor="end" font-family="system-ui" font-size="10" fill="#64748b">6</text>
+
+  <!-- Origin (0,0) label -->
+  <text x="232" y="214" font-family="system-ui" font-size="10" fill="#94a3b8">0</text>
+
+  <!-- Dynamic Shape Overlay -->
+  
+      <!-- Projections -->
+      <line x1="150" y1="200" x2="150" y2="110" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4,4" />
+      <line x1="240" y1="110" x2="150" y2="110" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4,4" />
+
+      <!-- Quadrant Badges -->
+      <text x="337.5" y="132.5" text-anchor="middle" font-size="16" font-weight="bold" fill="rgba(56, 189, 248, 0.25)">QI</text>
+      <text x="142.5" y="132.5" text-anchor="middle" font-size="16" font-weight="bold" fill="rgba(56, 189, 248, 0.25)">QII</text>
+      <text x="142.5" y="267.5" text-anchor="middle" font-size="16" font-weight="bold" fill="rgba(56, 189, 248, 0.25)">QIII</text>
+      <text x="337.5" y="267.5" text-anchor="middle" font-size="16" font-weight="bold" fill="rgba(56, 189, 248, 0.25)">QIV</text>
+
+      <!-- Point P -->
+      <circle cx="150" cy="110" r="6" fill="#f59e0b" stroke="#ffffff" stroke-width="2" />
+      <rect x="158" y="86" width="70" height="22" rx="4" fill="rgba(15, 23, 42, 0.85)" stroke="#f59e0b" stroke-width="1" />
+      <text x="193" y="101" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#f59e0b">P(-4, 4)</text>
+    
+</svg>

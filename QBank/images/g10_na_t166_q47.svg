@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">Absolute value equations and inequalities in one variable and their graphs. #47</text>
+  
+        <g transform="translate(60, 60)">
+          <line x1="20" y1="120" x2="340" y2="120" stroke="#475569" stroke-width="3" />
+          <line x1="180" y1="120" x2="180" y2="120" stroke="#38bdf8" stroke-width="6" />
+          <line x1="80" y1="120" x2="280" y2="120" stroke="#10b981" stroke-width="6" />
+          <circle cx="180" cy="120" r="6" fill="#f59e0b" />
+          <circle cx="80" cy="120" r="6" fill="#10b981" />
+          <circle cx="280" cy="120" r="6" fill="#10b981" />
+          <text x="180" y="95" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">Center c</text>
+          <text x="80" y="155" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#10b981" font-weight="bold">c - r</text>
+          <text x="280" y="155" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#10b981" font-weight="bold">c + r</text>
+          <text x="180" y="185" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">Tolerance Interval: |x - c| ≤ r</text>
+        </g>
+      
+</svg>

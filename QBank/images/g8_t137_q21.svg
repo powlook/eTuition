@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+
+  <!-- Header Title -->
+  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Right Triangle Hypotenuse #21
+  </text>
+
+  <!-- Body Content -->
+  
+      <g transform="translate(110, 80)">
+        <polygon points="0,200 240,200 0,20" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="2.5" />
+        <!-- Right angle marker -->
+        <rect x="0" y="180" width="20" height="20" fill="none" stroke="#f59e0b" stroke-width="2" />
+        <!-- Labels -->
+        <text x="120" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0" font-weight="bold">b = 12 cm</text>
+        <text x="-35" y="110" font-family="sans-serif" font-size="13" fill="#e2e8f0" font-weight="bold">a = 9 cm</text>
+        <text x="135" y="100" font-family="sans-serif" font-size="14" fill="#10b981" font-weight="bold">c = ? (15 cm)</text>
+        <text x="-15" y="215" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">C</text>
+        <text x="-15" y="15" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">A</text>
+        <text x="250" y="215" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">B</text>
+      </g>
+    
+</svg>

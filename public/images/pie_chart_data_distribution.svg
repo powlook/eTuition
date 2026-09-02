@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" rx="16" fill="url(#bgGrad2)" stroke="#334155" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="300" y="38" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="700" fill="#f8fafc" text-anchor="middle">Student Favorite Subject Distribution (N = 200)</text>
+  
+  <!-- Pie Chart Group Center at (200, 185), Radius = 110 -->
+  <!-- Sector 1: Math (30%, 108 deg: 0 to 108 deg) -->
+  <path d="M 200 185 L 310 185 A 110 110 0 0 1 166.0 289.6 Z" fill="#6366f1" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector 2: Science (25%, 90 deg: 108 to 198 deg) -->
+  <path d="M 200 185 L 166.0 289.6 A 110 110 0 0 1 95.4 151.0 Z" fill="#38bdf8" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector 3: English (20%, 72 deg: 198 to 270 deg) -->
+  <path d="M 200 185 L 95.4 151.0 A 110 110 0 0 1 200 75 Z" fill="#34d399" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector 4: History (15%, 54 deg: 270 to 324 deg) -->
+  <path d="M 200 185 L 200 75 A 110 110 0 0 1 289.0 120.3 Z" fill="#facc15" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector 5: Art (10%, 36 deg: 324 to 360 deg) -->
+  <path d="M 200 185 L 289.0 120.3 A 110 110 0 0 1 310 185 Z" fill="#f43f5e" stroke="#0f172a" stroke-width="2"/>
+  
+  <!-- Sector Inner Text Labels -->
+  <text x="252" y="240" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Math (108°)</text>
+  <text x="135" y="210" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Science (90°)</text>
+  <text x="135" y="125" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#ffffff">English (72°)</text>
+  <text x="225" y="112" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" fill="#ffffff">Hist (54°)</text>
+  
+  <!-- Legend Panel -->
+  <rect x="360" y="85" width="200" height="200" rx="12" fill="#1e293b" fill-opacity="0.8" stroke="#475569" stroke-width="1.5"/>
+  <text x="460" y="112" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700" fill="#f8fafc" text-anchor="middle">Legend &amp; Angles</text>
+  <line x1="375" y1="122" x2="545" y2="122" stroke="#334155" stroke-width="1"/>
+  
+  <rect x="380" y="135" width="16" height="16" rx="4" fill="#6366f1"/>
+  <text x="406" y="148" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#e2e8f0">Math: 60 (108°)</text>
+  
+  <rect x="380" y="165" width="16" height="16" rx="4" fill="#38bdf8"/>
+  <text x="406" y="178" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#e2e8f0">Science: 50 (90°)</text>
+  
+  <rect x="380" y="195" width="16" height="16" rx="4" fill="#34d399"/>
+  <text x="406" y="208" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#e2e8f0">English: 40 (72°)</text>
+  
+  <rect x="380" y="225" width="16" height="16" rx="4" fill="#facc15"/>
+  <text x="406" y="238" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#e2e8f0">History: 30 (54°)</text>
+  
+  <rect x="380" y="255" width="16" height="16" rx="4" fill="#f43f5e"/>
+  <text x="406" y="268" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" fill="#e2e8f0">Art: 20 (36°)</text>
+</svg>

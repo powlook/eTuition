@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <!-- Background -->
+  <rect width="480" height="360" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
+  <!-- Title Header -->
+  <rect x="0" y="0" width="480" height="40" rx="12" fill="#1e293b"/>
+  <text x="20" y="25" font-size="14" fill="#38bdf8" font-weight="600">The laws of sines and the laws of cosines. #32</text>
+  
+        <g transform="translate(60, 40)">
+          <polygon points="40,240 320,240 220,50" fill="rgba(56, 189, 248, 0.12)" stroke="#38bdf8" stroke-width="3" />
+          <circle cx="40" cy="240" r="5" fill="#f59e0b" />
+          <circle cx="320" cy="240" r="5" fill="#10b981" />
+          <circle cx="220" cy="50" r="5" fill="#ec4899" />
+          <text x="20" y="260" font-family="sans-serif" font-size="16" fill="#f59e0b" font-weight="bold">A</text>
+          <text x="330" y="260" font-family="sans-serif" font-size="16" fill="#10b981" font-weight="bold">B</text>
+          <text x="220" y="35" font-family="sans-serif" font-size="16" fill="#ec4899" font-weight="bold">C</text>
+          <text x="280" y="145" font-family="sans-serif" font-size="14" fill="#e2e8f0" font-weight="bold">a</text>
+          <text x="115" y="145" font-family="sans-serif" font-size="14" fill="#e2e8f0" font-weight="bold">b</text>
+          <text x="180" y="265" font-family="sans-serif" font-size="14" fill="#e2e8f0" font-weight="bold">c</text>
+        </g>
+      
+</svg>

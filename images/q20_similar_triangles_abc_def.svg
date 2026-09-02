@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <rect x="16" y="12" width="388" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
+  <text x="210" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
+    Q20: Similar Triangles (ΔABC ~ ΔDEF)
+  </text>
+
+  <!-- Triangle ABC (small): A(40,180), B(90,80), C(160,180) -->
+  <polygon points="40,180 90,80 160,180" fill="rgba(56, 189, 248, 0.08)" stroke="#38bdf8" stroke-width="2.5" />
+  <text x="30" y="195" font-family="sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">A</text>
+  <text x="90" y="65" font-family="sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">B</text>
+  <text x="170" y="195" font-family="sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">C</text>
+  <text x="50" y="125" font-family="sans-serif" font-size="12" fill="#e2e8f0">3.8</text>
+  <text x="135" y="125" font-family="sans-serif" font-size="12" fill="#e2e8f0">4.8</text>
+  <text x="100" y="200" font-family="sans-serif" font-size="12" fill="#e2e8f0">6</text>
+
+  <!-- Triangle DEF (large): D(240,50), E(380,180), F(240,180) -->
+  <polygon points="240,50 380,180 240,180" fill="rgba(245, 158, 11, 0.08)" stroke="#f59e0b" stroke-width="2.5" />
+  <text x="230" y="45" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">D</text>
+  <text x="390" y="195" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">E</text>
+  <text x="230" y="195" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">F</text>
+  <text x="220" y="115" font-family="sans-serif" font-size="12" fill="#e2e8f0">9</text>
+  <text x="320" y="115" font-family="sans-serif" font-size="12" fill="#f59e0b">x</text>
+</svg>
