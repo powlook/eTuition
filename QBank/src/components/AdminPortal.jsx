@@ -32,6 +32,14 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
   const [loading, setLoading] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [editingQuestion, setEditingQuestion] = useState(null);
+  const modalContentRef = React.useRef(null);
+
+  useEffect(() => {
+    if (isModalOpen) {
+      if (modalContentRef.current) modalContentRef.current.scrollTop = 0;
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    }
+  }, [isModalOpen]);
 
   // Content Curriculum & Content Standard Filters State
   const [adminFormLevel, setAdminFormLevel] = useState(activeFormLevel || '');
@@ -719,7 +727,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
       {/* Create / Edit Modal */}
       {isModalOpen && (
         <div className="modal-overlay">
-          <div className="modal-content animate-fade-in" id="admin-question-modal">
+          <div className="modal-content animate-fade-in" ref={modalContentRef} id="admin-question-modal">
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.25rem' }}>
               <h3 style={{ fontSize: '1.25rem', fontWeight: '800' }}>
                 {editingQuestion ? `Edit Question #${editingQuestion.id}` : 'Create New Math Question'}
