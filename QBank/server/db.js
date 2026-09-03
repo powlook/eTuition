@@ -35,6 +35,73 @@ if (fs.existsSync(questionsJsonPath)) {
   } catch (err) {}
 }
 
+function getFilteredQuestions(sql, params = []) {
+  let list = [...fallbackQuestions];
+
+  // Map topics metadata onto question items
+  const topicMap = new Map(fallbackTopics.map(t => [t.id, t]));
+  list = list.map(q => {
+    const t = topicMap.get(q.topic_id);
+    return {
+      ...q,
+      topic_title: t ? t.title : `Topic ${q.topic_id}`,
+      form_level: t ? t.form_level : 6,
+      strand: t ? t.strand : 'Measurement and Geometry'
+    };
+  });
+
+  let limit = null;
+  let offset = 0;
+  let filterParams = [...params];
+
+  if (sql.includes('LIMIT ? OFFSET ?') && filterParams.length >= 2) {
+    offset = Number(filterParams.pop()) || 0;
+    const lVal = Number(filterParams.pop());
+    limit = !isNaN(lVal) && lVal > 0 ? lVal : null;
+  } else if (sql.includes('LIMIT ?') && filterParams.length >= 1) {
+    const lVal = Number(filterParams.pop());
+    limit = !isNaN(lVal) && lVal > 0 ? lVal : null;
+  }
+
+  let paramIdx = 0;
+
+  if ((sql.includes('q.topic_id = ?') || sql.includes('topic_id = ?')) && paramIdx < filterParams.length) {
+    const tid = Number(filterParams[paramIdx++]);
+    if (!isNaN(tid)) {
+      list = list.filter(q => q.topic_id === tid);
+    }
+  }
+
+  if ((sql.includes('t.form_level = ?') || sql.includes('form_level = ?')) && paramIdx < filterParams.length) {
+    const lvl = Number(filterParams[paramIdx++]);
+    if (!isNaN(lvl)) {
+      list = list.filter(q => q.form_level === lvl);
+    }
+  }
+
+  if ((sql.includes('t.strand = ?') || sql.includes('strand = ?')) && paramIdx < filterParams.length) {
+    const st = String(filterParams[paramIdx++]);
+    if (st && st !== 'All Strands') {
+      list = list.filter(q => q.strand === st);
+    }
+  }
+
+  if (sql.includes('LIKE ?') && paramIdx < filterParams.length) {
+    const searchVal = String(filterParams[paramIdx++] || '').replace(/%/g, '').toLowerCase();
+    if ((sql.includes('OR q.question_text LIKE ?') || sql.includes('OR question_text LIKE ?')) && paramIdx < filterParams.length) {
+      paramIdx++;
+    }
+    if (searchVal) {
+      list = list.filter(q =>
+        (q.question_title && q.question_title.toLowerCase().includes(searchVal)) ||
+        (q.question_text && q.question_text.toLowerCase().includes(searchVal))
+      );
+    }
+  }
+
+  return { list, limit, offset };
+}
+
 const db = {
   prepare: (sql) => {
     if (rawDb) {
@@ -44,6 +111,10 @@ const db = {
     }
     return {
       get: (...params) => {
+        if (sql.toLowerCase().includes('count(')) {
+          const { list } = getFilteredQuestions(sql, params);
+          return { count: list.length, total: list.length };
+        }
         if (sql.includes('FROM topics WHERE id = ?')) {
           const id = Number(params[0]);
           return fallbackTopics.find(t => t.id === id) || fallbackTopics[0] || null;
@@ -52,22 +123,16 @@ const db = {
           const lvl = Number(params[0]);
           return fallbackTopics.find(t => t.form_level === lvl) || fallbackTopics[0] || null;
         }
-        if (sql.includes('COUNT(*) as count FROM questions WHERE topic_id = ?')) {
-          const tid = Number(params[0]);
-          return { count: fallbackQuestions.filter(q => q.topic_id === tid).length };
-        }
-        if (sql.includes('COUNT(*) as count FROM questions')) {
-          return { count: fallbackQuestions.length };
-        }
         if (sql.includes('COUNT(*) as count FROM topics')) {
-          return { count: fallbackTopics.length };
+          return { count: fallbackTopics.length, total: fallbackTopics.length };
         }
         if (sql.includes('FROM questions WHERE id = ?')) {
           const id = Number(params[0]);
           return fallbackQuestions.find(q => q.id === id) || fallbackQuestions[0] || null;
         }
         if (sql.includes('FROM questions')) {
-          return fallbackQuestions[0] || null;
+          const { list } = getFilteredQuestions(sql, params);
+          return list[0] || null;
         }
         if (sql.includes('FROM topics')) {
           return fallbackTopics[0] || null;
@@ -89,25 +154,19 @@ const db = {
           return list;
         }
         if (sql.includes('FROM questions')) {
-          let list = [...fallbackQuestions];
-          if (sql.includes('topic_id = ?') && params.length > 0) {
-            const tid = Number(params[0]);
-            list = list.filter(q => q.topic_id === tid);
-          } else if (sql.includes('form_level = ?') && params.length > 0) {
-            const lvl = Number(params[0]);
-            const validTopicIds = fallbackTopics.filter(t => t.form_level === lvl).map(t => t.id);
-            list = list.filter(q => validTopicIds.includes(q.topic_id));
-          }
+          let { list, limit, offset } = getFilteredQuestions(sql, params);
+
           if (sql.includes('RANDOM()') || sql.includes('random()')) {
             for (let i = list.length - 1; i > 0; i--) {
               const j = Math.floor(Math.random() * (i + 1));
               [list[i], list[j]] = [list[j], list[i]];
             }
           }
-          if (sql.includes('LIMIT')) {
-            const limitParam = Number(params[params.length - 1]);
-            const limit = !isNaN(limitParam) && limitParam > 0 ? limitParam : 10;
-            list = list.slice(0, limit);
+
+          if (limit !== null && !isNaN(limit)) {
+            return list.slice(offset, offset + limit);
+          } else if (offset > 0) {
+            return list.slice(offset);
           }
           return list;
         }
