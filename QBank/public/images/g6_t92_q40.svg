@@ -5,21 +5,12 @@
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#f59e0b" />
     </marker>
   </defs>
-  <rect width="100%" height="100%" fill="#0f172a" />
-  <g transform="translate(100, 30)">
-          <!-- Front Face -->
-          <polygon points="20,120 180,120 180,200 20,200" fill="rgba(56, 189, 248, 0.4)" stroke="#38bdf8" stroke-width="3" />
-          <!-- Top Face -->
-          <polygon points="20,120 100,50 260,50 180,120" fill="rgba(56, 189, 248, 0.25)" stroke="#38bdf8" stroke-width="3" />
-          <!-- Right Face -->
-          <polygon points="180,120 260,50 260,130 180,200" fill="rgba(56, 189, 248, 0.55)" stroke="#38bdf8" stroke-width="3" />
-          
-          <!-- Dimensions -->
-          <text x="100" y="220" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">Length l = 10 cm</text>
-          <text x="230" y="185" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">Width w = 5 cm</text>
-          <text x="0" y="165" text-anchor="end" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">Height h = 6 cm</text>
-
-          <text x="140" y="255" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#38bdf8" font-weight="bold">V = l × w × h = 10 × 5 × 6 = 300 cm³</text>
-        </g>
-      
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <g transform="translate(30, 40)">
+  <text x="210" y="15" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#f59e0b" font-weight="bold">Multiaxis Scaling (2l, 3w, 2h)</text>
+  <polygon points="20,120 90,120 90,180 20,180" fill="rgba(245, 158, 11, 0.3)" stroke="#f59e0b" stroke-width="2.5" />
+  <text x="55" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#f59e0b" font-weight="bold">Original (l, w, h)</text>
+  <polygon points="150,50 380,50 380,200 150,200" fill="rgba(236, 72, 153, 0.3)" stroke="#ec4899" stroke-width="3" />
+  <text x="265" y="225" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#ec4899" font-weight="bold">Scaled (2l, 3w, 2h)</text>
+</g>
 </svg>
