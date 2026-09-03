@@ -290,36 +290,73 @@ app.post('/api/admin/questions', (req, res) => {
 });
 
 function saveQuestionDisplaySettings(questionId, showImage, showFormula) {
-  const qid = Number(questionId);
-  const imgVal = showImage ? 1 : 0;
-  const fmlVal = showFormula ? 1 : 0;
+  saveBatchQuestionDisplaySettings([{ id: questionId, show_image: showImage, show_formula: showFormula }]);
+}
 
-  updateFallbackQuestionDisplay(qid, showImage, showFormula);
+function saveBatchQuestionDisplaySettings(settings) {
+  if (!Array.isArray(settings) || settings.length === 0) return;
 
-  try {
-    db.prepare('UPDATE questions SET show_image = ?, show_formula = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?').run(imgVal, fmlVal, qid);
-  } catch (e) {}
+  const updatesMap = new Map();
+  settings.forEach(item => {
+    const qid = Number(item.id);
+    const imgVal = (item.show_image === 1 || item.show_image === '1' || item.show_image === true) ? 1 : 0;
+    const fmlVal = (item.show_formula === 1 || item.show_formula === '1' || item.show_formula === true) ? 1 : 0;
+    updatesMap.set(qid, { imgVal, fmlVal });
+
+    updateFallbackQuestionDisplay(qid, imgVal === 1, fmlVal === 1);
+
+    try {
+      db.prepare('UPDATE questions SET show_image = ?, show_formula = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?').run(imgVal, fmlVal, qid);
+    } catch (e) {}
+  });
 
   const jsonPaths = [
     path.join(__dirname, '..', 'questions.json'),
     path.join(__dirname, '..', '..', 'questions.json'),
-    path.join(__dirname, '..', 'QBank', 'questions.json')
+    path.join(__dirname, '..', 'QBank', 'questions.json'),
+    path.join(__dirname, 'questions.json')
   ];
 
   jsonPaths.forEach(p => {
     if (fs.existsSync(p)) {
       try {
         const qList = JSON.parse(fs.readFileSync(p, 'utf8'));
-        const item = qList.find(x => Number(x.id) === qid);
-        if (item) {
-          item.show_image = imgVal;
-          item.show_formula = fmlVal;
+        let modified = false;
+        qList.forEach(item => {
+          const setting = updatesMap.get(Number(item.id));
+          if (setting) {
+            item.show_image = setting.imgVal;
+            item.show_formula = setting.fmlVal;
+            modified = true;
+          }
+        });
+        if (modified) {
           fs.writeFileSync(p, JSON.stringify(qList, null, 2), 'utf8');
         }
       } catch (err) {}
     }
   });
 }
+
+app.post('/api/questions/batch-display-settings', (req, res) => {
+  try {
+    const { settings } = req.body;
+    saveBatchQuestionDisplaySettings(settings);
+    res.json({ success: true, message: `Display settings saved for ${settings ? settings.length : 0} questions.` });
+  } catch (error) {
+    res.status(500).json({ success: false, message: error.message });
+  }
+});
+
+app.post('/api/admin/questions/batch-display-settings', (req, res) => {
+  try {
+    const { settings } = req.body;
+    saveBatchQuestionDisplaySettings(settings);
+    res.json({ success: true, message: `Display settings saved for ${settings ? settings.length : 0} questions.` });
+  } catch (error) {
+    res.status(500).json({ success: false, message: error.message });
+  }
+});
 
 app.put('/api/questions/:id/display-settings', (req, res) => {
   try {

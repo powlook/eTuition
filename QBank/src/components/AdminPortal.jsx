@@ -55,6 +55,96 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
   const [customFormulasState, setCustomFormulasState] = useState({});
   const [customImagesState, setCustomImagesState] = useState({});
 
+  // Display Settings Save State
+  const [savingSettings, setSavingSettings] = useState(false);
+  const [saveSuccessMsg, setSaveSuccessMsg] = useState('');
+
+  // Mass check / uncheck state for current page
+  const isAllPageFormulasChecked = questions.length > 0 && questions.every(q => {
+    return customFormulasState[q.id] !== undefined
+      ? customFormulasState[q.id]
+      : (q.show_formula !== undefined ? Boolean(q.show_formula) : true);
+  });
+
+  const isAllPageImagesChecked = questions.length > 0 && questions.every(q => {
+    return customImagesState[q.id] !== undefined
+      ? customImagesState[q.id]
+      : (q.show_image !== undefined ? Boolean(q.show_image) : true);
+  });
+
+  const handleMassToggleFormulas = (newVal) => {
+    const updated = { ...customFormulasState };
+    questions.forEach(q => {
+      updated[q.id] = newVal;
+      q.show_formula = newVal ? 1 : 0;
+    });
+    setCustomFormulasState(updated);
+  };
+
+  const handleMassToggleImages = (newVal) => {
+    const updated = { ...customImagesState };
+    questions.forEach(q => {
+      updated[q.id] = newVal;
+      q.show_image = newVal ? 1 : 0;
+    });
+    setCustomImagesState(updated);
+  };
+
+  const handleSaveDisplaySettings = async () => {
+    if (questions.length === 0) return;
+    setSavingSettings(true);
+    setSaveSuccessMsg('');
+
+    const settingsPayload = questions.map(q => {
+      const fmlOn = customFormulasState[q.id] !== undefined
+        ? customFormulasState[q.id]
+        : (q.show_formula !== undefined ? Boolean(q.show_formula) : true);
+      const imgOn = customImagesState[q.id] !== undefined
+        ? customImagesState[q.id]
+        : (q.show_image !== undefined ? Boolean(q.show_image) : true);
+
+      return {
+        id: q.id,
+        show_formula: fmlOn ? 1 : 0,
+        show_image: imgOn ? 1 : 0
+      };
+    });
+
+    try {
+      const res = await fetch('/api/admin/questions/batch-display-settings', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ settings: settingsPayload })
+      });
+      const data = await res.json();
+
+      if (window.location.port !== '6000') {
+        await fetch('http://localhost:6000/api/admin/questions/batch-display-settings', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ settings: settingsPayload })
+        }).catch(() => {});
+      }
+
+      if (data.success) {
+        setSaveSuccessMsg(`✓ Display settings saved successfully for Page ${page} (${settingsPayload.length} questions)!`);
+        setQuestions(prev => prev.map(q => {
+          const match = settingsPayload.find(s => s.id === q.id);
+          return match ? { ...q, show_formula: match.show_formula, show_image: match.show_image } : q;
+        }));
+        if (onRefreshNeeded) onRefreshNeeded();
+        setTimeout(() => setSaveSuccessMsg(''), 4500);
+      } else {
+        alert(`Failed to save settings: ${data.message}`);
+      }
+    } catch (err) {
+      console.error('Failed to save display settings:', err);
+      alert('Failed to save display settings.');
+    } finally {
+      setSavingSettings(false);
+    }
+  };
+
   // Pagination State
   const [page, setPage] = useState(1);
   const [limit, setLimit] = useState(15);
@@ -293,45 +383,62 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
         <div>
           <h2 style={{ fontSize: '1.5rem', fontWeight: '800' }}>Admin Question Bank Management</h2>
           <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
-            Filter by Content Curriculum & Content Standard, edit, search, or bulk-delete questions with LaTeX live preview and graph image support.
+            Filter by Content Curriculum & Content Standard, edit, search, or mass check/uncheck formula & image settings.
           </p>
         </div>
 
         <div style={{ display: 'flex', gap: '1rem', alignItems: 'center', flexWrap: 'wrap' }}>
-          {/* Display Checkbox Toggles */}
+          {/* Display Checkbox Toggles & Save Settings Button */}
           <div
             style={{
               display: 'flex',
               alignItems: 'center',
-              gap: '1rem',
+              gap: '0.85rem',
               padding: '0.45rem 0.85rem',
               background: 'rgba(255, 255, 255, 0.05)',
-              borderRadius: '8px',
-              border: '1px solid var(--border-card)'
+              borderRadius: '12px',
+              border: '1px solid var(--border-card)',
+              flexWrap: 'wrap'
             }}
             id="admin-display-toggles-bar"
           >
-            <label style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', cursor: 'pointer', fontSize: '0.85rem', fontWeight: '600', color: 'var(--text-primary)' }}>
+            <label style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', cursor: 'pointer', fontSize: '0.85rem', fontWeight: '700', color: 'var(--text-primary)' }} title="Mass check or uncheck formulas for all questions on this page">
               <input
                 type="checkbox"
-                checked={showFormulas}
-                onChange={(e) => setShowFormulas(e.target.checked)}
+                checked={isAllPageFormulasChecked}
+                onChange={(e) => handleMassToggleFormulas(e.target.checked)}
                 style={{ cursor: 'pointer', width: '16px', height: '16px', accentColor: 'var(--accent-cyan)' }}
                 id="toggle-show-formulas"
               />
               <span>Show Formulas</span>
             </label>
 
-            <label style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', cursor: 'pointer', fontSize: '0.85rem', fontWeight: '600', color: 'var(--text-primary)' }}>
+            <label style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', cursor: 'pointer', fontSize: '0.85rem', fontWeight: '700', color: 'var(--text-primary)' }} title="Mass check or uncheck images for all questions on this page">
               <input
                 type="checkbox"
-                checked={showImages}
-                onChange={(e) => setShowImages(e.target.checked)}
+                checked={isAllPageImagesChecked}
+                onChange={(e) => handleMassToggleImages(e.target.checked)}
                 style={{ cursor: 'pointer', width: '16px', height: '16px', accentColor: 'var(--accent-cyan)' }}
                 id="toggle-show-images"
               />
               <span>Show Images</span>
             </label>
+
+            <button
+              className="btn-primary"
+              style={{
+                padding: '0.45rem 1rem',
+                fontSize: '0.85rem',
+                background: 'linear-gradient(135deg, #10b981, #059669)',
+                borderColor: '#10b981',
+                boxShadow: '0 4px 12px rgba(16, 185, 129, 0.35)'
+              }}
+              onClick={handleSaveDisplaySettings}
+              disabled={savingSettings}
+              id="admin-save-display-settings-btn"
+            >
+              <Save size={16} /> {savingSettings ? 'Saving...' : 'Save Settings'}
+            </button>
           </div>
 
           <button className="btn-primary" onClick={handleOpenCreateModal} id="admin-create-btn">
@@ -470,6 +577,28 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
           </div>
         )}
 
+        {/* Save Success Alert Banner */}
+        {saveSuccessMsg && (
+          <div
+            style={{
+              padding: '0.75rem 1.25rem',
+              marginBottom: '1rem',
+              background: 'rgba(16, 185, 129, 0.15)',
+              border: '1px solid rgba(16, 185, 129, 0.4)',
+              color: '#34d399',
+              borderRadius: '10px',
+              fontWeight: '700',
+              fontSize: '0.9rem',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.5rem'
+            }}
+            id="save-success-banner"
+          >
+            <span>{saveSuccessMsg}</span>
+          </div>
+        )}
+
         {loading ? (
           <p style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '2rem' }}>Loading questions...</p>
         ) : (
@@ -490,8 +619,32 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                     </th>
                     <th style={{ padding: '0.75rem' }}>ID</th>
                     <th style={{ padding: '0.75rem' }}>Form / Strand</th>
-                    <th style={{ padding: '0.75rem' }}>Title & Formula</th>
-                    <th style={{ padding: '0.75rem' }}>Image / Graph</th>
+                    <th style={{ padding: '0.75rem' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                        <input
+                          type="checkbox"
+                          checked={isAllPageFormulasChecked}
+                          onChange={(e) => handleMassToggleFormulas(e.target.checked)}
+                          style={{ cursor: 'pointer', width: '15px', height: '15px', accentColor: 'var(--accent-cyan)' }}
+                          title="Mass check / uncheck formulas for all questions on this page"
+                          id="header-mass-formula-checkbox"
+                        />
+                        <span>Title & Formula</span>
+                      </div>
+                    </th>
+                    <th style={{ padding: '0.75rem' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                        <input
+                          type="checkbox"
+                          checked={isAllPageImagesChecked}
+                          onChange={(e) => handleMassToggleImages(e.target.checked)}
+                          style={{ cursor: 'pointer', width: '15px', height: '15px', accentColor: 'var(--accent-cyan)' }}
+                          title="Mass check / uncheck images for all questions on this page"
+                          id="header-mass-image-checkbox"
+                        />
+                        <span>Image / Graph</span>
+                      </div>
+                    </th>
                     <th style={{ padding: '0.75rem' }}>Correct Answer</th>
                     <th style={{ padding: '0.75rem', textAlign: 'right' }}>Actions</th>
                   </tr>
@@ -585,12 +738,12 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '0.5rem' }}>
                               <div style={{ fontWeight: '700' }}>{getFormattedQuestionTitle(q.question_title, q.topic_id, q.id)}</div>
                               {q.math_formula && (
-                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer', fontSize: '0.75rem', color: 'var(--text-muted)' }} title="Toggle formula for this question">
+                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer', fontSize: '0.75rem', fontWeight: '600', color: isFormulaVisible ? 'var(--accent-cyan)' : 'var(--text-muted)' }} title="Toggle formula for this individual question">
                                   <input
                                     type="checkbox"
                                     checked={isFormulaVisible}
                                     onChange={(e) => handleToggleFormula(e.target.checked)}
-                                    style={{ width: '13px', height: '13px', cursor: 'pointer' }}
+                                    style={{ width: '14px', height: '14px', cursor: 'pointer' }}
                                     id={`admin-q-formula-${q.id}`}
                                   />
                                   <span>Formula</span>
@@ -606,12 +759,12 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                           <td style={{ padding: '0.75rem' }}>
                             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem', alignItems: 'flex-start' }}>
                               {q.image_url && (
-                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer', fontSize: '0.75rem', color: 'var(--accent-cyan)' }} title="Toggle image preview for this question">
+                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer', fontSize: '0.75rem', fontWeight: '600', color: isImageVisible ? 'var(--accent-green)' : 'var(--text-muted)' }} title="Toggle image preview for this individual question">
                                   <input
                                     type="checkbox"
                                     checked={isImageVisible}
                                     onChange={(e) => handleToggleImage(e.target.checked)}
-                                    style={{ width: '13px', height: '13px', cursor: 'pointer' }}
+                                    style={{ width: '14px', height: '14px', cursor: 'pointer' }}
                                     id={`admin-q-image-${q.id}`}
                                   />
                                   <span>Show Image</span>
