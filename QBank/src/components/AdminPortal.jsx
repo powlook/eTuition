@@ -619,6 +619,8 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                     </th>
                     <th style={{ padding: '0.75rem' }}>ID</th>
                     <th style={{ padding: '0.75rem' }}>Form / Strand</th>
+                    <th style={{ padding: '0.75rem' }}>Question Title</th>
+                    <th style={{ padding: '0.75rem', minWidth: '220px' }}>Question / Problem Statement</th>
                     <th style={{ padding: '0.75rem' }}>
                       <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
                         <input
@@ -629,7 +631,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                           title="Mass check / uncheck formulas for all questions on this page"
                           id="header-mass-formula-checkbox"
                         />
-                        <span>Title & Formula</span>
+                        <span>Formula</span>
                       </div>
                     </th>
                     <th style={{ padding: '0.75rem' }}>
@@ -652,7 +654,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                 <tbody>
                   {questions.length === 0 ? (
                     <tr>
-                      <td colSpan={7} style={{ padding: '2rem', textAlign: 'center', color: 'var(--text-secondary)' }}>
+                      <td colSpan={9} style={{ padding: '2rem', textAlign: 'center', color: 'var(--text-secondary)' }}>
                         No questions found matching the selected filter.
                       </td>
                     </tr>
@@ -734,9 +736,14 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                             <span className="badge badge-form">Form {q.form_level}</span>
                             <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.2rem' }}>{q.strand}</div>
                           </td>
+                          <td style={{ padding: '0.75rem', fontWeight: '700' }}>
+                            {getFormattedQuestionTitle(q.question_title, q.topic_id, q.id)}
+                          </td>
+                          <td style={{ padding: '0.75rem', maxWidth: '300px', fontSize: '0.88rem', color: 'var(--text-primary)' }}>
+                            <MathRenderer content={q.question_text || ''} />
+                          </td>
                           <td style={{ padding: '0.75rem' }}>
-                            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '0.5rem' }}>
-                              <div style={{ fontWeight: '700' }}>{getFormattedQuestionTitle(q.question_title, q.topic_id, q.id)}</div>
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem', alignItems: 'flex-start' }}>
                               {q.math_formula && (
                                 <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer', fontSize: '0.75rem', fontWeight: '600', color: isFormulaVisible ? 'var(--accent-cyan)' : 'var(--text-muted)' }} title="Toggle formula for this individual question">
                                   <input
@@ -749,12 +756,16 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                                   <span>Formula</span>
                                 </label>
                               )}
+                              {isFormulaVisible && q.math_formula ? (
+                                <div style={{ fontSize: '0.85rem', color: 'var(--accent-primary)', marginTop: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(0,0,0,0.2)', borderRadius: '6px' }}>
+                                  <MathRenderer content={`$${q.math_formula}$`} inline />
+                                </div>
+                              ) : (
+                                q.math_formula && (
+                                  <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem', fontStyle: 'italic' }}>Hidden</span>
+                                )
+                              )}
                             </div>
-                            {isFormulaVisible && q.math_formula && (
-                              <div style={{ fontSize: '0.85rem', color: 'var(--accent-primary)', marginTop: '0.25rem' }}>
-                                <MathRenderer content={`$${q.math_formula}$`} inline />
-                              </div>
-                            )}
                           </td>
                           <td style={{ padding: '0.75rem' }}>
                             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem', alignItems: 'flex-start' }}>
