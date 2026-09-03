@@ -5,15 +5,6 @@
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#f59e0b" />
     </marker>
   </defs>
-  <rect width="100%" height="100%" fill="#0f172a" />
-  <g transform="translate(80, 40)">
-          <polygon points="60,40 260,40 200,180 0,180" fill="rgba(168, 85, 247, 0.3)" stroke="#a855f7" stroke-width="3" />
-          <line x1="60" y1="40" x2="60" y2="180" stroke="#ef4444" stroke-width="2.5" stroke-dasharray="5,4" />
-          <rect x="60" y="165" width="15" height="15" fill="none" stroke="#ef4444" stroke-width="1.5" />
-          
-          <text x="100" y="198" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#a855f7" font-weight="bold">Base b = 15 cm</text>
-          <text x="75" y="110" font-family="sans-serif" font-size="14" fill="#ef4444" font-weight="bold">h = 9 cm</text>
-          <text x="130" y="240" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#a855f7" font-weight="bold">Area = b × h = 15 × 9 = 135 cm²</text>
-        </g>
-      
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <g transform="translate(100, 25)"><polygon points="30,100 250,100 140,20" fill="rgba(239, 68, 68, 0.3)" stroke="#ef4444" stroke-width="3" /><text x="140" y="70" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#ef4444" font-weight="bold">Gable Roof: ½ × 8 × 3 = 12 m²</text><rect x="30" y="100" width="220" height="110" fill="rgba(56, 189, 248, 0.25)" stroke="#38bdf8" stroke-width="3" /><text x="140" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">Wall: 8 m × 4 m = 32 m²</text><text x="140" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#10b981" font-weight="bold">Total Facade Surface Area = 32 + 12 = 44 m²</text></g>
 </svg>

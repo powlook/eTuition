@@ -5,16 +5,6 @@
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#f59e0b" />
     </marker>
   </defs>
-  <rect width="100%" height="100%" fill="#0f172a" />
-  <g transform="translate(80, 30)">
-          <polygon points="60,40 220,40 280,180 0,180" fill="rgba(245, 158, 11, 0.3)" stroke="#f59e0b" stroke-width="3" />
-          <line x1="60" y1="40" x2="60" y2="180" stroke="#ef4444" stroke-width="2.5" stroke-dasharray="5,4" />
-          <rect x="60" y="165" width="15" height="15" fill="none" stroke="#ef4444" stroke-width="1.5" />
-          
-          <text x="140" y="30" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">Base a = 10 cm</text>
-          <text x="140" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">Base b = 18 cm</text>
-          <text x="75" y="110" font-family="sans-serif" font-size="14" fill="#ef4444" font-weight="bold">h = 7 cm</text>
-          <text x="140" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">Area = ½ × (a + b) × h = ½ × (10+18) × 7 = 98 cm²</text>
-        </g>
-      
+  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
+  <g transform="translate(60, 40)"><rect x="20" y="20" width="160" height="160" fill="rgba(16, 185, 129, 0.2)" stroke="#10b981" stroke-width="3" /><text x="100" y="95" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#10b981" font-weight="bold">45,000 cm²</text><path d="M 195,100 L 255,100" stroke="#f59e0b" stroke-width="4" marker-end="url(#arrow)" /><text x="225" y="85" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#f59e0b" font-weight="bold">÷ 10,000</text><rect x="270" y="20" width="160" height="160" fill="rgba(56, 189, 248, 0.2)" stroke="#38bdf8" stroke-width="3" /><text x="350" y="95" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#38bdf8" font-weight="bold">4.5 m²</text><text x="180" y="235" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#f59e0b" font-weight="bold">45,000 ÷ 10,000 = 4.5 m²</text></g>
 </svg>
