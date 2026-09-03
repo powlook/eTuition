@@ -325,7 +325,9 @@ app.put('/api/questions/:id/display-settings', (req, res) => {
   try {
     const { id } = req.params;
     const { show_image, show_formula } = req.body;
-    saveQuestionDisplaySettings(id, show_image !== 0 && show_image !== false, show_formula !== 0 && show_formula !== false);
+    const imgOn = show_image === 1 || show_image === '1' || show_image === true;
+    const fmlOn = show_formula === 1 || show_formula === '1' || show_formula === true;
+    saveQuestionDisplaySettings(id, imgOn, fmlOn);
     res.json({ success: true, message: 'Display settings saved successfully' });
   } catch (error) {
     res.status(500).json({ success: false, message: error.message });
