@@ -620,9 +620,9 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                     </th>
                     <th style={{ padding: '0.5rem 0.3rem', width: '55px' }}>ID</th>
                     <th style={{ padding: '0.5rem 0.3rem', width: '105px' }}>Form / Strand</th>
-                    <th style={{ padding: '0.5rem 0.3rem', width: '130px' }}>Question Title</th>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '125px' }}>Question Title</th>
                     <th style={{ padding: '0.5rem 0.4rem', width: '28%' }}>Question / Problem Statement</th>
-                    <th style={{ padding: '0.5rem 0.3rem', width: '165px' }}>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '100px', maxWidth: '100px' }}>
                       <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                         <input
                           type="checkbox"
@@ -635,7 +635,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                         <span>Formula</span>
                       </div>
                     </th>
-                    <th style={{ padding: '0.5rem 0.3rem', width: '95px' }}>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '90px' }}>
                       <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                         <input
                           type="checkbox"
@@ -745,7 +745,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                           <td style={{ padding: '0.5rem 0.4rem', fontSize: '0.82rem', color: 'var(--text-primary)', wordBreak: 'break-word', overflowWrap: 'break-word' }}>
                             <MathRenderer content={q.question_text || ''} />
                           </td>
-                          <td style={{ padding: '0.5rem 0.3rem', width: '165px', maxWidth: '165px', overflow: 'hidden' }}>
+                          <td style={{ padding: '0.5rem 0.3rem', width: '100px', maxWidth: '100px', overflow: 'hidden' }}>
                             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem', alignItems: 'flex-start', width: '100%', maxWidth: '100%' }}>
                               {q.math_formula && (
                                 <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.2rem', cursor: 'pointer', fontSize: '0.72rem', fontWeight: '600', color: isFormulaVisible ? 'var(--accent-cyan)' : 'var(--text-muted)' }} title="Toggle formula for this individual question">
@@ -760,7 +760,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                                 </label>
                               )}
                               {isFormulaVisible && q.math_formula ? (
-                                <div style={{ fontSize: '0.78rem', color: 'var(--accent-primary)', marginTop: '0.2rem', padding: '0.2rem 0.4rem', background: 'rgba(0,0,0,0.25)', borderRadius: '6px', width: '100%', maxWidth: '155px', overflowX: 'auto', scrollbarWidth: 'thin' }}>
+                                <div style={{ fontSize: '0.78rem', color: 'var(--accent-primary)', marginTop: '0.2rem', padding: '0.2rem 0.4rem', background: 'rgba(0,0,0,0.25)', borderRadius: '6px', width: '100%', maxWidth: '90px', overflowX: 'auto', scrollbarWidth: 'thin' }}>
                                   <MathRenderer content={`$${q.math_formula}$`} inline />
                                 </div>
                               ) : (
@@ -806,7 +806,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                               )}
                             </div>
                           </td>
-                        <td style={{ padding: '0.5rem 0.4rem', fontWeight: '600', color: 'var(--accent-amber)', wordBreak: 'break-word', overflowWrap: 'break-word', fontSize: '0.82rem' }}>
+                        <td className="correct-answer-cell" style={{ padding: '0.5rem 0.4rem', fontWeight: '600', color: 'var(--accent-amber)', fontSize: '0.82rem' }}>
                           <MathRenderer content={q.correct_answer} inline />
                         </td>
                         <td style={{ padding: '0.5rem 0.3rem', textAlign: 'right' }}>

@@ -635,4 +635,34 @@ body {
   overflow-y: hidden;
 }
 
+/* Force KaTeX math expressions inside table cells to wrap text onto multiple lines */
+.admin-table td .katex,
+.admin-table td .katex .base,
+.admin-table td .katex .katex-html {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+  display: inline !important;
+}
+
+/* Correct Answer Cell Line Wrapping */
+.correct-answer-cell {
+  word-break: break-word !important;
+  overflow-wrap: anywhere !important;
+  white-space: normal !important;
+}
+
+.correct-answer-cell .katex {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+  display: inline !important;
+}
+
+.correct-answer-cell .katex .base {
+  white-space: normal !important;
+  display: inline !important;
+}
+
+
 
