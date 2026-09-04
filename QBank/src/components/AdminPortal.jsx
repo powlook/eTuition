@@ -118,7 +118,8 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
       });
       const data = await res.json();
 
-      if (window.location.port !== '6000') {
+      const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+      if (isLocalhost && window.location.port !== '6000') {
         await fetch('http://localhost:6000/api/admin/questions/batch-display-settings', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -603,11 +604,11 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
           <p style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '2rem' }}>Loading questions...</p>
         ) : (
           <>
-            <div style={{ overflowX: 'auto' }}>
-              <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.9rem' }}>
+            <div style={{ overflowX: 'auto', borderRadius: '12px' }}>
+              <table className="admin-table" style={{ width: '100%', tableLayout: 'fixed', borderCollapse: 'collapse', fontSize: '0.84rem' }}>
                 <thead>
                   <tr style={{ borderBottom: '1px solid var(--border-card)', textAlign: 'left' }}>
-                    <th style={{ padding: '0.75rem', width: '40px', textAlign: 'center' }}>
+                    <th style={{ padding: '0.5rem 0.2rem', width: '32px', textAlign: 'center' }}>
                       <input
                         type="checkbox"
                         style={{ cursor: 'pointer', width: '16px', height: '16px' }}
@@ -617,12 +618,12 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                         id="admin-select-all-checkbox"
                       />
                     </th>
-                    <th style={{ padding: '0.75rem' }}>ID</th>
-                    <th style={{ padding: '0.75rem' }}>Form / Strand</th>
-                    <th style={{ padding: '0.75rem' }}>Question Title</th>
-                    <th style={{ padding: '0.75rem', minWidth: '220px' }}>Question / Problem Statement</th>
-                    <th style={{ padding: '0.75rem' }}>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '55px' }}>ID</th>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '105px' }}>Form / Strand</th>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '130px' }}>Question Title</th>
+                    <th style={{ padding: '0.5rem 0.4rem', width: '28%' }}>Question / Problem Statement</th>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '165px' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                         <input
                           type="checkbox"
                           checked={isAllPageFormulasChecked}
@@ -634,8 +635,8 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                         <span>Formula</span>
                       </div>
                     </th>
-                    <th style={{ padding: '0.75rem' }}>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '95px' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                         <input
                           type="checkbox"
                           checked={isAllPageImagesChecked}
@@ -644,11 +645,11 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                           title="Mass check / uncheck images for all questions on this page"
                           id="header-mass-image-checkbox"
                         />
-                        <span>Image / Graph</span>
+                        <span>Image</span>
                       </div>
                     </th>
-                    <th style={{ padding: '0.75rem' }}>Correct Answer</th>
-                    <th style={{ padding: '0.75rem', textAlign: 'right' }}>Actions</th>
+                    <th style={{ padding: '0.5rem 0.4rem', width: '22%' }}>Correct Answer</th>
+                    <th style={{ padding: '0.5rem 0.3rem', width: '110px', textAlign: 'right' }}>Actions</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -676,7 +677,8 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                             headers: { 'Content-Type': 'application/json' },
                             body
                           });
-                          if (window.location.port !== '6000') {
+                          const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+                          if (isLocalhost && window.location.port !== '6000') {
                             await fetch(`http://localhost:6000/api/questions/${q.id}/display-settings`, {
                               method: 'PUT',
                               headers: { 'Content-Type': 'application/json' },
@@ -701,7 +703,8 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                             headers: { 'Content-Type': 'application/json' },
                             body
                           });
-                          if (window.location.port !== '6000') {
+                          const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+                          if (isLocalhost && window.location.port !== '6000') {
                             await fetch(`http://localhost:6000/api/questions/${q.id}/display-settings`, {
                               method: 'PUT',
                               headers: { 'Content-Type': 'application/json' },
@@ -722,7 +725,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                           }}
                           id={`admin-row-${q.id}`}
                         >
-                          <td style={{ padding: '0.75rem', textAlign: 'center' }}>
+                          <td style={{ padding: '0.5rem 0.2rem', textAlign: 'center' }}>
                             <input
                               type="checkbox"
                               style={{ cursor: 'pointer', width: '16px', height: '16px' }}
@@ -731,51 +734,51 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                               id={`checkbox-q-${q.id}`}
                             />
                           </td>
-                          <td style={{ padding: '0.75rem', fontWeight: '700', color: 'var(--accent-cyan)' }}>#{q.id}</td>
-                          <td style={{ padding: '0.75rem' }}>
+                          <td style={{ padding: '0.5rem 0.3rem', fontWeight: '700', color: 'var(--accent-cyan)', fontSize: '0.8rem' }}>#{q.id}</td>
+                          <td style={{ padding: '0.5rem 0.3rem', wordBreak: 'break-word' }}>
                             <span className="badge badge-form">Form {q.form_level}</span>
-                            <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.2rem' }}>{q.strand}</div>
+                            <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '0.2rem' }}>{q.strand}</div>
                           </td>
-                          <td style={{ padding: '0.75rem', fontWeight: '700' }}>
+                          <td style={{ padding: '0.5rem 0.3rem', fontWeight: '700', wordBreak: 'break-word', fontSize: '0.8rem' }}>
                             {getFormattedQuestionTitle(q.question_title, q.topic_id, q.id)}
                           </td>
-                          <td style={{ padding: '0.75rem', maxWidth: '300px', fontSize: '0.88rem', color: 'var(--text-primary)' }}>
+                          <td style={{ padding: '0.5rem 0.4rem', fontSize: '0.82rem', color: 'var(--text-primary)', wordBreak: 'break-word', overflowWrap: 'break-word' }}>
                             <MathRenderer content={q.question_text || ''} />
                           </td>
-                          <td style={{ padding: '0.75rem' }}>
-                            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem', alignItems: 'flex-start' }}>
+                          <td style={{ padding: '0.5rem 0.3rem', width: '165px', maxWidth: '165px', overflow: 'hidden' }}>
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem', alignItems: 'flex-start', width: '100%', maxWidth: '100%' }}>
                               {q.math_formula && (
-                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer', fontSize: '0.75rem', fontWeight: '600', color: isFormulaVisible ? 'var(--accent-cyan)' : 'var(--text-muted)' }} title="Toggle formula for this individual question">
+                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.2rem', cursor: 'pointer', fontSize: '0.72rem', fontWeight: '600', color: isFormulaVisible ? 'var(--accent-cyan)' : 'var(--text-muted)' }} title="Toggle formula for this individual question">
                                   <input
                                     type="checkbox"
                                     checked={isFormulaVisible}
                                     onChange={(e) => handleToggleFormula(e.target.checked)}
-                                    style={{ width: '14px', height: '14px', cursor: 'pointer' }}
+                                    style={{ width: '13px', height: '13px', cursor: 'pointer' }}
                                     id={`admin-q-formula-${q.id}`}
                                   />
                                   <span>Formula</span>
                                 </label>
                               )}
                               {isFormulaVisible && q.math_formula ? (
-                                <div style={{ fontSize: '0.85rem', color: 'var(--accent-primary)', marginTop: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(0,0,0,0.2)', borderRadius: '6px' }}>
+                                <div style={{ fontSize: '0.78rem', color: 'var(--accent-primary)', marginTop: '0.2rem', padding: '0.2rem 0.4rem', background: 'rgba(0,0,0,0.25)', borderRadius: '6px', width: '100%', maxWidth: '155px', overflowX: 'auto', scrollbarWidth: 'thin' }}>
                                   <MathRenderer content={`$${q.math_formula}$`} inline />
                                 </div>
                               ) : (
                                 q.math_formula && (
-                                  <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem', fontStyle: 'italic' }}>Hidden</span>
+                                  <span style={{ color: 'var(--text-muted)', fontSize: '0.75rem', fontStyle: 'italic' }}>Hidden</span>
                                 )
                               )}
                             </div>
                           </td>
-                          <td style={{ padding: '0.75rem' }}>
-                            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem', alignItems: 'flex-start' }}>
+                          <td style={{ padding: '0.5rem 0.3rem' }}>
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem', alignItems: 'flex-start' }}>
                               {q.image_url && (
-                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer', fontSize: '0.75rem', fontWeight: '600', color: isImageVisible ? 'var(--accent-green)' : 'var(--text-muted)' }} title="Toggle image preview for this individual question">
+                                <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.2rem', cursor: 'pointer', fontSize: '0.72rem', fontWeight: '600', color: isImageVisible ? 'var(--accent-green)' : 'var(--text-muted)' }} title="Toggle image preview for this individual question">
                                   <input
                                     type="checkbox"
                                     checked={isImageVisible}
                                     onChange={(e) => handleToggleImage(e.target.checked)}
-                                    style={{ width: '14px', height: '14px', cursor: 'pointer' }}
+                                    style={{ width: '13px', height: '13px', cursor: 'pointer' }}
                                     id={`admin-q-image-${q.id}`}
                                   />
                                   <span>Show Image</span>
@@ -787,42 +790,42 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                                     <img
                                       src={q.image_url}
                                       alt={q.image_alt || 'Visual Diagram'}
-                                      style={{ maxHeight: '60px', maxWidth: '120px', borderRadius: '6px', border: '1px solid var(--border-card)', objectFit: 'contain', background: '#0f172a', padding: '2px' }}
+                                      style={{ maxHeight: '45px', maxWidth: '85px', borderRadius: '6px', border: '1px solid var(--border-card)', objectFit: 'contain', background: '#0f172a', padding: '2px' }}
                                     />
-                                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem', color: 'var(--accent-green)', fontSize: '0.75rem' }}>
-                                      <ImageIcon size={12} /> {q.image_alt || 'Attached'}
+                                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.2rem', color: 'var(--accent-green)', fontSize: '0.7rem', wordBreak: 'break-word' }}>
+                                      <ImageIcon size={10} /> {q.image_alt || 'Attached'}
                                     </div>
                                   </>
                                 ) : (
-                                  <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem' }}>None</span>
+                                  <span style={{ color: 'var(--text-muted)', fontSize: '0.75rem' }}>None</span>
                                 )
                               ) : (
-                                <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem', fontStyle: 'italic' }}>
+                                <span style={{ color: 'var(--text-muted)', fontSize: '0.75rem', fontStyle: 'italic' }}>
                                   {q.image_url ? 'Attached (Hidden)' : 'None'}
                                 </span>
                               )}
                             </div>
                           </td>
-                        <td style={{ padding: '0.75rem', fontWeight: '600', color: 'var(--accent-amber)' }}>
+                        <td style={{ padding: '0.5rem 0.4rem', fontWeight: '600', color: 'var(--accent-amber)', wordBreak: 'break-word', overflowWrap: 'break-word', fontSize: '0.82rem' }}>
                           <MathRenderer content={q.correct_answer} inline />
                         </td>
-                        <td style={{ padding: '0.75rem', textAlign: 'right' }}>
-                          <div style={{ display: 'inline-flex', gap: '0.5rem' }}>
+                        <td style={{ padding: '0.5rem 0.3rem', textAlign: 'right' }}>
+                          <div style={{ display: 'inline-flex', gap: '0.3rem' }}>
                             <button
                               className="btn-secondary"
-                              style={{ padding: '0.4rem 0.6rem' }}
+                              style={{ padding: '0.3rem 0.45rem', fontSize: '0.76rem' }}
                               onClick={() => handleOpenEditModal(q)}
                               id={`edit-btn-${q.id}`}
                             >
-                              <Edit3 size={16} /> Edit
+                              <Edit3 size={13} /> Edit
                             </button>
                             <button
                               className="btn-secondary"
-                              style={{ padding: '0.4rem 0.6rem', color: 'var(--accent-rose)', borderColor: 'rgba(244, 63, 94, 0.3)' }}
+                              style={{ padding: '0.3rem 0.45rem', fontSize: '0.76rem', color: 'var(--accent-rose)', borderColor: 'rgba(244, 63, 94, 0.3)' }}
                               onClick={() => handleDelete(q.id)}
                               id={`delete-btn-${q.id}`}
                             >
-                              <Trash2 size={16} /> Delete
+                              <Trash2 size={13} /> Delete
                             </button>
                           </div>
                         </td>

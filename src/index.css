@@ -433,3 +433,39 @@ button {
     grid-template-columns: 1fr;
   }
 }
+
+/* Admin Question Table Formatting */
+.admin-table-wrapper {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-radius: 12px;
+}
+
+.admin-table {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: collapse;
+  font-size: 0.83rem;
+}
+
+.admin-table th,
+.admin-table td {
+  overflow-wrap: break-word;
+  word-break: break-word;
+  box-sizing: border-box;
+}
+
+.admin-table .katex-display,
+.admin-table .katex {
+  max-width: 100% !important;
+  font-size: 0.88em !important;
+}
+
+.admin-table .katex-html {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+

@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const dbPath = path.join(__dirname, 'qbank.db');
-const isVercel = Boolean(process.env.VERCEL);
+const isVercel = Boolean(process.env.VERCEL) || Boolean(process.env.USE_SERVERLESS) || Boolean(process.env.SERVERLESS);
 
 let rawDb = null;
 if (!isVercel) {
