@@ -622,7 +622,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                     <th style={{ padding: '0.5rem 0.3rem', width: '105px' }}>Form / Strand</th>
                     <th style={{ padding: '0.5rem 0.3rem', width: '125px' }}>Question Title</th>
                     <th style={{ padding: '0.5rem 0.4rem', width: '28%' }}>Question / Problem Statement</th>
-                    <th style={{ padding: '0.5rem 0.3rem', width: '100px', maxWidth: '100px' }}>
+                    <th className="formula-cell" style={{ padding: '0.5rem 0.3rem', width: '100px', minWidth: '100px', maxWidth: '100px', boxSizing: 'border-box' }}>
                       <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
                         <input
                           type="checkbox"
@@ -745,8 +745,8 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                           <td style={{ padding: '0.5rem 0.4rem', fontSize: '0.82rem', color: 'var(--text-primary)', wordBreak: 'break-word', overflowWrap: 'break-word' }}>
                             <MathRenderer content={q.question_text || ''} />
                           </td>
-                          <td style={{ padding: '0.5rem 0.3rem', width: '100px', maxWidth: '100px', overflow: 'hidden' }}>
-                            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem', alignItems: 'flex-start', width: '100%', maxWidth: '100%' }}>
+                          <td className="formula-cell" style={{ padding: '0.5rem 0.3rem', width: '100px', minWidth: '100px', maxWidth: '100px', overflow: 'hidden', boxSizing: 'border-box' }}>
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem', alignItems: 'flex-start', width: '100%', maxWidth: '100%', overflow: 'hidden', boxSizing: 'border-box' }}>
                               {q.math_formula && (
                                 <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.2rem', cursor: 'pointer', fontSize: '0.72rem', fontWeight: '600', color: isFormulaVisible ? 'var(--accent-cyan)' : 'var(--text-muted)' }} title="Toggle formula for this individual question">
                                   <input
@@ -760,7 +760,7 @@ export default function AdminPortal({ activeFormLevel, topics, onRefreshNeeded, 
                                 </label>
                               )}
                               {isFormulaVisible && q.math_formula ? (
-                                <div style={{ fontSize: '0.78rem', color: 'var(--accent-primary)', marginTop: '0.2rem', padding: '0.2rem 0.4rem', background: 'rgba(0,0,0,0.25)', borderRadius: '6px', width: '100%', maxWidth: '90px', overflowX: 'auto', scrollbarWidth: 'thin' }}>
+                                <div className="formula-container" style={{ fontSize: '0.78rem', color: 'var(--accent-primary)', marginTop: '0.2rem', padding: '0.2rem 0.4rem', background: 'rgba(0,0,0,0.25)', borderRadius: '6px', width: '100%', maxWidth: '94px', overflowX: 'auto', scrollbarWidth: 'thin', boxSizing: 'border-box' }}>
                                   <MathRenderer content={`$${q.math_formula}$`} inline />
                                 </div>
                               ) : (

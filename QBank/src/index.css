@@ -635,14 +635,30 @@ body {
   overflow-y: hidden;
 }
 
-/* Force KaTeX math expressions inside table cells to wrap text onto multiple lines */
-.admin-table td .katex,
-.admin-table td .katex .base,
-.admin-table td .katex .katex-html {
-  white-space: normal !important;
-  overflow-wrap: anywhere !important;
-  word-break: break-word !important;
-  display: inline !important;
+/* Formula Cell Strict 100px Containment */
+.formula-cell,
+th.formula-cell,
+td.formula-cell {
+  width: 100px !important;
+  min-width: 100px !important;
+  max-width: 100px !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+}
+
+.formula-container {
+  max-width: 94px !important;
+  width: 100% !important;
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  box-sizing: border-box !important;
+  scrollbar-width: thin;
+}
+
+.formula-container .katex-display,
+.formula-container .katex {
+  max-width: 100% !important;
+  font-size: 0.82em !important;
 }
 
 /* Correct Answer Cell Line Wrapping */

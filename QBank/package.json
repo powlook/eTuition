@@ -8,8 +8,8 @@
     "server": "node server/index.js",
     "seed": "node server/seed.js",
     "client": "vite",
-    "build": "vite build",
-    "vercel-build": "vite build",
+    "build": "vite build --outDir ../dist --emptyOutDir && vite build",
+    "vercel-build": "vite build --outDir ../dist --emptyOutDir && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
