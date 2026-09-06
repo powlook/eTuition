@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(30, 41, 59, 0.85)"/>
+      <stop offset="100%" stop-color="rgba(15, 23, 42, 0.95)"/>
+    </linearGradient>
+    <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="amber-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="green-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="purple-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#7e22ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="240" rx="14" fill="url(#bg-grad)" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1.5"/>
+  <rect x="12" y="12" width="416" height="28" rx="6" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.08)"/>
+  <text x="24" y="30" fill="#06b6d4" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">DOUBLE-BAR GRAPH: SPORTS PARTICIPATION</text>
+  <text x="416" y="30" fill="#94a3b8" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="600" text-anchor="end">DATA & STATISTICAL ANALYSIS</text>
+
+  <rect x="20" y="52" width="400" height="170" rx="10" fill="url(#card-grad)" stroke="rgba(255, 255, 255, 0.08)"/>
+  <!-- Legend -->
+  <rect x="280" y="62" width="12" height="12" rx="2" fill="#06b6d4"/>
+  <text x="296" y="72" fill="#94a3b8" font-family="sans-serif" font-size="9" font-weight="600">Male</text>
+  <rect x="335" y="62" width="12" height="12" rx="2" fill="#a855f7"/>
+  <text x="351" y="72" fill="#94a3b8" font-family="sans-serif" font-size="9" font-weight="600">Female</text>
+
+  <!-- Baseline -->
+  <line x1="45" y1="180" x2="395" y2="180" stroke="#475569" stroke-width="1.5"/>
+
+  <!-- Basketball: M:40, F:25 -->
+  <rect x="55" y="90" width="20" height="90" rx="3" fill="url(#cyan-grad)"/>
+  <rect x="77" y="124" width="20" height="56" rx="3" fill="url(#purple-grad)"/>
+  <text x="76" y="196" fill="#f8fafc" font-family="sans-serif" font-size="9" font-weight="700" text-anchor="middle">Basketball</text>
+
+  <!-- Volleyball: M:20, F:35 -->
+  <rect x="135" y="135" width="20" height="45" rx="3" fill="url(#cyan-grad)"/>
+  <rect x="157" y="101" width="20" height="79" rx="3" fill="url(#purple-grad)"/>
+  <text x="156" y="196" fill="#f8fafc" font-family="sans-serif" font-size="9" font-weight="700" text-anchor="middle">Volleyball</text>
+
+  <!-- Badminton: M:15, F:30 -->
+  <rect x="215" y="146" width="20" height="34" rx="3" fill="url(#cyan-grad)"/>
+  <rect x="237" y="112" width="20" height="68" rx="3" fill="url(#purple-grad)"/>
+  <text x="236" y="196" fill="#f8fafc" font-family="sans-serif" font-size="9" font-weight="700" text-anchor="middle">Badminton</text>
+
+  <!-- Chess: M:25, F:10 -->
+  <rect x="295" y="124" width="20" height="56" rx="3" fill="url(#cyan-grad)"/>
+  <rect x="317" y="157" width="20" height="23" rx="3" fill="url(#purple-grad)"/>
+  <text x="316" y="196" fill="#f8fafc" font-family="sans-serif" font-size="9" font-weight="700" text-anchor="middle">Chess</text>
+</svg>

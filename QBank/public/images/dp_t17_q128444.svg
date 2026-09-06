@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(30, 41, 59, 0.85)"/>
+      <stop offset="100%" stop-color="rgba(15, 23, 42, 0.95)"/>
+    </linearGradient>
+    <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="amber-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="green-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="purple-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#7e22ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="240" rx="14" fill="url(#bg-grad)" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1.5"/>
+  <rect x="12" y="12" width="416" height="28" rx="6" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.08)"/>
+  <text x="24" y="30" fill="#06b6d4" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">LINE GRAPH: HOURLY TEMPERATURE TREND</text>
+  <text x="416" y="30" fill="#94a3b8" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="600" text-anchor="end">DATA & STATISTICAL ANALYSIS</text>
+
+  <rect x="20" y="52" width="400" height="170" rx="10" fill="url(#card-grad)" stroke="rgba(255, 255, 255, 0.08)"/>
+  <!-- Axis Grid -->
+  <line x1="55" y1="75" x2="395" y2="75" stroke="rgba(255,255,255,0.06)" stroke-dasharray="3,3"/>
+  <line x1="55" y1="110" x2="395" y2="110" stroke="rgba(255,255,255,0.06)" stroke-dasharray="3,3"/>
+  <line x1="55" y1="145" x2="395" y2="145" stroke="rgba(255,255,255,0.06)" stroke-dasharray="3,3"/>
+  <line x1="55" y1="180" x2="395" y2="180" stroke="#475569" stroke-width="1.5"/>
+
+  <!-- Temperature Trend Line -->
+  <path d="M 65 160 L 115 145 L 165 130 L 215 110 L 265 95 L 315 85 L 365 75" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  <!-- Area glow -->
+  <path d="M 65 160 L 115 145 L 165 130 L 215 110 L 265 95 L 315 85 L 365 75 L 365 180 L 65 180 Z" fill="rgba(245, 158, 11, 0.12)"/>
+
+  <!-- Points -->
+  <circle cx="65" cy="160" r="4" fill="#f59e0b"/>
+  <circle cx="115" cy="145" r="4" fill="#f59e0b"/>
+  <circle cx="165" cy="130" r="4" fill="#f59e0b"/>
+  <circle cx="215" cy="110" r="4" fill="#f59e0b"/>
+  <circle cx="265" cy="95" r="4" fill="#f59e0b"/>
+  <circle cx="315" cy="85" r="4" fill="#f59e0b"/>
+  <circle cx="365" cy="75" r="5" fill="#ef4444" stroke="#fff" stroke-width="1.5"/>
+
+  <text x="65" y="196" fill="#94a3b8" font-family="sans-serif" font-size="9" text-anchor="middle">6 AM (22°C)</text>
+  <text x="365" y="196" fill="#ef4444" font-family="sans-serif" font-size="9" font-weight="700" text-anchor="middle">2 PM (34°C)</text>
+</svg>
