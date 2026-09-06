@@ -10,8 +10,8 @@
     "db:view": "node server/viewDb.js",
     "db:generate": "node server/generateQuestionBank.js",
     "client": "vite",
-    "build": "cd QBank && vite build --outDir ../dist --emptyOutDir",
-    "vercel-build": "cd QBank && vite build --outDir ../dist --emptyOutDir",
+    "build": "vite build",
+    "vercel-build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
