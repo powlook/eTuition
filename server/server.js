@@ -15,14 +15,6 @@ initDb();
 app.use(cors());
 app.use(express.json());
 
-// Normalize Vercel Serverless URL paths to match /api routes
-app.use((req, res, next) => {
-  if (req.url && !req.url.startsWith('/api') && !req.url.startsWith('/images')) {
-    req.url = '/api' + (req.url.startsWith('/') ? req.url : '/' + req.url);
-  }
-  next();
-});
-
 // --- Authentication Middleware ---
 function authenticateToken(req, res, next) {
   const authHeader = req.headers['authorization'];
@@ -43,9 +35,12 @@ function requireAdmin(req, res, next) {
   next();
 }
 
+// Router instance for handling both /api/... and /... endpoints on Vercel Serverless
+const router = express.Router();
+
 // --- Auth Routes ---
 
-app.post('/api/auth/register', (req, res) => {
+router.post('/auth/register', (req, res) => {
   const { name, email, password, form_level, school } = req.body;
 
   if (!name || !email || !password) {
@@ -72,7 +67,7 @@ app.post('/api/auth/register', (req, res) => {
   });
 });
 
-app.post('/api/auth/login', (req, res) => {
+router.post('/auth/login', (req, res) => {
   const { email, password } = req.body;
 
   if (!email || !password) {
@@ -127,7 +122,7 @@ app.post('/api/auth/login', (req, res) => {
 
 // --- Admin Student Management Routes ---
 
-app.get(['/api/admin/students', '/admin/students'], authenticateToken, requireAdmin, (req, res) => {
+router.get('/admin/students', authenticateToken, requireAdmin, (req, res) => {
   const students = db.prepare(`
     SELECT id, name, email, plain_password, status, form_level, school, created_at
     FROM users
@@ -138,7 +133,7 @@ app.get(['/api/admin/students', '/admin/students'], authenticateToken, requireAd
   res.json(students);
 });
 
-app.put(['/api/admin/students/:id/status', '/admin/students/:id/status'], authenticateToken, requireAdmin, (req, res) => {
+router.put('/admin/students/:id/status', authenticateToken, requireAdmin, (req, res) => {
   const studentId = Number(req.params.id);
   const { status } = req.body;
 
@@ -156,7 +151,7 @@ app.put(['/api/admin/students/:id/status', '/admin/students/:id/status'], authen
 });
 
 // Admin Endpoint: Delete Student Account
-app.delete(['/api/admin/students/:id', '/admin/students/:id'], authenticateToken, requireAdmin, (req, res) => {
+router.delete('/admin/students/:id', authenticateToken, requireAdmin, (req, res) => {
   const studentId = Number(req.params.id);
 
   db.prepare('DELETE FROM exercise_attempts WHERE user_id = ?').run(studentId);
@@ -170,7 +165,7 @@ app.delete(['/api/admin/students/:id', '/admin/students/:id'], authenticateToken
 });
 
 // Admin Endpoint: Change Student Registered Form Level (Form 1 to 12)
-app.put(['/api/admin/students/:id/level', '/admin/students/:id/level'], authenticateToken, requireAdmin, (req, res) => {
+router.put('/admin/students/:id/level', authenticateToken, requireAdmin, (req, res) => {
   const studentId = Number(req.params.id);
   const { form_level } = req.body;
 
@@ -190,8 +185,7 @@ app.put(['/api/admin/students/:id/level', '/admin/students/:id/level'], authenti
 
 // --- Admin Question Bank Management Routes ---
 
-// Fetch questions from Question Bank (Optionally filter by topic_id or form_level)
-app.get('/api/admin/questions', authenticateToken, requireAdmin, (req, res) => {
+router.get('/admin/questions', authenticateToken, requireAdmin, (req, res) => {
   const { topic_id, form_level } = req.query;
 
   let query = `
@@ -218,14 +212,12 @@ app.get('/api/admin/questions', authenticateToken, requireAdmin, (req, res) => {
   res.json(questions);
 });
 
-// Admin Add New Question (Disabled in eTuition - Managed via QBank)
-app.post('/api/admin/questions', authenticateToken, requireAdmin, (req, res) => {
+router.post('/admin/questions', authenticateToken, requireAdmin, (req, res) => {
   return res.status(400).json({
     error: 'Question creation disabled in eTuition. All questions must be created through QBank Application.'
   });
 });
 
-// Admin Endpoint: Update Question Display Settings (Show Image / Show Formula)
 function saveQuestionDisplaySettings(questionId, showImage, showFormula) {
   saveBatchQuestionDisplaySettings([{ id: questionId, show_image: showImage, show_formula: showFormula }]);
 }
@@ -274,7 +266,7 @@ function saveBatchQuestionDisplaySettings(settings) {
   });
 }
 
-app.post('/api/questions/batch-display-settings', (req, res) => {
+router.post('/questions/batch-display-settings', (req, res) => {
   try {
     const { settings } = req.body;
     saveBatchQuestionDisplaySettings(settings);
@@ -284,7 +276,7 @@ app.post('/api/questions/batch-display-settings', (req, res) => {
   }
 });
 
-app.post('/api/admin/questions/batch-display-settings', (req, res) => {
+router.post('/admin/questions/batch-display-settings', (req, res) => {
   try {
     const { settings } = req.body;
     saveBatchQuestionDisplaySettings(settings);
@@ -294,7 +286,7 @@ app.post('/api/admin/questions/batch-display-settings', (req, res) => {
   }
 });
 
-app.put('/api/questions/:id/display-settings', (req, res) => {
+router.put('/questions/:id/display-settings', (req, res) => {
   try {
     const { id } = req.params;
     const { show_image, show_formula } = req.body;
@@ -307,7 +299,7 @@ app.put('/api/questions/:id/display-settings', (req, res) => {
   }
 });
 
-app.put('/api/admin/questions/:id/display-settings', (req, res) => {
+router.put('/admin/questions/:id/display-settings', (req, res) => {
   try {
     const { id } = req.params;
     const { show_image, show_formula } = req.body;
@@ -320,8 +312,7 @@ app.put('/api/admin/questions/:id/display-settings', (req, res) => {
   }
 });
 
-// Admin Delete Question from Question Bank
-app.delete('/api/admin/questions/:id', authenticateToken, requireAdmin, (req, res) => {
+router.delete('/admin/questions/:id', authenticateToken, requireAdmin, (req, res) => {
   const questionId = req.params.id;
   db.prepare('DELETE FROM questions WHERE id = ?').run(questionId);
   res.json({ message: 'Question removed from Question Bank' });
@@ -329,7 +320,7 @@ app.delete('/api/admin/questions/:id', authenticateToken, requireAdmin, (req, re
 
 // --- Curriculum & Exercise Engine Routes ---
 
-app.get('/api/curriculum', (req, res) => {
+router.get('/curriculum', (req, res) => {
   const { form_level, strand } = req.query;
 
   let query = 'SELECT * FROM topics WHERE 1=1';
@@ -351,7 +342,6 @@ app.get('/api/curriculum', (req, res) => {
   res.json(topics);
 });
 
-// Optional Auth Middleware for endpoints accessible by both guests and logged-in users
 function optionalAuthToken(req, res, next) {
   const authHeader = req.headers['authorization'];
   const token = authHeader && authHeader.split(' ')[1];
@@ -362,17 +352,14 @@ function optionalAuthToken(req, res, next) {
   });
 }
 
-// Generate or fetch topic-specific question from QBank Microservice (Enforces Student Form Level Constraint)
-app.post('/api/exercises/generate', optionalAuthToken, async (req, res) => {
+router.post('/exercises/generate', optionalAuthToken, async (req, res) => {
   const { form_level, strand, topic_id } = req.body;
 
   let topic = topic_id ? db.prepare('SELECT * FROM topics WHERE id = ?').get(topic_id) : null;
   let targetLevel = topic ? topic.form_level : (form_level || 1);
 
-  // If logged in as student, force targetLevel to student's registered level
   if (req.user && req.user.role === 'student' && req.user.form_level) {
     targetLevel = req.user.form_level;
-    // If topic requested belongs to another level, find a valid topic in student's registered level
     if (topic && topic.form_level !== req.user.form_level) {
       topic = db.prepare('SELECT * FROM topics WHERE form_level = ? LIMIT 1').get(req.user.form_level);
     }
@@ -392,7 +379,7 @@ app.post('/api/exercises/generate', optionalAuthToken, async (req, res) => {
   });
 });
 
-app.post('/api/exercises/submit', authenticateToken, (req, res) => {
+router.post('/exercises/submit', authenticateToken, (req, res) => {
   const { topic_id, question_title, is_correct, time_taken_sec } = req.body;
 
   const result = db.prepare(`
@@ -403,7 +390,7 @@ app.post('/api/exercises/submit', authenticateToken, (req, res) => {
   res.json({ message: 'Attempt recorded', attemptId: result.lastInsertRowid });
 });
 
-app.get('/api/students/progress', authenticateToken, (req, res) => {
+router.get('/students/progress', authenticateToken, (req, res) => {
   const userId = req.user.id;
 
   const totalAttempts = db.prepare('SELECT COUNT(*) as count FROM exercise_attempts WHERE user_id = ?').get(userId).count;
@@ -425,6 +412,10 @@ app.get('/api/students/progress', authenticateToken, (req, res) => {
     recentAttempts
   });
 });
+
+// Mount router on BOTH /api and / so all Vercel Serverless rewrite variations work flawlessly
+app.use('/api', router);
+app.use('/', router);
 
 if (!process.env.VERCEL) {
   app.listen(PORT, () => {
