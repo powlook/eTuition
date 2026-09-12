@@ -31,10 +31,20 @@ export default function AdminDashboard({ token }) {
     }
   };
 
+  const getQBankBaseUrl = (type = 'app') => {
+    if (import.meta.env.VITE_QBANK_URL) {
+      return import.meta.env.VITE_QBANK_URL;
+    }
+    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    if (isLocal) {
+      return type === 'api' ? 'http://localhost:5000' : 'http://localhost:3000';
+    }
+    return 'https://qbank-engine.vercel.app';
+  };
+
   const checkQBankStatus = async () => {
     try {
-      const isVercel = window.location.hostname.includes('vercel.app');
-      const apiBase = isVercel ? 'https://qbank-engine.vercel.app' : 'http://localhost:5000';
+      const apiBase = getQBankBaseUrl('api');
       const res = await fetch(`${apiBase}/api/topics`);
       if (res.ok) {
         const data = await res.json();
@@ -59,8 +69,7 @@ export default function AdminDashboard({ token }) {
   }, [token]);
 
   const handleOpenQBank = () => {
-    const isVercel = window.location.hostname.includes('vercel.app');
-    const qbankUrl = isVercel ? 'https://qbank-engine.vercel.app' : 'http://localhost:3000';
+    const qbankUrl = getQBankBaseUrl('app');
     window.open(qbankUrl, '_blank');
   };
 
