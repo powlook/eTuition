@@ -47,11 +47,11 @@ const initialUsers = [
     status: 'approved',
     form_level: 12,
     school: 'DepEd Central Office',
-    created_at: new Date().toISOString()
+    created_at: new Date(Date.now() - 86400000 * 10).toISOString()
   },
   {
     id: 2,
-    name: 'Demo Student',
+    name: 'Juan Dela Cruz',
     email: 'student@etuition.ph',
     password_hash: '$2a$10$5vM9aPUL8PY2IT5f60xMeOIBGtuhQ9d1zbOZhb5Eab2RtKMJjkHlm', // student123
     plain_password: 'student123',
@@ -59,7 +59,67 @@ const initialUsers = [
     status: 'approved',
     form_level: 6,
     school: 'Quezon City Elementary School',
-    created_at: new Date().toISOString()
+    created_at: new Date(Date.now() - 86400000 * 7).toISOString()
+  },
+  {
+    id: 3,
+    name: 'Maria Santos',
+    email: 'newstudent@etuition.ph',
+    password_hash: '$2a$10$5vM9aPUL8PY2IT5f60xMeOIBGtuhQ9d1zbOZhb5Eab2RtKMJjkHlm', // student123
+    plain_password: 'student123',
+    role: 'student',
+    status: 'pending',
+    form_level: 8,
+    school: 'Quezon City Science High School',
+    created_at: new Date(Date.now() - 86400000 * 2).toISOString()
+  },
+  {
+    id: 4,
+    name: 'Pedro Penduko',
+    email: 'pedro@etuition.ph',
+    password_hash: '$2a$10$5vM9aPUL8PY2IT5f60xMeOIBGtuhQ9d1zbOZhb5Eab2RtKMJjkHlm', // student123
+    plain_password: 'student123',
+    role: 'student',
+    status: 'pending',
+    form_level: 6,
+    school: 'Manila Central High School',
+    created_at: new Date(Date.now() - 86400000 * 1).toISOString()
+  },
+  {
+    id: 5,
+    name: 'Liza Soberano',
+    email: 'liza@etuition.ph',
+    password_hash: '$2a$10$5vM9aPUL8PY2IT5f60xMeOIBGtuhQ9d1zbOZhb5Eab2RtKMJjkHlm', // student123
+    plain_password: 'student123',
+    role: 'student',
+    status: 'pending',
+    form_level: 7,
+    school: 'Makati Science High School',
+    created_at: new Date(Date.now() - 3600000 * 5).toISOString()
+  },
+  {
+    id: 6,
+    name: 'Carlo Aquino',
+    email: 'carlo@etuition.ph',
+    password_hash: '$2a$10$5vM9aPUL8PY2IT5f60xMeOIBGtuhQ9d1zbOZhb5Eab2RtKMJjkHlm', // student123
+    plain_password: 'student123',
+    role: 'student',
+    status: 'approved',
+    form_level: 10,
+    school: 'Cebu National High School',
+    created_at: new Date(Date.now() - 86400000 * 5).toISOString()
+  },
+  {
+    id: 7,
+    name: 'Bea Alonzo',
+    email: 'bea@etuition.ph',
+    password_hash: '$2a$10$5vM9aPUL8PY2IT5f60xMeOIBGtuhQ9d1zbOZhb5Eab2RtKMJjkHlm', // student123
+    plain_password: 'student123',
+    role: 'student',
+    status: 'pending',
+    form_level: 4,
+    school: 'Davao Central Elementary School',
+    created_at: new Date(Date.now() - 3600000 * 2).toISOString()
   }
 ];
 
