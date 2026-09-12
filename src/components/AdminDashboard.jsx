@@ -22,7 +22,9 @@ export default function AdminDashboard({ token }) {
       });
       if (res.ok) {
         const data = await res.json();
-        setStudents(data);
+        setStudents(Array.isArray(data) ? data : []);
+      } else {
+        console.error('Failed to fetch students. Status:', res.status);
       }
     } catch (err) {
       console.error('Failed to fetch students:', err);

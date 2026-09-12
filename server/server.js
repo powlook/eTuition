@@ -15,6 +15,14 @@ initDb();
 app.use(cors());
 app.use(express.json());
 
+// Normalize Vercel Serverless URL paths to match /api routes
+app.use((req, res, next) => {
+  if (req.url && !req.url.startsWith('/api') && !req.url.startsWith('/images')) {
+    req.url = '/api' + (req.url.startsWith('/') ? req.url : '/' + req.url);
+  }
+  next();
+});
+
 // --- Authentication Middleware ---
 function authenticateToken(req, res, next) {
   const authHeader = req.headers['authorization'];
