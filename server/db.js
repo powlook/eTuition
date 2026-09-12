@@ -117,7 +117,7 @@ const initialUsers = [
     plain_password: 'student123',
     role: 'student',
     status: 'pending',
-    form_level: 4,
+    form_level: 9,
     school: 'Davao Central Elementary School',
     created_at: new Date(Date.now() - 3600000 * 2).toISOString()
   }
@@ -246,8 +246,11 @@ const db = {
         return null;
       },
       all: (...params) => {
-        if (sql.includes('FROM users WHERE role = \'student\'') || sql.includes("FROM users WHERE role = 'student'")) {
-          return usersList.filter(u => u.role === 'student');
+        if (sql.includes('FROM users')) {
+          if (sql.includes("role = 'student'") || sql.includes('role = "student"') || sql.includes('role')) {
+            return usersList.filter(u => u.role === 'student');
+          }
+          return usersList;
         }
         if (sql.includes('FROM topics')) {
           let list = [...fallbackTopics];
