@@ -127,7 +127,7 @@ app.post('/api/auth/login', (req, res) => {
 
 // --- Admin Student Management Routes ---
 
-app.get('/api/admin/students', authenticateToken, requireAdmin, (req, res) => {
+app.get(['/api/admin/students', '/admin/students'], authenticateToken, requireAdmin, (req, res) => {
   const students = db.prepare(`
     SELECT id, name, email, plain_password, status, form_level, school, created_at
     FROM users
@@ -138,7 +138,7 @@ app.get('/api/admin/students', authenticateToken, requireAdmin, (req, res) => {
   res.json(students);
 });
 
-app.put('/api/admin/students/:id/status', authenticateToken, requireAdmin, (req, res) => {
+app.put(['/api/admin/students/:id/status', '/admin/students/:id/status'], authenticateToken, requireAdmin, (req, res) => {
   const studentId = Number(req.params.id);
   const { status } = req.body;
 
@@ -156,7 +156,7 @@ app.put('/api/admin/students/:id/status', authenticateToken, requireAdmin, (req,
 });
 
 // Admin Endpoint: Delete Student Account
-app.delete('/api/admin/students/:id', authenticateToken, requireAdmin, (req, res) => {
+app.delete(['/api/admin/students/:id', '/admin/students/:id'], authenticateToken, requireAdmin, (req, res) => {
   const studentId = Number(req.params.id);
 
   db.prepare('DELETE FROM exercise_attempts WHERE user_id = ?').run(studentId);
@@ -170,7 +170,7 @@ app.delete('/api/admin/students/:id', authenticateToken, requireAdmin, (req, res
 });
 
 // Admin Endpoint: Change Student Registered Form Level (Form 1 to 12)
-app.put('/api/admin/students/:id/level', authenticateToken, requireAdmin, (req, res) => {
+app.put(['/api/admin/students/:id/level', '/admin/students/:id/level'], authenticateToken, requireAdmin, (req, res) => {
   const studentId = Number(req.params.id);
   const { form_level } = req.body;
 

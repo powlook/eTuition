@@ -246,8 +246,9 @@ const db = {
         return null;
       },
       all: (...params) => {
-        if (sql.includes('FROM users')) {
-          if (sql.includes("role = 'student'") || sql.includes('role = "student"') || sql.includes('role')) {
+        const lowerSql = sql.toLowerCase();
+        if (lowerSql.includes('from users')) {
+          if (lowerSql.includes('student') || lowerSql.includes('role')) {
             return usersList.filter(u => u.role === 'student');
           }
           return usersList;
