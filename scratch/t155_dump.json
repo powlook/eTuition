@@ -1,0 +1,752 @@
+[
+  {
+    "id": "134633",
+    "title": "Q1: Define a linear function and write its standa...",
+    "question_text": "Define a linear function and write its standard form (Ax + By = C) and slope-intercept form (y = mx + b).",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q1.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134634",
+    "title": "Q2: Define the slope of a line as the rate of cha...",
+    "question_text": "Define the slope of a line as the rate of change (rise over run) and state the formula m = (y₂ - y₁) / (x₂ - x₁).",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = -0.67",
+      "m = 2.5",
+      "m = -1.5 (or -3/2)",
+      "m = 1.5 (or 3/2)"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q2.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134635",
+    "title": "Q3: Find the slope of the line passing through th...",
+    "question_text": "Find the slope of the line passing through the points A(-3, 5) and B(5, -7).",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = -0.67",
+      "m = 1.5 (or 3/2)",
+      "m = -1.5 (or -3/2)",
+      "m = 2.5"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q3.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134636",
+    "title": "Q4: Find the slope of the line passing through: a...",
+    "question_text": "Find the slope of the line passing through: a) (4, 7) and (4, -2); b) (-3, 6) and (5, 6). Describe the orientation of each line.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q4.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134637",
+    "title": "Q5: Explain the geometric meaning of: a) positive...",
+    "question_text": "Explain the geometric meaning of: a) positive slope, b) negative slope, c) zero slope, d) undefined slope.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q5.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134638",
+    "title": "Q6: Identify the slope, y-intercept, and x-interc...",
+    "question_text": "Identify the slope, y-intercept, and x-intercept of the linear function f(x) = -(3/5)x + 6.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y - y1 = m(x - x1) (point-slope form)",
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q6.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134639",
+    "title": "Q7: Convert the linear equation 4x - 7y = 28 into...",
+    "question_text": "Convert the linear equation 4x - 7y = 28 into slope-intercept form and determine its slope and y-intercept.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q7.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134640",
+    "title": "Q8: Find the zero of the linear function f(x) = 8...",
+    "question_text": "Find the zero of the linear function f(x) = 8x - 24 and explain the relationship between the zero of a function and its x-intercept.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q8.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134641",
+    "title": "Q9: Find the x-intercept and y-intercept of the l...",
+    "question_text": "Find the x-intercept and y-intercept of the line 3x + 4y = 24 and use them to sketch the graph.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q9.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134642",
+    "title": "Q10: Find the equation of the line passing through...",
+    "question_text": "Find the equation of the line passing through the point (2, -5) with slope m = 3.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q10.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134643",
+    "title": "Q11: Find the equation of the line passing through...",
+    "question_text": "Find the equation of the line passing through the points (-2, 3) and (4, -9) in slope-intercept form.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)",
+      "x/a + y/b = 1 (intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q11.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134644",
+    "title": "Q12: Find the equation of the line having an x-int...",
+    "question_text": "Find the equation of the line having an x-intercept of -4 and a y-intercept of 6.",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = -1.5 (or -3/2)",
+      "m = 2.5",
+      "m = -0.67",
+      "m = 1.5 (or 3/2)"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q12.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134645",
+    "title": "Q13: A line has a slope of -2/3 and passes through...",
+    "question_text": "A line has a slope of -2/3 and passes through the point (6, -1). Write its equation in standard form Ax + By = C.",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = -1.5 (or -3/2)",
+      "m = 2.5",
+      "m = -0.67",
+      "m = 1.5 (or 3/2)"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q13.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134646",
+    "title": "Q14: Determine the domain and range of any non-hor...",
+    "question_text": "Determine the domain and range of any non-horizontal, non-vertical linear function f(x) = mx + b (where m ≠ 0).",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q14.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134647",
+    "title": "Q15: Determine the domain and range of the constan...",
+    "question_text": "Determine the domain and range of the constant linear function f(x) = 5.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q15.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134648",
+    "title": "Q16: Graph the linear function f(x) = 2x - 4 by co...",
+    "question_text": "Graph the linear function f(x) = 2x - 4 by constructing a table of values for x ∈ {-2, -1, 0, 1, 2, 3}.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q16.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134649",
+    "title": "Q17: Graph the linear function 2x - 3y = 6 using t...",
+    "question_text": "Graph the linear function 2x - 3y = 6 using the slope-intercept method.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q17.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134650",
+    "title": "Q18: A candle is 25 cm long when lit and burns dow...",
+    "question_text": "A candle is 25 cm long when lit and burns down at a constant rate of 1.5 cm per hour. Write a linear function L(t) for candle length after t hours.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q18.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134651",
+    "title": "Q19: Using the candle function in Question 18, fin...",
+    "question_text": "Using the candle function in Question 18, find the zero of the function and interpret what it represents in the context of the burning candle.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q19.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134652",
+    "title": "Q20: A scuba diver starts at sea level and descend...",
+    "question_text": "A scuba diver starts at sea level and descends at a constant speed of 8 meters per minute. Write a linear function D(t) for diver depth as a function of time t in minutes.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q20.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134653",
+    "title": "Q21: A spring stretches linearly with added weight...",
+    "question_text": "A spring stretches linearly with added weight. With no weight, length is 12 cm; with 50 g weight, length is 17 cm. Write the linear equation relating spring length L to weight w.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q21.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134654",
+    "title": "Q22: Determine whether the points P(-2, 11), Q(1, ...",
+    "question_text": "Determine whether the points P(-2, 11), Q(1, 2), and R(4, -7) are collinear using slopes.",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = -0.67",
+      "m = 2.5",
+      "m = -1.5 (or -3/2)",
+      "m = 1.5 (or 3/2)"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q22.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134655",
+    "title": "Q23: Find the value of k such that the line passin...",
+    "question_text": "Find the value of k such that the line passing through (k, 3) and (4, -5) has a slope of m = -2.",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = 1.5 (or 3/2)",
+      "m = 2.5",
+      "m = -1.5 (or -3/2)",
+      "m = -0.67"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q23.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134656",
+    "title": "Q24: Find the value of p such that the line 3x - p...",
+    "question_text": "Find the value of p such that the line 3x - py = 9 has a zero at x = 3.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q24.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134657",
+    "title": "Q25: A water tank holding 5,000 liters is emptied ...",
+    "question_text": "A water tank holding 5,000 liters is emptied at a constant rate of 125 liters per minute. Write the linear function for volume V(t), find intercepts, and graph the function.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q25.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134658",
+    "title": "Q26: A commercial sales representative receives a ...",
+    "question_text": "A commercial sales representative receives a base salary of ₱18,000 per month plus ₱500 for each unit sold. Express monthly salary S as a function of units sold u.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q26.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134659",
+    "title": "Q27: A taxi company charges a flag-down rate of ₱4...",
+    "question_text": "A taxi company charges a flag-down rate of ₱45 and ₱13.50 per kilometer traveled. Write a linear function for total fare F(x) and calculate the cost of a 16 km trip.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q27.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134660",
+    "title": "Q28: Given the linear function 5x + 2y - 10 = 0, d...",
+    "question_text": "Given the linear function 5x + 2y - 10 = 0, determine the change in y when x increases by 4 units.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q28.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134661",
+    "title": "Q29: Write the equation of the horizontal line pas...",
+    "question_text": "Write the equation of the horizontal line passing through (-5, 8) and state its slope and intercepts.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q29.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134662",
+    "title": "Q30: Write the equation of the vertical line passi...",
+    "question_text": "Write the equation of the vertical line passing through (-5, 8) and state its slope and intercepts.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q30.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134663",
+    "title": "Q31: Determine the rate of change from the table: ...",
+    "question_text": "Determine the rate of change from the table: Time (hours) = [0, 2, 4, 6], Distance (km) = [0, 150, 300, 450]. State units and interpret.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q31.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134664",
+    "title": "Q32: Find the linear function whose graph is paral...",
+    "question_text": "Find the linear function whose graph is parallel to y = -3x + 7 and passes through the point (1, -4).",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = -1.5 (or -3/2)",
+      "m = 1.5 (or 3/2)",
+      "m = 2.5",
+      "m = -0.67"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q32.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134665",
+    "title": "Q33: Find the linear function whose graph is perpe...",
+    "question_text": "Find the linear function whose graph is perpendicular to 2x + 5y = 10 and has the same y-intercept as y = 4x - 8.",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = 1.5 (or 3/2)",
+      "m = 2.5",
+      "m = -1.5 (or -3/2)",
+      "m = -0.67"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q33.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134666",
+    "title": "Q34: Determine the domain and range of the linear ...",
+    "question_text": "Determine the domain and range of the linear function f(x) = 3x - 1 restricted to the closed domain [-2, 4].",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q34.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134667",
+    "title": "Q35: Explain why the slope of a line represents av...",
+    "question_text": "Explain why the slope of a line represents average rate of change for any interval on the line.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q35.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134668",
+    "title": "Q36: A printing shop has fixed setup costs of ₱1,5...",
+    "question_text": "A printing shop has fixed setup costs of ₱1,500 and charges ₱3.50 per flyer printed. Write a linear cost function C(x) and determine total cost for 2,500 flyers.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q36.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134669",
+    "title": "Q37: An athlete runs at a constant speed. At t = 1...",
+    "question_text": "An athlete runs at a constant speed. At t = 10 min, distance is 2.2 km; at t = 25 min, distance is 5.5 km. Write the linear equation and determine runner speed.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q37.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134670",
+    "title": "Q38: Find the x-intercept and y-intercept of (x / ...",
+    "question_text": "Find the x-intercept and y-intercept of (x / 5) - (y / 3) = 1.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)",
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q38.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134671",
+    "title": "Q39: Given the line 4x - ky = 16, find k such that...",
+    "question_text": "Given the line 4x - ky = 16, find k such that the line passes through (2, -2).",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q39.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134672",
+    "title": "Q40: Write the equation of the line passing throug...",
+    "question_text": "Write the equation of the line passing through (3, 2) that is parallel to the x-axis.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "Ax + By = C (standard form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q40.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134673",
+    "title": "Q41: Write the equation of the line passing throug...",
+    "question_text": "Write the equation of the line passing through (3, 2) that is parallel to the y-axis.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q41.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134674",
+    "title": "Q42: Show that the linear functions f(x) = (2/3)x ...",
+    "question_text": "Show that the linear functions f(x) = (2/3)x + 4 and g(x) = (2/3)x - 5 never intersect on the plane.",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = 1.5 (or 3/2)",
+      "m = 2.5",
+      "m = -1.5 (or -3/2)",
+      "m = -0.67"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q42.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134675",
+    "title": "Q43: Find the point of intersection of the linear ...",
+    "question_text": "Find the point of intersection of the linear functions f(x) = 2x - 3 and g(x) = -x + 6 graphically and algebraically.",
+    "math_formula": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-7 - 5}{5 - (-3)} = \\frac{-12}{8} = -1.5",
+    "options": [
+      "m = -0.67",
+      "m = 1.5 (or 3/2)",
+      "m = 2.5",
+      "m = -1.5 (or -3/2)"
+    ],
+    "correct_answer": "m = -1.5 (or -3/2)",
+    "image_url": "/images/g9_t155_q43.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134676",
+    "title": "Q44: A cellphone battery drains from 100% to 40% i...",
+    "question_text": "A cellphone battery drains from 100% to 40% in 5 hours of continuous screen use. Write a linear function B(t) for remaining battery percentage after t hours.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q44.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134677",
+    "title": "Q45: From Question 44, how many hours of total scr...",
+    "question_text": "From Question 44, how many hours of total screen time will completely drain the battery (find the zero of B(t))?",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q45.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134678",
+    "title": "Q46: A temperature measured in degrees Fahrenheit ...",
+    "question_text": "A temperature measured in degrees Fahrenheit (F) relates linearly to Celsius (C) by F = (9/5)C + 32. Find the slope, F-intercept, and the temperature where F = C.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y - y1 = m(x - x1) (point-slope form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q46.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134679",
+    "title": "Q47: Find the equation of the line shown with x-in...",
+    "question_text": "Find the equation of the line shown with x-intercept (a, 0) and y-intercept (0, b) using the intercept form (x/a) + (y/b) = 1.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q47.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134680",
+    "title": "Q48: Explain how the graph of y = mx + b changes w...",
+    "question_text": "Explain how the graph of y = mx + b changes when: a) m is increased, b) b is decreased.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)",
+      "y - y1 = m(x - x1) (point-slope form)",
+      "Ax + By = C (standard form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q48.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134681",
+    "title": "Q49: Find the zero of the function f(x) = -(4/7)x ...",
+    "question_text": "Find the zero of the function f(x) = -(4/7)x + 12.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "x/a + y/b = 1 (intercept form)",
+      "y = mx + b (slope-intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q49.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134682",
+    "title": "Q50: A gym charges ₱800 initial registration fee a...",
+    "question_text": "A gym charges ₱800 initial registration fee and ₱650 monthly dues. Express total expense E after m months as a linear function and determine total cost for 1 year.",
+    "math_formula": "y = mx + b",
+    "options": [
+      "y = mx + b (slope-intercept form)",
+      "x/a + y/b = 1 (intercept form)",
+      "Ax + By = C (standard form)",
+      "y - y1 = m(x - x1) (point-slope form)"
+    ],
+    "correct_answer": "y = mx + b (slope-intercept form)",
+    "image_url": "/images/g9_t155_q50.svg",
+    "show_image": 1
+  }
+]

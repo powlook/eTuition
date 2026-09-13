@@ -1,0 +1,35 @@
+DB server/etuition.db: 50 questions found
+  Generic placeholder options count in server/etuition.db: 0
+DB QBank/server/qbank.db: 50 questions found
+  Generic placeholder options count in QBank/server/qbank.db: 0
+DB QBank/server/etuition.db: 50 questions found
+  Generic placeholder options count in QBank/server/etuition.db: 0
+JSON questions.json: 50 questions found
+  Generic placeholder options count in questions.json: 0
+JSON QBank/questions.json: 50 questions found
+  Generic placeholder options count in QBank/questions.json: 0
+JSON QBank/public/questions.json: 50 questions found
+  Generic placeholder options count in QBank/public/questions.json: 0
+JSON QBank/dist/questions.json: 50 questions found
+  Generic placeholder options count in QBank/dist/questions.json: 0
+
+--- Question ID 134089 ---
+Text: Given that B is between A and C, if AB = 3x - 5, BC = 2x + 1, and AC = 26, write the equation to find x and determine the length of AB.
+Options: ['Equation: (3x - 5) + (2x + 1) = 26; x = 6, AB = 13', 'Equation: (3x - 5) - (2x + 1) = 26; x = 32, AB = 91', 'Equation: (3x - 5) × (2x + 1) = 26; x = 4, AB = 7', 'Equation: 3x + 2x = 26; x = 5.2, AB = 10.6']
+Correct Answer: Equation: (3x - 5) + (2x + 1) = 26; x = 6, AB = 13
+Math Formula: (3x - 5) + (2x + 1) = 26 \implies 5x - 4 = 26 \implies x = 6
+Show Image: 1, Image URL: /images/g9_t144_q7.png
+
+--- Question ID 134091 ---
+Text: Describe the three different ways to name an angle with vertex B and sides passing through A and C.
+Options: ['∠ABC, ∠CBA, or ∠B', '∠BAC, ∠BCA, or ∠A', '△ABC, AB, or BC', '∠A, ∠B, ∠C']
+Correct Answer: ∠ABC, ∠CBA, or ∠B
+Math Formula: \angle ABC, \quad \angle CBA, \quad \angle B
+Show Image: 1, Image URL: /images/g9_t144_q9.png
+
+--- Question ID 134096 ---
+Text: Two angles are complementary. If the measure of one angle is 18° more than twice the measure of the other, find both angle measures.
+Options: ['24° and 66°', '30° and 60°', '18° and 72°', '36° and 54°']
+Correct Answer: 24° and 66°
+Math Formula: x + (2x + 18) = 90 \implies 3x = 72 \implies x = 24^\circ, \quad 2x+18 = 66^\circ
+Show Image: 1, Image URL: /images/g9_t144_q14.png

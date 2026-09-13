@@ -1,0 +1,352 @@
+Topic 135 Leakage Report (50 items)
+
+Q01 (ID 133633): Linear Inequality Test Points #1
+  QText: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Ans:   (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Img:   /images/g8_t135_q1.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q02 (ID 133634): Strict Linear Inequality Graph #2
+  QText: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Ans:   Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Img:   /images/g8_t135_q2.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q03 (ID 133635): Non-Strict Linear Inequality Graph #3
+  QText: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Ans:   Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Img:   /images/g8_t135_q3.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q04 (ID 133636): Inequality Identification from Graph #4
+  QText: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Ans:   2x - y \ge -3
+  Img:   /images/g8_t135_q4.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q05 (ID 133637): System of Inequalities Shading #5
+  QText: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Ans:   Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Img:   /images/g8_t135_q5.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q06 (ID 133638): System Solution Point Verification #6
+  QText: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Ans:   (2, 1) satisfies the system
+  Img:   /images/g8_t135_q6.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q07 (ID 133639): Baker Earnings Inequality #7
+  QText: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Ans:   15x + 10y \ge 1200
+  Img:   /images/g8_t135_q7.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q08 (ID 133640): Baker Earnings Evaluation #8
+  QText: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Ans:   No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Img:   /images/g8_t135_q8.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q09 (ID 133641): Land Allocation Inequality System #9
+  QText: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Ans:   \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Img:   /images/g8_t135_q9.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q10 (ID 133642): Work Schedule Inequality System #10
+  QText: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Ans:   \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Img:   /images/g8_t135_q10.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q11 (ID 133643): Linear Inequality Test Points #11
+  QText: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Ans:   (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Img:   /images/g8_t135_q11.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q12 (ID 133644): Strict Linear Inequality Graph #12
+  QText: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Ans:   Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Img:   /images/g8_t135_q12.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q13 (ID 133645): Non-Strict Linear Inequality Graph #13
+  QText: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Ans:   Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Img:   /images/g8_t135_q13.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q14 (ID 133646): Inequality Identification from Graph #14
+  QText: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Ans:   2x - y \ge -3
+  Img:   /images/g8_t135_q14.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q15 (ID 133647): System of Inequalities Shading #15
+  QText: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Ans:   Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Img:   /images/g8_t135_q15.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q16 (ID 133648): System Solution Point Verification #16
+  QText: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Ans:   (2, 1) satisfies the system
+  Img:   /images/g8_t135_q16.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q17 (ID 133649): Baker Earnings Inequality #17
+  QText: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Ans:   15x + 10y \ge 1200
+  Img:   /images/g8_t135_q17.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q18 (ID 133650): Baker Earnings Evaluation #18
+  QText: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Ans:   No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Img:   /images/g8_t135_q18.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q19 (ID 133651): Land Allocation Inequality System #19
+  QText: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Ans:   \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Img:   /images/g8_t135_q19.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q20 (ID 133652): Work Schedule Inequality System #20
+  QText: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Ans:   \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Img:   /images/g8_t135_q20.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q21 (ID 133653): Linear Inequality Test Points #21
+  QText: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Ans:   (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Img:   /images/g8_t135_q21.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q22 (ID 133654): Strict Linear Inequality Graph #22
+  QText: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Ans:   Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Img:   /images/g8_t135_q22.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q23 (ID 133655): Non-Strict Linear Inequality Graph #23
+  QText: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Ans:   Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Img:   /images/g8_t135_q23.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q24 (ID 133656): Inequality Identification from Graph #24
+  QText: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Ans:   2x - y \ge -3
+  Img:   /images/g8_t135_q24.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q25 (ID 133657): System of Inequalities Shading #25
+  QText: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Ans:   Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Img:   /images/g8_t135_q25.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q26 (ID 133658): System Solution Point Verification #26
+  QText: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Ans:   (2, 1) satisfies the system
+  Img:   /images/g8_t135_q26.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q27 (ID 133659): Baker Earnings Inequality #27
+  QText: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Ans:   15x + 10y \ge 1200
+  Img:   /images/g8_t135_q27.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q28 (ID 133660): Baker Earnings Evaluation #28
+  QText: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Ans:   No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Img:   /images/g8_t135_q28.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q29 (ID 133661): Land Allocation Inequality System #29
+  QText: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Ans:   \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Img:   /images/g8_t135_q29.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q30 (ID 133662): Work Schedule Inequality System #30
+  QText: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Ans:   \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Img:   /images/g8_t135_q30.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q31 (ID 133663): Linear Inequality Test Points #31
+  QText: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Ans:   (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Img:   /images/g8_t135_q31.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q32 (ID 133664): Strict Linear Inequality Graph #32
+  QText: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Ans:   Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Img:   /images/g8_t135_q32.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q33 (ID 133665): Non-Strict Linear Inequality Graph #33
+  QText: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Ans:   Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Img:   /images/g8_t135_q33.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q34 (ID 133666): Inequality Identification from Graph #34
+  QText: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Ans:   2x - y \ge -3
+  Img:   /images/g8_t135_q34.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q35 (ID 133667): System of Inequalities Shading #35
+  QText: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Ans:   Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Img:   /images/g8_t135_q35.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q36 (ID 133668): System Solution Point Verification #36
+  QText: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Ans:   (2, 1) satisfies the system
+  Img:   /images/g8_t135_q36.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q37 (ID 133669): Baker Earnings Inequality #37
+  QText: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Ans:   15x + 10y \ge 1200
+  Img:   /images/g8_t135_q37.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q38 (ID 133670): Baker Earnings Evaluation #38
+  QText: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Ans:   No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Img:   /images/g8_t135_q38.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q39 (ID 133671): Land Allocation Inequality System #39
+  QText: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Ans:   \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Img:   /images/g8_t135_q39.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q40 (ID 133672): Work Schedule Inequality System #40
+  QText: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Ans:   \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Img:   /images/g8_t135_q40.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q41 (ID 133673): Linear Inequality Test Points #41
+  QText: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Ans:   (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Img:   /images/g8_t135_q41.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q42 (ID 133674): Strict Linear Inequality Graph #42
+  QText: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Ans:   Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Img:   /images/g8_t135_q42.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q43 (ID 133675): Non-Strict Linear Inequality Graph #43
+  QText: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Ans:   Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Img:   /images/g8_t135_q43.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q44 (ID 133676): Inequality Identification from Graph #44
+  QText: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Ans:   2x - y \ge -3
+  Img:   /images/g8_t135_q44.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q45 (ID 133677): System of Inequalities Shading #45
+  QText: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Ans:   Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Img:   /images/g8_t135_q45.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q46 (ID 133678): System Solution Point Verification #46
+  QText: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Ans:   (2, 1) satisfies the system
+  Img:   /images/g8_t135_q46.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q47 (ID 133679): Baker Earnings Inequality #47
+  QText: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Ans:   15x + 10y \ge 1200
+  Img:   /images/g8_t135_q47.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q48 (ID 133680): Baker Earnings Evaluation #48
+  QText: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Ans:   No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Img:   /images/g8_t135_q48.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q49 (ID 133681): Land Allocation Inequality System #49
+  QText: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Ans:   \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Img:   /images/g8_t135_q49.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------
+Q50 (ID 133682): Work Schedule Inequality System #50
+  QText: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Ans:   \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Img:   /images/g8_t135_q50.svg
+  Leakage: NONE DETECTED
+  SVG Texts: 
+------------------------------------------------------------

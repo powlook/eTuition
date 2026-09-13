@@ -1,0 +1,1077 @@
+[
+  {
+    "id": 134033,
+    "title": "Triangle Side Check (6,9,17) #1",
+    "text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "img": "/images/g8_t138_q1.svg",
+    "options": [
+      "Yes, because 6 + 9 + 17 = 32 > 0",
+      "No, because 17 - 9 = 8 > 6",
+      "Yes, any three numbers can form a triangle",
+      "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)"
+    ],
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "steps": [
+      "**Step 1: Sum the two shorter sides**",
+      "$$6 + 9 = 15$$",
+      "**Step 2: Compare with third side**",
+      "$$15 < 17 \\implies \\text{Triangle Inequality violated. Cannot form triangle.}$$",
+      "**Final Verified Answer:** \\(No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134034,
+    "title": "Third Side Range (8,13) #2",
+    "text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "img": "/images/g8_t138_q2.svg",
+    "options": [
+      "0 cm < x < 21 cm",
+      "5 cm < x < 21 cm",
+      "8 cm < x < 13 cm",
+      "5 cm ≤ x ≤ 21 cm"
+    ],
+    "answer": "5 cm < x < 21 cm",
+    "steps": [
+      "**Step 1: Compute lower bound |a - b|**",
+      "$$13 - 8 = 5\\text{ cm}$$",
+      "**Step 2: Compute upper bound a + b**",
+      "$$8 + 13 = 21\\text{ cm}$$",
+      "**Step 3: Combine bounds**",
+      "$$5\\text{ cm} < x < 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(5 cm < x < 21 cm\\)"
+    ],
+    "formula": "|a - b| < x < a + b"
+  },
+  {
+    "id": 134035,
+    "title": "Angle-Side Order Relationship #3",
+    "text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "img": "/images/g8_t138_q3.svg",
+    "options": [
+      "AB, BC, AC",
+      "BC, AB, AC",
+      "BC, AC, AB",
+      "AC, AB, BC"
+    ],
+    "answer": "BC, AB, AC",
+    "steps": [
+      "**Step 1: Rank interior angles**",
+      "$$m\\angle A (45^\\circ) < m\\angle C (60^\\circ) < m\\angle B (75^\\circ)$$",
+      "**Step 2: Match opposite sides**",
+      "$$\\text{Opposite } \\angle A \\to BC, \\quad \\text{Opposite } \\angle C \\to AB, \\quad \\text{Opposite } \\angle B \\to AC$$",
+      "$$\\text{Order: } BC, AB, AC$$",
+      "**Final Verified Answer:** \\(BC, AB, AC\\)"
+    ],
+    "formula": "\\text{Smallest Angle } \\leftrightarrow \\text{ Shortest Opposite Side}"
+  },
+  {
+    "id": 134036,
+    "title": "Side-Angle Order Relationship #4",
+    "text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "img": "/images/g8_t138_q4.svg",
+    "options": [
+      "∠Y, ∠Z, ∠X",
+      "∠Z, ∠X, ∠Y",
+      "∠X, ∠Z, ∠Y",
+      "∠X, ∠Y, ∠Z"
+    ],
+    "answer": "∠X, ∠Z, ∠Y",
+    "steps": [
+      "**Step 1: Rank side lengths**",
+      "$$YZ (9) < XY (12) < XZ (15)$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } YZ \\to \\angle X, \\quad \\text{Opposite } XY \\to \\angle Z, \\quad \\text{Opposite } XZ \\to \\angle Y$$",
+      "$$\\text{Order: } \\angle X, \\angle Z, \\angle Y$$",
+      "**Final Verified Answer:** \\(∠X, ∠Z, ∠Y\\)"
+    ],
+    "formula": "\\text{Shortest Side } \\leftrightarrow \\text{ Smallest Opposite Angle}"
+  },
+  {
+    "id": 134037,
+    "title": "Third Side Validity Check #5",
+    "text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "img": "/images/g8_t138_q5.svg",
+    "options": [
+      "No, because 22 - 15 = 7, which is too large",
+      "Yes, 7 cm is a valid positive length",
+      "Yes, because 15 + 22 = 37 > 7",
+      "No, because 15 + 7 = 22, which is not strictly greater than 22"
+    ],
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "steps": [
+      "**Step 1: Compute strict inequality lower bound**",
+      "$$x > 22 - 15 \\implies x > 7$$",
+      "**Step 2: Evaluate 7 cm**",
+      "$$7 \\text{ is not } > 7 \\implies \\text{Invalid third side.}$$",
+      "**Final Verified Answer:** \\(No, because 15 + 7 = 22, which is not strictly greater than 22\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134038,
+    "title": "Third Side Integer Bounds #6",
+    "text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "img": "/images/g8_t138_q6.svg",
+    "options": [
+      "Minimum = 7 cm, Maximum = 21 cm",
+      "Minimum = 5 cm, Maximum = 21 cm",
+      "Minimum = 8 cm, Maximum = 14 cm",
+      "Minimum = 6 cm, Maximum = 22 cm"
+    ],
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "steps": [
+      "**Step 1: Compute strict bounds**",
+      "$$14 - 8 < PR < 14 + 8 \\implies 6 < PR < 22$$",
+      "**Step 2: Identify integer limits**",
+      "$$\\text{Min integer} = 7\\text{ cm}, \\quad \\text{Max integer} = 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(Minimum = 7 cm, Maximum = 21 cm\\)"
+    ],
+    "formula": "6 < PR < 22 \\implies \\text{Min integer = 7, Max integer = 21}"
+  },
+  {
+    "id": 134039,
+    "title": "Exterior Angle Inequality Theorem #7",
+    "text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "img": "/images/g8_t138_q7.svg",
+    "options": [
+      "An exterior angle is strictly smaller than any interior angle",
+      "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+      "The sum of an exterior angle and remote interior angles is always 90°",
+      "An exterior angle is equal to the adjacent interior angle"
+    ],
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "steps": [
+      "**Step 1: Recall Exterior Angle Theorem**",
+      "$$m\\angle_{ext} = m\\angle_{int1} + m\\angle_{int2}$$",
+      "**Step 2: Deduce inequality**",
+      "$$\\text{Since angles are positive, } m\\angle_{ext} > m\\angle_{int1} \\text{ and } m\\angle_{ext} > m\\angle_{int2}$$",
+      "**Final Verified Answer:** \\(An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles\\)"
+    ],
+    "formula": "m\\angle_{ext} > m\\angle_{remote\\,int}"
+  },
+  {
+    "id": 134040,
+    "title": "Hinge Theorem Comparison #8",
+    "text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "img": "/images/g8_t138_q8.svg",
+    "options": [
+      "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+      "BC < EF",
+      "Cannot be compared without side lengths",
+      "BC = EF"
+    ],
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "steps": [
+      "**Step 1: Verify side pair congruences**",
+      "$$AB = DE, \\quad AC = DF$$",
+      "**Step 2: Compare included angles**",
+      "$$m\\angle A (65^\\circ) > m\\angle D (48^\\circ) \\implies BC > EF$$",
+      "**Final Verified Answer:** \\(BC > EF (because included angle m∠A = 65° > m∠D = 48°)\\)"
+    ],
+    "formula": "m\\angle A > m\\angle D \\implies BC > EF"
+  },
+  {
+    "id": 134041,
+    "title": "Isosceles Angle Ranking #9",
+    "text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "img": "/images/g8_t138_q9.svg",
+    "options": [
+      "All three angles are equal",
+      "∠L is the smallest angle",
+      "∠K and ∠M are the equal smallest angles",
+      "∠K is the unique smallest angle"
+    ],
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "steps": [
+      "**Step 1: Identify shortest sides**",
+      "$$KL (7\\text{ cm}) = LM (7\\text{ cm}) < KM (11\\text{ cm})$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } KL \\to \\angle M, \\quad \\text{Opposite } LM \\to \\angle K$$",
+      "$$\\text{Thus, } \\angle K = \\angle M < \\angle L$$",
+      "**Final Verified Answer:** \\(∠K and ∠M are the equal smallest angles\\)"
+    ],
+    "formula": "\\text{Shortest sides } (7\\text{ cm}) \\leftrightarrow \\text{ Smallest opposite angles}"
+  },
+  {
+    "id": 134042,
+    "title": "Surveyor Return Path Max Bounds #10",
+    "text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "img": "/images/g8_t138_q10.svg",
+    "options": [
+      "7 km",
+      "8 km",
+      "6 km",
+      "4 km"
+    ],
+    "answer": "7 km",
+    "steps": [
+      "**Step 1: Compute upper bound using Triangle Inequality**",
+      "$$\\text{Path}_3 < 3 + 5 = 8\\text{ km}$$",
+      "**Step 2: Identify maximum integer**",
+      "$$\\text{Largest integer } < 8 = 7\\text{ km}$$",
+      "**Final Verified Answer:** \\(7 km\\)"
+    ],
+    "formula": "\\text{Return Path} < 3 + 5 \\implies \\text{Max integer} = 7"
+  },
+  {
+    "id": 134043,
+    "title": "Triangle Side Check (6,9,17) #11",
+    "text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "img": "/images/g8_t138_q11.svg",
+    "options": [
+      "Yes, because 6 + 9 + 17 = 32 > 0",
+      "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+      "No, because 17 - 9 = 8 > 6",
+      "Yes, any three numbers can form a triangle"
+    ],
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "steps": [
+      "**Step 1: Sum the two shorter sides**",
+      "$$6 + 9 = 15$$",
+      "**Step 2: Compare with third side**",
+      "$$15 < 17 \\implies \\text{Triangle Inequality violated. Cannot form triangle.}$$",
+      "**Final Verified Answer:** \\(No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134044,
+    "title": "Third Side Range (8,13) #12",
+    "text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "img": "/images/g8_t138_q12.svg",
+    "options": [
+      "5 cm < x < 21 cm",
+      "5 cm ≤ x ≤ 21 cm",
+      "8 cm < x < 13 cm",
+      "0 cm < x < 21 cm"
+    ],
+    "answer": "5 cm < x < 21 cm",
+    "steps": [
+      "**Step 1: Compute lower bound |a - b|**",
+      "$$13 - 8 = 5\\text{ cm}$$",
+      "**Step 2: Compute upper bound a + b**",
+      "$$8 + 13 = 21\\text{ cm}$$",
+      "**Step 3: Combine bounds**",
+      "$$5\\text{ cm} < x < 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(5 cm < x < 21 cm\\)"
+    ],
+    "formula": "|a - b| < x < a + b"
+  },
+  {
+    "id": 134045,
+    "title": "Angle-Side Order Relationship #13",
+    "text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "img": "/images/g8_t138_q13.svg",
+    "options": [
+      "AC, AB, BC",
+      "BC, AB, AC",
+      "BC, AC, AB",
+      "AB, BC, AC"
+    ],
+    "answer": "BC, AB, AC",
+    "steps": [
+      "**Step 1: Rank interior angles**",
+      "$$m\\angle A (45^\\circ) < m\\angle C (60^\\circ) < m\\angle B (75^\\circ)$$",
+      "**Step 2: Match opposite sides**",
+      "$$\\text{Opposite } \\angle A \\to BC, \\quad \\text{Opposite } \\angle C \\to AB, \\quad \\text{Opposite } \\angle B \\to AC$$",
+      "$$\\text{Order: } BC, AB, AC$$",
+      "**Final Verified Answer:** \\(BC, AB, AC\\)"
+    ],
+    "formula": "\\text{Smallest Angle } \\leftrightarrow \\text{ Shortest Opposite Side}"
+  },
+  {
+    "id": 134046,
+    "title": "Side-Angle Order Relationship #14",
+    "text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "img": "/images/g8_t138_q14.svg",
+    "options": [
+      "∠X, ∠Y, ∠Z",
+      "∠X, ∠Z, ∠Y",
+      "∠Z, ∠X, ∠Y",
+      "∠Y, ∠Z, ∠X"
+    ],
+    "answer": "∠X, ∠Z, ∠Y",
+    "steps": [
+      "**Step 1: Rank side lengths**",
+      "$$YZ (9) < XY (12) < XZ (15)$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } YZ \\to \\angle X, \\quad \\text{Opposite } XY \\to \\angle Z, \\quad \\text{Opposite } XZ \\to \\angle Y$$",
+      "$$\\text{Order: } \\angle X, \\angle Z, \\angle Y$$",
+      "**Final Verified Answer:** \\(∠X, ∠Z, ∠Y\\)"
+    ],
+    "formula": "\\text{Shortest Side } \\leftrightarrow \\text{ Smallest Opposite Angle}"
+  },
+  {
+    "id": 134047,
+    "title": "Third Side Validity Check #15",
+    "text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "img": "/images/g8_t138_q15.svg",
+    "options": [
+      "No, because 15 + 7 = 22, which is not strictly greater than 22",
+      "No, because 22 - 15 = 7, which is too large",
+      "Yes, because 15 + 22 = 37 > 7",
+      "Yes, 7 cm is a valid positive length"
+    ],
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "steps": [
+      "**Step 1: Compute strict inequality lower bound**",
+      "$$x > 22 - 15 \\implies x > 7$$",
+      "**Step 2: Evaluate 7 cm**",
+      "$$7 \\text{ is not } > 7 \\implies \\text{Invalid third side.}$$",
+      "**Final Verified Answer:** \\(No, because 15 + 7 = 22, which is not strictly greater than 22\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134048,
+    "title": "Third Side Integer Bounds #16",
+    "text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "img": "/images/g8_t138_q16.svg",
+    "options": [
+      "Minimum = 5 cm, Maximum = 21 cm",
+      "Minimum = 7 cm, Maximum = 21 cm",
+      "Minimum = 8 cm, Maximum = 14 cm",
+      "Minimum = 6 cm, Maximum = 22 cm"
+    ],
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "steps": [
+      "**Step 1: Compute strict bounds**",
+      "$$14 - 8 < PR < 14 + 8 \\implies 6 < PR < 22$$",
+      "**Step 2: Identify integer limits**",
+      "$$\\text{Min integer} = 7\\text{ cm}, \\quad \\text{Max integer} = 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(Minimum = 7 cm, Maximum = 21 cm\\)"
+    ],
+    "formula": "6 < PR < 22 \\implies \\text{Min integer = 7, Max integer = 21}"
+  },
+  {
+    "id": 134049,
+    "title": "Exterior Angle Inequality Theorem #17",
+    "text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "img": "/images/g8_t138_q17.svg",
+    "options": [
+      "The sum of an exterior angle and remote interior angles is always 90°",
+      "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+      "An exterior angle is strictly smaller than any interior angle",
+      "An exterior angle is equal to the adjacent interior angle"
+    ],
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "steps": [
+      "**Step 1: Recall Exterior Angle Theorem**",
+      "$$m\\angle_{ext} = m\\angle_{int1} + m\\angle_{int2}$$",
+      "**Step 2: Deduce inequality**",
+      "$$\\text{Since angles are positive, } m\\angle_{ext} > m\\angle_{int1} \\text{ and } m\\angle_{ext} > m\\angle_{int2}$$",
+      "**Final Verified Answer:** \\(An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles\\)"
+    ],
+    "formula": "m\\angle_{ext} > m\\angle_{remote\\,int}"
+  },
+  {
+    "id": 134050,
+    "title": "Hinge Theorem Comparison #18",
+    "text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "img": "/images/g8_t138_q18.svg",
+    "options": [
+      "BC < EF",
+      "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+      "Cannot be compared without side lengths",
+      "BC = EF"
+    ],
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "steps": [
+      "**Step 1: Verify side pair congruences**",
+      "$$AB = DE, \\quad AC = DF$$",
+      "**Step 2: Compare included angles**",
+      "$$m\\angle A (65^\\circ) > m\\angle D (48^\\circ) \\implies BC > EF$$",
+      "**Final Verified Answer:** \\(BC > EF (because included angle m∠A = 65° > m∠D = 48°)\\)"
+    ],
+    "formula": "m\\angle A > m\\angle D \\implies BC > EF"
+  },
+  {
+    "id": 134051,
+    "title": "Isosceles Angle Ranking #19",
+    "text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "img": "/images/g8_t138_q19.svg",
+    "options": [
+      "∠L is the smallest angle",
+      "∠K is the unique smallest angle",
+      "∠K and ∠M are the equal smallest angles",
+      "All three angles are equal"
+    ],
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "steps": [
+      "**Step 1: Identify shortest sides**",
+      "$$KL (7\\text{ cm}) = LM (7\\text{ cm}) < KM (11\\text{ cm})$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } KL \\to \\angle M, \\quad \\text{Opposite } LM \\to \\angle K$$",
+      "$$\\text{Thus, } \\angle K = \\angle M < \\angle L$$",
+      "**Final Verified Answer:** \\(∠K and ∠M are the equal smallest angles\\)"
+    ],
+    "formula": "\\text{Shortest sides } (7\\text{ cm}) \\leftrightarrow \\text{ Smallest opposite angles}"
+  },
+  {
+    "id": 134052,
+    "title": "Surveyor Return Path Max Bounds #20",
+    "text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "img": "/images/g8_t138_q20.svg",
+    "options": [
+      "6 km",
+      "8 km",
+      "4 km",
+      "7 km"
+    ],
+    "answer": "7 km",
+    "steps": [
+      "**Step 1: Compute upper bound using Triangle Inequality**",
+      "$$\\text{Path}_3 < 3 + 5 = 8\\text{ km}$$",
+      "**Step 2: Identify maximum integer**",
+      "$$\\text{Largest integer } < 8 = 7\\text{ km}$$",
+      "**Final Verified Answer:** \\(7 km\\)"
+    ],
+    "formula": "\\text{Return Path} < 3 + 5 \\implies \\text{Max integer} = 7"
+  },
+  {
+    "id": 134053,
+    "title": "Triangle Side Check (6,9,17) #21",
+    "text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "img": "/images/g8_t138_q21.svg",
+    "options": [
+      "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+      "Yes, any three numbers can form a triangle",
+      "Yes, because 6 + 9 + 17 = 32 > 0",
+      "No, because 17 - 9 = 8 > 6"
+    ],
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "steps": [
+      "**Step 1: Sum the two shorter sides**",
+      "$$6 + 9 = 15$$",
+      "**Step 2: Compare with third side**",
+      "$$15 < 17 \\implies \\text{Triangle Inequality violated. Cannot form triangle.}$$",
+      "**Final Verified Answer:** \\(No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134054,
+    "title": "Third Side Range (8,13) #22",
+    "text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "img": "/images/g8_t138_q22.svg",
+    "options": [
+      "0 cm < x < 21 cm",
+      "5 cm ≤ x ≤ 21 cm",
+      "8 cm < x < 13 cm",
+      "5 cm < x < 21 cm"
+    ],
+    "answer": "5 cm < x < 21 cm",
+    "steps": [
+      "**Step 1: Compute lower bound |a - b|**",
+      "$$13 - 8 = 5\\text{ cm}$$",
+      "**Step 2: Compute upper bound a + b**",
+      "$$8 + 13 = 21\\text{ cm}$$",
+      "**Step 3: Combine bounds**",
+      "$$5\\text{ cm} < x < 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(5 cm < x < 21 cm\\)"
+    ],
+    "formula": "|a - b| < x < a + b"
+  },
+  {
+    "id": 134055,
+    "title": "Angle-Side Order Relationship #23",
+    "text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "img": "/images/g8_t138_q23.svg",
+    "options": [
+      "AC, AB, BC",
+      "BC, AB, AC",
+      "BC, AC, AB",
+      "AB, BC, AC"
+    ],
+    "answer": "BC, AB, AC",
+    "steps": [
+      "**Step 1: Rank interior angles**",
+      "$$m\\angle A (45^\\circ) < m\\angle C (60^\\circ) < m\\angle B (75^\\circ)$$",
+      "**Step 2: Match opposite sides**",
+      "$$\\text{Opposite } \\angle A \\to BC, \\quad \\text{Opposite } \\angle C \\to AB, \\quad \\text{Opposite } \\angle B \\to AC$$",
+      "$$\\text{Order: } BC, AB, AC$$",
+      "**Final Verified Answer:** \\(BC, AB, AC\\)"
+    ],
+    "formula": "\\text{Smallest Angle } \\leftrightarrow \\text{ Shortest Opposite Side}"
+  },
+  {
+    "id": 134056,
+    "title": "Side-Angle Order Relationship #24",
+    "text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "img": "/images/g8_t138_q24.svg",
+    "options": [
+      "∠Y, ∠Z, ∠X",
+      "∠X, ∠Y, ∠Z",
+      "∠X, ∠Z, ∠Y",
+      "∠Z, ∠X, ∠Y"
+    ],
+    "answer": "∠X, ∠Z, ∠Y",
+    "steps": [
+      "**Step 1: Rank side lengths**",
+      "$$YZ (9) < XY (12) < XZ (15)$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } YZ \\to \\angle X, \\quad \\text{Opposite } XY \\to \\angle Z, \\quad \\text{Opposite } XZ \\to \\angle Y$$",
+      "$$\\text{Order: } \\angle X, \\angle Z, \\angle Y$$",
+      "**Final Verified Answer:** \\(∠X, ∠Z, ∠Y\\)"
+    ],
+    "formula": "\\text{Shortest Side } \\leftrightarrow \\text{ Smallest Opposite Angle}"
+  },
+  {
+    "id": 134057,
+    "title": "Third Side Validity Check #25",
+    "text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "img": "/images/g8_t138_q25.svg",
+    "options": [
+      "No, because 22 - 15 = 7, which is too large",
+      "Yes, 7 cm is a valid positive length",
+      "No, because 15 + 7 = 22, which is not strictly greater than 22",
+      "Yes, because 15 + 22 = 37 > 7"
+    ],
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "steps": [
+      "**Step 1: Compute strict inequality lower bound**",
+      "$$x > 22 - 15 \\implies x > 7$$",
+      "**Step 2: Evaluate 7 cm**",
+      "$$7 \\text{ is not } > 7 \\implies \\text{Invalid third side.}$$",
+      "**Final Verified Answer:** \\(No, because 15 + 7 = 22, which is not strictly greater than 22\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134058,
+    "title": "Third Side Integer Bounds #26",
+    "text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "img": "/images/g8_t138_q26.svg",
+    "options": [
+      "Minimum = 8 cm, Maximum = 14 cm",
+      "Minimum = 6 cm, Maximum = 22 cm",
+      "Minimum = 7 cm, Maximum = 21 cm",
+      "Minimum = 5 cm, Maximum = 21 cm"
+    ],
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "steps": [
+      "**Step 1: Compute strict bounds**",
+      "$$14 - 8 < PR < 14 + 8 \\implies 6 < PR < 22$$",
+      "**Step 2: Identify integer limits**",
+      "$$\\text{Min integer} = 7\\text{ cm}, \\quad \\text{Max integer} = 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(Minimum = 7 cm, Maximum = 21 cm\\)"
+    ],
+    "formula": "6 < PR < 22 \\implies \\text{Min integer = 7, Max integer = 21}"
+  },
+  {
+    "id": 134059,
+    "title": "Exterior Angle Inequality Theorem #27",
+    "text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "img": "/images/g8_t138_q27.svg",
+    "options": [
+      "An exterior angle is strictly smaller than any interior angle",
+      "The sum of an exterior angle and remote interior angles is always 90°",
+      "An exterior angle is equal to the adjacent interior angle",
+      "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles"
+    ],
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "steps": [
+      "**Step 1: Recall Exterior Angle Theorem**",
+      "$$m\\angle_{ext} = m\\angle_{int1} + m\\angle_{int2}$$",
+      "**Step 2: Deduce inequality**",
+      "$$\\text{Since angles are positive, } m\\angle_{ext} > m\\angle_{int1} \\text{ and } m\\angle_{ext} > m\\angle_{int2}$$",
+      "**Final Verified Answer:** \\(An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles\\)"
+    ],
+    "formula": "m\\angle_{ext} > m\\angle_{remote\\,int}"
+  },
+  {
+    "id": 134060,
+    "title": "Hinge Theorem Comparison #28",
+    "text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "img": "/images/g8_t138_q28.svg",
+    "options": [
+      "BC < EF",
+      "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+      "Cannot be compared without side lengths",
+      "BC = EF"
+    ],
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "steps": [
+      "**Step 1: Verify side pair congruences**",
+      "$$AB = DE, \\quad AC = DF$$",
+      "**Step 2: Compare included angles**",
+      "$$m\\angle A (65^\\circ) > m\\angle D (48^\\circ) \\implies BC > EF$$",
+      "**Final Verified Answer:** \\(BC > EF (because included angle m∠A = 65° > m∠D = 48°)\\)"
+    ],
+    "formula": "m\\angle A > m\\angle D \\implies BC > EF"
+  },
+  {
+    "id": 134061,
+    "title": "Isosceles Angle Ranking #29",
+    "text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "img": "/images/g8_t138_q29.svg",
+    "options": [
+      "∠L is the smallest angle",
+      "∠K and ∠M are the equal smallest angles",
+      "All three angles are equal",
+      "∠K is the unique smallest angle"
+    ],
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "steps": [
+      "**Step 1: Identify shortest sides**",
+      "$$KL (7\\text{ cm}) = LM (7\\text{ cm}) < KM (11\\text{ cm})$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } KL \\to \\angle M, \\quad \\text{Opposite } LM \\to \\angle K$$",
+      "$$\\text{Thus, } \\angle K = \\angle M < \\angle L$$",
+      "**Final Verified Answer:** \\(∠K and ∠M are the equal smallest angles\\)"
+    ],
+    "formula": "\\text{Shortest sides } (7\\text{ cm}) \\leftrightarrow \\text{ Smallest opposite angles}"
+  },
+  {
+    "id": 134062,
+    "title": "Surveyor Return Path Max Bounds #30",
+    "text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "img": "/images/g8_t138_q30.svg",
+    "options": [
+      "7 km",
+      "8 km",
+      "6 km",
+      "4 km"
+    ],
+    "answer": "7 km",
+    "steps": [
+      "**Step 1: Compute upper bound using Triangle Inequality**",
+      "$$\\text{Path}_3 < 3 + 5 = 8\\text{ km}$$",
+      "**Step 2: Identify maximum integer**",
+      "$$\\text{Largest integer } < 8 = 7\\text{ km}$$",
+      "**Final Verified Answer:** \\(7 km\\)"
+    ],
+    "formula": "\\text{Return Path} < 3 + 5 \\implies \\text{Max integer} = 7"
+  },
+  {
+    "id": 134063,
+    "title": "Triangle Side Check (6,9,17) #31",
+    "text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "img": "/images/g8_t138_q31.svg",
+    "options": [
+      "Yes, any three numbers can form a triangle",
+      "No, because 17 - 9 = 8 > 6",
+      "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+      "Yes, because 6 + 9 + 17 = 32 > 0"
+    ],
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "steps": [
+      "**Step 1: Sum the two shorter sides**",
+      "$$6 + 9 = 15$$",
+      "**Step 2: Compare with third side**",
+      "$$15 < 17 \\implies \\text{Triangle Inequality violated. Cannot form triangle.}$$",
+      "**Final Verified Answer:** \\(No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134064,
+    "title": "Third Side Range (8,13) #32",
+    "text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "img": "/images/g8_t138_q32.svg",
+    "options": [
+      "5 cm < x < 21 cm",
+      "0 cm < x < 21 cm",
+      "5 cm ≤ x ≤ 21 cm",
+      "8 cm < x < 13 cm"
+    ],
+    "answer": "5 cm < x < 21 cm",
+    "steps": [
+      "**Step 1: Compute lower bound |a - b|**",
+      "$$13 - 8 = 5\\text{ cm}$$",
+      "**Step 2: Compute upper bound a + b**",
+      "$$8 + 13 = 21\\text{ cm}$$",
+      "**Step 3: Combine bounds**",
+      "$$5\\text{ cm} < x < 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(5 cm < x < 21 cm\\)"
+    ],
+    "formula": "|a - b| < x < a + b"
+  },
+  {
+    "id": 134065,
+    "title": "Angle-Side Order Relationship #33",
+    "text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "img": "/images/g8_t138_q33.svg",
+    "options": [
+      "BC, AC, AB",
+      "BC, AB, AC",
+      "AC, AB, BC",
+      "AB, BC, AC"
+    ],
+    "answer": "BC, AB, AC",
+    "steps": [
+      "**Step 1: Rank interior angles**",
+      "$$m\\angle A (45^\\circ) < m\\angle C (60^\\circ) < m\\angle B (75^\\circ)$$",
+      "**Step 2: Match opposite sides**",
+      "$$\\text{Opposite } \\angle A \\to BC, \\quad \\text{Opposite } \\angle C \\to AB, \\quad \\text{Opposite } \\angle B \\to AC$$",
+      "$$\\text{Order: } BC, AB, AC$$",
+      "**Final Verified Answer:** \\(BC, AB, AC\\)"
+    ],
+    "formula": "\\text{Smallest Angle } \\leftrightarrow \\text{ Shortest Opposite Side}"
+  },
+  {
+    "id": 134066,
+    "title": "Side-Angle Order Relationship #34",
+    "text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "img": "/images/g8_t138_q34.svg",
+    "options": [
+      "∠X, ∠Z, ∠Y",
+      "∠X, ∠Y, ∠Z",
+      "∠Y, ∠Z, ∠X",
+      "∠Z, ∠X, ∠Y"
+    ],
+    "answer": "∠X, ∠Z, ∠Y",
+    "steps": [
+      "**Step 1: Rank side lengths**",
+      "$$YZ (9) < XY (12) < XZ (15)$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } YZ \\to \\angle X, \\quad \\text{Opposite } XY \\to \\angle Z, \\quad \\text{Opposite } XZ \\to \\angle Y$$",
+      "$$\\text{Order: } \\angle X, \\angle Z, \\angle Y$$",
+      "**Final Verified Answer:** \\(∠X, ∠Z, ∠Y\\)"
+    ],
+    "formula": "\\text{Shortest Side } \\leftrightarrow \\text{ Smallest Opposite Angle}"
+  },
+  {
+    "id": 134067,
+    "title": "Third Side Validity Check #35",
+    "text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "img": "/images/g8_t138_q35.svg",
+    "options": [
+      "No, because 22 - 15 = 7, which is too large",
+      "No, because 15 + 7 = 22, which is not strictly greater than 22",
+      "Yes, 7 cm is a valid positive length",
+      "Yes, because 15 + 22 = 37 > 7"
+    ],
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "steps": [
+      "**Step 1: Compute strict inequality lower bound**",
+      "$$x > 22 - 15 \\implies x > 7$$",
+      "**Step 2: Evaluate 7 cm**",
+      "$$7 \\text{ is not } > 7 \\implies \\text{Invalid third side.}$$",
+      "**Final Verified Answer:** \\(No, because 15 + 7 = 22, which is not strictly greater than 22\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134068,
+    "title": "Third Side Integer Bounds #36",
+    "text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "img": "/images/g8_t138_q36.svg",
+    "options": [
+      "Minimum = 5 cm, Maximum = 21 cm",
+      "Minimum = 8 cm, Maximum = 14 cm",
+      "Minimum = 6 cm, Maximum = 22 cm",
+      "Minimum = 7 cm, Maximum = 21 cm"
+    ],
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "steps": [
+      "**Step 1: Compute strict bounds**",
+      "$$14 - 8 < PR < 14 + 8 \\implies 6 < PR < 22$$",
+      "**Step 2: Identify integer limits**",
+      "$$\\text{Min integer} = 7\\text{ cm}, \\quad \\text{Max integer} = 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(Minimum = 7 cm, Maximum = 21 cm\\)"
+    ],
+    "formula": "6 < PR < 22 \\implies \\text{Min integer = 7, Max integer = 21}"
+  },
+  {
+    "id": 134069,
+    "title": "Exterior Angle Inequality Theorem #37",
+    "text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "img": "/images/g8_t138_q37.svg",
+    "options": [
+      "An exterior angle is equal to the adjacent interior angle",
+      "An exterior angle is strictly smaller than any interior angle",
+      "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+      "The sum of an exterior angle and remote interior angles is always 90°"
+    ],
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "steps": [
+      "**Step 1: Recall Exterior Angle Theorem**",
+      "$$m\\angle_{ext} = m\\angle_{int1} + m\\angle_{int2}$$",
+      "**Step 2: Deduce inequality**",
+      "$$\\text{Since angles are positive, } m\\angle_{ext} > m\\angle_{int1} \\text{ and } m\\angle_{ext} > m\\angle_{int2}$$",
+      "**Final Verified Answer:** \\(An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles\\)"
+    ],
+    "formula": "m\\angle_{ext} > m\\angle_{remote\\,int}"
+  },
+  {
+    "id": 134070,
+    "title": "Hinge Theorem Comparison #38",
+    "text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "img": "/images/g8_t138_q38.svg",
+    "options": [
+      "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+      "BC = EF",
+      "Cannot be compared without side lengths",
+      "BC < EF"
+    ],
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "steps": [
+      "**Step 1: Verify side pair congruences**",
+      "$$AB = DE, \\quad AC = DF$$",
+      "**Step 2: Compare included angles**",
+      "$$m\\angle A (65^\\circ) > m\\angle D (48^\\circ) \\implies BC > EF$$",
+      "**Final Verified Answer:** \\(BC > EF (because included angle m∠A = 65° > m∠D = 48°)\\)"
+    ],
+    "formula": "m\\angle A > m\\angle D \\implies BC > EF"
+  },
+  {
+    "id": 134071,
+    "title": "Isosceles Angle Ranking #39",
+    "text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "img": "/images/g8_t138_q39.svg",
+    "options": [
+      "All three angles are equal",
+      "∠K is the unique smallest angle",
+      "∠L is the smallest angle",
+      "∠K and ∠M are the equal smallest angles"
+    ],
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "steps": [
+      "**Step 1: Identify shortest sides**",
+      "$$KL (7\\text{ cm}) = LM (7\\text{ cm}) < KM (11\\text{ cm})$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } KL \\to \\angle M, \\quad \\text{Opposite } LM \\to \\angle K$$",
+      "$$\\text{Thus, } \\angle K = \\angle M < \\angle L$$",
+      "**Final Verified Answer:** \\(∠K and ∠M are the equal smallest angles\\)"
+    ],
+    "formula": "\\text{Shortest sides } (7\\text{ cm}) \\leftrightarrow \\text{ Smallest opposite angles}"
+  },
+  {
+    "id": 134072,
+    "title": "Surveyor Return Path Max Bounds #40",
+    "text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "img": "/images/g8_t138_q40.svg",
+    "options": [
+      "7 km",
+      "6 km",
+      "8 km",
+      "4 km"
+    ],
+    "answer": "7 km",
+    "steps": [
+      "**Step 1: Compute upper bound using Triangle Inequality**",
+      "$$\\text{Path}_3 < 3 + 5 = 8\\text{ km}$$",
+      "**Step 2: Identify maximum integer**",
+      "$$\\text{Largest integer } < 8 = 7\\text{ km}$$",
+      "**Final Verified Answer:** \\(7 km\\)"
+    ],
+    "formula": "\\text{Return Path} < 3 + 5 \\implies \\text{Max integer} = 7"
+  },
+  {
+    "id": 134073,
+    "title": "Triangle Side Check (6,9,17) #41",
+    "text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "img": "/images/g8_t138_q41.svg",
+    "options": [
+      "Yes, because 6 + 9 + 17 = 32 > 0",
+      "No, because 17 - 9 = 8 > 6",
+      "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+      "Yes, any three numbers can form a triangle"
+    ],
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "steps": [
+      "**Step 1: Sum the two shorter sides**",
+      "$$6 + 9 = 15$$",
+      "**Step 2: Compare with third side**",
+      "$$15 < 17 \\implies \\text{Triangle Inequality violated. Cannot form triangle.}$$",
+      "**Final Verified Answer:** \\(No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134074,
+    "title": "Third Side Range (8,13) #42",
+    "text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "img": "/images/g8_t138_q42.svg",
+    "options": [
+      "0 cm < x < 21 cm",
+      "5 cm < x < 21 cm",
+      "8 cm < x < 13 cm",
+      "5 cm ≤ x ≤ 21 cm"
+    ],
+    "answer": "5 cm < x < 21 cm",
+    "steps": [
+      "**Step 1: Compute lower bound |a - b|**",
+      "$$13 - 8 = 5\\text{ cm}$$",
+      "**Step 2: Compute upper bound a + b**",
+      "$$8 + 13 = 21\\text{ cm}$$",
+      "**Step 3: Combine bounds**",
+      "$$5\\text{ cm} < x < 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(5 cm < x < 21 cm\\)"
+    ],
+    "formula": "|a - b| < x < a + b"
+  },
+  {
+    "id": 134075,
+    "title": "Angle-Side Order Relationship #43",
+    "text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "img": "/images/g8_t138_q43.svg",
+    "options": [
+      "BC, AB, AC",
+      "BC, AC, AB",
+      "AB, BC, AC",
+      "AC, AB, BC"
+    ],
+    "answer": "BC, AB, AC",
+    "steps": [
+      "**Step 1: Rank interior angles**",
+      "$$m\\angle A (45^\\circ) < m\\angle C (60^\\circ) < m\\angle B (75^\\circ)$$",
+      "**Step 2: Match opposite sides**",
+      "$$\\text{Opposite } \\angle A \\to BC, \\quad \\text{Opposite } \\angle C \\to AB, \\quad \\text{Opposite } \\angle B \\to AC$$",
+      "$$\\text{Order: } BC, AB, AC$$",
+      "**Final Verified Answer:** \\(BC, AB, AC\\)"
+    ],
+    "formula": "\\text{Smallest Angle } \\leftrightarrow \\text{ Shortest Opposite Side}"
+  },
+  {
+    "id": 134076,
+    "title": "Side-Angle Order Relationship #44",
+    "text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "img": "/images/g8_t138_q44.svg",
+    "options": [
+      "∠X, ∠Z, ∠Y",
+      "∠X, ∠Y, ∠Z",
+      "∠Y, ∠Z, ∠X",
+      "∠Z, ∠X, ∠Y"
+    ],
+    "answer": "∠X, ∠Z, ∠Y",
+    "steps": [
+      "**Step 1: Rank side lengths**",
+      "$$YZ (9) < XY (12) < XZ (15)$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } YZ \\to \\angle X, \\quad \\text{Opposite } XY \\to \\angle Z, \\quad \\text{Opposite } XZ \\to \\angle Y$$",
+      "$$\\text{Order: } \\angle X, \\angle Z, \\angle Y$$",
+      "**Final Verified Answer:** \\(∠X, ∠Z, ∠Y\\)"
+    ],
+    "formula": "\\text{Shortest Side } \\leftrightarrow \\text{ Smallest Opposite Angle}"
+  },
+  {
+    "id": 134077,
+    "title": "Third Side Validity Check #45",
+    "text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "img": "/images/g8_t138_q45.svg",
+    "options": [
+      "Yes, because 15 + 22 = 37 > 7",
+      "Yes, 7 cm is a valid positive length",
+      "No, because 15 + 7 = 22, which is not strictly greater than 22",
+      "No, because 22 - 15 = 7, which is too large"
+    ],
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "steps": [
+      "**Step 1: Compute strict inequality lower bound**",
+      "$$x > 22 - 15 \\implies x > 7$$",
+      "**Step 2: Evaluate 7 cm**",
+      "$$7 \\text{ is not } > 7 \\implies \\text{Invalid third side.}$$",
+      "**Final Verified Answer:** \\(No, because 15 + 7 = 22, which is not strictly greater than 22\\)"
+    ],
+    "formula": "a + b > c"
+  },
+  {
+    "id": 134078,
+    "title": "Third Side Integer Bounds #46",
+    "text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "img": "/images/g8_t138_q46.svg",
+    "options": [
+      "Minimum = 6 cm, Maximum = 22 cm",
+      "Minimum = 5 cm, Maximum = 21 cm",
+      "Minimum = 7 cm, Maximum = 21 cm",
+      "Minimum = 8 cm, Maximum = 14 cm"
+    ],
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "steps": [
+      "**Step 1: Compute strict bounds**",
+      "$$14 - 8 < PR < 14 + 8 \\implies 6 < PR < 22$$",
+      "**Step 2: Identify integer limits**",
+      "$$\\text{Min integer} = 7\\text{ cm}, \\quad \\text{Max integer} = 21\\text{ cm}$$",
+      "**Final Verified Answer:** \\(Minimum = 7 cm, Maximum = 21 cm\\)"
+    ],
+    "formula": "6 < PR < 22 \\implies \\text{Min integer = 7, Max integer = 21}"
+  },
+  {
+    "id": 134079,
+    "title": "Exterior Angle Inequality Theorem #47",
+    "text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "img": "/images/g8_t138_q47.svg",
+    "options": [
+      "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+      "The sum of an exterior angle and remote interior angles is always 90°",
+      "An exterior angle is strictly smaller than any interior angle",
+      "An exterior angle is equal to the adjacent interior angle"
+    ],
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "steps": [
+      "**Step 1: Recall Exterior Angle Theorem**",
+      "$$m\\angle_{ext} = m\\angle_{int1} + m\\angle_{int2}$$",
+      "**Step 2: Deduce inequality**",
+      "$$\\text{Since angles are positive, } m\\angle_{ext} > m\\angle_{int1} \\text{ and } m\\angle_{ext} > m\\angle_{int2}$$",
+      "**Final Verified Answer:** \\(An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles\\)"
+    ],
+    "formula": "m\\angle_{ext} > m\\angle_{remote\\,int}"
+  },
+  {
+    "id": 134080,
+    "title": "Hinge Theorem Comparison #48",
+    "text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "img": "/images/g8_t138_q48.svg",
+    "options": [
+      "BC = EF",
+      "BC < EF",
+      "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+      "Cannot be compared without side lengths"
+    ],
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "steps": [
+      "**Step 1: Verify side pair congruences**",
+      "$$AB = DE, \\quad AC = DF$$",
+      "**Step 2: Compare included angles**",
+      "$$m\\angle A (65^\\circ) > m\\angle D (48^\\circ) \\implies BC > EF$$",
+      "**Final Verified Answer:** \\(BC > EF (because included angle m∠A = 65° > m∠D = 48°)\\)"
+    ],
+    "formula": "m\\angle A > m\\angle D \\implies BC > EF"
+  },
+  {
+    "id": 134081,
+    "title": "Isosceles Angle Ranking #49",
+    "text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "img": "/images/g8_t138_q49.svg",
+    "options": [
+      "∠K is the unique smallest angle",
+      "All three angles are equal",
+      "∠L is the smallest angle",
+      "∠K and ∠M are the equal smallest angles"
+    ],
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "steps": [
+      "**Step 1: Identify shortest sides**",
+      "$$KL (7\\text{ cm}) = LM (7\\text{ cm}) < KM (11\\text{ cm})$$",
+      "**Step 2: Match opposite angles**",
+      "$$\\text{Opposite } KL \\to \\angle M, \\quad \\text{Opposite } LM \\to \\angle K$$",
+      "$$\\text{Thus, } \\angle K = \\angle M < \\angle L$$",
+      "**Final Verified Answer:** \\(∠K and ∠M are the equal smallest angles\\)"
+    ],
+    "formula": "\\text{Shortest sides } (7\\text{ cm}) \\leftrightarrow \\text{ Smallest opposite angles}"
+  },
+  {
+    "id": 134082,
+    "title": "Surveyor Return Path Max Bounds #50",
+    "text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "img": "/images/g8_t138_q50.svg",
+    "options": [
+      "4 km",
+      "8 km",
+      "7 km",
+      "6 km"
+    ],
+    "answer": "7 km",
+    "steps": [
+      "**Step 1: Compute upper bound using Triangle Inequality**",
+      "$$\\text{Path}_3 < 3 + 5 = 8\\text{ km}$$",
+      "**Step 2: Identify maximum integer**",
+      "$$\\text{Largest integer } < 8 = 7\\text{ km}$$",
+      "**Final Verified Answer:** \\(7 km\\)"
+    ],
+    "formula": "\\text{Return Path} < 3 + 5 \\implies \\text{Max integer} = 7"
+  }
+]

@@ -1,0 +1,17 @@
+import json
+
+def build_all_four_topics():
+    # Load raw dumps
+    with open('scratch/t155_dump.json', 'r', encoding='utf-8') as f:
+        t155_raw = json.load(f)
+    with open('scratch/t156_dump.json', 'r', encoding='utf-8') as f:
+        t156_raw = json.load(f)
+    with open('scratch/t157_dump.json', 'r', encoding='utf-8') as f:
+        t157_raw = json.load(f)
+    with open('scratch/t158_dump.json', 'r', encoding='utf-8') as f:
+        t158_raw = json.load(f)
+        
+    print(f"Raw counts: T155={len(t155_raw)}, T156={len(t156_raw)}, T157={len(t157_raw)}, T158={len(t158_raw)}")
+
+if __name__ == "__main__":
+    build_all_four_topics()

@@ -1,0 +1,352 @@
+Total questions for Topic 147: 50
+
+Q01 (ID 134233): Q1: Define a quadrilateral and state the sum of t...
+  Text:    Define a quadrilateral and state the sum of the interior angles of any convex quadrilateral.
+  Formula: (n - 2) \times 180^\circ = (4 - 2) \times 180^\circ = 360^\circ
+  Img:     /images/g9_t147_q1.svg
+  Ans:     360°
+  Opts:    ['720°', '540°', '180°', '360°']
+------------------------------------------------------------
+Q02 (ID 134234): Q2: Define a parallelogram based on its formal ge...
+  Text:    Define a parallelogram based on its formal geometric definition.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q2.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q03 (ID 134235): Q3: State the five primary properties of a parall...
+  Text:    State the five primary properties of a parallelogram concerning sides, angles, and diagonals.
+  Formula: \text{Diagonals are perpendicular } (d_1 \perp d_2)
+  Img:     /images/g9_t147_q3.svg
+  Ans:     Rhombus
+  Opts:    ['Trapezoid', 'Rectangle', 'Rhombus', 'Scalene Quadrilateral']
+------------------------------------------------------------
+Q04 (ID 134236): Q4: In parallelogram ABCD, if m∠A = (3x + 10)° an...
+  Text:    In parallelogram ABCD, if m∠A = (3x + 10)° and m∠C = (5x - 30)°, find the measure of all four interior angles.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q4.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q05 (ID 134237): Q5: In parallelogram PQRS, the adjacent sides mea...
+  Text:    In parallelogram PQRS, the adjacent sides measure PQ = 3x - 4 cm and QR = 2x + 1 cm. If the perimeter is 44 cm, find the lengths of all four sides.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q5.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q06 (ID 134238): Q6: The diagonals of parallelogram ABCD intersect...
+  Text:    The diagonals of parallelogram ABCD intersect at point E. If AE = 2x + 5, EC = 3x - 1, BE = 4y - 2, and ED = y + 7, find x, y, AC, and BD.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q6.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q07 (ID 134239): Q7: Define a rectangle and state its two distingu...
+  Text:    Define a rectangle and state its two distinguishing properties beyond those of a general parallelogram.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q7.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q08 (ID 134240): Q8: In rectangle ABCD, the diagonals AC and BD in...
+  Text:    In rectangle ABCD, the diagonals AC and BD intersect at E. If AC = 4x - 6 and BD = 2x + 14, find the length of AC and the value of x.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q8.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q09 (ID 134241): Q9: In rectangle PQRS, diagonal PR makes an angle...
+  Text:    In rectangle PQRS, diagonal PR makes an angle of 34° with side PQ. Find the angle that diagonal PR makes with side PS, and find the measure of the acute angle between the diagonals.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q9.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides']
+------------------------------------------------------------
+Q10 (ID 134242): Q10: Define a rhombus and state its three distingu...
+  Text:    Define a rhombus and state its three distinguishing properties regarding sides, diagonals, and angle bisection.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q10.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q11 (ID 134243): Q11: In rhombus ABCD, the diagonals intersect at E...
+  Text:    In rhombus ABCD, the diagonals intersect at E. If AE = 6 cm and BE = 8 cm, calculate the perimeter and area of the rhombus.
+  Formula: (n - 2) \times 180^\circ = (4 - 2) \times 180^\circ = 360^\circ
+  Img:     /images/g9_t147_q11.svg
+  Ans:     360°
+  Opts:    ['540°', '720°', '180°', '360°']
+------------------------------------------------------------
+Q12 (ID 134244): Q12: In rhombus JKLM, if m∠JKL = 110°, find the me...
+  Text:    In rhombus JKLM, if m∠JKL = 110°, find the measures of ∠JKM, ∠MLK, and ∠JML.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q12.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q13 (ID 134245): Q13: Define a square and explain why every square ...
+  Text:    Define a square and explain why every square is simultaneously a rectangle, a rhombus, and a parallelogram.
+  Formula: \text{Diagonals are perpendicular } (d_1 \perp d_2)
+  Img:     /images/g9_t147_q13.svg
+  Ans:     Rhombus
+  Opts:    ['Rectangle', 'Scalene Quadrilateral', 'Rhombus', 'Trapezoid']
+------------------------------------------------------------
+Q14 (ID 134246): Q14: The perimeter of a square is 48 cm. Calculate...
+  Text:    The perimeter of a square is 48 cm. Calculate the exact length of its diagonal.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q14.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q15 (ID 134247): Q15: The diagonal of a square measures 10√2 cm. Fi...
+  Text:    The diagonal of a square measures 10√2 cm. Find its side length, perimeter, and area.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q15.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q16 (ID 134248): Q16: Define a trapezoid and identify its bases, le...
+  Text:    Define a trapezoid and identify its bases, legs, and base angles.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q16.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q17 (ID 134249): Q17: Define an isosceles trapezoid and state its t...
+  Text:    Define an isosceles trapezoid and state its three key properties regarding legs, base angles, and diagonals.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q17.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides']
+------------------------------------------------------------
+Q18 (ID 134250): Q18: In isosceles trapezoid ABCD with AB || CD, if...
+  Text:    In isosceles trapezoid ABCD with AB || CD, if m∠A = 72°, find the measures of ∠B, ∠C, and ∠D.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q18.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides']
+------------------------------------------------------------
+Q19 (ID 134251): Q19: In isosceles trapezoid PQRS with PQ || RS, di...
+  Text:    In isosceles trapezoid PQRS with PQ || RS, diagonal PR = 3x + 8 and diagonal QS = 5x - 4. Find the length of the diagonals.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q19.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q20 (ID 134252): Q20: State the Trapezoid Midsegment (Median) Theor...
+  Text:    State the Trapezoid Midsegment (Median) Theorem relating the length of the median to the lengths of the two bases.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q20.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q21 (ID 134253): Q21: In trapezoid ABCD with bases AB and CD, EF is...
+  Text:    In trapezoid ABCD with bases AB and CD, EF is the median. If AB = 14 cm and CD = 26 cm, find the length of EF.
+  Formula: (n - 2) \times 180^\circ = (4 - 2) \times 180^\circ = 360^\circ
+  Img:     /images/g9_t147_q21.svg
+  Ans:     360°
+  Opts:    ['540°', '720°', '180°', '360°']
+------------------------------------------------------------
+Q22 (ID 134254): Q22: In a trapezoid, the median measures 28 cm. If...
+  Text:    In a trapezoid, the median measures 28 cm. If one base is 8 cm longer than the other, find the lengths of both bases.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q22.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q23 (ID 134255): Q23: In trapezoid WXYZ with median MN, base WX = 2...
+  Text:    In trapezoid WXYZ with median MN, base WX = 2x + 3, base YZ = 4x - 1, and median MN = 19. Find x and the lengths of the bases.
+  Formula: \text{Diagonals are perpendicular } (d_1 \perp d_2)
+  Img:     /images/g9_t147_q23.svg
+  Ans:     Rhombus
+  Opts:    ['Rectangle', 'Rhombus', 'Scalene Quadrilateral', 'Trapezoid']
+------------------------------------------------------------
+Q24 (ID 134256): Q24: Define a kite and state its properties concer...
+  Text:    Define a kite and state its properties concerning adjacent sides, diagonals, and opposite angles.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q24.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting', 'Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q25 (ID 134257): Q25: In kite ABCD where AB = AD and CB = CD, the d...
+  Text:    In kite ABCD where AB = AD and CB = CD, the diagonals intersect at E. If AC = 16 cm and BD = 21 cm, find the area of the kite.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q25.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q26 (ID 134258): Q26: In kite PQRS with PQ = PS and RQ = RS, if m∠P...
+  Text:    In kite PQRS with PQ = PS and RQ = RS, if m∠PQR = 105° and m∠PSR = (3x + 15)°, find x. If m∠QPS = 70°, find m∠QRS.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q26.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q27 (ID 134259): Q27: The diagonals of a kite are perpendicular, wi...
+  Text:    The diagonals of a kite are perpendicular, with one diagonal bisecting the other. If the segments of the bisected diagonal are each 5 cm, and the other diagonal is divided into segments of 4 cm and 12 cm, find the lengths of all four sides of the kite.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q27.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q28 (ID 134260): Q28: Classify a quadrilateral with vertices at A(0...
+  Text:    Classify a quadrilateral with vertices at A(0, 0), B(4, 0), C(5, 3), and D(1, 3) using side lengths and slopes.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q28.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q29 (ID 134261): Q29: Prove that a parallelogram with congruent dia...
+  Text:    Prove that a parallelogram with congruent diagonals must be a rectangle.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q29.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q30 (ID 134262): Q30: Prove that a parallelogram whose diagonals ar...
+  Text:    Prove that a parallelogram whose diagonals are perpendicular to each other must be a rhombus.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q30.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q31 (ID 134263): Q31: Prove that a quadrilateral with one pair of o...
+  Text:    Prove that a quadrilateral with one pair of opposite sides both parallel and congruent is a parallelogram.
+  Formula: (n - 2) \times 180^\circ = (4 - 2) \times 180^\circ = 360^\circ
+  Img:     /images/g9_t147_q31.svg
+  Ans:     360°
+  Opts:    ['180°', '360°', '720°', '540°']
+------------------------------------------------------------
+Q32 (ID 134264): Q32: In a parallelogram ABCD, the height correspon...
+  Text:    In a parallelogram ABCD, the height corresponding to base AB is 8 cm. If AB = 15 cm and AD = 10 cm, find the area of ABCD and the height corresponding to base AD.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q32.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q33 (ID 134265): Q33: The ratio of two consecutive angles of a para...
+  Text:    The ratio of two consecutive angles of a parallelogram is 2 : 3. Find the measure of each angle.
+  Formula: \text{Diagonals are perpendicular } (d_1 \perp d_2)
+  Img:     /images/g9_t147_q33.svg
+  Ans:     Rhombus
+  Opts:    ['Scalene Quadrilateral', 'Rectangle', 'Trapezoid', 'Rhombus']
+------------------------------------------------------------
+Q34 (ID 134266): Q34: In a rhombus with side length 13 cm, one diag...
+  Text:    In a rhombus with side length 13 cm, one diagonal is 24 cm. Find the length of the other diagonal and the area of the rhombus.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q34.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q35 (ID 134267): Q35: In an isosceles trapezoid, the parallel bases...
+  Text:    In an isosceles trapezoid, the parallel bases are 10 cm and 22 cm, and each non-parallel leg is 10 cm. Find the perpendicular height and the area of the trapezoid.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q35.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q36 (ID 134268): Q36: If the midpoints of the sides of any quadrila...
+  Text:    If the midpoints of the sides of any quadrilateral are connected in order, prove that the resulting figure is always a parallelogram (Varignon's Theorem).
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q36.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q37 (ID 134269): Q37: A decorative kite has diagonal struts of leng...
+  Text:    A decorative kite has diagonal struts of length 30 cm and 44 cm. Calculate the area of fabric needed to cover the kite.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q37.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q38 (ID 134270): Q38: In a right trapezoid ABCD, ∠A and ∠D are 90° ...
+  Text:    In a right trapezoid ABCD, ∠A and ∠D are 90° right angles. If base AB = 8 cm, base CD = 14 cm, and leg AD = 8 cm, find the length of the slant leg BC.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q38.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q39 (ID 134271): Q39: Prove that the base angles of an isosceles tr...
+  Text:    Prove that the base angles of an isosceles trapezoid are congruent.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q39.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q40 (ID 134272): Q40: In quadrilateral ABCD, m∠A = x + 10, m∠B = 2x...
+  Text:    In quadrilateral ABCD, m∠A = x + 10, m∠B = 2x - 20, m∠C = x + 30, and m∠D = 2x. Find the value of x and classify the angles.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q40.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'Only one pair of parallel sides', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular']
+------------------------------------------------------------
+Q41 (ID 134273): Q41: Explain how the properties of a parallelogram...
+  Text:    Explain how the properties of a parallelogram are utilized in the mechanical design of a pantograph or an adjustable desk lamp.
+  Formula: (n - 2) \times 180^\circ = (4 - 2) \times 180^\circ = 360^\circ
+  Img:     /images/g9_t147_q41.svg
+  Ans:     360°
+  Opts:    ['360°', '180°', '720°', '540°']
+------------------------------------------------------------
+Q42 (ID 134274): Q42: In a square ABCD with side length 8 cm, point...
+  Text:    In a square ABCD with side length 8 cm, point E is the midpoint of CD. Find the length of line segment AE.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q42.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides']
+------------------------------------------------------------
+Q43 (ID 134275): Q43: Determine whether a quadrilateral with angle ...
+  Text:    Determine whether a quadrilateral with angle measures 85°, 95°, 85°, and 95° is necessarily a parallelogram.
+  Formula: \text{Diagonals are perpendicular } (d_1 \perp d_2)
+  Img:     /images/g9_t147_q43.svg
+  Ans:     Rhombus
+  Opts:    ['Scalene Quadrilateral', 'Rectangle', 'Rhombus', 'Trapezoid']
+------------------------------------------------------------
+Q44 (ID 134276): Q44: The diagonals of a rhombus are in the ratio 3...
+  Text:    The diagonals of a rhombus are in the ratio 3 : 4. If the area of the rhombus is 96 cm², find the side length of the rhombus.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q44.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q45 (ID 134277): Q45: In an isosceles trapezoid with bases 12 cm an...
+  Text:    In an isosceles trapezoid with bases 12 cm and 20 cm, the diagonal is perpendicular to the leg. Find the length of the leg and the height.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q45.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q46 (ID 134278): Q46: Explain the hierarchical classification of qu...
+  Text:    Explain the hierarchical classification of quadrilaterals: why is a square always a rhombus, but a rhombus is not always a square?
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q46.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'All 4 angles are 90°, diagonals are perpendicular', 'Only one pair of parallel sides', 'Diagonals are unequal and non-bisecting']
+------------------------------------------------------------
+Q47 (ID 134279): Q47: In kite ABCD, diagonal AC is the line of symm...
+  Text:    In kite ABCD, diagonal AC is the line of symmetry. If m∠BAC = 32° and m∠BCA = 58°, find all the interior angles of the kite.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q47.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides']
+------------------------------------------------------------
+Q48 (ID 134280): Q48: A garden in the shape of a parallelogram has ...
+  Text:    A garden in the shape of a parallelogram has adjacent sides measuring 18 m and 24 m, enclosing an angle of 60°. Calculate the area of the garden.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q48.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q49 (ID 134281): Q49: Prove that the diagonals of an isosceles trap...
+  Text:    Prove that the diagonals of an isosceles trapezoid are congruent.
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q49.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Only one pair of parallel sides', 'All 4 angles are 90°, diagonals are perpendicular', 'Diagonals are unequal and non-bisecting', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other']
+------------------------------------------------------------
+Q50 (ID 134282): Q50: A company logo is designed as a rhombus whose...
+  Text:    A company logo is designed as a rhombus whose diagonals measure 18 mm and 24 mm. If 5,000 metal pins are manufactured, what is the total surface area of metal used for the faces?
+  Formula: \text{Properties of Parallelogram}
+  Img:     /images/g9_t147_q50.svg
+  Ans:     Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other
+  Opts:    ['Diagonals are unequal and non-bisecting', 'All 4 angles are 90°, diagonals are perpendicular', 'Opposite sides parallel & equal, opposite angles equal, diagonals bisect each other', 'Only one pair of parallel sides']
+------------------------------------------------------------

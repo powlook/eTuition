@@ -1,0 +1,320 @@
+[1] QID 128674: Grouped vs. Ungrouped Frequency Table Rationale
+  Image: 
+  Text: When constructing a frequency distribution table for a continuous dataset of 100 student exam scores ranging from 35 to 98, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?
+  Opts: ['When all data values are identical integer constants.', 'When the dataset contains only 5 distinct categorical outcomes.', 'When every single raw data point must be displayed individually without any aggregation.', 'When the dataset is large with a wide numerical range, making grouped intervals essential to reveal distribution patterns.']
+  Ans: When the dataset is large with a wide numerical range, making grouped intervals essential to reveal distribution patterns.
+------------------------------------------------------------
+[2] QID 128675: Stem-and-Leaf Plot Information Value Comparison
+  Image: /images/dp_t122_q2.svg
+  Text: Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing small to moderate numerical datasets (e.g. 20-50 test scores)?
+  Opts: ['When representing budget percentage breakdowns summing to 100%.', 'When it is necessary to preserve individual raw data values while simultaneously displaying the overall distribution shape.', 'When summarizing categorical qualitative data such as favorite colors.', 'When displaying continuous time-series data over multiple years.']
+  Ans: When it is necessary to preserve individual raw data values while simultaneously displaying the overall distribution shape.
+------------------------------------------------------------
+[3] QID 128676: Frequency Distribution Table Class Width Calculation
+  Image: 
+  Text: A teacher collects raw test scores for a class of students. The minimum score is $42$ and the maximum score is $98$. If the teacher wishes to organize this data into a frequency distribution table with $5$ equal class intervals, what is the appropriate class width $w$?
+  Opts: ['Class width $w = 15$', 'Class width $w = 10$', 'Class width $w = 12$', 'Class width $w = 56$']
+  Ans: Class width $w = 12$
+------------------------------------------------------------
+[4] QID 128677: Appropriate Graph Selection Rationale
+  Image: /images/dp_t122_q4.svg
+  Text: Why is a line graph significantly more appropriate than a pie chart for displaying hourly outdoor temperatures recorded continuously over a 24-hour period?
+  Opts: ['Line graphs illustrate continuous trend movement, fluctuations, and rates of change over sequential time periods.', 'Bar graphs can only represent negative numbers.', 'Pie charts cannot be drawn with more than 3 sectors.', 'Line graphs automatically compute the mean temperature.']
+  Ans: Line graphs illustrate continuous trend movement, fluctuations, and rates of change over sequential time periods.
+------------------------------------------------------------
+[5] QID 128678: Statistical Sampling Technique Identification
+  Image: 
+  Text: Identify the specific statistical sampling technique described: "A quality inspector selects every $15^{\text{th}}$ item coming off an assembly line starting from a randomly selected first item."
+  Opts: ['Stratified Sampling', 'Simple Random Sampling', 'Cluster Sampling', 'Systematic Sampling']
+  Ans: Systematic Sampling
+------------------------------------------------------------
+[6] QID 128679: Stem-and-Leaf Plot Data Extraction & Analysis
+  Image: /images/dp_t122_q6.svg
+  Text: Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \mid 2 = 52$):
+
+Stem 4 | 2, 5; Stem 5 | 1, 3, 8; Stem 6 | 0, 4, 7
+
+What is the median score of this dataset?
+  Opts: ['Median score = 49', 'Median score = 56', 'Median score = 42', 'Median score = 52']
+  Ans: Median score = 52
+------------------------------------------------------------
+[7] QID 128680: Pie Chart Central Sector Angle Calculation
+  Image: /images/dp_t122_q7.svg
+  Text: In a school survey of $200$ students, $60$ students selected Mathematics as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the Mathematics sector?
+  Opts: ['Central angle $= 90^\\circ$', 'Central angle $= 30.0^\\circ$', 'Central angle $= 132^\\circ$', 'Central angle $= 108^\\circ$']
+  Ans: Central angle $= 108^\circ$
+------------------------------------------------------------
+[8] QID 128681: Relative Frequency Percentage Calculation
+  Image: 
+  Text: A grouped frequency distribution table has 4 class intervals with frequencies $12$, $18$, $15$, and $5$. What is the relative frequency percentage of the second class (frequency 18)?
+  Opts: ['Relative frequency = 45%', 'Relative frequency = 36%', 'Relative frequency = 18%', 'Relative frequency = 25%']
+  Ans: Relative frequency = 36%
+------------------------------------------------------------
+[9] QID 128682: Statistical Data Variable Type Classification
+  Image: 
+  Text: Classify the statistical variable type: "The exact height in meters of high school students"
+  Opts: ['Continuous Quantitative Data', 'Qualitative Ordinal Data', 'Discrete Quantitative Data', 'Qualitative Nominal Data']
+  Ans: Continuous Quantitative Data
+------------------------------------------------------------
+[10] QID 128683: Identifying Misleading Statistical Data Presentations
+  Image: 
+  Text: Evaluate the validity of the following statistical graph usage: "Using a pie chart to present non-mutually exclusive survey responses where percentages sum to 145%."
+  Opts: ['Appropriate: Pie charts automatically normalize any sum of percentages.', 'Inappropriate: Pie charts can only display two slices.', 'Appropriate: Pie charts are designed for overlapping survey data.', 'Inappropriate: Pie charts strictly require mutually exclusive categories that sum to exactly 100%.']
+  Ans: Inappropriate: Pie charts strictly require mutually exclusive categories that sum to exactly 100%.
+------------------------------------------------------------
+[11] QID 128684: Grouped vs. Ungrouped Frequency Table Rationale
+  Image: 
+  Text: When constructing a frequency distribution table for daily temperature measurements over a 365-day calendar year spanning -10°C to 42°C, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?
+  Opts: ['When calculating the mean of a 4-element list.', 'When ordering a list of 3 prime numbers.', 'When classifying a survey with only two choices (Yes / No).', 'When dealing with a vast continuous dataset with high spread to condense data into meaningful class intervals.']
+  Ans: When dealing with a vast continuous dataset with high spread to condense data into meaningful class intervals.
+------------------------------------------------------------
+[12] QID 128685: Stem-and-Leaf Plot Information Value Comparison
+  Image: /images/dp_t122_q12.svg
+  Text: Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing analyzing bowler scores in a regional cricket tournament (35 data points)?
+  Opts: ['When retaining original exact score values alongside frequency density is required for detailed statistical analysis.', 'When plotting non-numerical nominal labels.', 'When illustrating ratio parts of a whole circle.', 'When depicting cumulative growth curves over decades.']
+  Ans: When retaining original exact score values alongside frequency density is required for detailed statistical analysis.
+------------------------------------------------------------
+[13] QID 128686: Frequency Distribution Table Class Width Calculation
+  Image: 
+  Text: A teacher collects raw test scores for a class of students. The minimum score is $35$ and the maximum score is $89$. If the teacher wishes to organize this data into a frequency distribution table with $6$ equal class intervals, what is the appropriate class width $w$?
+  Opts: ['Class width $w = 10$', 'Class width $w = 13$', 'Class width $w = 54$', 'Class width $w = 8$']
+  Ans: Class width $w = 10$
+------------------------------------------------------------
+[14] QID 128687: Appropriate Graph Selection Rationale
+  Image: /images/dp_t122_q14.svg
+  Text: Why is a line graph significantly more appropriate than a pie chart for displaying monthly company revenue growth over a 5-year period?
+  Opts: ['Pie charts require all data to be prime numbers.', 'Line graphs display categorical frequencies better than bar charts.', 'Pie charts are restricted to qualitative surveys only.', 'Line graphs show chronological trends, continuous progression, and direction of change over time.']
+  Ans: Line graphs show chronological trends, continuous progression, and direction of change over time.
+------------------------------------------------------------
+[15] QID 128688: Statistical Sampling Technique Identification
+  Image: 
+  Text: Identify the specific statistical sampling technique described: "A researcher divides a high school population into Form 7, Form 8, Form 9, and Form 10 strata, then randomly selects 25 students from each grade level."
+  Opts: ['Cluster Sampling', 'Systematic Sampling', 'Stratified Random Sampling', 'Convenience Sampling']
+  Ans: Stratified Random Sampling
+------------------------------------------------------------
+[16] QID 128689: Stem-and-Leaf Plot Data Extraction & Analysis
+  Image: /images/dp_t122_q16.svg
+  Text: Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \mid 2 = 52$):
+
+Stem 6 | 1, 4, 8; Stem 7 | 2, 5; Stem 8 | 0, 3, 9
+
+What is the median score of this dataset?
+  Opts: ['Median score = 61', 'Median score = 73.5', 'Median score = 77.5', 'Median score = 70.5']
+  Ans: Median score = 73.5
+------------------------------------------------------------
+[17] QID 128690: Pie Chart Central Sector Angle Calculation
+  Image: /images/dp_t122_q17.svg
+  Text: In a school survey of $180$ students, $45$ students selected Science as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the Science sector?
+  Opts: ['Central angle $= 90^\\circ$', 'Central angle $= 72^\\circ$', 'Central angle $= 114^\\circ$', 'Central angle $= 25.0^\\circ$']
+  Ans: Central angle $= 90^\circ$
+------------------------------------------------------------
+[18] QID 128691: Relative Frequency Percentage Calculation
+  Image: 
+  Text: A grouped frequency distribution table has 4 class intervals with frequencies $10$, $25$, $10$, and $5$. What is the relative frequency percentage of the second class (frequency 25)?
+  Opts: ['Relative frequency = 18%', 'Relative frequency = 45%', 'Relative frequency = 50%', 'Relative frequency = 25%']
+  Ans: Relative frequency = 50%
+------------------------------------------------------------
+[19] QID 128692: Statistical Data Variable Type Classification
+  Image: 
+  Text: Classify the statistical variable type: "The total number of cars registered per household"
+  Opts: ['Qualitative Nominal Data', 'Continuous Quantitative Data', 'Discrete Quantitative Data', 'Qualitative Ordinal Data']
+  Ans: Discrete Quantitative Data
+------------------------------------------------------------
+[20] QID 128693: Identifying Misleading Statistical Data Presentations
+  Image: 
+  Text: Evaluate the validity of the following statistical graph usage: "Truncating the vertical y-axis of a bar chart to start at 90 instead of 0, making a 5% difference look like a 500% increase."
+  Opts: ['Misleading: Bar charts must always use logarithmic scales.', 'Appropriate: Starting at 90 makes the graph 100% accurate.', 'Misleading: Truncating the vertical baseline exaggerates visual differences between bar heights.', 'Appropriate: Truncating axes is standard practice for all bar graphs.']
+  Ans: Misleading: Truncating the vertical baseline exaggerates visual differences between bar heights.
+------------------------------------------------------------
+[21] QID 128694: Grouped vs. Ungrouped Frequency Table Rationale
+  Image: 
+  Text: When constructing a frequency distribution table for monthly household electricity consumption figures across 500 residences, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?
+  Opts: ['When raw data spans a broad range, grouping into equal intervals simplifies visualization without losing overall shape.', 'When all values fall into 2 integer categories.', 'When recording discrete tally counts of 3 color options.', 'When graphing a single static data point.']
+  Ans: When raw data spans a broad range, grouping into equal intervals simplifies visualization without losing overall shape.
+------------------------------------------------------------
+[22] QID 128695: Stem-and-Leaf Plot Information Value Comparison
+  Image: /images/dp_t122_q22.svg
+  Text: Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing evaluating patient recovery times in days for a 30-patient trial?
+  Opts: ['When graphing discrete survey options without numbers.', 'When plotting continuous geographical elevation maps.', 'When presenting financial market share percentages.', 'When maintaining complete access to every original numerical data point while visualizing skewness and clusters.']
+  Ans: When maintaining complete access to every original numerical data point while visualizing skewness and clusters.
+------------------------------------------------------------
+[23] QID 128696: Frequency Distribution Table Class Width Calculation
+  Image: 
+  Text: A teacher collects raw test scores for a class of students. The minimum score is $50$ and the maximum score is $95$. If the teacher wishes to organize this data into a frequency distribution table with $5$ equal class intervals, what is the appropriate class width $w$?
+  Opts: ['Class width $w = 8$', 'Class width $w = 10$', 'Class width $w = 13$', 'Class width $w = 45$']
+  Ans: Class width $w = 10$
+------------------------------------------------------------
+[24] QID 128697: Appropriate Graph Selection Rationale
+  Image: /images/dp_t122_q24.svg
+  Text: Why is a line graph significantly more appropriate than a pie chart for displaying reservoir water level variations measured daily across 30 days?
+  Opts: ['Pie charts cannot depict percentage values.', 'Line graphs convert all values into percentages.', 'Stem-and-leaf plots are illegal for water measurements.', 'Line graphs visually emphasize continuous time-series patterns, peaks, and troughs over time.']
+  Ans: Line graphs visually emphasize continuous time-series patterns, peaks, and troughs over time.
+------------------------------------------------------------
+[25] QID 128698: Statistical Sampling Technique Identification
+  Image: 
+  Text: Identify the specific statistical sampling technique described: "A survey company randomly selects 5 entire school districts out of 50 in a province and surveys ALL teachers in those 5 chosen districts."
+  Opts: ['Stratified Random Sampling', 'Cluster Sampling', 'Systematic Sampling', 'Simple Random Sampling']
+  Ans: Cluster Sampling
+------------------------------------------------------------
+[26] QID 128699: Stem-and-Leaf Plot Data Extraction & Analysis
+  Image: /images/dp_t122_q26.svg
+  Text: Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \mid 2 = 52$):
+
+Stem 5 | 0, 2, 6; Stem 6 | 3, 7, 9; Stem 7 | 1, 5
+
+What is the median score of this dataset?
+  Opts: ['Median score = 50', 'Median score = 62', 'Median score = 65', 'Median score = 69']
+  Ans: Median score = 65
+------------------------------------------------------------
+[27] QID 128700: Pie Chart Central Sector Angle Calculation
+  Image: /images/dp_t122_q27.svg
+  Text: In a school survey of $300$ students, $80$ students selected English as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the English sector?
+  Opts: ['Central angle $= 120^\\circ$', 'Central angle $= 26.7^\\circ$', 'Central angle $= 96^\\circ$', 'Central angle $= 78^\\circ$']
+  Ans: Central angle $= 96^\circ$
+------------------------------------------------------------
+[28] QID 128701: Relative Frequency Percentage Calculation
+  Image: 
+  Text: A grouped frequency distribution table has 4 class intervals with frequencies $14$, $21$, $28$, and $7$. What is the relative frequency percentage of the third class (frequency 28)?
+  Opts: ['Relative frequency = 18%', 'Relative frequency = 40%', 'Relative frequency = 25%', 'Relative frequency = 45%']
+  Ans: Relative frequency = 40%
+------------------------------------------------------------
+[29] QID 128702: Statistical Data Variable Type Classification
+  Image: 
+  Text: Classify the statistical variable type: "The favorite music genres chosen by survey respondents"
+  Opts: ['Continuous Quantitative Data', 'Discrete Quantitative Data', 'Qualitative Ordinal Data', 'Qualitative Nominal Data']
+  Ans: Qualitative Nominal Data
+------------------------------------------------------------
+[30] QID 128703: Identifying Misleading Statistical Data Presentations
+  Image: 
+  Text: Evaluate the validity of the following statistical graph usage: "Using a 3D bar graph with perspective depth that visually distorts the relative heights of the bars."
+  Opts: ['Misleading: 3D graphs are illegal in statistics.', 'Appropriate: 3D graphs are mathematically superior to 2D graphs.', 'Misleading: 3D perspective distortion makes visual estimation of accurate values difficult.', 'Appropriate: Perspective depth increases numerical precision.']
+  Ans: Misleading: 3D perspective distortion makes visual estimation of accurate values difficult.
+------------------------------------------------------------
+[31] QID 128704: Grouped vs. Ungrouped Frequency Table Rationale
+  Image: 
+  Text: When constructing a frequency distribution table for marathon completion times in minutes for 250 runners, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?
+  Opts: ['When listing names of top 3 winners.', 'When data consists of exact qualitative rank titles.', 'When continuous numerical data spans broad ranges, grouping into intervals avoids overly sparse ungrouped tables.', 'When comparing binary survey responses.']
+  Ans: When continuous numerical data spans broad ranges, grouping into intervals avoids overly sparse ungrouped tables.
+------------------------------------------------------------
+[32] QID 128705: Stem-and-Leaf Plot Information Value Comparison
+  Image: /images/dp_t122_q32.svg
+  Text: Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing comparing student math quiz results across two class sections?
+  Opts: ['When recording qualitative binary votes.', 'When tracking monthly stock indices.', 'When back-to-back comparisons require seeing raw individual scores alongside shape and spread.', 'When graphing pie slices of favorite fruits.']
+  Ans: When back-to-back comparisons require seeing raw individual scores alongside shape and spread.
+------------------------------------------------------------
+[33] QID 128706: Frequency Distribution Table Class Width Calculation
+  Image: 
+  Text: A teacher collects raw test scores for a class of students. The minimum score is $28$ and the maximum score is $94$. If the teacher wishes to organize this data into a frequency distribution table with $6$ equal class intervals, what is the appropriate class width $w$?
+  Opts: ['Class width $w = 14$', 'Class width $w = 11$', 'Class width $w = 66$', 'Class width $w = 9$']
+  Ans: Class width $w = 11$
+------------------------------------------------------------
+[34] QID 128707: Appropriate Graph Selection Rationale
+  Image: /images/dp_t122_q34.svg
+  Text: Why is a line graph significantly more appropriate than a pie chart for displaying heart rate changes in beats per minute during a 45-minute exercise session?
+  Opts: ['Bar graphs require equal frequencies across bars.', 'Line graphs effectively depict continuous dynamic changes and trends over continuous time intervals.', 'Line graphs sum all data points to 100%.', 'Pie charts can only show binary data.']
+  Ans: Line graphs effectively depict continuous dynamic changes and trends over continuous time intervals.
+------------------------------------------------------------
+[35] QID 128708: Statistical Sampling Technique Identification
+  Image: 
+  Text: Identify the specific statistical sampling technique described: "A computer generates a list of 50 random student identification numbers out of a master list of 1,000 students, giving every student an equal chance of selection."
+  Opts: ['Systematic Sampling', 'Stratified Sampling', 'Cluster Sampling', 'Simple Random Sampling']
+  Ans: Simple Random Sampling
+------------------------------------------------------------
+[36] QID 128709: Stem-and-Leaf Plot Data Extraction & Analysis
+  Image: /images/dp_t122_q36.svg
+  Text: Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \mid 2 = 52$):
+
+Stem 7 | 3, 5, 8; Stem 8 | 1, 4; Stem 9 | 0, 2, 6
+
+What is the median score of this dataset?
+  Opts: ['Median score = 86.5', 'Median score = 79.5', 'Median score = 73', 'Median score = 82.5']
+  Ans: Median score = 82.5
+------------------------------------------------------------
+[37] QID 128710: Pie Chart Central Sector Angle Calculation
+  Image: /images/dp_t122_q37.svg
+  Text: In a school survey of $140$ students, $35$ students selected History as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the History sector?
+  Opts: ['Central angle $= 90^\\circ$', 'Central angle $= 114^\\circ$', 'Central angle $= 72^\\circ$', 'Central angle $= 25.0^\\circ$']
+  Ans: Central angle $= 90^\circ$
+------------------------------------------------------------
+[38] QID 128711: Relative Frequency Percentage Calculation
+  Image: 
+  Text: A grouped frequency distribution table has 4 class intervals with frequencies $8$, $12$, $16$, and $4$. What is the relative frequency percentage of the third class (frequency 16)?
+  Opts: ['Relative frequency = 45%', 'Relative frequency = 18%', 'Relative frequency = 25%', 'Relative frequency = 40%']
+  Ans: Relative frequency = 40%
+------------------------------------------------------------
+[39] QID 128712: Statistical Data Variable Type Classification
+  Image: 
+  Text: Classify the statistical variable type: "Customer satisfaction ratings ranked as Poor, Fair, Good, Excellent"
+  Opts: ['Qualitative Ordinal Data', 'Discrete Quantitative Data', 'Qualitative Nominal Data', 'Continuous Quantitative Data']
+  Ans: Qualitative Ordinal Data
+------------------------------------------------------------
+[40] QID 128713: Identifying Misleading Statistical Data Presentations
+  Image: 
+  Text: Evaluate the validity of the following statistical graph usage: "Using uneven class interval widths in a histogram without adjusting bar height densities."
+  Opts: ['Appropriate: Bar area does not represent frequency in a histogram.', 'Misleading: Histograms can only use 3 class intervals.', 'Appropriate: Histograms do not depend on class widths.', 'Misleading: Equal bar widths with unequal intervals distort area representations of frequency.']
+  Ans: Misleading: Equal bar widths with unequal intervals distort area representations of frequency.
+------------------------------------------------------------
+[41] QID 128714: Grouped vs. Ungrouped Frequency Table Rationale
+  Image: 
+  Text: When constructing a frequency distribution table for heights in centimeters of 150 high school athletes, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?
+  Opts: ['When reporting eye colors of 10 individuals.', 'When all values are equal to zero.', 'When listing days of the week.', 'When measuring continuous quantitative variables across large samples to summarize frequency across bounded class limits.']
+  Ans: When measuring continuous quantitative variables across large samples to summarize frequency across bounded class limits.
+------------------------------------------------------------
+[42] QID 128715: Stem-and-Leaf Plot Information Value Comparison
+  Image: /images/dp_t122_q42.svg
+  Text: Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing recording plant growth heights in mm for 25 laboratory specimens?
+  Opts: ['When detailed inspection of data clusters, gaps, and outliers is needed without discarding actual data digits.', 'When displaying 24-hour continuous temperature changes.', 'When creating a 3D bar chart for nominal labels.', 'When summarizing vehicle paint color choices.']
+  Ans: When detailed inspection of data clusters, gaps, and outliers is needed without discarding actual data digits.
+------------------------------------------------------------
+[43] QID 128716: Frequency Distribution Table Class Width Calculation
+  Image: 
+  Text: A teacher collects raw test scores for a class of students. The minimum score is $15$ and the maximum score is $87$. If the teacher wishes to organize this data into a frequency distribution table with $8$ equal class intervals, what is the appropriate class width $w$?
+  Opts: ['Class width $w = 13$', 'Class width $w = 8$', 'Class width $w = 10$', 'Class width $w = 72$']
+  Ans: Class width $w = 10$
+------------------------------------------------------------
+[44] QID 128717: Appropriate Graph Selection Rationale
+  Image: /images/dp_t122_q44.svg
+  Text: Why is a line graph significantly more appropriate than a pie chart for displaying annual country population totals tracked over 10 consecutive years?
+  Opts: ['Bar graphs cannot display large numbers.', 'Pie charts can only represent 4 age categories.', 'Line graphs reveal temporal progression, growth rates, and overall trajectory across continuous time.', 'Line graphs hide numerical axis labels.']
+  Ans: Line graphs reveal temporal progression, growth rates, and overall trajectory across continuous time.
+------------------------------------------------------------
+[45] QID 128718: Statistical Sampling Technique Identification
+  Image: 
+  Text: Identify the specific statistical sampling technique described: "A news reporter interviews the first 20 people who walk out of a shopping mall entrance because they are easy to reach."
+  Opts: ['Systematic Sampling', 'Convenience Sampling', 'Simple Random Sampling', 'Stratified Sampling']
+  Ans: Convenience Sampling
+------------------------------------------------------------
+[46] QID 128719: Stem-and-Leaf Plot Data Extraction & Analysis
+  Image: /images/dp_t122_q46.svg
+  Text: Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \mid 2 = 52$):
+
+Stem 3 | 4, 9; Stem 4 | 2, 6, 8; Stem 5 | 1, 5, 7
+
+What is the median score of this dataset?
+  Opts: ['Median score = 44', 'Median score = 51', 'Median score = 34', 'Median score = 47']
+  Ans: Median score = 47
+------------------------------------------------------------
+[47] QID 128720: Pie Chart Central Sector Angle Calculation
+  Image: /images/dp_t122_q47.svg
+  Text: In a school survey of $250$ students, $50$ students selected Art as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the Art sector?
+  Opts: ['Central angle $= 72^\\circ$', 'Central angle $= 20.0^\\circ$', 'Central angle $= 96^\\circ$', 'Central angle $= 54^\\circ$']
+  Ans: Central angle $= 72^\circ$
+------------------------------------------------------------
+[48] QID 128721: Relative Frequency Percentage Calculation
+  Image: 
+  Text: A grouped frequency distribution table has 4 class intervals with frequencies $15$, $30$, $40$, and $15$. What is the relative frequency percentage of the third class (frequency 40)?
+  Opts: ['Relative frequency = 25%', 'Relative frequency = 45%', 'Relative frequency = 40%', 'Relative frequency = 18%']
+  Ans: Relative frequency = 40%
+------------------------------------------------------------
+[49] QID 128722: Statistical Data Variable Type Classification
+  Image: 
+  Text: Classify the statistical variable type: "The mass in kilograms of harvested watermelons"
+  Opts: ['Qualitative Ordinal Data', 'Discrete Quantitative Data', 'Qualitative Nominal Data', 'Continuous Quantitative Data']
+  Ans: Continuous Quantitative Data
+------------------------------------------------------------
+[50] QID 128723: Identifying Misleading Statistical Data Presentations
+  Image: 
+  Text: Evaluate the validity of the following statistical graph usage: "Displaying temperature changes over time using a pie chart with 24 individual hourly slices."
+  Opts: ['Appropriate: Pie charts show temperature changes best.', 'Inappropriate: Line graphs cannot show negative temperatures.', 'Inappropriate: Pie charts obscure temporal trends and continuity, which require a line graph.', 'Appropriate: 24 slices is the ideal number for pie charts.']
+  Ans: Inappropriate: Pie charts obscure temporal trends and continuity, which require a line graph.
+------------------------------------------------------------

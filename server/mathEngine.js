@@ -1,4 +1,5 @@
-const QBANK_API_URL = process.env.QBANK_API_URL || (process.env.VERCEL ? 'https://qbank-engine.vercel.app' : 'http://localhost:5000');
+import db from './db.js';
+import { generateDynamicQuestion } from './fallbackGenerator.js';
 
 function randInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -18,9 +19,6 @@ function formatQuestion(q) {
   const showFmlBool = q.show_formula !== undefined && q.show_formula !== null ? (Number(q.show_formula) === 1 || q.show_formula === true || q.show_formula === '1') : true;
 
   let img = showImgBool ? (q.image_url || '') : '';
-  if (img && img.startsWith('/')) {
-    img = process.env.VERCEL ? img : `${QBANK_API_URL}${img}`;
-  }
   return {
     id: q.id,
     title: q.question_title,
@@ -30,7 +28,7 @@ function formatQuestion(q) {
     options: Array.isArray(q.options) ? q.options : JSON.parse(q.options_json || '[]'),
     correctAnswer: q.correct_answer,
     hint: q.hint || '',
-    workingSteps: Array.isArray(q.working_steps) ? q.working_steps : JSON.parse(q.working_steps_json || '[]'),
+    workingSteps: Array.isArray(q.working_steps) ? q.working_steps : (typeof q.working_steps_json === 'string' ? JSON.parse(q.working_steps_json || '[]') : []),
     imageUrl: img,
     imageAlt: showImgBool ? (q.image_alt || '') : '',
     difficulty: q.difficulty || 3,
@@ -42,46 +40,53 @@ function formatQuestion(q) {
 }
 
 /**
- * Retrieves a topic-appropriate question directly from QBank REST API service,
- * or delegates to QBank dynamic fallback generator.
+ * Retrieves a topic-appropriate question directly from unified database,
+ * or delegates to dynamic fallback generator.
  */
 export async function getExerciseForTopic(topicId, formLevel, strand) {
   try {
-    // 1. Try to fetch a registered question from QBank microservice for this topic
-    let url = `${QBANK_API_URL}/api/questions/sample?count=1`;
+    let sql = `
+      SELECT q.*, t.title as topic_title, t.form_level, t.strand
+      FROM questions q
+      JOIN topics t ON q.topic_id = t.id
+      WHERE 1=1
+    `;
+    const params = [];
+
     if (topicId) {
-      url += `&topic_id=${topicId}`;
+      sql += ' AND q.topic_id = ?';
+      params.push(Number(topicId));
     } else if (formLevel) {
-      url += `&form_level=${formLevel}`;
+      sql += ' AND t.form_level = ?';
+      params.push(Number(formLevel));
     }
 
-    const response = await fetch(url);
-    if (response.ok) {
-      const data = await response.json();
-      if (data.success && data.questions && data.questions.length > 0) {
-        return formatQuestion(data.questions[0]);
-      }
+    sql += ' ORDER BY RANDOM() LIMIT 1';
+
+    const questions = db.prepare(sql).all(...params);
+    if (questions && questions.length > 0) {
+      return formatQuestion(questions[0]);
     }
 
-    // 2. Delegate to QBank dynamic fallback generator if static repository is empty for this topic
+    // Delegate to dynamic fallback generator if static questions are not found
     if (topicId) {
-      const fallbackRes = await fetch(`${QBANK_API_URL}/api/questions/generate-fallback`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ topic_id: topicId, difficulty: 3 })
-      });
-      if (fallbackRes.ok) {
-        const fallbackData = await fallbackRes.json();
-        if (fallbackData.success && fallbackData.question) {
-          return formatQuestion(fallbackData.question);
-        }
+      const topic = db.prepare('SELECT * FROM topics WHERE id = ?').get(Number(topicId));
+      if (topic) {
+        const generated = generateDynamicQuestion(topic, 3);
+        return formatQuestion({
+          id: Date.now(),
+          topic_id: topic.id,
+          ...generated,
+          options_json: JSON.stringify(generated.options),
+          working_steps_json: JSON.stringify(generated.working_steps)
+        });
       }
     }
   } catch (err) {
-    console.error('QBank API connection error, using local fallback:', err.message);
+    console.error('Unified DB question lookup error, using local fallback:', err.message);
   }
 
-  // 3. Local fallback generator if QBank service is unreachable
+  // Local fallback generator
   const level = Number(formLevel) || 1;
 
   if (level <= 2) {
@@ -170,4 +175,3 @@ export async function getExerciseForTopic(topicId, formLevel, strand) {
     };
   }
 }
-

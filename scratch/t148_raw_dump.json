@@ -1,0 +1,752 @@
+[
+  {
+    "id": "134283",
+    "title": "Q1: Define congruent triangles in terms of corres...",
+    "question_text": "Define congruent triangles in terms of corresponding sides and corresponding angles.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Calculated Pairs of Complementary Triangles Calculate",
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Congruent Polygons Create Total Congruence"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q1.svg"
+  },
+  {
+    "id": "134284",
+    "title": "Q2: State the acronym CPCTC and explain what it m...",
+    "question_text": "State the acronym CPCTC and explain what it means in geometric proofs.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q2.svg"
+  },
+  {
+    "id": "134285",
+    "title": "Q3: State and illustrate the Side-Side-Side (SSS)...",
+    "question_text": "State and illustrate the Side-Side-Side (SSS) Congruence Postulate.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q3.svg"
+  },
+  {
+    "id": "134286",
+    "title": "Q4: State and illustrate the Side-Angle-Side (SAS...",
+    "question_text": "State and illustrate the Side-Angle-Side (SAS) Congruence Postulate.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q4.svg"
+  },
+  {
+    "id": "134287",
+    "title": "Q5: State and illustrate the Angle-Side-Angle (AS...",
+    "question_text": "State and illustrate the Angle-Side-Angle (ASA) Congruence Postulate.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q5.svg"
+  },
+  {
+    "id": "134288",
+    "title": "Q6: State and illustrate the Angle-Angle-Side (AA...",
+    "question_text": "State and illustrate the Angle-Angle-Side (AAS) Congruence Theorem.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q6.svg"
+  },
+  {
+    "id": "134289",
+    "title": "Q7: State the Hypotenuse-Leg (HL) Congruence Theo...",
+    "question_text": "State the Hypotenuse-Leg (HL) Congruence Theorem for right-angled triangles.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q7.svg"
+  },
+  {
+    "id": "134290",
+    "title": "Q8: State the Leg-Leg (LL), Leg-Acute Angle (LA),...",
+    "question_text": "State the Leg-Leg (LL), Leg-Acute Angle (LA), and Hypotenuse-Acute Angle (HA) right triangle congruence theorems.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q8.svg"
+  },
+  {
+    "id": "134291",
+    "title": "Q9: Given △ABC ≅ △DEF, if AB = 2x + 3, DE = 15, m...",
+    "question_text": "Given △ABC ≅ △DEF, if AB = 2x + 3, DE = 15, m∠C = (4y - 8)°, and m∠F = 52°, find x and y.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q9.svg"
+  },
+  {
+    "id": "134292",
+    "title": "Q10: Explain why Angle-Angle-Angle (AAA) is NOT a ...",
+    "question_text": "Explain why Angle-Angle-Angle (AAA) is NOT a valid congruence criterion for triangles. Provide a counterexample.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q10.svg"
+  },
+  {
+    "id": "134293",
+    "title": "Q11: Explain why Side-Side-Angle (SSA / ASS) is NO...",
+    "question_text": "Explain why Side-Side-Angle (SSA / ASS) is NOT a valid congruence criterion for triangles. Provide a sketch of the ambiguous case.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Calculated Pairs of Complementary Triangles Calculate",
+      "Congruent Polygons Create Total Congruence",
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Corresponding Parts of Congruent Triangles are Congruent"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q11.svg"
+  },
+  {
+    "id": "134294",
+    "title": "Q12: In △PQR and △STU, PQ = ST, QR = TU, and PR = ...",
+    "question_text": "In △PQR and △STU, PQ = ST, QR = TU, and PR = SU. If m∠P = 55° and m∠Q = 65°, find m∠U.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q12.svg"
+  },
+  {
+    "id": "134295",
+    "title": "Q13: In △ABC, AB = AC. State the Isosceles Triangl...",
+    "question_text": "In △ABC, AB = AC. State the Isosceles Triangle Theorem (Base Angles Theorem) and its converse.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q13.svg"
+  },
+  {
+    "id": "134296",
+    "title": "Q14: In an isosceles triangle ABC with AB = AC, if...",
+    "question_text": "In an isosceles triangle ABC with AB = AC, if the vertex angle ∠A measures 44°, find the measures of base angles ∠B and ∠C.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q14.svg"
+  },
+  {
+    "id": "134297",
+    "title": "Q15: In an isosceles triangle, a base angle is 15°...",
+    "question_text": "In an isosceles triangle, a base angle is 15° more than twice the vertex angle. Find the measures of all three angles.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q15.svg"
+  },
+  {
+    "id": "134298",
+    "title": "Q16: State the Equilateral Triangle Theorem: prove...",
+    "question_text": "State the Equilateral Triangle Theorem: prove that every equilateral triangle is equiangular, and find the measure of each angle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q16.svg"
+  },
+  {
+    "id": "134299",
+    "title": "Q17: State the Midline Theorem for triangles regar...",
+    "question_text": "State the Midline Theorem for triangles regarding the segment connecting the midpoints of two sides.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q17.svg"
+  },
+  {
+    "id": "134300",
+    "title": "Q18: In △ABC, D is the midpoint of AB and E is the...",
+    "question_text": "In △ABC, D is the midpoint of AB and E is the midpoint of AC. If BC = 18 cm, find the length of DE. If m∠ADE = 62°, find m∠ABC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q18.svg"
+  },
+  {
+    "id": "134301",
+    "title": "Q19: In △PQR, points M, N, and P are the midpoints...",
+    "question_text": "In △PQR, points M, N, and P are the midpoints of sides PQ, QR, and PR respectively. If the perimeter of △PQR is 36 cm, find the perimeter of the medial triangle △MNP.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q19.svg"
+  },
+  {
+    "id": "134302",
+    "title": "Q20: State the Perpendicular Bisector Theorem and ...",
+    "question_text": "State the Perpendicular Bisector Theorem and its converse.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q20.svg"
+  },
+  {
+    "id": "134303",
+    "title": "Q21: Point P lies on the perpendicular bisector of...",
+    "question_text": "Point P lies on the perpendicular bisector of segment AB. If PA = 3x + 7 and PB = 5x - 11, find the length of PA.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Calculated Pairs of Complementary Triangles Calculate",
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Congruent Polygons Create Total Congruence"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q21.svg"
+  },
+  {
+    "id": "134304",
+    "title": "Q22: Define an angle bisector and state the Angle ...",
+    "question_text": "Define an angle bisector and state the Angle Bisector Theorem regarding equidistant points from the sides of an angle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q22.svg"
+  },
+  {
+    "id": "134305",
+    "title": "Q23: Define the four centers of a triangle: circum...",
+    "question_text": "Define the four centers of a triangle: circumcenter, incenter, centroid, and orthocenter.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q23.svg"
+  },
+  {
+    "id": "134306",
+    "title": "Q24: Explain which triangle center is equidistant ...",
+    "question_text": "Explain which triangle center is equidistant from the three vertices of a triangle and how it is constructed.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q24.svg"
+  },
+  {
+    "id": "134307",
+    "title": "Q25: Explain which triangle center is equidistant ...",
+    "question_text": "Explain which triangle center is equidistant from the three sides of a triangle and how it is constructed.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q25.svg"
+  },
+  {
+    "id": "134308",
+    "title": "Q26: State the Centroid Theorem: describe how the ...",
+    "question_text": "State the Centroid Theorem: describe how the centroid divides each median of a triangle in a 2 : 1 ratio.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q26.svg"
+  },
+  {
+    "id": "134309",
+    "title": "Q27: In △ABC, AD is a median with centroid G. If A...",
+    "question_text": "In △ABC, AD is a median with centroid G. If AD = 18 cm, find the lengths of AG and GD.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q27.svg"
+  },
+  {
+    "id": "134310",
+    "title": "Q28: In △XYZ, median XM has centroid G. If GM = 4 ...",
+    "question_text": "In △XYZ, median XM has centroid G. If GM = 4 cm, find the lengths of XG and the total median XM.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q28.svg"
+  },
+  {
+    "id": "134311",
+    "title": "Q29: Define the altitude of a triangle and describ...",
+    "question_text": "Define the altitude of a triangle and describe the location of the orthocenter in an acute, right, and obtuse triangle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q29.svg"
+  },
+  {
+    "id": "134312",
+    "title": "Q30: Explain why the altitude to the base of an is...",
+    "question_text": "Explain why the altitude to the base of an isosceles triangle is also the median and the angle bisector of the vertex angle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q30.svg"
+  },
+  {
+    "id": "134313",
+    "title": "Q31: Two triangles △ABC and △DBC share a common ba...",
+    "question_text": "Two triangles △ABC and △DBC share a common base BC on the same side. If AB = DC and AC = DB, identify the triangle congruence postulate that proves △ABC ≅ △DCB.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Congruent Polygons Create Total Congruence",
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Calculated Pairs of Complementary Triangles Calculate"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q31.svg"
+  },
+  {
+    "id": "134314",
+    "title": "Q32: In the figure of a kite ABCD with AB = AD and...",
+    "question_text": "In the figure of a kite ABCD with AB = AD and CB = CD, prove that diagonal AC bisects ∠BAD and ∠BCD using SSS congruence.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q32.svg"
+  },
+  {
+    "id": "134315",
+    "title": "Q33: Prove that if the diagonals of a parallelogra...",
+    "question_text": "Prove that if the diagonals of a parallelogram are congruent, then the triangles formed by adjacent sides and diagonals are congruent by SSS, establishing that the parallelogram is a rectangle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q33.svg"
+  },
+  {
+    "id": "134316",
+    "title": "Q34: A surveyor wishes to measure the distance acr...",
+    "question_text": "A surveyor wishes to measure the distance across a river between points A and B. Describe how the surveyor can use congruent right triangles (ASA or SAS) on land to measure AB indirectly.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q34.svg"
+  },
+  {
+    "id": "134317",
+    "title": "Q35: In △ABC and △DEF, AB ≅ DE, ∠A ≅ ∠D, and AC ≅ ...",
+    "question_text": "In △ABC and △DEF, AB ≅ DE, ∠A ≅ ∠D, and AC ≅ DF. If BC = 3x - 1 and EF = 2x + 6, find the value of BC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q35.svg"
+  },
+  {
+    "id": "134318",
+    "title": "Q36: In right triangles △PQR (right-angled at Q) a...",
+    "question_text": "In right triangles △PQR (right-angled at Q) and △XYZ (right-angled at Y), PR = XZ = 13 cm, and PQ = XY = 5 cm. Prove congruence and state the theorem used.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q36.svg"
+  },
+  {
+    "id": "134319",
+    "title": "Q37: Explain how to construct a congruent copy of ...",
+    "question_text": "Explain how to construct a congruent copy of a given angle using a straightedge and compass.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q37.svg"
+  },
+  {
+    "id": "134320",
+    "title": "Q38: Explain how to construct an equilateral trian...",
+    "question_text": "Explain how to construct an equilateral triangle on a given line segment using only a compass and straightedge.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q38.svg"
+  },
+  {
+    "id": "134321",
+    "title": "Q39: In △JKL, JK = JL. The bisector of ∠J intersec...",
+    "question_text": "In △JKL, JK = JL. The bisector of ∠J intersects KL at point M. Prove that △JKM ≅ △JLM using the SAS postulate.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q39.svg"
+  },
+  {
+    "id": "134322",
+    "title": "Q40: In △ABC, median AM is perpendicular to BC. Pr...",
+    "question_text": "In △ABC, median AM is perpendicular to BC. Prove that △ABC is an isosceles triangle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q40.svg"
+  },
+  {
+    "id": "134323",
+    "title": "Q41: In a roof truss design with symmetric rafters...",
+    "question_text": "In a roof truss design with symmetric rafters forming an isosceles triangle, explain how a king post acts as a perpendicular bisector and creates congruent right triangles.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Calculated Pairs of Complementary Triangles Calculate",
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Congruent Polygons Create Total Congruence"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q41.svg"
+  },
+  {
+    "id": "134324",
+    "title": "Q42: Given segment AB with midpoint M, line l is d...",
+    "question_text": "Given segment AB with midpoint M, line l is drawn perpendicular to AB through M. If C is any point on l, prove that △AMC ≅ △BMC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q42.svg"
+  },
+  {
+    "id": "134325",
+    "title": "Q43: If the bisector of an angle of a triangle is ...",
+    "question_text": "If the bisector of an angle of a triangle is also an altitude to the opposite side, prove that the triangle is isosceles.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q43.svg"
+  },
+  {
+    "id": "134326",
+    "title": "Q44: In △ABC and △DEF, ∠A ≅ ∠D, ∠B ≅ ∠E, but AB = ...",
+    "question_text": "In △ABC and △DEF, ∠A ≅ ∠D, ∠B ≅ ∠E, but AB = 6 cm and DE = 9 cm. Explain why these triangles are similar but NOT congruent.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q44.svg"
+  },
+  {
+    "id": "134327",
+    "title": "Q45: In △ABC, medians BE and CF are congruent. Pro...",
+    "question_text": "In △ABC, medians BE and CF are congruent. Prove that △ABC is an isosceles triangle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q45.svg"
+  },
+  {
+    "id": "134328",
+    "title": "Q46: Given two overlapping triangles sharing a com...",
+    "question_text": "Given two overlapping triangles sharing a common angle, identify corresponding parts and describe the strategy for proving congruence.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q46.svg"
+  },
+  {
+    "id": "134329",
+    "title": "Q47: Explain the concept of rigid transformations ...",
+    "question_text": "Explain the concept of rigid transformations (translations, reflections, rotations) and how they relate to the definition of congruent figures.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q47.svg"
+  },
+  {
+    "id": "134330",
+    "title": "Q48: In quadrilateral ABCD, diagonal AC bisects bo...",
+    "question_text": "In quadrilateral ABCD, diagonal AC bisects both ∠A and ∠C. Prove that AB = AD and BC = CD.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q48.svg"
+  },
+  {
+    "id": "134331",
+    "title": "Q49: In △PQR, PQ = PR. Points S and T lie on base ...",
+    "question_text": "In △PQR, PQ = PR. Points S and T lie on base QR such that QS = TR. Prove that PS = PT.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q49.svg"
+  },
+  {
+    "id": "134332",
+    "title": "Q50: Construct and justify the steps to construct ...",
+    "question_text": "Construct and justify the steps to construct the circumscribed circle of a given acute triangle using perpendicular bisectors.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q50.svg"
+  }
+]

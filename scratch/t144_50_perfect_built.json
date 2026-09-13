@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "134083",
+    "title": "Q1: Fundamental Undefined Terms in Geometry",
+    "question_text": "Define point, line, and plane as the three fundamental undefined terms in geometry.",
+    "math_formula": "\\text{Point (0D), Line (1D), Plane (2D)}",
+    "optA": "Point (0D position, no size), Line (1D infinite straight path), Plane (2D infinite flat surface)",
+    "optB": "Point (1D line), Line (2D square), Plane (3D cube)",
+    "optC": "Point (circle), Line (triangle), Plane (sphere)",
+    "optD": "Point (positive number), Line (negative number), Plane (fraction)",
+    "correct_answer": "Point (0D position, no size), Line (1D infinite straight path), Plane (2D infinite flat surface)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q1.png",
+    "options": [
+      "Point (positive number), Line (negative number), Plane (fraction)",
+      "Point (1D line), Line (2D square), Plane (3D cube)",
+      "Point (0D position, no size), Line (1D infinite straight path), Plane (2D infinite flat surface)",
+      "Point (circle), Line (triangle), Plane (sphere)"
+    ],
+    "correct": "Point (0D position, no size), Line (1D infinite straight path), Plane (2D infinite flat surface)"
+  },
+  {
+    "id": "134084",
+    "title": "Q2: Geometric Notations for Line, Segment, Ray, and Distance",
+    "question_text": "Explain standard geometric notation for a line AB, segment AB, ray AB, and distance AB.",
+    "math_formula": "\\overleftrightarrow{AB}, \\quad \\overline{AB}, \\quad \\overrightarrow{AB}, \\quad AB",
+    "optA": "\\overleftrightarrow{AB} (Line through A & B), \\overline{AB} (Segment between A & B), \\overrightarrow{AB} (Ray starting at A through B), AB (Length of segment)",
+    "optB": "\\overleftrightarrow{AB} (Segment), \\overline{AB} (Line), \\overrightarrow{AB} (Distance), AB (Ray)",
+    "optC": "\\overleftrightarrow{AB} (Angle), \\overline{AB} (Triangle), \\overrightarrow{AB} (Circle), AB (Perimeter)",
+    "optD": "All four symbols represent the exact same geometric object",
+    "correct_answer": "\\overleftrightarrow{AB} (Line through A & B), \\overline{AB} (Segment between A & B), \\overrightarrow{AB} (Ray starting at A through B), AB (Length of segment)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q2.png",
+    "options": [
+      "\\overleftrightarrow{AB} (Angle), \\overline{AB} (Triangle), \\overrightarrow{AB} (Circle), AB (Perimeter)",
+      "All four symbols represent the exact same geometric object",
+      "\\overleftrightarrow{AB} (Segment), \\overline{AB} (Line), \\overrightarrow{AB} (Distance), AB (Ray)",
+      "\\overleftrightarrow{AB} (Line through A & B), \\overline{AB} (Segment between A & B), \\overrightarrow{AB} (Ray starting at A through B), AB (Length of segment)"
+    ],
+    "correct": "\\overleftrightarrow{AB} (Line through A & B), \\overline{AB} (Segment between A & B), \\overrightarrow{AB} (Ray starting at A through B), AB (Length of segment)"
+  },
+  {
+    "id": "134085",
+    "title": "Q3: Segment Addition Postulate Definition",
+    "question_text": "State the Segment Addition Postulate: if B is between A and C, then write the relationship between AB, BC, and AC.",
+    "math_formula": "AB + BC = AC",
+    "optA": "If B is between A and C, then AB + BC = AC",
+    "optB": "If B is between A and C, then AB × BC = AC",
+    "optC": "If B is between A and C, then AB - BC = AC",
+    "optD": "If B is between A and C, then AB + AC = BC",
+    "correct_answer": "If B is between A and C, then AB + BC = AC",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q3.png",
+    "options": [
+      "If B is between A and C, then AB × BC = AC",
+      "If B is between A and C, then AB + AC = BC",
+      "If B is between A and C, then AB + BC = AC",
+      "If B is between A and C, then AB - BC = AC"
+    ],
+    "correct": "If B is between A and C, then AB + BC = AC"
+  },
+  {
+    "id": "134086",
+    "title": "Q4: Angle Addition Postulate Definition",
+    "question_text": "State the Angle Addition Postulate for adjacent angles ∠ABD and ∠DBC.",
+    "math_formula": "m\\angle ABD + m\\angle DBC = m\\angle ABC",
+    "optA": "m∠ABD + m∠DBC = m∠ABC",
+    "optB": "m∠ABD - m∠DBC = m∠ABC",
+    "optC": "m∠ABD × m∠DBC = m∠ABC",
+    "optD": "m∠ABC + m∠ABD = m∠DBC",
+    "correct_answer": "m∠ABD + m∠DBC = m∠ABC",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q4.png",
+    "options": [
+      "m∠ABD - m∠DBC = m∠ABC",
+      "m∠ABC + m∠ABD = m∠DBC",
+      "m∠ABD × m∠DBC = m∠ABC",
+      "m∠ABD + m∠DBC = m∠ABC"
+    ],
+    "correct": "m∠ABD + m∠DBC = m∠ABC"
+  },
+  {
+    "id": "134087",
+    "title": "Q5: Midpoint and Segment Bisector",
+    "question_text": "Define midpoint of a line segment and segment bisector.",
+    "math_formula": "AM = MB = \\frac{1}{2}AB",
+    "optA": "Midpoint divides a segment into two congruent segments; a bisector passes through the midpoint",
+    "optB": "Midpoint is any point on the segment; bisector is parallel to the segment",
+    "optC": "Midpoint divides a segment in a 1 : 3 ratio; bisector forms a 45° angle",
+    "optD": "Midpoint is the endpoint of a ray; bisector is a circle",
+    "correct_answer": "Midpoint divides a segment into two congruent segments; a bisector passes through the midpoint",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q5.png",
+    "options": [
+      "Midpoint is the endpoint of a ray; bisector is a circle",
+      "Midpoint divides a segment in a 1 : 3 ratio; bisector forms a 45° angle",
+      "Midpoint is any point on the segment; bisector is parallel to the segment",
+      "Midpoint divides a segment into two congruent segments; a bisector passes through the midpoint"
+    ],
+    "correct": "Midpoint divides a segment into two congruent segments; a bisector passes through the midpoint"
+  },
+  {
+    "id": "134088",
+    "title": "Q6: Angle Bisector Definition",
+    "question_text": "Define angle bisector and explain its geometric property.",
+    "math_formula": "m\\angle ABD = m\\angle DBC = \\frac{1}{2}m\\angle ABC",
+    "optA": "A ray that divides an angle into two congruent adjacent angles",
+    "optB": "A line that intersects an angle at 90°",
+    "optC": "A line segment connecting the two rays of an angle",
+    "optD": "An angle that measures exactly 180°",
+    "correct_answer": "A ray that divides an angle into two congruent adjacent angles",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q6.png",
+    "options": [
+      "A line segment connecting the two rays of an angle",
+      "A line that intersects an angle at 90°",
+      "An angle that measures exactly 180°",
+      "A ray that divides an angle into two congruent adjacent angles"
+    ],
+    "correct": "A ray that divides an angle into two congruent adjacent angles"
+  },
+  {
+    "id": "134089",
+    "title": "Q7: Segment Addition Algebraic Application",
+    "question_text": "Given that B is between A and C, if AB = 3x - 5, BC = 2x + 1, and AC = 26, write the equation to find x and determine the length of AB.",
+    "math_formula": "(3x - 5) + (2x + 1) = 26 \\implies 5x - 4 = 26 \\implies x = 6",
+    "optA": "Equation: (3x - 5) + (2x + 1) = 26; x = 6, AB = 13",
+    "optB": "Equation: (3x - 5) - (2x + 1) = 26; x = 32, AB = 91",
+    "optC": "Equation: (3x - 5) × (2x + 1) = 26; x = 4, AB = 7",
+    "optD": "Equation: 3x + 2x = 26; x = 5.2, AB = 10.6",
+    "correct_answer": "Equation: (3x - 5) + (2x + 1) = 26; x = 6, AB = 13",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q7.png",
+    "options": [
+      "Equation: (3x - 5) + (2x + 1) = 26; x = 6, AB = 13",
+      "Equation: (3x - 5) × (2x + 1) = 26; x = 4, AB = 7",
+      "Equation: 3x + 2x = 26; x = 5.2, AB = 10.6",
+      "Equation: (3x - 5) - (2x + 1) = 26; x = 32, AB = 91"
+    ],
+    "correct": "Equation: (3x - 5) + (2x + 1) = 26; x = 6, AB = 13"
+  },
+  {
+    "id": "134090",
+    "title": "Q8: Midpoint Algebraic Application",
+    "question_text": "If M is the midpoint of segment PQ, PM = 4x - 3, and MQ = 2x + 9, find x and the length of PQ.",
+    "math_formula": "4x - 3 = 2x + 9 \\implies 2x = 12 \\implies x = 6, \\quad PQ = 42",
+    "optA": "x = 6, PQ = 42",
+    "optB": "x = 3, PQ = 30",
+    "optC": "x = 12, PQ = 84",
+    "optD": "x = 2, PQ = 18",
+    "correct_answer": "x = 6, PQ = 42",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q8.png",
+    "options": [
+      "x = 12, PQ = 84",
+      "x = 3, PQ = 30",
+      "x = 6, PQ = 42",
+      "x = 2, PQ = 18"
+    ],
+    "correct": "x = 6, PQ = 42"
+  },
+  {
+    "id": "134091",
+    "title": "Q9: Naming an Angle",
+    "question_text": "Describe the three different ways to name an angle with vertex B and sides passing through A and C.",
+    "math_formula": "\\angle ABC, \\quad \\angle CBA, \\quad \\angle B",
+    "optA": "∠ABC, ∠CBA, or ∠B",
+    "optB": "∠BAC, ∠BCA, or ∠A",
+    "optC": "△ABC, AB, or BC",
+    "optD": "∠A, ∠B, ∠C",
+    "correct_answer": "∠ABC, ∠CBA, or ∠B",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q9.png",
+    "options": [
+      "△ABC, AB, or BC",
+      "∠BAC, ∠BCA, or ∠A",
+      "∠ABC, ∠CBA, or ∠B",
+      "∠A, ∠B, ∠C"
+    ],
+    "correct": "∠ABC, ∠CBA, or ∠B"
+  },
+  {
+    "id": "134092",
+    "title": "Q10: Complementary and Supplementary Angles",
+    "question_text": "Define complementary angles and supplementary angles.",
+    "math_formula": "\\theta_1 + \\theta_2 = 90^\\circ \\quad \\text{vs} \\quad \\theta_1 + \\theta_2 = 180^\\circ",
+    "optA": "Complementary: two angles whose sum is 90°; Supplementary: two angles whose sum is 180°",
+    "optB": "Complementary: two angles whose sum is 180°; Supplementary: two angles whose sum is 360°",
+    "optC": "Complementary: two equal angles; Supplementary: two right angles",
+    "optD": "Complementary: two acute angles; Supplementary: two obtuse angles",
+    "correct_answer": "Complementary: two angles whose sum is 90°; Supplementary: two angles whose sum is 180°",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q10.png",
+    "options": [
+      "Complementary: two angles whose sum is 90°; Supplementary: two angles whose sum is 180°",
+      "Complementary: two equal angles; Supplementary: two right angles",
+      "Complementary: two angles whose sum is 180°; Supplementary: two angles whose sum is 360°",
+      "Complementary: two acute angles; Supplementary: two obtuse angles"
+    ],
+    "correct": "Complementary: two angles whose sum is 90°; Supplementary: two angles whose sum is 180°"
+  },
+  {
+    "id": "134093",
+    "title": "Q11: Vertical Angles Theorem",
+    "question_text": "Define vertical angles and state the Vertical Angles Theorem.",
+    "math_formula": "\\angle 1 \\cong \\angle 3, \\quad \\angle 2 \\cong \\angle 4",
+    "optA": "Vertical angles are two non-adjacent angles formed by intersecting lines; Theorem states vertical angles are congruent (equal)",
+    "optB": "Vertical angles are adjacent angles that add to 180°",
+    "optC": "Vertical angles are angles that sum to 90°",
+    "optD": "Vertical angles are formed by parallel lines and are always complementary",
+    "correct_answer": "Vertical angles are two non-adjacent angles formed by intersecting lines; Theorem states vertical angles are congruent (equal)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q11.png",
+    "options": [
+      "Vertical angles are angles that sum to 90°",
+      "Vertical angles are formed by parallel lines and are always complementary",
+      "Vertical angles are adjacent angles that add to 180°",
+      "Vertical angles are two non-adjacent angles formed by intersecting lines; Theorem states vertical angles are congruent (equal)"
+    ],
+    "correct": "Vertical angles are two non-adjacent angles formed by intersecting lines; Theorem states vertical angles are congruent (equal)"
+  },
+  {
+    "id": "134094",
+    "title": "Q12: Linear Pair Postulate",
+    "question_text": "Define a linear pair of angles and state the Linear Pair Postulate.",
+    "math_formula": "m\\angle 1 + m\\angle 2 = 180^\\circ",
+    "optA": "A linear pair consists of two adjacent angles whose non-common sides form opposite rays; Postulate states they are supplementary (sum to 180°)",
+    "optB": "A linear pair consists of two vertical angles that sum to 90°",
+    "optC": "A linear pair consists of two parallel lines intersected by a transversal",
+    "optD": "A linear pair consists of three angles that form a triangle",
+    "correct_answer": "A linear pair consists of two adjacent angles whose non-common sides form opposite rays; Postulate states they are supplementary (sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q12.png",
+    "options": [
+      "A linear pair consists of three angles that form a triangle",
+      "A linear pair consists of two parallel lines intersected by a transversal",
+      "A linear pair consists of two vertical angles that sum to 90°",
+      "A linear pair consists of two adjacent angles whose non-common sides form opposite rays; Postulate states they are supplementary (sum to 180°)"
+    ],
+    "correct": "A linear pair consists of two adjacent angles whose non-common sides form opposite rays; Postulate states they are supplementary (sum to 180°)"
+  },
+  {
+    "id": "134095",
+    "title": "Q13: Complement and Supplement Calculation",
+    "question_text": "Find the complement and supplement of an angle measuring 38°.",
+    "math_formula": "90^\\circ - 38^\\circ = 52^\\circ, \\quad 180^\\circ - 38^\\circ = 142^\\circ",
+    "optA": "Complement = 52°, Supplement = 142°",
+    "optB": "Complement = 142°, Supplement = 52°",
+    "optC": "Complement = 62°, Supplement = 152°",
+    "optD": "Complement = 42°, Supplement = 132°",
+    "correct_answer": "Complement = 52°, Supplement = 142°",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Complement = 42°, Supplement = 132°",
+      "Complement = 62°, Supplement = 152°",
+      "Complement = 142°, Supplement = 52°",
+      "Complement = 52°, Supplement = 142°"
+    ],
+    "correct": "Complement = 52°, Supplement = 142°"
+  },
+  {
+    "id": "134096",
+    "title": "Q14: Complementary Angles Word Problem",
+    "question_text": "Two angles are complementary. If the measure of one angle is 18° more than twice the measure of the other, find both angle measures.",
+    "math_formula": "x + (2x + 18) = 90 \\implies 3x = 72 \\implies x = 24^\\circ, \\quad 2x+18 = 66^\\circ",
+    "optA": "24° and 66°",
+    "optB": "30° and 60°",
+    "optC": "18° and 72°",
+    "optD": "36° and 54°",
+    "correct_answer": "24° and 66°",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q14.png",
+    "options": [
+      "18° and 72°",
+      "24° and 66°",
+      "30° and 60°",
+      "36° and 54°"
+    ],
+    "correct": "24° and 66°"
+  },
+  {
+    "id": "134097",
+    "title": "Q15: Linear Pair Algebraic Equation",
+    "question_text": "Two angles form a linear pair. If their measures are (5x + 15)° and (3x + 25)°, solve for x and find both angle measures.",
+    "math_formula": "(5x + 15) + (3x + 25) = 180 \\implies 8x = 140 \\implies x = 17.5",
+    "optA": "x = 17.5; Angles: 102.5° and 77.5°",
+    "optB": "x = 20; Angles: 115° and 85°",
+    "optC": "x = 15; Angles: 90° and 70°",
+    "optD": "x = 10; Angles: 65° and 55°",
+    "correct_answer": "x = 17.5; Angles: 102.5° and 77.5°",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q15.png",
+    "options": [
+      "x = 17.5; Angles: 102.5° and 77.5°",
+      "x = 15; Angles: 90° and 70°",
+      "x = 10; Angles: 65° and 55°",
+      "x = 20; Angles: 115° and 85°"
+    ],
+    "correct": "x = 17.5; Angles: 102.5° and 77.5°"
+  },
+  {
+    "id": "134098",
+    "title": "Q16: Vertical Angles Algebraic Equation",
+    "question_text": "Two lines intersect forming vertical angles measuring (7x - 12)° and (4x + 18)°. Solve for x and find the measure of the angles.",
+    "math_formula": "7x - 12 = 4x + 18 \\implies 3x = 30 \\implies x = 10",
+    "optA": "x = 10, Angle measure: 58°",
+    "optB": "x = 6, Angle measure: 30°",
+    "optC": "x = 15, Angle measure: 93°",
+    "optD": "x = 8, Angle measure: 44°",
+    "correct_answer": "x = 10, Angle measure: 58°",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q16.png",
+    "options": [
+      "x = 6, Angle measure: 30°",
+      "x = 8, Angle measure: 44°",
+      "x = 15, Angle measure: 93°",
+      "x = 10, Angle measure: 58°"
+    ],
+    "correct": "x = 10, Angle measure: 58°"
+  },
+  {
+    "id": "134099",
+    "title": "Q17: Parallel Lines vs Skew Lines",
+    "question_text": "Define parallel lines and skew lines.",
+    "math_formula": "l_1 \\parallel l_2 \\text{ (coplanar)} \\quad \\text{vs} \\quad l_1, l_2 \\text{ (non-coplanar)}",
+    "optA": "Parallel: coplanar lines that never intersect; Skew: non-coplanar lines that never intersect",
+    "optB": "Parallel: lines intersecting at 90°; Skew: lines in the same plane",
+    "optC": "Parallel: lines of unequal length; Skew: lines forming a triangle",
+    "optD": "Parallel: lines that intersect twice; Skew: lines that overlap completely",
+    "correct_answer": "Parallel: coplanar lines that never intersect; Skew: non-coplanar lines that never intersect",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q17.png",
+    "options": [
+      "Parallel: lines of unequal length; Skew: lines forming a triangle",
+      "Parallel: lines that intersect twice; Skew: lines that overlap completely",
+      "Parallel: coplanar lines that never intersect; Skew: non-coplanar lines that never intersect",
+      "Parallel: lines intersecting at 90°; Skew: lines in the same plane"
+    ],
+    "correct": "Parallel: coplanar lines that never intersect; Skew: non-coplanar lines that never intersect"
+  },
+  {
+    "id": "134100",
+    "title": "Q18: Perpendicular Lines Definition and Symbol",
+    "question_text": "Define perpendicular lines and state the symbol used to denote perpendicularity.",
+    "math_formula": "l_1 \\perp l_2 \\implies 90^\\circ",
+    "optA": "Lines that intersect to form right angles (90°); Symbol: ⊥",
+    "optB": "Lines that never intersect; Symbol: ∥",
+    "optC": "Rays pointing in opposite directions; Symbol: →",
+    "optD": "Segments of equal length; Symbol: ≅",
+    "correct_answer": "Lines that intersect to form right angles (90°); Symbol: ⊥",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q18.png",
+    "options": [
+      "Lines that never intersect; Symbol: ∥",
+      "Segments of equal length; Symbol: ≅",
+      "Rays pointing in opposite directions; Symbol: →",
+      "Lines that intersect to form right angles (90°); Symbol: ⊥"
+    ],
+    "correct": "Lines that intersect to form right angles (90°); Symbol: ⊥"
+  },
+  {
+    "id": "134101",
+    "title": "Q19: Collinear vs Coplanar Points",
+    "question_text": "Explain the concept of collinear points vs coplanar points.",
+    "math_formula": "\\text{Collinear (same line)} \\quad \\text{vs} \\quad \\text{Coplanar (same plane)}",
+    "optA": "Collinear: points lying on the same line; Coplanar: points lying in the same plane",
+    "optB": "Collinear: points forming a plane; Coplanar: points on a line",
+    "optC": "Collinear: points at equal distance; Coplanar: points at 90°",
+    "optD": "Collinear and Coplanar are identical concepts with no difference",
+    "correct_answer": "Collinear: points lying on the same line; Coplanar: points lying in the same plane",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q19.png",
+    "options": [
+      "Collinear and Coplanar are identical concepts with no difference",
+      "Collinear: points forming a plane; Coplanar: points on a line",
+      "Collinear: points lying on the same line; Coplanar: points lying in the same plane",
+      "Collinear: points at equal distance; Coplanar: points at 90°"
+    ],
+    "correct": "Collinear: points lying on the same line; Coplanar: points lying in the same plane"
+  },
+  {
+    "id": "134102",
+    "title": "Q20: Intersecting Lines Coplanar Property",
+    "question_text": "Explain why two intersecting lines are always coplanar.",
+    "math_formula": "\\text{Intersection point } P + 2 \\text{ points determine a unique plane}",
+    "optA": "Because the point of intersection and one additional point on each line form three non-collinear points, which determine a unique plane",
+    "optB": "Because all straight lines in geometry exist in 3D space only",
+    "optC": "Because intersecting lines always form a 90° angle",
+    "optD": "Because two intersecting lines can never lie in a flat plane",
+    "correct_answer": "Because the point of intersection and one additional point on each line form three non-collinear points, which determine a unique plane",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q20.png",
+    "options": [
+      "Because two intersecting lines can never lie in a flat plane",
+      "Because intersecting lines always form a 90° angle",
+      "Because the point of intersection and one additional point on each line form three non-collinear points, which determine a unique plane",
+      "Because all straight lines in geometry exist in 3D space only"
+    ],
+    "correct": "Because the point of intersection and one additional point on each line form three non-collinear points, which determine a unique plane"
+  },
+  {
+    "id": "134103",
+    "title": "Q21: Congruent Segments vs Equal Lengths",
+    "question_text": "Explain the difference between congruent line segments (AB ≅ CD) and equal lengths (AB = CD).",
+    "math_formula": "\\overline{AB} \\cong \\overline{CD} \\quad \\text{vs} \\quad AB = CD",
+    "optA": "Congruence (≅) refers to the geometric figures having the same size/shape; Equality (=) refers to equal numerical length values",
+    "optB": "Congruence applies to numbers; Equality applies to shapes",
+    "optC": "AB ≅ CD means lines are parallel; AB = CD means lines are perpendicular",
+    "optD": "There is no mathematical distinction between ≅ and =",
+    "correct_answer": "Congruence (≅) refers to the geometric figures having the same size/shape; Equality (=) refers to equal numerical length values",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "There is no mathematical distinction between ≅ and =",
+      "Congruence applies to numbers; Equality applies to shapes",
+      "AB ≅ CD means lines are parallel; AB = CD means lines are perpendicular",
+      "Congruence (≅) refers to the geometric figures having the same size/shape; Equality (=) refers to equal numerical length values"
+    ],
+    "correct": "Congruence (≅) refers to the geometric figures having the same size/shape; Equality (=) refers to equal numerical length values"
+  },
+  {
+    "id": "134104",
+    "title": "Q22: Congruent Angles vs Equal Measures",
+    "question_text": "Explain the difference between congruent angles (∠A ≅ ∠B) and equal angle measures (m∠A = m∠B).",
+    "math_formula": "\\angle A \\cong \\angle B \\quad \\text{vs} \\quad m\\angle A = m\\angle B",
+    "optA": "Congruent angles are geometric figures with the same measure; Equal measures are the identical numerical degree values",
+    "optB": "Congruent angles sum to 180°; Equal angles sum to 90°",
+    "optC": "Congruent angles are vertical; Equal angles are adjacent",
+    "optD": "Congruent angles must be right angles; Equal angles can be any angle",
+    "correct_answer": "Congruent angles are geometric figures with the same measure; Equal measures are the identical numerical degree values",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Congruent angles sum to 180°; Equal angles sum to 90°",
+      "Congruent angles are geometric figures with the same measure; Equal measures are the identical numerical degree values",
+      "Congruent angles are vertical; Equal angles are adjacent",
+      "Congruent angles must be right angles; Equal angles can be any angle"
+    ],
+    "correct": "Congruent angles are geometric figures with the same measure; Equal measures are the identical numerical degree values"
+  },
+  {
+    "id": "134105",
+    "title": "Q23: Perpendicular Line Segments Definition",
+    "question_text": "Explain what is meant by perpendicular line segments using the concept of right angles.",
+    "math_formula": "\\overline{AB} \\perp \\overline{CD} \\implies 90^\\circ",
+    "optA": "Line segments are perpendicular if the lines containing them intersect at a 90° right angle",
+    "optB": "Line segments are perpendicular if they are parallel and equal in length",
+    "optC": "Line segments are perpendicular if they share a common endpoint and form a straight line",
+    "optD": "Line segments are perpendicular if they never meet on a plane",
+    "correct_answer": "Line segments are perpendicular if the lines containing them intersect at a 90° right angle",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q23.png",
+    "options": [
+      "Line segments are perpendicular if the lines containing them intersect at a 90° right angle",
+      "Line segments are perpendicular if they are parallel and equal in length",
+      "Line segments are perpendicular if they never meet on a plane",
+      "Line segments are perpendicular if they share a common endpoint and form a straight line"
+    ],
+    "correct": "Line segments are perpendicular if the lines containing them intersect at a 90° right angle"
+  },
+  {
+    "id": "134106",
+    "title": "Q24: Collinear Points and Plane Determination",
+    "question_text": "Define collinear points and non-collinear points, and state how many non-collinear points determine a unique plane.",
+    "math_formula": "\\text{3 non-collinear points } \\implies \\text{Unique Plane}",
+    "optA": "Collinear: points on the same line; Non-collinear: points not on the same line; 3 non-collinear points determine a unique plane",
+    "optB": "2 non-collinear points determine a unique plane",
+    "optC": "4 non-collinear points determine a unique plane",
+    "optD": "1 non-collinear point determines a unique plane",
+    "correct_answer": "Collinear: points on the same line; Non-collinear: points not on the same line; 3 non-collinear points determine a unique plane",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q24.png",
+    "options": [
+      "Collinear: points on the same line; Non-collinear: points not on the same line; 3 non-collinear points determine a unique plane",
+      "4 non-collinear points determine a unique plane",
+      "1 non-collinear point determines a unique plane",
+      "2 non-collinear points determine a unique plane"
+    ],
+    "correct": "Collinear: points on the same line; Non-collinear: points not on the same line; 3 non-collinear points determine a unique plane"
+  },
+  {
+    "id": "134107",
+    "title": "Q25: Ruler Postulate",
+    "question_text": "State the Ruler Postulate and explain how it is used to determine the distance between two points on a number line.",
+    "math_formula": "d(A, B) = |x_2 - x_1|",
+    "optA": "Points on a line can be matched 1-to-1 with real numbers; distance between two points is the absolute value of the difference of their coordinates: |x₂ - x₁|",
+    "optB": "Distance is found by adding coordinates x₁ + x₂",
+    "optC": "Distance is found by multiplying coordinates x₁ × x₂",
+    "optD": "Distance is always measured in degrees using a protractor",
+    "correct_answer": "Points on a line can be matched 1-to-1 with real numbers; distance between two points is the absolute value of the difference of their coordinates: |x₂ - x₁|",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q25.png",
+    "options": [
+      "Points on a line can be matched 1-to-1 with real numbers; distance between two points is the absolute value of the difference of their coordinates: |x₂ - x₁|",
+      "Distance is found by adding coordinates x₁ + x₂",
+      "Distance is found by multiplying coordinates x₁ × x₂",
+      "Distance is always measured in degrees using a protractor"
+    ],
+    "correct": "Points on a line can be matched 1-to-1 with real numbers; distance between two points is the absolute value of the difference of their coordinates: |x₂ - x₁|"
+  },
+  {
+    "id": "134108",
+    "title": "Q26: Protractor Postulate",
+    "question_text": "State the Protractor Postulate and explain how it assigns degree measures to angles.",
+    "math_formula": "m\\angle AOB = |r_2 - r_1|",
+    "optA": "Rays from a point can be matched 1-to-1 with real numbers from 0° to 180°; measure of an angle is the absolute difference between numbers on the protractor",
+    "optB": "Protractor postulate measures distances along a straight line in centimeters",
+    "optC": "Protractor postulate states that all angles sum to 360°",
+    "optD": "Protractor postulate applies only to right triangles",
+    "correct_answer": "Rays from a point can be matched 1-to-1 with real numbers from 0° to 180°; measure of an angle is the absolute difference between numbers on the protractor",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q26.png",
+    "options": [
+      "Protractor postulate applies only to right triangles",
+      "Rays from a point can be matched 1-to-1 with real numbers from 0° to 180°; measure of an angle is the absolute difference between numbers on the protractor",
+      "Protractor postulate states that all angles sum to 360°",
+      "Protractor postulate measures distances along a straight line in centimeters"
+    ],
+    "correct": "Rays from a point can be matched 1-to-1 with real numbers from 0° to 180°; measure of an angle is the absolute difference between numbers on the protractor"
+  },
+  {
+    "id": "134109",
+    "title": "Q27: Collinear Points and Planes",
+    "question_text": "Explain why three collinear points do NOT determine a unique plane.",
+    "math_formula": "\\text{Single line contains infinitely many passing planes}",
+    "optA": "Infinitely many planes can pass through a single straight line containing collinear points",
+    "optB": "Because collinear points do not exist in geometry",
+    "optC": "Because collinear points form a sphere, not a plane",
+    "optD": "Three collinear points determine exactly two perpendicular planes",
+    "correct_answer": "Infinitely many planes can pass through a single straight line containing collinear points",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q27.png",
+    "options": [
+      "Because collinear points form a sphere, not a plane",
+      "Because collinear points do not exist in geometry",
+      "Infinitely many planes can pass through a single straight line containing collinear points",
+      "Three collinear points determine exactly two perpendicular planes"
+    ],
+    "correct": "Infinitely many planes can pass through a single straight line containing collinear points"
+  },
+  {
+    "id": "134110",
+    "title": "Q28: Intersection of Two Planes",
+    "question_text": "If plane M and plane N intersect, describe the geometric figure formed by their intersection.",
+    "math_formula": "\\text{Plane } M \\cap \\text{Plane } N = \\text{Line } l",
+    "optA": "A straight line",
+    "optB": "A single point",
+    "optC": "A circle",
+    "optD": "A two-dimensional rectangle",
+    "correct_answer": "A straight line",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q28.png",
+    "options": [
+      "A straight line",
+      "A circle",
+      "A two-dimensional rectangle",
+      "A single point"
+    ],
+    "correct": "A straight line"
+  },
+  {
+    "id": "134111",
+    "title": "Q29: Intersection of Two Lines",
+    "question_text": "If two lines intersect, describe their intersection.",
+    "math_formula": "l_1 \\cap l_2 = \\{P\\}",
+    "optA": "Exactly one single point",
+    "optB": "A straight line",
+    "optC": "A plane",
+    "optD": "Two distinct points",
+    "correct_answer": "Exactly one single point",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q29.png",
+    "options": [
+      "Exactly one single point",
+      "A straight line",
+      "A plane",
+      "Two distinct points"
+    ],
+    "correct": "Exactly one single point"
+  },
+  {
+    "id": "134112",
+    "title": "Q30: Line Piercing a Plane",
+    "question_text": "Describe the relationship between a line and a plane if the line intersects the plane at exactly one point.",
+    "math_formula": "l \\cap P = \\{K\\}",
+    "optA": "The line passes through (pierces) the plane at a single point of intersection",
+    "optB": "The line lies completely inside the plane",
+    "optC": "The line is parallel to the plane",
+    "optD": "The line forms a circle on the plane",
+    "correct_answer": "The line passes through (pierces) the plane at a single point of intersection",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q30.png",
+    "options": [
+      "The line is parallel to the plane",
+      "The line forms a circle on the plane",
+      "The line passes through (pierces) the plane at a single point of intersection",
+      "The line lies completely inside the plane"
+    ],
+    "correct": "The line passes through (pierces) the plane at a single point of intersection"
+  },
+  {
+    "id": "134113",
+    "title": "Q31: Naming Rays from Collinear Points",
+    "question_text": "Name all possible rays that can be formed using three collinear points X, Y, and Z arranged in that order.",
+    "math_formula": "\\overrightarrow{XY}, \\quad \\overrightarrow{YX}, \\quad \\overrightarrow{YZ}, \\quad \\overrightarrow{ZY}",
+    "optA": "\\overrightarrow{XY} (or \\overrightarrow{XZ}), \\overrightarrow{YX}, \\overrightarrow{YZ}, \\overrightarrow{ZY} (or \\overrightarrow{ZX})",
+    "optB": "\\overline{XY} and \\overline{YZ} only",
+    "optC": "\\overleftrightarrow{XYZ} only",
+    "optD": "\\overrightarrow{X}, \\overrightarrow{Y}, \\overrightarrow{Z}",
+    "correct_answer": "\\overrightarrow{XY} (or \\overrightarrow{XZ}), \\overrightarrow{YX}, \\overrightarrow{YZ}, \\overrightarrow{ZY} (or \\overrightarrow{ZX})",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q31.png",
+    "options": [
+      "\\overrightarrow{XY} (or \\overrightarrow{XZ}), \\overrightarrow{YX}, \\overrightarrow{YZ}, \\overrightarrow{ZY} (or \\overrightarrow{ZX})",
+      "\\overrightarrow{X}, \\overrightarrow{Y}, \\overrightarrow{Z}",
+      "\\overleftrightarrow{XYZ} only",
+      "\\overline{XY} and \\overline{YZ} only"
+    ],
+    "correct": "\\overrightarrow{XY} (or \\overrightarrow{XZ}), \\overrightarrow{YX}, \\overrightarrow{YZ}, \\overrightarrow{ZY} (or \\overrightarrow{ZX})"
+  },
+  {
+    "id": "134114",
+    "title": "Q32: Classification of Angles by Measure",
+    "question_text": "Define an acute angle, an obtuse angle, a straight angle, and a reflex angle with their respective degree ranges.",
+    "math_formula": "\\text{Acute } (<90^\\circ), \\text{ Obtuse } (90^\\circ-180^\\circ), \\text{ Straight } (180^\\circ), \\text{ Reflex } (180^\\circ-360^\\circ)",
+    "optA": "Acute (0° < θ < 90°), Obtuse (90° < θ < 180°), Straight (θ = 180°), Reflex (180° < θ < 360°)",
+    "optB": "Acute (θ = 90°), Obtuse (θ = 360°), Straight (θ = 45°), Reflex (θ = 0°)",
+    "optC": "Acute (90° < θ < 180°), Obtuse (0° < θ < 90°), Straight (θ = 360°), Reflex (θ = 180°)",
+    "optD": "All angles measure between 0° and 90°",
+    "correct_answer": "Acute (0° < θ < 90°), Obtuse (90° < θ < 180°), Straight (θ = 180°), Reflex (180° < θ < 360°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q32.png",
+    "options": [
+      "Acute (90° < θ < 180°), Obtuse (0° < θ < 90°), Straight (θ = 360°), Reflex (θ = 180°)",
+      "Acute (θ = 90°), Obtuse (θ = 360°), Straight (θ = 45°), Reflex (θ = 0°)",
+      "Acute (0° < θ < 90°), Obtuse (90° < θ < 180°), Straight (θ = 180°), Reflex (180° < θ < 360°)",
+      "All angles measure between 0° and 90°"
+    ],
+    "correct": "Acute (0° < θ < 90°), Obtuse (90° < θ < 180°), Straight (θ = 180°), Reflex (180° < θ < 360°)"
+  },
+  {
+    "id": "134115",
+    "title": "Q33: Proof with Vertical and Supplementary Angles",
+    "question_text": "Given that ∠1 and ∠2 are vertical angles, and ∠2 and ∠3 are supplementary, prove that ∠1 and ∠3 are supplementary.",
+    "math_formula": "m\\angle 1 = m\\angle 2, \\quad m\\angle 2 + m\\angle 3 = 180^\\circ \\implies m\\angle 1 + m\\angle 3 = 180^\\circ",
+    "optA": "Since m∠1 = m∠2 and m∠2 + m∠3 = 180°, substitution yields m∠1 + m∠3 = 180° (supplementary)",
+    "optB": "∠1 and ∠3 are complementary (sum to 90°)",
+    "optC": "∠1 and ∠3 are vertical angles (equal)",
+    "optD": "∠1 and ∠3 form a right angle",
+    "correct_answer": "Since m∠1 = m∠2 and m∠2 + m∠3 = 180°, substitution yields m∠1 + m∠3 = 180° (supplementary)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q33.png",
+    "options": [
+      "∠1 and ∠3 are vertical angles (equal)",
+      "∠1 and ∠3 are complementary (sum to 90°)",
+      "∠1 and ∠3 form a right angle",
+      "Since m∠1 = m∠2 and m∠2 + m∠3 = 180°, substitution yields m∠1 + m∠3 = 180° (supplementary)"
+    ],
+    "correct": "Since m∠1 = m∠2 and m∠2 + m∠3 = 180°, substitution yields m∠1 + m∠3 = 180° (supplementary)"
+  },
+  {
+    "id": "134116",
+    "title": "Q34: Angle Division in Given Ratio",
+    "question_text": "If m∠PQR = 120° and ray QS divides ∠PQR such that m∠PQS : m∠SQR = 2 : 3, calculate the measures of ∠PQS and ∠SQR.",
+    "math_formula": "\\frac{2}{5}(120^\\circ) = 48^\\circ, \\quad \\frac{3}{5}(120^\\circ) = 72^\\circ",
+    "optA": "m∠PQS = 48°, m∠SQR = 72°",
+    "optB": "m∠PQS = 40°, m∠SQR = 80°",
+    "optC": "m∠PQS = 50°, m∠SQR = 70°",
+    "optD": "m∠PQS = 60°, m∠SQR = 60°",
+    "correct_answer": "m∠PQS = 48°, m∠SQR = 72°",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q34.png",
+    "options": [
+      "m∠PQS = 40°, m∠SQR = 80°",
+      "m∠PQS = 60°, m∠SQR = 60°",
+      "m∠PQS = 48°, m∠SQR = 72°",
+      "m∠PQS = 50°, m∠SQR = 70°"
+    ],
+    "correct": "m∠PQS = 48°, m∠SQR = 72°"
+  },
+  {
+    "id": "134117",
+    "title": "Q35: Physical Models of Geometric Concepts",
+    "question_text": "Explain how a physical tabletop, a laser pointer, and a folded sheet of paper model geometric concepts of plane, ray, and line.",
+    "math_formula": "\\text{Tabletop (Plane), Laser (Ray), Crease (Line)}",
+    "optA": "Tabletop models a flat 2D plane; Laser pointer models a ray; Folded crease models a straight line",
+    "optB": "Tabletop models a 1D line; Laser pointer models a circle; Folded crease models a point",
+    "optC": "Tabletop models a 3D sphere; Laser pointer models a segment; Folded crease models an angle",
+    "optD": "Physical objects cannot model abstract geometric terms",
+    "correct_answer": "Tabletop models a flat 2D plane; Laser pointer models a ray; Folded crease models a straight line",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Physical objects cannot model abstract geometric terms",
+      "Tabletop models a 1D line; Laser pointer models a circle; Folded crease models a point",
+      "Tabletop models a flat 2D plane; Laser pointer models a ray; Folded crease models a straight line",
+      "Tabletop models a 3D sphere; Laser pointer models a segment; Folded crease models an angle"
+    ],
+    "correct": "Tabletop models a flat 2D plane; Laser pointer models a ray; Folded crease models a straight line"
+  },
+  {
+    "id": "134118",
+    "title": "Q36: Opposite Rays Definition",
+    "question_text": "Explain the concept of opposite rays and how they relate to a straight angle.",
+    "math_formula": "\\overrightarrow{BA} \\text{ and } \\overrightarrow{BC} \\implies \\angle ABC = 180^\\circ",
+    "optA": "Two collinear rays sharing a common endpoint and extending in opposite directions; together they form a 180° straight angle",
+    "optB": "Two perpendicular rays forming a 90° right angle",
+    "optC": "Two parallel rays that never touch",
+    "optD": "Two rays forming a 360° circle",
+    "correct_answer": "Two collinear rays sharing a common endpoint and extending in opposite directions; together they form a 180° straight angle",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q36.png",
+    "options": [
+      "Two collinear rays sharing a common endpoint and extending in opposite directions; together they form a 180° straight angle",
+      "Two rays forming a 360° circle",
+      "Two perpendicular rays forming a 90° right angle",
+      "Two parallel rays that never touch"
+    ],
+    "correct": "Two collinear rays sharing a common endpoint and extending in opposite directions; together they form a 180° straight angle"
+  },
+  {
+    "id": "134119",
+    "title": "Q37: Segment AC Possible Lengths",
+    "question_text": "Given points A, B, C on a line such that AB = 8 and BC = 14, determine the two possible lengths for segment AC.",
+    "math_formula": "AC = 14 + 8 = 22 \\quad \\text{or} \\quad AC = 14 - 8 = 6",
+    "optA": "AC = 6 or AC = 22",
+    "optB": "AC = 8 or AC = 14",
+    "optC": "AC = 10 or AC = 18",
+    "optD": "AC = 112 or AC = 1.75",
+    "correct_answer": "AC = 6 or AC = 22",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q37.png",
+    "options": [
+      "AC = 8 or AC = 14",
+      "AC = 6 or AC = 22",
+      "AC = 10 or AC = 18",
+      "AC = 112 or AC = 1.75"
+    ],
+    "correct": "AC = 6 or AC = 22"
+  },
+  {
+    "id": "134120",
+    "title": "Q38: Definition of Polygon",
+    "question_text": "Define a polygon in terms of coplanar line segments and non-collinear endpoints.",
+    "math_formula": "\\text{Closed plane figure of } n \\ge 3 \\text{ line segments}",
+    "optA": "A closed plane figure formed by three or more coplanar line segments that intersect only at their endpoints",
+    "optB": "An open figure formed by curved lines in 3D space",
+    "optC": "A circle with infinite line segments",
+    "optD": "A set of parallel lines intersected by a transversal",
+    "correct_answer": "A closed plane figure formed by three or more coplanar line segments that intersect only at their endpoints",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q38.png",
+    "options": [
+      "A closed plane figure formed by three or more coplanar line segments that intersect only at their endpoints",
+      "An open figure formed by curved lines in 3D space",
+      "A set of parallel lines intersected by a transversal",
+      "A circle with infinite line segments"
+    ],
+    "correct": "A closed plane figure formed by three or more coplanar line segments that intersect only at their endpoints"
+  },
+  {
+    "id": "134121",
+    "title": "Q39: Convex vs Concave Figures",
+    "question_text": "Explain the difference between convex and concave geometric figures.",
+    "math_formula": "\\text{Convex (all internal segments inside)} \\quad \\text{vs} \\quad \\text{Concave (cave-in vertex)}",
+    "optA": "Convex: all internal line segments lie inside; Concave: at least one internal line segment passes outside the figure",
+    "optB": "Convex has 4 sides; Concave has 3 sides",
+    "optC": "Convex is 3D; Concave is 2D",
+    "optD": "Convex and Concave mean the exact same thing",
+    "correct_answer": "Convex: all internal line segments lie inside; Concave: at least one internal line segment passes outside the figure",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q39.png",
+    "options": [
+      "Convex and Concave mean the exact same thing",
+      "Convex: all internal line segments lie inside; Concave: at least one internal line segment passes outside the figure",
+      "Convex is 3D; Concave is 2D",
+      "Convex has 4 sides; Concave has 3 sides"
+    ],
+    "correct": "Convex: all internal line segments lie inside; Concave: at least one internal line segment passes outside the figure"
+  },
+  {
+    "id": "134122",
+    "title": "Q40: Ray Bisecting Straight Angle",
+    "question_text": "If ray OT bisects straight angle ∠ROS, determine the measures of ∠ROT and ∠TOS and classify them.",
+    "math_formula": "m\\angle ROT = m\\angle TOS = \\frac{180^\\circ}{2} = 90^\\circ",
+    "optA": "m∠ROT = 90°, m∠TOS = 90° (both are Right Angles)",
+    "optB": "m∠ROT = 45°, m∠TOS = 135°",
+    "optC": "m∠ROT = 60°, m∠TOS = 120°",
+    "optD": "m∠ROT = 180°, m∠TOS = 0°",
+    "correct_answer": "m∠ROT = 90°, m∠TOS = 90° (both are Right Angles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q40.png",
+    "options": [
+      "m∠ROT = 60°, m∠TOS = 120°",
+      "m∠ROT = 45°, m∠TOS = 135°",
+      "m∠ROT = 90°, m∠TOS = 90° (both are Right Angles)",
+      "m∠ROT = 180°, m∠TOS = 0°"
+    ],
+    "correct": "m∠ROT = 90°, m∠TOS = 90° (both are Right Angles)"
+  },
+  {
+    "id": "134123",
+    "title": "Q41: Midpoint Coordinate on 1D Axis",
+    "question_text": "A line segment has endpoints at coordinates -9 and 15 on a 1D coordinate axis. Find the coordinate of its midpoint.",
+    "math_formula": "M = \\frac{-9 + 15}{2} = \\frac{6}{2} = 3",
+    "optA": "Midpoint coordinate = 3",
+    "optB": "Midpoint coordinate = 6",
+    "optC": "Midpoint coordinate = -3",
+    "optD": "Midpoint coordinate = 12",
+    "correct_answer": "Midpoint coordinate = 3",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q41.png",
+    "options": [
+      "Midpoint coordinate = 12",
+      "Midpoint coordinate = -3",
+      "Midpoint coordinate = 6",
+      "Midpoint coordinate = 3"
+    ],
+    "correct": "Midpoint coordinate = 3"
+  },
+  {
+    "id": "134124",
+    "title": "Q42: Complementary Angles Ratio 4:5",
+    "question_text": "Two complementary angles have measures in the ratio 4 : 5. Find the measure of each angle.",
+    "math_formula": "4x + 5x = 90 \\implies 9x = 90 \\implies x = 10 \\implies 40^\\circ, 50^\\circ",
+    "optA": "40° and 50°",
+    "optB": "36° and 54°",
+    "optC": "44° and 55°",
+    "optD": "30° and 60°",
+    "correct_answer": "40° and 50°",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "44° and 55°",
+      "30° and 60°",
+      "40° and 50°",
+      "36° and 54°"
+    ],
+    "correct": "40° and 50°"
+  },
+  {
+    "id": "134125",
+    "title": "Q43: Supplementary Angles Ratio 7:11",
+    "question_text": "Two supplementary angles have measures in the ratio 7 : 11. Find the measure of each angle.",
+    "math_formula": "7x + 11x = 180 \\implies 18x = 180 \\implies x = 10 \\implies 70^\\circ, 110^\\circ",
+    "optA": "70° and 110°",
+    "optB": "60° and 120°",
+    "optC": "77° and 103°",
+    "optD": "80° and 100°",
+    "correct_answer": "70° and 110°",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "60° and 120°",
+      "77° and 103°",
+      "80° and 100°",
+      "70° and 110°"
+    ],
+    "correct": "70° and 110°"
+  },
+  {
+    "id": "134126",
+    "title": "Q44: Angle 34° Less Than Supplement",
+    "question_text": "An angle measures 34° less than its supplement. Set up an equation and solve for the angle.",
+    "math_formula": "x + (x - 34) = 180 \\implies 2x = 214 \\implies x = 107^\\circ \\implies 73^\\circ",
+    "optA": "Angle measure = 73° (supplement = 107°)",
+    "optB": "Angle measure = 28° (supplement = 62°)",
+    "optC": "Angle measure = 56° (supplement = 124°)",
+    "optD": "Angle measure = 83° (supplement = 97°)",
+    "correct_answer": "Angle measure = 73° (supplement = 107°)",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Angle measure = 56° (supplement = 124°)",
+      "Angle measure = 73° (supplement = 107°)",
+      "Angle measure = 28° (supplement = 62°)",
+      "Angle measure = 83° (supplement = 97°)"
+    ],
+    "correct": "Angle measure = 73° (supplement = 107°)"
+  },
+  {
+    "id": "134127",
+    "title": "Q45: Angle 14° More Than 3 Times Complement",
+    "question_text": "An angle measures 14° more than three times its complement. Find the measure of the angle.",
+    "math_formula": "x + (3x + 14) = 90 \\implies 4x = 76 \\implies x = 19^\\circ \\implies 71^\\circ",
+    "optA": "Angle measure = 71° (complement = 19°)",
+    "optB": "Angle measure = 65° (complement = 25°)",
+    "optC": "Angle measure = 52° (complement = 38°)",
+    "optD": "Angle measure = 78° (complement = 12°)",
+    "correct_answer": "Angle measure = 71° (complement = 19°)",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Angle measure = 52° (complement = 38°)",
+      "Angle measure = 71° (complement = 19°)",
+      "Angle measure = 78° (complement = 12°)",
+      "Angle measure = 65° (complement = 25°)"
+    ],
+    "correct": "Angle measure = 71° (complement = 19°)"
+  },
+  {
+    "id": "134128",
+    "title": "Q46: Carpenter Plumb Line and Square",
+    "question_text": "Describe how a carpenter uses a plumb line and a square to verify verticality and right angles.",
+    "math_formula": "\\text{Plumb Line (Vertical 90°), Square (Right Angle)}",
+    "optA": "Plumb line uses gravity to establish a true vertical 90° line; framing square verifies a 90° right angle between horizontal and vertical members",
+    "optB": "Plumb line measures distance in feet; framing square measures angles in radians",
+    "optC": "Plumb line is used for circular cuts; framing square is used for diagonal cuts",
+    "optD": "Tools have no relationship to geometric principles",
+    "correct_answer": "Plumb line uses gravity to establish a true vertical 90° line; framing square verifies a 90° right angle between horizontal and vertical members",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Tools have no relationship to geometric principles",
+      "Plumb line is used for circular cuts; framing square is used for diagonal cuts",
+      "Plumb line uses gravity to establish a true vertical 90° line; framing square verifies a 90° right angle between horizontal and vertical members",
+      "Plumb line measures distance in feet; framing square measures angles in radians"
+    ],
+    "correct": "Plumb line uses gravity to establish a true vertical 90° line; framing square verifies a 90° right angle between horizontal and vertical members"
+  },
+  {
+    "id": "134129",
+    "title": "Q47: Identifying Invalid Geometric Notation",
+    "question_text": "Identify which geometric notation is invalid and explain why: a) Ray AB, b) Line segment AB, c) Length |AB| = 5 cm, d) Angle ABC = 50°.",
+    "math_formula": "|AB| = 5\\text{ cm} \\implies AB = 5\\text{ cm}",
+    "optA": "|AB| = 5 cm is invalid notation (length should be written simply as AB = 5 cm, without absolute value bars)",
+    "optB": "Ray AB is invalid because rays cannot be named with two letters",
+    "optC": "Angle ABC = 50° is invalid because angles cannot be measured in degrees",
+    "optD": "All four notations are completely valid in standard geometry",
+    "correct_answer": "|AB| = 5 cm is invalid notation (length should be written simply as AB = 5 cm, without absolute value bars)",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Angle ABC = 50° is invalid because angles cannot be measured in degrees",
+      "|AB| = 5 cm is invalid notation (length should be written simply as AB = 5 cm, without absolute value bars)",
+      "All four notations are completely valid in standard geometry",
+      "Ray AB is invalid because rays cannot be named with two letters"
+    ],
+    "correct": "|AB| = 5 cm is invalid notation (length should be written simply as AB = 5 cm, without absolute value bars)"
+  },
+  {
+    "id": "134130",
+    "title": "Q48: Interior Angle Addition Algebraic Equation",
+    "question_text": "If point K lies on the interior of ∠JLM such that m∠JLK = 2x + 10, m∠KLM = 4x - 6, and m∠JLM = 94°, solve for x.",
+    "math_formula": "(2x + 10) + (4x - 6) = 94 \\implies 6x + 4 = 94 \\implies x = 15",
+    "optA": "x = 15; m∠JLK = 40°, m∠KLM = 54°",
+    "optB": "x = 12; m∠JLK = 34°, m∠KLM = 42°",
+    "optC": "x = 20; m∠JLK = 50°, m∠KLM = 74°",
+    "optD": "x = 10; m∠JLK = 30°, m∠KLM = 34°",
+    "correct_answer": "x = 15; m∠JLK = 40°, m∠KLM = 54°",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q48.png",
+    "options": [
+      "x = 15; m∠JLK = 40°, m∠KLM = 54°",
+      "x = 20; m∠JLK = 50°, m∠KLM = 74°",
+      "x = 12; m∠JLK = 34°, m∠KLM = 42°",
+      "x = 10; m∠JLK = 30°, m∠KLM = 34°"
+    ],
+    "correct": "x = 15; m∠JLK = 40°, m∠KLM = 54°"
+  },
+  {
+    "id": "134131",
+    "title": "Q49: Line Postulate",
+    "question_text": "State the postulate that guarantees that through any two given points, there is exactly one unique straight line.",
+    "math_formula": "2 \\text{ Points} \\implies \\text{1 Unique Line}",
+    "optA": "Line Postulate (Through any two distinct points, there is exactly one unique straight line)",
+    "optB": "Plane Postulate (Through any two points, there is a unique plane)",
+    "optC": "Segment Postulate (A line contains at most two points)",
+    "optD": "Angle Postulate (Two points determine a right angle)",
+    "correct_answer": "Line Postulate (Through any two distinct points, there is exactly one unique straight line)",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Segment Postulate (A line contains at most two points)",
+      "Plane Postulate (Through any two points, there is a unique plane)",
+      "Line Postulate (Through any two distinct points, there is exactly one unique straight line)",
+      "Angle Postulate (Two points determine a right angle)"
+    ],
+    "correct": "Line Postulate (Through any two distinct points, there is exactly one unique straight line)"
+  },
+  {
+    "id": "134132",
+    "title": "Q50: Skew Lines Geometric Model",
+    "question_text": "Describe the geometric model of skew lines and explain why skew lines are neither parallel nor intersecting.",
+    "math_formula": "\\text{Non-coplanar, non-intersecting, non-parallel lines}",
+    "optA": "Skew lines exist in 3D space in different non-parallel planes; they do not lie in the same plane so they never intersect and are not parallel",
+    "optB": "Skew lines lie in the same 2D plane and intersect at 90°",
+    "optC": "Skew lines are parallel lines that overlap completely",
+    "optD": "Skew lines form a triangle in 2D space",
+    "correct_answer": "Skew lines exist in 3D space in different non-parallel planes; they do not lie in the same plane so they never intersect and are not parallel",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q50.png",
+    "options": [
+      "Skew lines form a triangle in 2D space",
+      "Skew lines exist in 3D space in different non-parallel planes; they do not lie in the same plane so they never intersect and are not parallel",
+      "Skew lines are parallel lines that overlap completely",
+      "Skew lines lie in the same 2D plane and intersect at 90°"
+    ],
+    "correct": "Skew lines exist in 3D space in different non-parallel planes; they do not lie in the same plane so they never intersect and are not parallel"
+  }
+]

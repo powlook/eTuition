@@ -1,0 +1,50 @@
+Q01 (T04-Q001): Define a quadrilateral and state the Polygon Interior Angle Sum Theorem for any convex quadrilateral (Sum = 360°).
+Q02 (T04-Q002): Construct the complete hierarchical classification tree (Euler / Venn diagram) for quadrilaterals: explain the relationships between trapezoids, parallelograms, rectangles, rhombuses, squares, and kites.
+Q03 (T04-Q003): Explain why every square is a rectangle and a rhombus, but not every rectangle or rhombus is a square.
+Q04 (T04-Q004): State the five defining properties of a parallelogram concerning opposite sides, opposite angles, consecutive angles, and diagonals.
+Q05 (T04-Q005): In parallelogram ABCD, m∠A = (4x + 15)° and m∠C = (6x - 25)°. Solve for x and find the degree measures of all four interior angles.
+Q06 (T04-Q006): In parallelogram PQRS, adjacent sides measure PQ = 3x - 5 cm and QR = 2x + 3 cm. If the perimeter of the parallelogram is 56 cm, find the lengths of all four sides.
+Q07 (T04-Q007): The diagonals of parallelogram ABCD intersect at point E. If AE = 2x + 3, EC = 3x - 4, BE = 4y - 1, and ED = y + 8, find the numerical values of x, y, AC, and BD.
+Q08 (T04-Q008): In parallelogram ABCD, the height corresponding to base AB is 8 cm. If AB = 15 cm and AD = 10 cm, calculate the area of the parallelogram and the height corresponding to base AD.
+Q09 (T04-Q009): Define a rectangle and prove that a parallelogram is a rectangle if and only if its diagonals are congruent.
+Q10 (T04-Q010): In rectangle ABCD, diagonals AC and BD intersect at E. If AC = 5x - 8 and BD = 2x + 13, solve for x and find the length of diagonal BD.
+Q11 (T04-Q011): In rectangle PQRS, diagonal PR makes an angle of 28° with side PQ. Calculate the angle between diagonal PR and side PS, and find the acute angle between the intersecting diagonals.
+Q12 (T04-Q012): A rectangular soccer field has a length of 105 meters and a width of 68 meters. Calculate the diagonal distance between opposite corner flags.
+Q13 (T04-Q013): Define a rhombus and prove that its diagonals are perpendicular bisectors of each other and bisect the interior vertex angles.
+Q14 (T04-Q014): In rhombus ABCD, the diagonals intersect at E. If diagonal AC = 16 cm and diagonal BD = 12 cm, calculate the side length, perimeter, and area of the rhombus.
+Q15 (T04-Q015): In rhombus JKLM, if m∠JKL = 124°, calculate the measures of ∠JKM, ∠MLK, and ∠JML.
+Q16 (T04-Q016): A diamond-shaped road warning sign is a rhombus with side length 60 cm and an interior angle of 60°. Calculate the exact lengths of both diagonal braces in simplified radical form.
+Q17 (T04-Q017): Define a square and state the exact ratio of its side length to its diagonal length (1 : √2).
+Q18 (T04-Q018): The diagonal of a square plaza measures 28 meters. Calculate the exact side length, perimeter, and surface area of the plaza in simplest radical form.
+Q19 (T04-Q019): In square ABCD, point P lies on diagonal AC such that AP = AB. If side length AB = 10 cm, calculate the length of segment PC.
+Q20 (T04-Q020): Define a trapezoid and distinguish its bases, legs, and base angles. Define an isosceles trapezoid.
+Q21 (T04-Q021): Prove that the base angles of an isosceles trapezoid are congruent and that its diagonals are equal in length.
+Q22 (T04-Q022): In isosceles trapezoid ABCD with AB || CD, leg AD = 10 cm, base AB = 12 cm, and base CD = 24 cm. Calculate the perpendicular height and the area of the trapezoid.
+Q23 (T04-Q023): In isosceles trapezoid PQRS with PQ || RS, if m∠P = (3x + 20)° and m∠S = (2x + 10)°, solve for x and find all four interior angles.
+Q24 (T04-Q024): State the Trapezoid Midsegment (Median) Theorem relating the midsegment length to the sum of the bases.
+Q25 (T04-Q025): In trapezoid ABCD with bases AB and CD, midsegment MN has length 22 cm. If base CD is 8 cm longer than base AB, find the lengths of both parallel bases.
+Q26 (T04-Q026): In trapezoid WXYZ with midsegment EF, base WX = 3x + 1, base YZ = 5x - 7, and midsegment EF = 21. Solve for x and find the base lengths.
+Q27 (T04-Q027): Define a kite and state its defining properties regarding adjacent sides, perpendicular diagonals, axis of symmetry, and opposite angles.
+Q28 (T04-Q028): Derive the formula for the area of a kite: Area = (1/2)d₁ · d₂ where d₁ and d₂ are the lengths of the perpendicular diagonals.
+Q29 (T04-Q029): A decorative kite has diagonal spars of length 35 cm and 48 cm. Calculate the area of fabric required to cover the face of the kite.
+Q30 (T04-Q030): In kite ABCD where AB = AD and CB = CD, the diagonals intersect at E. If AE = 6 cm, EC = 15 cm, and BE = 8 cm, calculate the lengths of all four sides and the perimeter of the kite.
+Q31 (T04-Q031): In kite PQRS with PQ = PS and RQ = RS, if m∠PQR = 112° and m∠QPS = 64°, calculate the degree measures of ∠PSR and ∠QRS.
+Q32 (T04-Q032): Given vertices A(-3, 2), B(1, 5), C(7, 3), and D(3, 0), prove whether quadrilateral ABCD is a parallelogram, rectangle, rhombus, or general trapezoid using distance and slope formulas.
+Q33 (T04-Q033): Vertices of quadrilateral ABCD are A(0, 0), B(a, 0), C(a + b, c), and D(b, c). Prove algebraically that ABCD is always a parallelogram.
+Q34 (T04-Q034): Find the coordinates of the fourth vertex D of parallelogram ABCD if A(-2, 1), B(4, 3), and C(2, 7).
+Q35 (T04-Q035): State and prove Varignon's Theorem: the figure formed by sequentially connecting the midpoints of the sides of ANY quadrilateral is always a parallelogram.
+Q36 (T04-Q036): If the original quadrilateral in Varignon's Theorem is a rhombus, prove that the Varignon parallelogram is a rectangle.
+Q37 (T04-Q037): If the original quadrilateral is a rectangle, prove that the Varignon parallelogram is a rhombus.
+Q38 (T04-Q038): If the original quadrilateral is an isosceles trapezoid, prove that the Varignon parallelogram is a rhombus.
+Q39 (T04-Q039): A scissor lift mechanism utilizes linked rhombuses. Explain how the properties of equal sides and bisecting diagonals allow vertical elevation while maintaining horizontal platform stability.
+Q40 (T04-Q040): An adjustable architect's desk lamp uses a parallelogram linkage. Explain why the lamp head maintains a constant tilt angle as the arm is raised or lowered.
+Q41 (T04-Q041): A surveyor measures a four-sided agricultural field ABCD. The sides are AB = 120 m, BC = 90 m, CD = 130 m, DA = 80 m, and diagonal AC = 150 m. Calculate the total field area by dividing it into two triangles.
+Q42 (T04-Q042): A homeowner constructs a wooden garden gate. Explain why adding a diagonal brace converts a flexible quadrilateral frame into a rigid structure (Triangle Rigidity vs Quadrilateral Flexibility).
+Q43 (T04-Q043): A student claims that any quadrilateral with perpendicular diagonals must be a rhombus. Provide a sketch of a kite or non-equilateral quadrilateral to disprove this statement.
+Q44 (T04-Q044): A student states: 'A trapezoid can have three right angles.' Prove why a quadrilateral with three right angles must be a rectangle, making this configuration impossible for a trapezoid.
+Q45 (T04-Q045): A student asserts that if opposite angles of a quadrilateral are supplementary, the quadrilateral must be a parallelogram. Provide a counterexample (e.g., an isosceles trapezoid).
+Q46 (T04-Q046): Write a two-column proof: Prove that if the opposite angles of a quadrilateral are congruent, then the quadrilateral is a parallelogram.
+Q47 (T04-Q047): Write a two-column proof: Prove that a parallelogram with congruent diagonals is a rectangle.
+Q48 (T04-Q048): Write a two-column proof: Prove that if one pair of opposite sides of a quadrilateral are both parallel and congruent, then the quadrilateral is a parallelogram.
+Q49 (T04-Q049): In right trapezoid ABCD, ∠A = ∠D = 90°. If base AB = 6 cm, base CD = 14 cm, and leg AD = 6 cm, calculate the exact length of the slant leg BC.
+Q50 (T04-Q050): A corporate logo is shaped as a rhombus whose diagonals are in the ratio 3 : 4. If the perimeter of the rhombus is 40 cm, calculate its area.

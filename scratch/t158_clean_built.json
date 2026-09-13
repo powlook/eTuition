@@ -1,0 +1,752 @@
+[
+  {
+    "id": "134783",
+    "title": "Q1: Define direct variation and state its standar...",
+    "question_text": "Define direct variation and state its standard mathematical equation y = kx, identifying the constant of variation k.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q1.png"
+  },
+  {
+    "id": "134784",
+    "title": "Q2: Define inverse variation and state its standa...",
+    "question_text": "Define inverse variation and state its standard mathematical equation y = k / x or xy = k.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q2.png"
+  },
+  {
+    "id": "134785",
+    "title": "Q3: Explain how the graph of a direct variation d...",
+    "question_text": "Explain how the graph of a direct variation differs from the graph of an inverse variation.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q3.png"
+  },
+  {
+    "id": "134786",
+    "title": "Q4: Translate the statement into a mathematical e...",
+    "question_text": "Translate the statement into a mathematical equation: 'The distance d traveled by a car varies directly as the time t'.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k x² (Quadratic variation)",
+      "y = kx (Direct Variation line through origin)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134787",
+    "title": "Q5: Translate the statement into an equation: 'Th...",
+    "question_text": "Translate the statement into an equation: 'The time t required to travel a fixed distance varies inversely as the speed s'.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = k x² (Quadratic variation)",
+      "y = kx (Direct Variation line through origin)",
+      "y = kx + b (Linear with non-zero intercept)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134788",
+    "title": "Q6: Translate: 'The electric current I varies dir...",
+    "question_text": "Translate: 'The electric current I varies directly as the voltage V and inversely as the resistance R' (Ohm's Law).",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = kx (Direct Variation line)",
+      "y = k + x",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q6.png"
+  },
+  {
+    "id": "134789",
+    "title": "Q7: If y varies directly as x, and y = 24 when x ...",
+    "question_text": "If y varies directly as x, and y = 24 when x = 6, find the constant of variation k and write the equation of variation.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)",
+      "y = k + x"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134790",
+    "title": "Q8: Using the variation equation from Question 7,...",
+    "question_text": "Using the variation equation from Question 7, find the value of y when x = 15.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k",
+      "y = k + x",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134791",
+    "title": "Q9: If p varies directly as q, and p = 45 when q ...",
+    "question_text": "If p varies directly as q, and p = 45 when q = 5, find q when p = 81.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = kx (Direct Variation line)",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k",
+      "y = k + x"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134792",
+    "title": "Q10: If y varies inversely as x, and y = 12 when x...",
+    "question_text": "If y varies inversely as x, and y = 12 when x = 4, find the constant of variation k and write the equation.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k",
+      "y = k + x",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q10.png"
+  },
+  {
+    "id": "134793",
+    "title": "Q11: Using the inverse variation in Question 10, f...",
+    "question_text": "Using the inverse variation in Question 10, find y when x = 16.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = kx (Direct Variation line through origin)",
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134794",
+    "title": "Q12: If m varies inversely as n, and m = 18 when n...",
+    "question_text": "If m varies inversely as n, and m = 18 when n = 3, find m when n = 9.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134795",
+    "title": "Q13: Determine whether the table represents direct...",
+    "question_text": "Determine whether the table represents direct variation, inverse variation, or neither: x = [2, 4, 6, 8], y = [10, 20, 30, 40].",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q13.png"
+  },
+  {
+    "id": "134796",
+    "title": "Q14: Determine whether the table represents direct...",
+    "question_text": "Determine whether the table represents direct or inverse variation: x = [2, 4, 6, 8], y = [24, 12, 8, 6]. Find constant k.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q14.png"
+  },
+  {
+    "id": "134797",
+    "title": "Q15: Determine whether the table represents variat...",
+    "question_text": "Determine whether the table represents variation: x = [3, 5, 8], y = [15, 25, 42]. Explain your conclusion.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line through origin)",
+      "y = kx + b (Linear with non-zero intercept)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q15.png"
+  },
+  {
+    "id": "134798",
+    "title": "Q16: Define joint variation and write the general ...",
+    "question_text": "Define joint variation and write the general equation when z varies jointly as x and y.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = k + x",
+      "y = x / k",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134799",
+    "title": "Q17: If z varies jointly as x and y, and z = 60 wh...",
+    "question_text": "If z varies jointly as x and y, and z = 60 when x = 3 and y = 4, find the constant of variation k and find z when x = 5 and y = 7.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)",
+      "y = k + x"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134800",
+    "title": "Q18: Define combined variation and write the gener...",
+    "question_text": "Define combined variation and write the general equation when w varies directly as x and inversely as y.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k + x",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)",
+      "y = x / k"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q18.png"
+  },
+  {
+    "id": "134801",
+    "title": "Q19: If w varies directly as u and inversely as v,...",
+    "question_text": "If w varies directly as u and inversely as v, and w = 15 when u = 6 and v = 2, find w when u = 10 and v = 5.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = kx (Direct Variation line)",
+      "y = k + x",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134802",
+    "title": "Q20: The cost C of buying gasoline varies directly...",
+    "question_text": "The cost C of buying gasoline varies directly as the number of liters L purchased. If 12 liters cost ₱780, how much will 35 liters cost?",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = k + x",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134803",
+    "title": "Q21: The weight W of an object on the Moon varies ...",
+    "question_text": "The weight W of an object on the Moon varies directly as its weight E on Earth. An astronaut weighing 90 kg on Earth weighs 15 kg on the Moon. Find the Moon weight of a 72 kg person.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134804",
+    "title": "Q22: The illumination E of a light source varies i...",
+    "question_text": "The illumination E of a light source varies inversely as the square of the distance d from the source. Write the variation equation and find how illumination changes when distance is doubled.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = kx (Direct Variation line through origin)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q22.png"
+  },
+  {
+    "id": "134805",
+    "title": "Q23: The number of days d needed to complete a con...",
+    "question_text": "The number of days d needed to complete a construction job varies inversely as the number of workers w. If 15 workers can build a wall in 8 days, how many days will 20 workers take?",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134806",
+    "title": "Q24: Referring to Question 23, how many workers ar...",
+    "question_text": "Referring to Question 23, how many workers are needed to finish the construction in exactly 5 days?",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134807",
+    "title": "Q25: Hooke's Law states that the distance a spring...",
+    "question_text": "Hooke's Law states that the distance a spring stretches s varies directly as the force F applied. If a 6 N force stretches a spring 4 cm, what force is needed to stretch it 10 cm?",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q25.png"
+  },
+  {
+    "id": "134808",
+    "title": "Q26: Boyle's Law states that the volume V of an en...",
+    "question_text": "Boyle's Law states that the volume V of an enclosed gas at constant temperature varies inversely as the pressure P. If gas occupies 250 cm³ under 120 kPa, find the volume under 150 kPa.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k",
+      "y = kx (Direct Variation line)",
+      "y = k + x"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q26.png"
+  },
+  {
+    "id": "134809",
+    "title": "Q27: Charles's Law states that the volume V of a g...",
+    "question_text": "Charles's Law states that the volume V of a gas at constant pressure varies directly as its absolute temperature T. If volume is 300 mL at 300 K, find volume at 350 K.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = kx (Direct Variation line)",
+      "y = k + x",
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134810",
+    "title": "Q28: The centrifugal force F of an object moving i...",
+    "question_text": "The centrifugal force F of an object moving in a circle varies directly as the square of velocity v and inversely as radius r. Write the mathematical equation.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)",
+      "y = k + x",
+      "y = x / k"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134811",
+    "title": "Q29: The kinetic energy KE of a moving object vari...",
+    "question_text": "The kinetic energy KE of a moving object varies jointly as its mass m and the square of its velocity v. Write the equation.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k + x",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134812",
+    "title": "Q30: If y varies directly as the square of x, and ...",
+    "question_text": "If y varies directly as the square of x, and y = 48 when x = 4, find y when x = 7.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k + x",
+      "y = kx (Direct Variation line)",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q30.png"
+  },
+  {
+    "id": "134813",
+    "title": "Q31: If y varies inversely as the square root of x...",
+    "question_text": "If y varies inversely as the square root of x, and y = 6 when x = 9, find y when x = 25.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134814",
+    "title": "Q32: The volume V of a right circular cylinder var...",
+    "question_text": "The volume V of a right circular cylinder varies jointly as its height h and the square of its radius r. If V = 180π cm³ when r = 6 cm and h = 5 cm, find V when r = 4 cm and h = 9 cm.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134815",
+    "title": "Q33: The maximum load L that a horizontal beam can...",
+    "question_text": "The maximum load L that a horizontal beam can support varies directly as its width w and square of its depth d, and inversely as its length l. Write the equation.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134816",
+    "title": "Q34: If a quantity y varies directly as x, what ha...",
+    "question_text": "If a quantity y varies directly as x, what happens to y if x is tripled?",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q34.png"
+  },
+  {
+    "id": "134817",
+    "title": "Q35: If a quantity y varies inversely as x, what h...",
+    "question_text": "If a quantity y varies inversely as x, what happens to y if x is halved?",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k x² (Quadratic variation)",
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line through origin)",
+      "y = kx + b (Linear with non-zero intercept)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134818",
+    "title": "Q36: If y varies inversely as x², how does y chang...",
+    "question_text": "If y varies inversely as x², how does y change when x is multiplied by 4?",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k + x",
+      "y = kx (Direct Variation line)",
+      "y = k / x or xy = k (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134819",
+    "title": "Q37: A simple gear system has two meshed gears. Th...",
+    "question_text": "A simple gear system has two meshed gears. The rotational speed (RPM) of a gear varies inversely as its number of teeth. If a 30-tooth gear rotates at 120 RPM, find the speed of a meshed 40-tooth gear.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = k + x",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134820",
+    "title": "Q38: The electrical resistance R of a wire varies ...",
+    "question_text": "The electrical resistance R of a wire varies directly as its length l and inversely as its cross-sectional area A. If a 50 m wire with area 2 mm² has resistance 5 Ω, find resistance of a 120 m wire of area 3 mm².",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = kx (Direct Variation line)",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = x / k",
+      "y = k + x"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q38.png"
+  },
+  {
+    "id": "134821",
+    "title": "Q39: The pitch (frequency) of a vibrating guitar s...",
+    "question_text": "The pitch (frequency) of a vibrating guitar string varies inversely as its length. If a string of length 65 cm vibrates at 440 Hz, what length will produce a frequency of 550 Hz?",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = kx (Direct Variation line)",
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = k + x"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134822",
+    "title": "Q40: The area A of a triangle varies jointly as it...",
+    "question_text": "The area A of a triangle varies jointly as its base b and height h. If A = 30 cm² when b = 10 cm and h = 6 cm, find the constant of variation k.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = k + x",
+      "y = kx (Direct Variation line)",
+      "y = x / k"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134823",
+    "title": "Q41: Graph the direct variation y = 3x on the Cart...",
+    "question_text": "Graph the direct variation y = 3x on the Cartesian plane and describe its characteristics (passes through origin, linear).",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q41.png"
+  },
+  {
+    "id": "134824",
+    "title": "Q42: Graph the inverse variation y = 12 / x for x ...",
+    "question_text": "Graph the inverse variation y = 12 / x for x > 0 and describe its curve (hyperbola).",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = kx (Direct Variation line through origin)",
+      "y = k x² (Quadratic variation)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q42.png"
+  },
+  {
+    "id": "134825",
+    "title": "Q43: Explain why the origin (0, 0) is never a poin...",
+    "question_text": "Explain why the origin (0, 0) is never a point on an inverse variation graph.",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q43.png"
+  },
+  {
+    "id": "134826",
+    "title": "Q44: In a community project, the amount of rice re...",
+    "question_text": "In a community project, the amount of rice received per family varies inversely as the number of beneficiary families. If 200 families receive 15 kg each, how much will 250 families receive?",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = k / x (Inverse Variation hyperbola)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k x² (Quadratic variation)",
+      "y = kx (Direct Variation line through origin)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134827",
+    "title": "Q45: The time t required to download a file varies...",
+    "question_text": "The time t required to download a file varies inversely as internet speed s. If downloading takes 18 minutes at 25 Mbps, how long will it take at 75 Mbps?",
+    "math_formula": "y = kx \\implies k = \\frac{y}{x}",
+    "options": [
+      "y = kx (Direct Variation line through origin)",
+      "y = k x² (Quadratic variation)",
+      "y = kx + b (Linear with non-zero intercept)",
+      "y = k / x (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = kx (Direct Variation line through origin)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134828",
+    "title": "Q46: If z varies directly as x and inversely as y,...",
+    "question_text": "If z varies directly as x and inversely as y, and z increases by 20% while x increases by 50%, find the percentage change in y.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)",
+      "y = k + x"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q46.png"
+  },
+  {
+    "id": "134829",
+    "title": "Q47: Determine the equation of variation from a gr...",
+    "question_text": "Determine the equation of variation from a graph showing a straight line passing through (0, 0) and (4, 18).",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = x / k",
+      "y = k + x",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q47.png"
+  },
+  {
+    "id": "134830",
+    "title": "Q48: Determine the equation of variation from a gr...",
+    "question_text": "Determine the equation of variation from a graph showing a hyperbola passing through (2, 18) and (6, 6).",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k + x",
+      "y = kx (Direct Variation line)",
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q48.png"
+  },
+  {
+    "id": "134831",
+    "title": "Q49: The cost of paving a road varies jointly as t...",
+    "question_text": "The cost of paving a road varies jointly as the length of the road and its width. If paving 2 km of road 6 m wide costs ₱3,600,000, find the cost to pave 5 km of road 8 m wide.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k + x",
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134832",
+    "title": "Q50: If y varies directly as (x + 3), and y = 20 w...",
+    "question_text": "If y varies directly as (x + 3), and y = 20 when x = 2, find the value of y when x = 7.",
+    "math_formula": "y = \\frac{k}{x} \\implies xy = k",
+    "options": [
+      "y = k + x",
+      "y = x / k",
+      "y = k / x or xy = k (Inverse Variation hyperbola)",
+      "y = kx (Direct Variation line)"
+    ],
+    "correct_answer": "y = k / x or xy = k (Inverse Variation hyperbola)",
+    "show_image": 1,
+    "image_url": "/images/g9_t158_q50.png"
+  }
+]

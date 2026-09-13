@@ -1,31 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
-  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
-
-  <!-- Header Title -->
-  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
-  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
-    Form 7 Topic 122 Diagram #46
-  </text>
-
-  <!-- Body Content -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" width="420" height="320">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12"/>
+  <!-- Header Banner -->
+  <rect x="20" y="16" width="380" height="36" fill="#1e293b" rx="8"/>
+  <text x="210" y="40" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#38bdf8" text-anchor="middle">Quiz Scores (Stem-and-Leaf Plot)</text>
   
-        <g transform="translate(100, 70)">
-          <rect x="0" y="0" width="280" height="210" fill="none" stroke="#94a3b8" stroke-width="2" rx="6" />
-          <line x1="80" y1="0" x2="80" y2="210" stroke="#38bdf8" stroke-width="2" />
-          <text x="40" y="25" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">Stem</text>
-          <text x="180" y="25" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#10b981" font-weight="bold">Leaf</text>
-
-          <text x="40" y="65" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0">1</text>
-          <text x="180" y="65" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0">2  5  8</text>
-
-          <text x="40" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0">2</text>
-          <text x="180" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0">0  3  4  7  9</text>
-
-          <text x="40" y="145" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0">3</text>
-          <text x="180" y="145" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0">1  1  6  8</text>
-
-          <rect x="20" y="235" width="240" height="28" rx="6" fill="rgba(56, 189, 248, 0.9)" />
-          <text x="140" y="254" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Stem-and-Leaf Plot: Key 1|2 = 12</text>
-        </g>
-      
+  <!-- Table Container -->
+  <rect x="40" y="68" width="340" height="185" fill="#1e293b" rx="10" stroke="#334155" stroke-width="1.5"/>
+  
+  <!-- Headers -->
+  <text x="120" y="94" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#38bdf8" text-anchor="middle">Stem</text>
+  <line x1="170" y1="75" x2="170" y2="245" stroke="#38bdf8" stroke-width="2"/>
+  <text x="250" y="94" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#38bdf8" text-anchor="middle">Leaf</text>
+  <line x1="40" y1="102" x2="380" y2="102" stroke="#334155" stroke-width="1.5"/>
+  
+  <!-- Rows -->
+  
+        <text x="120" y="120" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#38bdf8" text-anchor="middle">3</text>
+        <text x="240" y="120" font-family="Inter, sans-serif" font-size="18" font-weight="600" fill="#f8fafc" text-anchor="middle">4 &nbsp;&nbsp; 9</text>
+        <line x1="80" y1="135" x2="340" y2="135" stroke="#334155" stroke-width="1"/>
+        <text x="120" y="165" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#38bdf8" text-anchor="middle">4</text>
+        <text x="240" y="165" font-family="Inter, sans-serif" font-size="18" font-weight="600" fill="#f8fafc" text-anchor="middle">2 &nbsp;&nbsp; 6 &nbsp;&nbsp; 8</text>
+        <line x1="80" y1="180" x2="340" y2="180" stroke="#334155" stroke-width="1"/>
+        <text x="120" y="210" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#38bdf8" text-anchor="middle">5</text>
+        <text x="240" y="210" font-family="Inter, sans-serif" font-size="18" font-weight="600" fill="#f8fafc" text-anchor="middle">1 &nbsp;&nbsp; 5 &nbsp;&nbsp; 7</text>
+        
+  
+  <!-- Key Footer -->
+  <rect x="70" y="268" width="280" height="32" fill="#0284c7" rx="6"/>
+  <text x="210" y="289" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Key: 5 | 2 = 52</text>
 </svg>

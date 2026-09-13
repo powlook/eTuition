@@ -1,0 +1,200 @@
+Q01 (T03-Q001):
+  Text: State the Converse of the Corresponding Angles Postulate and explain how it serves as a criterion to establish that two lines are parallel.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q02 (T03-Q002):
+  Text: State the Converse of the Alternate Interior Angles Theorem and formulate its if-then statement.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q03 (T03-Q003):
+  Text: State the Converse of the Consecutive Interior Angles Theorem.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q04 (T03-Q004):
+  Text: State the Converse of the Alternate Exterior Angles Theorem.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q05 (T03-Q005):
+  Text: Two lines cut by a transversal form alternate interior angles measuring (5x - 14)° and (3x + 22)°. Find the exact value of x that guarantees the two lines are parallel.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q06 (T03-Q006):
+  Text: Two lines are intersected by a transversal. If a pair of consecutive interior angles measure (7x + 16)° and (4x + 32)°, determine the value of x that ensures the lines are parallel.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q07 (T03-Q007):
+  Text: Lines p and q are cut by transversal t. If a pair of corresponding angles measure (2x² - 15)° and (x² + 10)°, solve for all valid real values of x that make p || q.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q08 (T03-Q008):
+  Text: Two lines are cut by a transversal forming same-side exterior angles measuring (6x + 20)° and (4x - 10)°. Find the value of x for which the lines are parallel.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q09 (T03-Q009):
+  Text: State the algebraic slope condition for two non-vertical lines with slopes m₁ and m₂ to be parallel (m₁ = m₂).
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q10 (T03-Q010):
+  Text: State the algebraic slope condition for two non-vertical lines with slopes m₁ and m₂ to be perpendicular (m₁ · m₂ = -1 or m₂ = -1/m₁).
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q11 (T03-Q011):
+  Text: Line L₁ passes through (-3, 5) and (1, -3). Line L₂ passes through (2, 7) and (6, -1). Determine whether L₁ and L₂ are parallel, perpendicular, or neither.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q12 (T03-Q012):
+  Text: Line L₁ passes through (-2, -1) and (4, 3). Line L₂ passes through (1, 6) and (5, 0). Determine whether L₁ is perpendicular to L₂ by computing their slopes.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q13 (T03-Q013):
+  Text: Find the slope of a line parallel to the linear equation 5x - 2y = 10.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q14 (T03-Q014):
+  Text: Find the slope of a line perpendicular to the linear equation 3x + 4y = 12.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q15 (T03-Q015):
+  Text: Find the equation of the line in slope-intercept form that passes through the point P(4, -2) and is parallel to the line y = 3x - 5.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q16 (T03-Q016):
+  Text: Find the equation of the line in standard form Ax + By = C that passes through P(-3, 6) and is perpendicular to the line 2x - 5y = 15.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q17 (T03-Q017):
+  Text: Find the equation of the line passing through (5, -1) that is parallel to the horizontal line y = 4.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q18 (T03-Q018):
+  Text: Find the equation of the line passing through (-2, 7) that is perpendicular to the vertical line x = -3.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q19 (T03-Q019):
+  Text: Find the equation of the perpendicular bisector of the line segment joining A(-4, 2) and B(6, 10).
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q20 (T03-Q020):
+  Text: Triangle ABC has vertices A(1, 1), B(7, 3), and C(3, 7). Find the slope of side AB and determine the equation of the altitude line drawn from vertex C to side AB.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q21 (T03-Q021):
+  Text: A quadrilateral has vertices P(-2, 1), Q(2, 4), R(5, 0), and S(1, -3). Prove that PQRS is a rectangle by testing slopes for both parallelism of opposite sides and perpendicularity of adjacent sides.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q22 (T03-Q022):
+  Text: Determine whether the quadrilateral with vertices A(0, 0), B(4, 2), C(3, 5), and D(-1, 3) is a parallelogram, rhombus, or square using slopes and side lengths.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q23 (T03-Q023):
+  Text: Line L₁ passes through (k, 4) and (2, -2). Line L₂ passes through (1, 5) and (-2, -1). Find the value of k such that L₁ is parallel to L₂.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q24 (T03-Q024):
+  Text: Line L₁ has equation 4x - ky = 8. Line L₂ passes through (-1, 3) and (2, -1). Find the value of k such that L₁ is perpendicular to L₂.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q25 (T03-Q025):
+  Text: Determine the value of p such that the linear equations 3x + py = 9 and 2x - 6y = 5 represent perpendicular lines.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q26 (T03-Q026):
+  Text: Find the value of m such that the lines mx + 3y = 7 and 4x + 6y = 11 are parallel.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q27 (T03-Q027):
+  Text: State the formula for the perpendicular distance d from a point (x₀, y₀) to a line Ax + By + C = 0.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q28 (T03-Q028):
+  Text: Calculate the perpendicular distance from the point P(3, -2) to the line 4x - 3y + 7 = 0.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q29 (T03-Q029):
+  Text: Calculate the exact perpendicular distance between the two parallel lines L₁: 3x + 4y - 10 = 0 and L₂: 3x + 4y + 15 = 0.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q30 (T03-Q030):
+  Text: Explain step-by-step how to construct a perpendicular line to a given line through a point lying on the line using only compass and straightedge.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q31 (T03-Q031):
+  Text: Explain how to construct a perpendicular line to a given line from a point not on the line.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q32 (T03-Q032):
+  Text: Explain how to construct a square given one side length using perpendicular constructions.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q33 (T03-Q033):
+  Text: A civil engineer designs two parallel railway tracks. Track 1 follows the equation 2x - 5y = 100. If Track 2 passes through a station at (50, 40), write the equation of Track 2.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q34 (T03-Q034):
+  Text: Two straight roads intersect at a crossroads modeled by the equations 3x - 4y = 12 and 4x + 3y = 24. Verify whether the intersection is a true right angle.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q35 (T03-Q035):
+  Text: In residential plumbing, drainage pipes must slope at 2 cm per meter. Write the linear equation of a drainage pipe passing through (0, 100) and find the equation of a vertical vent stack perpendicular to it.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q36 (T03-Q036):
+  Text: A solar farm mounts panels on parallel support rails modeled by 4x - y = c. If three consecutive rails pass through (0, 0), (0, 5), and (0, 10), write their linear equations.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q37 (T03-Q037):
+  Text: Write a two-column proof: Given that line segment AB ⊥ BC and DC ⊥ BC, prove that line AB is parallel to line DC.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q38 (T03-Q038):
+  Text: Write a two-column proof: Prove that if the diagonals of a parallelogram are perpendicular, then the parallelogram must be a rhombus.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q39 (T03-Q039):
+  Text: Prove that two lines that are both perpendicular to the same line in a plane are parallel to each other.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q40 (T03-Q040):
+  Text: Prove the Transitivity of Parallel Lines: if line a || line b and line b || line c, then line a || line c.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q41 (T03-Q041):
+  Text: In 2D computer graphics, a vector normal (perpendicular) to the edge vector v = <dx, dy> is given by n = <-dy, dx>. Explain why the dot product v · n = 0 establishes perpendicularity.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q42 (T03-Q042):
+  Text: A robotic arm moves along a path y = -0.5x + 4. Find the velocity vector and path equation of a laser sensor required to scan perpendicularly to the arm trajectory.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q43 (T03-Q043):
+  Text: A student states that the line y = 3 and the line x = 3 are parallel because both contain the number 3. Correct this misconception and explain their geometric relationship.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q44 (T03-Q044):
+  Text: A student computes the perpendicular slope to m = -2/5 as m_perp = 5/2, but forgets the negative reciprocal rule when m = 0. What is the perpendicular slope to a horizontal line?
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q45 (T03-Q045):
+  Text: A student claims that any two distinct lines with equal y-intercepts must be parallel. Give a counterexample with sketches.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q46 (T03-Q046):
+  Text: Find the coordinates of the orthocenter (intersection of altitudes) of triangle ABC with vertices A(0, 0), B(6, 0), and C(2, 4).
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q47 (T03-Q047):
+  Text: Find the coordinates of the circumcenter (intersection of perpendicular bisectors) of triangle ABC with vertices A(0, 0), B(8, 0), and C(0, 6).
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q48 (T03-Q048):
+  Text: Determine whether the lines 2x - 3y = 7, 3x + 2y = 4, and 4x - 6y = 14 form a right triangle, parallel lines, or concurrent lines.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q49 (T03-Q049):
+  Text: Find the equation of the line passing through the intersection of 2x + 3y = 5 and x - y = 0 that is perpendicular to the line 3x - 2y = 8.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+
+Q50 (T03-Q050):
+  Text: A laser beam emitted from (2, 8) reflects off a mirror line y = 2x - 1 perpendicularly. Find the coordinates of the point of reflection.
+  Comp: Determine conditions that guarantee parallelism and perpendicularity of lines; apply slope relationships and geometric constructions.
+

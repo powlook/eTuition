@@ -1,0 +1,352 @@
+Total questions for Topic 151: 50
+
+Q01 (ID 134433): Q1: State the ratio of the lengths of the sides i...
+  Text:    State the ratio of the lengths of the sides in a 45°-45°-90° right isosceles triangle (Leg : Leg : Hypotenuse).
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q1.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q02 (ID 134434): Q2: In a 45°-45°-90° triangle, if each leg measur...
+  Text:    In a 45°-45°-90° triangle, if each leg measures 7 cm, find the exact length of the hypotenuse.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q2.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q03 (ID 134435): Q3: In a 45°-45°-90° triangle, if the hypotenuse ...
+  Text:    In a 45°-45°-90° triangle, if the hypotenuse measures 12 cm, find the exact length of each leg in simplified radical form.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q3.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q04 (ID 134436): Q4: The diagonal of a square playground measures ...
+  Text:    The diagonal of a square playground measures 20 meters. Find the exact perimeter and area of the playground.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q4.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q05 (ID 134437): Q5: State the ratio of the lengths of the sides i...
+  Text:    State the ratio of the lengths of the sides in a 30°-60°-90° right triangle (Shorter Leg : Longer Leg : Hypotenuse).
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q5.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5']
+------------------------------------------------------------
+Q06 (ID 134438): Q6: In a 30°-60°-90° triangle, if the shorter leg...
+  Text:    In a 30°-60°-90° triangle, if the shorter leg opposite the 30° angle measures 5 cm, find the lengths of the longer leg and the hypotenuse.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q6.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q07 (ID 134439): Q7: In a 30°-60°-90° triangle, if the hypotenuse ...
+  Text:    In a 30°-60°-90° triangle, if the hypotenuse measures 16 cm, find the lengths of the shorter leg and the longer leg.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q7.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q08 (ID 134440): Q8: In a 30°-60°-90° triangle, if the longer leg ...
+  Text:    In a 30°-60°-90° triangle, if the longer leg opposite the 60° angle measures 9√3 cm, find the shorter leg and hypotenuse.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q8.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q09 (ID 134441): Q9: In a 30°-60°-90° triangle, if the longer leg ...
+  Text:    In a 30°-60°-90° triangle, if the longer leg measures 12 cm, find the exact length of the shorter leg and the hypotenuse in radical form.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q9.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q10 (ID 134442): Q10: An equilateral triangle has side lengths of 1...
+  Text:    An equilateral triangle has side lengths of 14 cm. Calculate the exact length of its altitude.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q10.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4']
+------------------------------------------------------------
+Q11 (ID 134443): Q11: The altitude of an equilateral triangle is 6√...
+  Text:    The altitude of an equilateral triangle is 6√3 cm. Find the side length, perimeter, and area of the triangle.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q11.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q12 (ID 134444): Q12: A baseball diamond is a square with 90 feet b...
+  Text:    A baseball diamond is a square with 90 feet between consecutive bases. How far must a catcher throw the ball directly from home plate to second base?
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q12.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q13 (ID 134445): Q13: A 10-meter ladder leans against a vertical wa...
+  Text:    A 10-meter ladder leans against a vertical wall, making a 60° angle with the ground. How high up the wall does the ladder reach, and how far is its foot from the wall?
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q13.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q14 (ID 134446): Q14: A road incline has a 30° angle of elevation. ...
+  Text:    A road incline has a 30° angle of elevation. If a car drives 500 meters along the road, what is the vertical elevation gained?
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q14.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q15 (ID 134447): Q15: In a right triangle with acute angles 30° and...
+  Text:    In a right triangle with acute angles 30° and 60°, the perimeter is (6 + 2√3 + 4√3) cm. Find the area of the triangle.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q15.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q16 (ID 134448): Q16: A regular hexagon is inscribed in a circle of...
+  Text:    A regular hexagon is inscribed in a circle of radius 10 cm. Find the perimeter and exact area of the hexagon by dividing it into six special triangles.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q16.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q17 (ID 134449): Q17: Find the length of the diagonal of a cube who...
+  Text:    Find the length of the diagonal of a cube whose edge length is 8 cm.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q17.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q18 (ID 134450): Q18: In an isosceles trapezoid, the base angles ar...
+  Text:    In an isosceles trapezoid, the base angles are each 60°. The shorter top base is 8 cm and the non-parallel legs are each 6 cm. Find the height, the longer base, and the area.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q18.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q19 (ID 134451): Q19: In an isosceles trapezoid, the base angles ar...
+  Text:    In an isosceles trapezoid, the base angles are 45°, the top base is 10 cm, and the height is 5 cm. Find the length of the lower base and each leg.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q19.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q20 (ID 134452): Q20: A guy wire makes a 45° angle with the ground ...
+  Text:    A guy wire makes a 45° angle with the ground and is anchored 15 meters from the base of a cell tower. Find the tower height and the exact wire length.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q20.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q21 (ID 134453): Q21: A triangular roof truss has a 30° pitch on bo...
+  Text:    A triangular roof truss has a 30° pitch on both sides. If the span (base) of the roof is 24 meters, calculate the length of the rafters and the central peak height.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q21.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5']
+------------------------------------------------------------
+Q22 (ID 134454): Q22: In a 30°-60°-90° triangle, the hypotenuse is ...
+  Text:    In a 30°-60°-90° triangle, the hypotenuse is (2x + 4) and the shorter leg is (x + 2). If the longer leg is 7√3, solve for x.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q22.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q23 (ID 134455): Q23: A square has an area of 72 cm². Calculate the...
+  Text:    A square has an area of 72 cm². Calculate the length of its diagonal.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q23.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q24 (ID 134456): Q24: Find the area of a right triangle with a 45° ...
+  Text:    Find the area of a right triangle with a 45° angle and a hypotenuse of 14 cm.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q24.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q25 (ID 134457): Q25: An equilateral triangle has an area of 36√3 c...
+  Text:    An equilateral triangle has an area of 36√3 cm². Find the length of its sides and altitude.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q25.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5']
+------------------------------------------------------------
+Q26 (ID 134458): Q26: A surveyor observes a monument from a point o...
+  Text:    A surveyor observes a monument from a point on the ground at a 30° angle of elevation. After walking 40 meters closer, the angle of elevation becomes 60°. Find the height of the monument.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q26.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q27 (ID 134459): Q27: A kite string is 100 meters long and makes a ...
+  Text:    A kite string is 100 meters long and makes a 60° angle with the horizontal ground. Assuming the string is taut, calculate the height of the kite above the ground.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q27.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q28 (ID 134460): Q28: In △ABC, m∠A = 30°, m∠B = 45°, and the altitu...
+  Text:    In △ABC, m∠A = 30°, m∠B = 45°, and the altitude from C to side AB is 6 cm. Find the lengths of sides AC, BC, and AB.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q28.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q29 (ID 134461): Q29: In △PQR, m∠P = 45°, m∠Q = 60°, and side PQ = ...
+  Text:    In △PQR, m∠P = 45°, m∠Q = 60°, and side PQ = 10 cm. Find the exact length of the altitude drawn from R to PQ.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q29.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q30 (ID 134462): Q30: A regular octagon can be formed by cutting fo...
+  Text:    A regular octagon can be formed by cutting four 45°-45°-90° triangles from the corners of a square of side 10 cm. Find the leg length of the removed triangles.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q30.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q31 (ID 134463): Q31: The diagonal of a rectangle is 18 cm and make...
+  Text:    The diagonal of a rectangle is 18 cm and makes a 30° angle with the longer side. Find the dimensions and area of the rectangle.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q31.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q32 (ID 134464): Q32: Find the exact coordinates of a point P on th...
+  Text:    Find the exact coordinates of a point P on the unit circle at an angle of 30°, 45°, and 60° in standard position.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q32.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q33 (ID 134465): Q33: A robotic arm has two segments: segment 1 is ...
+  Text:    A robotic arm has two segments: segment 1 is 20 cm at an angle of 30° to the horizontal, and segment 2 is 20 cm at 45° to segment 1. Calculate the coordinates of the arm's tip.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q33.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5']
+------------------------------------------------------------
+Q34 (ID 134466): Q34: In a 45°-45°-90° triangle, if the perimeter i...
+  Text:    In a 45°-45°-90° triangle, if the perimeter is 10 + 10√2 cm, find the lengths of the legs and hypotenuse.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q34.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q35 (ID 134467): Q35: In a 30°-60°-90° triangle, if the sum of the ...
+  Text:    In a 30°-60°-90° triangle, if the sum of the shorter leg and the hypotenuse is 18 cm, find the length of the longer leg.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q35.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5']
+------------------------------------------------------------
+Q36 (ID 134468): Q36: A 60° wedge is cut from a cylindrical cake of...
+  Text:    A 60° wedge is cut from a cylindrical cake of radius 12 cm. Find the perimeter and top area of the wedge.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q36.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q37 (ID 134469): Q37: In a rhombus with side length 10 cm and an in...
+  Text:    In a rhombus with side length 10 cm and an interior angle of 60°, find the lengths of both diagonals.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q37.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q38 (ID 134470): Q38: In a rhombus with side length 12 cm and an in...
+  Text:    In a rhombus with side length 12 cm and an interior angle of 120°, find its area.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q38.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4']
+------------------------------------------------------------
+Q39 (ID 134471): Q39: A right triangular garden plot has one leg of...
+  Text:    A right triangular garden plot has one leg of 15 m and an adjacent angle of 30°. Find the length of fencing needed to enclose the plot.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q39.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q40 (ID 134472): Q40: Explain how special right triangles are deriv...
+  Text:    Explain how special right triangles are derived from an equilateral triangle (30-60-90) and a square (45-45-90).
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q40.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4']
+------------------------------------------------------------
+Q41 (ID 134473): Q41: In a 30°-60°-90° triangle, the altitude to th...
+  Text:    In a 30°-60°-90° triangle, the altitude to the hypotenuse divides the hypotenuse into two segments. If the hypotenuse is 20 cm, find the lengths of these two segments.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q41.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 3 : 4 : 5']
+------------------------------------------------------------
+Q42 (ID 134474): Q42: A solar panel is tilted at an angle of 30° to...
+  Text:    A solar panel is tilted at an angle of 30° to horizontal on a flat roof. If the panel length is 2.4 meters, find the vertical height of its upper edge and horizontal shadow length.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q42.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q43 (ID 134475): Q43: A ship sails 100 km at a bearing of 060° (60°...
+  Text:    A ship sails 100 km at a bearing of 060° (60° East of North). How far North and how far East has the ship traveled?
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q43.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q44 (ID 134476): Q44: Find the perimeter of a 30°-60°-90° triangle ...
+  Text:    Find the perimeter of a 30°-60°-90° triangle whose longer leg is 15 cm.
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q44.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 3 : 4 : 5', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q45 (ID 134477): Q45: Find the perimeter of a 45°-45°-90° triangle ...
+  Text:    Find the perimeter of a 45°-45°-90° triangle whose area is 32 cm².
+  Formula: x : x : x\sqrt{2}
+  Img:     /images/g9_t151_q45.svg
+  Ans:     Leg : Leg : Hypotenuse = 1 : 1 : √2
+  Opts:    ['Leg : Leg : Hypotenuse = 1 : √3 : 2', 'Leg : Leg : Hypotenuse = 1 : 1 : √2', 'Leg : Leg : Hypotenuse = 1 : 2 : 3', 'Leg : Leg : Hypotenuse = 3 : 4 : 5']
+------------------------------------------------------------
+Q46 (ID 134478): Q46: A decorative origami pattern folds a square p...
+  Text:    A decorative origami pattern folds a square paper of side 20 cm along its diagonals. Calculate the perimeter of each of the four triangular sections formed.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q46.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q47 (ID 134479): Q47: In an isosceles right triangle, the altitude ...
+  Text:    In an isosceles right triangle, the altitude to the hypotenuse is 8 cm. Find the length of the hypotenuse and the area of the triangle.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q47.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------
+Q48 (ID 134480): Q48: In △ABC, ∠C = 90°, ∠A = 60°, and AC = 4 cm. R...
+  Text:    In △ABC, ∠C = 90°, ∠A = 60°, and AC = 4 cm. Ray CD bisects ∠C and intersects AB at D. Find the length of CD.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q48.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2']
+------------------------------------------------------------
+Q49 (ID 134481): Q49: Calculate the exact length of the space diago...
+  Text:    Calculate the exact length of the space diagonal of a rectangular prism with dimensions 6 cm, 6 cm, and 6√2 cm.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q49.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3']
+------------------------------------------------------------
+Q50 (ID 134482): Q50: A folding stepladder has two 2.5-meter legs h...
+  Text:    A folding stepladder has two 2.5-meter legs hinged at the top. When opened, the angle between the legs is 60°. Find the height of the ladder top from the floor and the spread between feet.
+  Formula: x : x\sqrt{3} : 2x
+  Img:     /images/g9_t151_q50.svg
+  Ans:     Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2
+  Opts:    ['Shortest Leg : Longer Leg : Hypotenuse = 1 : 1 : √2', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : 2 : 3', 'Shortest Leg : Longer Leg : Hypotenuse = 2 : 3 : 4', 'Shortest Leg : Longer Leg : Hypotenuse = 1 : √3 : 2']
+------------------------------------------------------------

@@ -1,28 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" width="500" height="340">
   <rect width="100%" height="100%" fill="#0f172a" rx="12" />
 
-  <!-- Header Title -->
-  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
-  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
-    Probabilities of simple and compound events. #40
-  </text>
+  <g transform="translate(80, 50)">
+    <!-- Header -->
+    <rect x="0" y="0" width="340" height="180" fill="#1e293b" stroke="#475569" stroke-width="2" rx="6"/>
+    
+    <line x1="0" y1="45" x2="340" y2="45" stroke="#475569" stroke-width="1.5"/>
+    <line x1="0" y1="90" x2="340" y2="90" stroke="#475569" stroke-width="1.5"/>
+    <line x1="0" y1="135" x2="340" y2="135" stroke="#475569" stroke-width="1.5"/>
 
-  <!-- Body Content -->
-  
-        <g transform="translate(120, 70)">
-          <circle cx="120" cy="110" r="80" fill="#0f172a" stroke="#38bdf8" stroke-width="3" />
-          <!-- 4 Slices -->
-          <path d="M 120 110 L 120 30 A 80 80 0 0 1 200 110 Z" fill="rgba(56, 189, 248, 0.6)" />
-          <path d="M 120 110 L 200 110 A 80 80 0 0 1 120 190 Z" fill="rgba(236, 72, 153, 0.6)" />
-          <path d="M 120 110 L 120 190 A 80 80 0 0 1 40 110 Z" fill="rgba(245, 158, 11, 0.6)" />
-          <path d="M 120 110 L 40 110 A 80 80 0 0 1 120 30 Z" fill="rgba(16, 185, 129, 0.6)" />
+    <line x1="100" y1="0" x2="100" y2="180" stroke="#475569" stroke-width="1.5"/>
+    <line x1="180" y1="0" x2="180" y2="180" stroke="#475569" stroke-width="1.5"/>
+    <line x1="260" y1="0" x2="260" y2="180" stroke="#475569" stroke-width="1.5"/>
 
-          <!-- Pointer -->
-          <polygon points="120,110 135,70 120,50 105,70" fill="#ffffff" stroke="#000000" stroke-width="1.5" />
-          <circle cx="120" cy="110" r="6" fill="#ffffff" />
+    <text x="50" y="28" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">Group</text>
+    <text x="140" y="28" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">Product A</text>
+    <text x="220" y="28" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">Product B</text>
+    <text x="300" y="28" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">Total</text>
 
-          <rect x="0" y="220" width="240" height="28" rx="6" fill="rgba(16, 185, 129, 0.9)" />
-          <text x="120" y="239" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Equally Likely Outcomes: P = 1 / 4</text>
-        </g>
-      
+    <text x="50" y="72" text-anchor="middle" fill="#e2e8f0" font-size="12">Men</text>
+    <text x="140" y="72" text-anchor="middle" fill="#e2e8f0" font-size="12">20</text>
+    <text x="220" y="72" text-anchor="middle" fill="#e2e8f0" font-size="12">30</text>
+    <text x="300" y="72" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="bold">50</text>
+
+    <text x="50" y="117" text-anchor="middle" fill="#e2e8f0" font-size="12">Women</text>
+    <text x="140" y="117" text-anchor="middle" fill="#ec4899" font-size="12" font-weight="bold">25</text>
+    <text x="220" y="117" text-anchor="middle" fill="#e2e8f0" font-size="12">25</text>
+    <text x="300" y="117" text-anchor="middle" fill="#ec4899" font-size="12" font-weight="bold">50</text>
+
+    <text x="50" y="162" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">Total</text>
+    <text x="140" y="162" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">45</text>
+    <text x="220" y="162" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">55</text>
+    <text x="300" y="162" text-anchor="middle" fill="#38bdf8" font-size="12" font-weight="bold">100</text>
+  </g>
+  <text x="250" y="315" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="12">Two-Way Consumer Survey Contingency Table (Total = 100)</text>
+
 </svg>

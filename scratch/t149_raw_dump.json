@@ -1,0 +1,752 @@
+[
+  {
+    "id": "134333",
+    "title": "Q1: Differentiate inductive reasoning from deduct...",
+    "question_text": "Differentiate inductive reasoning from deductive reasoning. Provide an example of each in mathematical problem solving.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Congruent Polygons Create Total Congruence",
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Calculated Pairs of Complementary Triangles Calculate"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q1.svg"
+  },
+  {
+    "id": "134334",
+    "title": "Q2: Define a conditional statement, and identify ...",
+    "question_text": "Define a conditional statement, and identify its hypothesis (if-clause) and conclusion (then-clause).",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q2.svg"
+  },
+  {
+    "id": "134335",
+    "title": "Q3: Given the conditional statement 'If a polygon...",
+    "question_text": "Given the conditional statement 'If a polygon is a square, then it is a rectangle', write its: a) Converse, b) Inverse, c) Contrapositive.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q3.svg"
+  },
+  {
+    "id": "134336",
+    "title": "Q4: State which conditional pairs are logically e...",
+    "question_text": "State which conditional pairs are logically equivalent: (Conditional & Contrapositive; Converse & Inverse).",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q4.svg"
+  },
+  {
+    "id": "134337",
+    "title": "Q5: Define a biconditional statement and provide ...",
+    "question_text": "Define a biconditional statement and provide the biconditional definition of congruent line segments.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q5.svg"
+  },
+  {
+    "id": "134338",
+    "title": "Q6: Explain the structure of a two-column proof: ...",
+    "question_text": "Explain the structure of a two-column proof: what is written in the Statements column and the Reasons column?",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q6.svg"
+  },
+  {
+    "id": "134339",
+    "title": "Q7: Explain the role of undefined terms, definiti...",
+    "question_text": "Explain the role of undefined terms, definitions, postulates, and previously proven theorems as valid reasons in geometric proofs.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q7.svg"
+  },
+  {
+    "id": "134340",
+    "title": "Q8: State the Reflexive Property of Congruence fo...",
+    "question_text": "State the Reflexive Property of Congruence for segments and angles and give an example of its use in proving overlapping triangles congruent.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q8.svg"
+  },
+  {
+    "id": "134341",
+    "title": "Q9: State the Symmetric and Transitive Properties...",
+    "question_text": "State the Symmetric and Transitive Properties of Congruence.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q9.svg"
+  },
+  {
+    "id": "134342",
+    "title": "Q10: State the Substitution Property of Equality a...",
+    "question_text": "State the Substitution Property of Equality and the Addition/Subtraction Properties of Equality.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q10.svg"
+  },
+  {
+    "id": "134343",
+    "title": "Q11: Write a two-column proof: Given that AB ≅ CD ...",
+    "question_text": "Write a two-column proof: Given that AB ≅ CD and BC ≅ DA in quadrilateral ABCD, prove that △ABC ≅ △CDA.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Calculated Pairs of Complementary Triangles Calculate",
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Congruent Polygons Create Total Congruence",
+      "Corresponding Perimeter Creates Triangle Congruence"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q11.svg"
+  },
+  {
+    "id": "134344",
+    "title": "Q12: Write a two-column proof: Given that line seg...",
+    "question_text": "Write a two-column proof: Given that line segment AB bisects CD at E, and CD bisects AB at E, prove that △AED ≅ △BEC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q12.svg"
+  },
+  {
+    "id": "134345",
+    "title": "Q13: Write a two-column proof: Given that segment ...",
+    "question_text": "Write a two-column proof: Given that segment BD is the perpendicular bisector of segment AC, prove that △ABD ≅ △CBD.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q13.svg"
+  },
+  {
+    "id": "134346",
+    "title": "Q14: Write a two-column proof: Given that ∠1 ≅ ∠2 ...",
+    "question_text": "Write a two-column proof: Given that ∠1 ≅ ∠2 and ∠3 ≅ ∠4 in a quadrilateral ABCD where diagonal AC is drawn, prove that AB ≅ CB.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q14.svg"
+  },
+  {
+    "id": "134347",
+    "title": "Q15: Write a two-column proof: Given that △ABC is ...",
+    "question_text": "Write a two-column proof: Given that △ABC is isosceles with base BC, and AD is an altitude from A to BC, prove that BD ≅ CD.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q15.svg"
+  },
+  {
+    "id": "134348",
+    "title": "Q16: Write a two-column proof: Given that PR ≅ QS ...",
+    "question_text": "Write a two-column proof: Given that PR ≅ QS and ∠P ≅ ∠Q in right-angled configurations, prove that △PRS ≅ △QSR.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q16.svg"
+  },
+  {
+    "id": "134349",
+    "title": "Q17: Write a two-column proof: Given that circle O...",
+    "question_text": "Write a two-column proof: Given that circle O has radii OA and OB, and chord AC ≅ BC where C is on the circle, prove that △OAC ≅ △OBC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q17.svg"
+  },
+  {
+    "id": "134350",
+    "title": "Q18: Write a two-column proof: Given that AB || CD...",
+    "question_text": "Write a two-column proof: Given that AB || CD and BC || DA, prove that ∠B ≅ ∠D (opposite angles of a parallelogram are congruent).",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q18.svg"
+  },
+  {
+    "id": "134351",
+    "title": "Q19: Write a two-column proof: Given that parallel...",
+    "question_text": "Write a two-column proof: Given that parallelogram ABCD has diagonals AC and BD intersecting at E, prove that AE ≅ CE and BE ≅ DE.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q19.svg"
+  },
+  {
+    "id": "134352",
+    "title": "Q20: Write a two-column proof: Prove that the diag...",
+    "question_text": "Write a two-column proof: Prove that the diagonals of a rectangle are congruent.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q20.svg"
+  },
+  {
+    "id": "134353",
+    "title": "Q21: Write a two-column proof: Prove that the diag...",
+    "question_text": "Write a two-column proof: Prove that the diagonals of a rhombus are perpendicular bisectors of each other.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Congruent Polygons Create Total Congruence",
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Calculated Pairs of Complementary Triangles Calculate",
+      "Corresponding Perimeter Creates Triangle Congruence"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q21.svg"
+  },
+  {
+    "id": "134354",
+    "title": "Q22: Write a two-column proof: Prove that the base...",
+    "question_text": "Write a two-column proof: Prove that the base angles of an isosceles trapezoid are congruent.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q22.svg"
+  },
+  {
+    "id": "134355",
+    "title": "Q23: Identify the logical fallacy in the statement...",
+    "question_text": "Identify the logical fallacy in the statement: 'If it rains, the grass is wet. The grass is wet; therefore, it rained.'",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q23.svg"
+  },
+  {
+    "id": "134356",
+    "title": "Q24: Formulate an indirect proof (proof by contrad...",
+    "question_text": "Formulate an indirect proof (proof by contradiction): Prove that a triangle cannot have more than one right angle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q24.svg"
+  },
+  {
+    "id": "134357",
+    "title": "Q25: Formulate an indirect proof: Prove that if tw...",
+    "question_text": "Formulate an indirect proof: Prove that if two lines are cut by a transversal such that alternate interior angles are not congruent, then the lines are not parallel.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q25.svg"
+  },
+  {
+    "id": "134358",
+    "title": "Q26: Write a two-column proof: Given that segment ...",
+    "question_text": "Write a two-column proof: Given that segment AB ≅ segment AC and D is the midpoint of BC, prove that ray AD bisects ∠BAC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q26.svg"
+  },
+  {
+    "id": "134359",
+    "title": "Q27: Write a two-column proof: Given that ∠A ≅ ∠D,...",
+    "question_text": "Write a two-column proof: Given that ∠A ≅ ∠D, ∠B ≅ ∠E, and segment BC ≅ segment EF, prove that △ABC ≅ △DEF using AAS.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q27.svg"
+  },
+  {
+    "id": "134360",
+    "title": "Q28: Write a two-column proof: Given that AB ⊥ BC,...",
+    "question_text": "Write a two-column proof: Given that AB ⊥ BC, DC ⊥ BC, and AC ≅ DB, prove that △ABC ≅ △DCB using HL.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q28.svg"
+  },
+  {
+    "id": "134361",
+    "title": "Q29: In proving two triangles congruent, explain w...",
+    "question_text": "In proving two triangles congruent, explain why 'SSA' is not accepted as a valid geometric reason.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q29.svg"
+  },
+  {
+    "id": "134362",
+    "title": "Q30: Write a two-column proof: Given that ray BX b...",
+    "question_text": "Write a two-column proof: Given that ray BX bisects ∠ABC and P is any point on BX with perpendiculars PM ⊥ BA and PN ⊥ BC, prove that PM ≅ PN.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q30.svg"
+  },
+  {
+    "id": "134363",
+    "title": "Q31: Write a two-column proof: Given that quadrila...",
+    "question_text": "Write a two-column proof: Given that quadrilateral ABCD has AB ≅ DC and AB || DC, prove that ABCD is a parallelogram.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Congruent Polygons Create Total Congruence",
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Calculated Pairs of Complementary Triangles Calculate"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q31.svg"
+  },
+  {
+    "id": "134364",
+    "title": "Q32: Write a two-column proof: Prove that if a qua...",
+    "question_text": "Write a two-column proof: Prove that if a quadrilateral has four congruent sides, it is a rhombus.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q32.svg"
+  },
+  {
+    "id": "134365",
+    "title": "Q33: Write a two-column proof: Given isosceles tri...",
+    "question_text": "Write a two-column proof: Given isosceles triangle ABC with AB = AC, let D and E be points on AB and AC such that AD = AE. Prove that BE ≅ CD.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q33.svg"
+  },
+  {
+    "id": "134366",
+    "title": "Q34: Write a two-column proof: Given △ABC with alt...",
+    "question_text": "Write a two-column proof: Given △ABC with altitudes BD and CE such that BD ≅ CE, prove that △ABC is an isosceles triangle.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q34.svg"
+  },
+  {
+    "id": "134367",
+    "title": "Q35: Explain what is meant by an auxiliary line in...",
+    "question_text": "Explain what is meant by an auxiliary line in a geometric proof and provide an example of its use in proving that the sum of angles in a triangle is 180°.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q35.svg"
+  },
+  {
+    "id": "134368",
+    "title": "Q36: Write a two-column proof: Prove that the sum ...",
+    "question_text": "Write a two-column proof: Prove that the sum of the measures of the interior angles of a triangle is 180° using an auxiliary parallel line.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q36.svg"
+  },
+  {
+    "id": "134369",
+    "title": "Q37: Write a two-column proof: Prove the Exterior ...",
+    "question_text": "Write a two-column proof: Prove the Exterior Angle Theorem (the measure of an exterior angle of a triangle equals the sum of the two remote interior angles).",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q37.svg"
+  },
+  {
+    "id": "134370",
+    "title": "Q38: Write a two-column proof: Prove that if two a...",
+    "question_text": "Write a two-column proof: Prove that if two angles of a triangle are congruent, then the sides opposite those angles are congruent (Converse of Isosceles Triangle Theorem).",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q38.svg"
+  },
+  {
+    "id": "134371",
+    "title": "Q39: Write a two-column proof: Given that line l i...",
+    "question_text": "Write a two-column proof: Given that line l is the perpendicular bisector of segment AB and intersects AB at M, prove that any point P on l is equidistant from A and B.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q39.svg"
+  },
+  {
+    "id": "134372",
+    "title": "Q40: Write a two-column proof: Given that points A...",
+    "question_text": "Write a two-column proof: Given that points A, B, C, D are arranged in order on a line such that AB ≅ CD, prove that AC ≅ BD.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q40.svg"
+  },
+  {
+    "id": "134373",
+    "title": "Q41: Write a two-column proof: Given that ∠1 and ∠...",
+    "question_text": "Write a two-column proof: Given that ∠1 and ∠2 form a linear pair and ∠1 ≅ ∠2, prove that the lines forming the angles are perpendicular.",
+    "math_formula": "\\text{CPCTC}",
+    "options": [
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Corresponding Perimeter Creates Triangle Congruence",
+      "Congruent Polygons Create Total Congruence",
+      "Calculated Pairs of Complementary Triangles Calculate"
+    ],
+    "correct_answer": "Corresponding Parts of Congruent Triangles are Congruent",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q41.svg"
+  },
+  {
+    "id": "134374",
+    "title": "Q42: Explain how deductive reasoning is utilized i...",
+    "question_text": "Explain how deductive reasoning is utilized in legal, computer science, and engineering applications compared to mathematical proof.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q42.svg"
+  },
+  {
+    "id": "134375",
+    "title": "Q43: Formulate a paragraph proof showing that the ...",
+    "question_text": "Formulate a paragraph proof showing that the median to the hypotenuse of a right triangle is half the length of the hypotenuse.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "AAA, SSA, SSS, SAS"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q43.svg"
+  },
+  {
+    "id": "134376",
+    "title": "Q44: Write a two-column proof: Given that chords A...",
+    "question_text": "Write a two-column proof: Given that chords AB and CD of circle O are congruent, prove that central angles ∠AOB and ∠COD are congruent.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q44.svg"
+  },
+  {
+    "id": "134377",
+    "title": "Q45: Write a two-column proof: Given that quadrila...",
+    "question_text": "Write a two-column proof: Given that quadrilateral ABCD is a rhombus, prove that diagonal AC bisects both ∠BAD and ∠BCD.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q45.svg"
+  },
+  {
+    "id": "134378",
+    "title": "Q46: Identify the missing statements and reasons i...",
+    "question_text": "Identify the missing statements and reasons in a given incomplete proof template of triangle congruence.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q46.svg"
+  },
+  {
+    "id": "134379",
+    "title": "Q47: Write a two-column proof: Given that △ABC ≅ △...",
+    "question_text": "Write a two-column proof: Given that △ABC ≅ △DEF and △DEF ≅ △GHI, prove that △ABC ≅ △GHI using the Transitive Property of Congruence.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "AAS, SSA, SAA, HLL",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q47.svg"
+  },
+  {
+    "id": "134380",
+    "title": "Q48: Explain the law of syllogism (hypothetical sy...",
+    "question_text": "Explain the law of syllogism (hypothetical syllogism) with an example: 'If p → q and q → r, then p → r'.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q48.svg"
+  },
+  {
+    "id": "134381",
+    "title": "Q49: Explain the law of detachment (modus ponens) ...",
+    "question_text": "Explain the law of detachment (modus ponens) with a geometric example.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q49.svg"
+  },
+  {
+    "id": "134382",
+    "title": "Q50: Write a two-column proof: Given that ∠BAC ≅ ∠...",
+    "question_text": "Write a two-column proof: Given that ∠BAC ≅ ∠DAC and ∠BCA ≅ ∠DCA, prove that BC ≅ DC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF",
+    "options": [
+      "AAA, SSS, SAS only",
+      "AAS, SSA, SAA, HLL",
+      "AAA, SSA, SSS, SAS",
+      "SSS, SAS, ASA, AAS, and HL (for right triangles)"
+    ],
+    "correct_answer": "SSS, SAS, ASA, AAS, and HL (for right triangles)",
+    "show_image": 1,
+    "image_url": "/images/g9_t149_q50.svg"
+  }
+]

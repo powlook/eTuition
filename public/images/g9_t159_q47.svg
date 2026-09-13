@@ -1,23 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" width="500" height="340">
   <rect width="100%" height="100%" fill="#0f172a" rx="12" />
 
-  <!-- Header Title -->
-  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
-  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
-    Interpretation and analysis of data to assess whether the data may be misleading. #47
-  </text>
+  <!-- Graph 1: 88% - 91% Axis -->
+  <g transform="translate(30, 40)">
+    <rect x="0" y="0" width="200" height="230" fill="#1e293b" rx="6"/>
+    <line x1="30" y1="20" x2="30" y2="190" stroke="#64748b" stroke-width="1.5"/>
+    <line x1="30" y1="190" x2="180" y2="190" stroke="#64748b" stroke-width="1.5"/>
+    <text x="25" y="195" text-anchor="end" fill="#ec4899" font-family="sans-serif" font-size="10">88%</text>
+    <text x="25" y="25" text-anchor="end" fill="#ec4899" font-family="sans-serif" font-size="10">91%</text>
+    <path d="M 40 170 L 160 30" fill="none" stroke="#ef4444" stroke-width="3"/>
+    <text x="105" y="215" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="11">88% to 91% Axis (Steep)</text>
+  </g>
 
-  <!-- Body Content -->
-  
-        <g transform="translate(100, 70)">
-          <!-- Pie / 3D Slice Distortion visual -->
-          <ellipse cx="140" cy="120" rx="90" ry="50" fill="rgba(56, 189, 248, 0.3)" stroke="#38bdf8" stroke-width="2" />
-          <path d="M 140 120 L 225 100 A 90 50 0 0 1 170 165 Z" fill="rgba(245, 158, 11, 0.8)" stroke="#f59e0b" stroke-width="2.5" />
-          <text x="210" y="145" font-family="sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">Front Slice 30%</text>
-          <text x="80" y="110" font-family="sans-serif" font-size="12" fill="#38bdf8" font-weight="bold">Back Slice 70%</text>
+  <!-- Graph 2: 0% - 100% Axis -->
+  <g transform="translate(260, 40)">
+    <rect x="0" y="0" width="200" height="230" fill="#1e293b" rx="6"/>
+    <line x1="30" y1="20" x2="30" y2="190" stroke="#64748b" stroke-width="1.5"/>
+    <line x1="30" y1="190" x2="180" y2="190" stroke="#64748b" stroke-width="1.5"/>
+    <text x="25" y="195" text-anchor="end" fill="#10b981" font-family="sans-serif" font-size="10">0%</text>
+    <text x="25" y="25" text-anchor="end" fill="#10b981" font-family="sans-serif" font-size="10">100%</text>
+    <path d="M 40 45 L 160 40" fill="none" stroke="#10b981" stroke-width="3"/>
+    <text x="105" y="215" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="11">0% to 100% Axis (Flat)</text>
+  </g>
 
-          <rect x="20" y="240" width="240" height="28" rx="6" fill="rgba(245, 158, 11, 0.9)" />
-          <text x="140" y="259" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">3D Perspective Distorts Slice Sizes</text>
-        </g>
-      
 </svg>

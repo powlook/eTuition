@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 133983,
+    "title": "Right Triangle Hypotenuse #1",
+    "text": "In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.",
+    "img": "/images/g8_t137_q1.svg",
+    "options": [
+      "14 cm",
+      "15 cm",
+      "21 cm",
+      "16 cm"
+    ],
+    "answer": "15 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$c = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144}$$",
+      "**Step 2: Evaluate square root**",
+      "$$c = \\sqrt{225} = 15\\text{ cm}$$",
+      "**Final Verified Answer:** \\(15 cm\\)"
+    ],
+    "formula": "c = \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 133984,
+    "title": "Missing Leg Calculation #2",
+    "text": "Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.",
+    "img": "/images/g8_t137_q2.svg",
+    "options": [
+      "20 cm",
+      "18 cm",
+      "26 cm",
+      "24 cm"
+    ],
+    "answer": "24 cm",
+    "steps": [
+      "**Step 1: Solve for missing leg**",
+      "$$a = \\sqrt{25^2 - 7^2} = \\sqrt{625 - 49}$$",
+      "**Step 2: Evaluate square root**",
+      "$$a = \\sqrt{576} = 24\\text{ cm}$$",
+      "**Final Verified Answer:** \\(24 cm\\)"
+    ],
+    "formula": "a = \\sqrt{c^2 - b^2}"
+  },
+  {
+    "id": 133985,
+    "title": "Triangle Classification (8,15,17) #3",
+    "text": "Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.",
+    "img": "/images/g8_t137_q3.svg",
+    "options": [
+      "Right Triangle (17² = 8² + 15²)",
+      "Equilateral Triangle",
+      "Acute Triangle",
+      "Obtuse Triangle"
+    ],
+    "answer": "Right Triangle (17² = 8² + 15²)",
+    "steps": [
+      "**Step 1: Square the longest side**",
+      "$$c^2 = 17^2 = 289$$",
+      "**Step 2: Sum the squares of shorter sides**",
+      "$$a^2 + b^2 = 8^2 + 15^2 = 64 + 225 = 289$$",
+      "**Step 3: Compare values**",
+      "$$289 = 289 \\implies \\text{Right Triangle}$$",
+      "**Final Verified Answer:** \\(Right Triangle (17² = 8² + 15²)\\)"
+    ],
+    "formula": "c^2 = a^2 + b^2 \\implies \\text{Right Triangle}"
+  },
+  {
+    "id": 133986,
+    "title": "Triangle Classification (7,10,12) #4",
+    "text": "Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.",
+    "img": "/images/g8_t137_q4.svg",
+    "options": [
+      "Scalene Right Triangle",
+      "Acute Triangle (12² < 7² + 10²)",
+      "Right Triangle",
+      "Obtuse Triangle"
+    ],
+    "answer": "Acute Triangle (12² < 7² + 10²)",
+    "steps": [
+      "**Step 1: Square longest side**",
+      "$$c^2 = 12^2 = 144$$",
+      "**Step 2: Sum squares of shorter sides**",
+      "$$a^2 + b^2 = 7^2 + 10^2 = 49 + 100 = 149$$",
+      "**Step 3: Compare values**",
+      "$$144 < 149 \\implies \\text{Acute Triangle}$$",
+      "**Final Verified Answer:** \\(Acute Triangle (12² < 7² + 10²)\\)"
+    ],
+    "formula": "c^2 < a^2 + b^2 \\implies \\text{Acute Triangle}"
+  },
+  {
+    "id": 133987,
+    "title": "Rescue Ladder Distance #5",
+    "text": "A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?",
+    "img": "/images/g8_t137_q5.svg",
+    "options": [
+      "10 meters",
+      "9 meters",
+      "8 meters",
+      "3 meters"
+    ],
+    "answer": "9 meters",
+    "steps": [
+      "**Step 1: Set up right triangle**",
+      "$$\\text{Ground} = \\sqrt{15^2 - 12^2} = \\sqrt{225 - 144}$$",
+      "**Step 2: Evaluate**",
+      "$$\\text{Ground} = \\sqrt{81} = 9\\text{ meters}$$",
+      "**Final Verified Answer:** \\(9 meters\\)"
+    ],
+    "formula": "\\text{Distance} = \\sqrt{15^2 - 12^2}"
+  },
+  {
+    "id": 133988,
+    "title": "TV Screen Diagonal #6",
+    "text": "A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?",
+    "img": "/images/g8_t137_q6.svg",
+    "options": [
+      "45 inches",
+      "70 inches",
+      "55 inches",
+      "50 inches"
+    ],
+    "answer": "50 inches",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$d = \\sqrt{40^2 + 30^2} = \\sqrt{1600 + 900} = \\sqrt{2500}$$",
+      "**Step 2: Take square root**",
+      "$$d = 50\\text{ inches}$$",
+      "**Final Verified Answer:** \\(50 inches\\)"
+    ],
+    "formula": "d = \\sqrt{40^2 + 30^2}"
+  },
+  {
+    "id": 133989,
+    "title": "Rectangle Diagonal #7",
+    "text": "Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.",
+    "img": "/images/g8_t137_q7.svg",
+    "options": [
+      "20 cm",
+      "28 cm",
+      "24 cm",
+      "18 cm"
+    ],
+    "answer": "20 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$d = \\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400}$$",
+      "**Step 2: Evaluate**",
+      "$$d = 20\\text{ cm}$$",
+      "**Final Verified Answer:** \\(20 cm\\)"
+    ],
+    "formula": "d = \\sqrt{16^2 + 12^2}"
+  },
+  {
+    "id": 133990,
+    "title": "Runner Compass Distance #8",
+    "text": "A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?",
+    "img": "/images/g8_t137_q8.svg",
+    "options": [
+      "7 km",
+      "14 km",
+      "12 km",
+      "10 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Identify right triangle legs**",
+      "$$\\text{Leg 1} = 6\\text{ km}, \\quad \\text{Leg 2} = 8\\text{ km}$$",
+      "**Step 2: Compute hypotenuse**",
+      "$$d = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10 km\\)"
+    ],
+    "formula": "d = \\sqrt{6^2 + 8^2}"
+  },
+  {
+    "id": 133991,
+    "title": "Equilateral Altitude & Area #9",
+    "text": "An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.",
+    "img": "/images/g8_t137_q9.svg",
+    "options": [
+      "Altitude = 5 cm, Area = 25 cm²",
+      "Altitude = 10√3 cm, Area = 50√3 cm²",
+      "Altitude = 5√3 cm, Area = 25√3 cm²",
+      "Altitude = 5√2 cm, Area = 25√2 cm²"
+    ],
+    "answer": "Altitude = 5√3 cm, Area = 25√3 cm²",
+    "steps": [
+      "**Step 1: Compute altitude h**",
+      "$$h = \\frac{\\sqrt{3}}{2} (10) = 5\\sqrt{3}\\text{ cm}$$",
+      "**Step 2: Compute Area**",
+      "$$A = \\frac{1}{2} \\times 10 \\times 5\\sqrt{3} = 25\\sqrt{3}\\text{ cm}^2$$",
+      "**Final Verified Answer:** \\(Altitude = 5√3 cm, Area = 25√3 cm²\\)"
+    ],
+    "formula": "h = \\frac{\\sqrt{3}}{2} s, \\quad A = \\frac{\\sqrt{3}}{4} s^2"
+  },
+  {
+    "id": 133992,
+    "title": "Tower Guy Wire Length #10",
+    "text": "A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.",
+    "img": "/images/g8_t137_q10.svg",
+    "options": [
+      "28 meters",
+      "26 meters",
+      "22 meters",
+      "34 meters"
+    ],
+    "answer": "26 meters",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$L = \\sqrt{24^2 + 10^2} = \\sqrt{576 + 100} = \\sqrt{676}$$",
+      "**Step 2: Evaluate square root**",
+      "$$L = 26\\text{ meters}$$",
+      "**Final Verified Answer:** \\(26 meters\\)"
+    ],
+    "formula": "L = \\sqrt{24^2 + 10^2}"
+  },
+  {
+    "id": 133993,
+    "title": "Right Triangle Hypotenuse #11",
+    "text": "In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.",
+    "img": "/images/g8_t137_q11.svg",
+    "options": [
+      "16 cm",
+      "21 cm",
+      "15 cm",
+      "14 cm"
+    ],
+    "answer": "15 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$c = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144}$$",
+      "**Step 2: Evaluate square root**",
+      "$$c = \\sqrt{225} = 15\\text{ cm}$$",
+      "**Final Verified Answer:** \\(15 cm\\)"
+    ],
+    "formula": "c = \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 133994,
+    "title": "Missing Leg Calculation #12",
+    "text": "Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.",
+    "img": "/images/g8_t137_q12.svg",
+    "options": [
+      "18 cm",
+      "20 cm",
+      "24 cm",
+      "26 cm"
+    ],
+    "answer": "24 cm",
+    "steps": [
+      "**Step 1: Solve for missing leg**",
+      "$$a = \\sqrt{25^2 - 7^2} = \\sqrt{625 - 49}$$",
+      "**Step 2: Evaluate square root**",
+      "$$a = \\sqrt{576} = 24\\text{ cm}$$",
+      "**Final Verified Answer:** \\(24 cm\\)"
+    ],
+    "formula": "a = \\sqrt{c^2 - b^2}"
+  },
+  {
+    "id": 133995,
+    "title": "Triangle Classification (8,15,17) #13",
+    "text": "Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.",
+    "img": "/images/g8_t137_q13.svg",
+    "options": [
+      "Acute Triangle",
+      "Equilateral Triangle",
+      "Obtuse Triangle",
+      "Right Triangle (17² = 8² + 15²)"
+    ],
+    "answer": "Right Triangle (17² = 8² + 15²)",
+    "steps": [
+      "**Step 1: Square the longest side**",
+      "$$c^2 = 17^2 = 289$$",
+      "**Step 2: Sum the squares of shorter sides**",
+      "$$a^2 + b^2 = 8^2 + 15^2 = 64 + 225 = 289$$",
+      "**Step 3: Compare values**",
+      "$$289 = 289 \\implies \\text{Right Triangle}$$",
+      "**Final Verified Answer:** \\(Right Triangle (17² = 8² + 15²)\\)"
+    ],
+    "formula": "c^2 = a^2 + b^2 \\implies \\text{Right Triangle}"
+  },
+  {
+    "id": 133996,
+    "title": "Triangle Classification (7,10,12) #14",
+    "text": "Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.",
+    "img": "/images/g8_t137_q14.svg",
+    "options": [
+      "Obtuse Triangle",
+      "Acute Triangle (12² < 7² + 10²)",
+      "Scalene Right Triangle",
+      "Right Triangle"
+    ],
+    "answer": "Acute Triangle (12² < 7² + 10²)",
+    "steps": [
+      "**Step 1: Square longest side**",
+      "$$c^2 = 12^2 = 144$$",
+      "**Step 2: Sum squares of shorter sides**",
+      "$$a^2 + b^2 = 7^2 + 10^2 = 49 + 100 = 149$$",
+      "**Step 3: Compare values**",
+      "$$144 < 149 \\implies \\text{Acute Triangle}$$",
+      "**Final Verified Answer:** \\(Acute Triangle (12² < 7² + 10²)\\)"
+    ],
+    "formula": "c^2 < a^2 + b^2 \\implies \\text{Acute Triangle}"
+  },
+  {
+    "id": 133997,
+    "title": "Rescue Ladder Distance #15",
+    "text": "A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?",
+    "img": "/images/g8_t137_q15.svg",
+    "options": [
+      "3 meters",
+      "8 meters",
+      "10 meters",
+      "9 meters"
+    ],
+    "answer": "9 meters",
+    "steps": [
+      "**Step 1: Set up right triangle**",
+      "$$\\text{Ground} = \\sqrt{15^2 - 12^2} = \\sqrt{225 - 144}$$",
+      "**Step 2: Evaluate**",
+      "$$\\text{Ground} = \\sqrt{81} = 9\\text{ meters}$$",
+      "**Final Verified Answer:** \\(9 meters\\)"
+    ],
+    "formula": "\\text{Distance} = \\sqrt{15^2 - 12^2}"
+  },
+  {
+    "id": 133998,
+    "title": "TV Screen Diagonal #16",
+    "text": "A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?",
+    "img": "/images/g8_t137_q16.svg",
+    "options": [
+      "50 inches",
+      "55 inches",
+      "45 inches",
+      "70 inches"
+    ],
+    "answer": "50 inches",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$d = \\sqrt{40^2 + 30^2} = \\sqrt{1600 + 900} = \\sqrt{2500}$$",
+      "**Step 2: Take square root**",
+      "$$d = 50\\text{ inches}$$",
+      "**Final Verified Answer:** \\(50 inches\\)"
+    ],
+    "formula": "d = \\sqrt{40^2 + 30^2}"
+  },
+  {
+    "id": 133999,
+    "title": "Rectangle Diagonal #17",
+    "text": "Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.",
+    "img": "/images/g8_t137_q17.svg",
+    "options": [
+      "20 cm",
+      "24 cm",
+      "28 cm",
+      "18 cm"
+    ],
+    "answer": "20 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$d = \\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400}$$",
+      "**Step 2: Evaluate**",
+      "$$d = 20\\text{ cm}$$",
+      "**Final Verified Answer:** \\(20 cm\\)"
+    ],
+    "formula": "d = \\sqrt{16^2 + 12^2}"
+  },
+  {
+    "id": 134000,
+    "title": "Runner Compass Distance #18",
+    "text": "A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?",
+    "img": "/images/g8_t137_q18.svg",
+    "options": [
+      "10 km",
+      "14 km",
+      "12 km",
+      "7 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Identify right triangle legs**",
+      "$$\\text{Leg 1} = 6\\text{ km}, \\quad \\text{Leg 2} = 8\\text{ km}$$",
+      "**Step 2: Compute hypotenuse**",
+      "$$d = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10 km\\)"
+    ],
+    "formula": "d = \\sqrt{6^2 + 8^2}"
+  },
+  {
+    "id": 134001,
+    "title": "Equilateral Altitude & Area #19",
+    "text": "An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.",
+    "img": "/images/g8_t137_q19.svg",
+    "options": [
+      "Altitude = 5√3 cm, Area = 25√3 cm²",
+      "Altitude = 5√2 cm, Area = 25√2 cm²",
+      "Altitude = 5 cm, Area = 25 cm²",
+      "Altitude = 10√3 cm, Area = 50√3 cm²"
+    ],
+    "answer": "Altitude = 5√3 cm, Area = 25√3 cm²",
+    "steps": [
+      "**Step 1: Compute altitude h**",
+      "$$h = \\frac{\\sqrt{3}}{2} (10) = 5\\sqrt{3}\\text{ cm}$$",
+      "**Step 2: Compute Area**",
+      "$$A = \\frac{1}{2} \\times 10 \\times 5\\sqrt{3} = 25\\sqrt{3}\\text{ cm}^2$$",
+      "**Final Verified Answer:** \\(Altitude = 5√3 cm, Area = 25√3 cm²\\)"
+    ],
+    "formula": "h = \\frac{\\sqrt{3}}{2} s, \\quad A = \\frac{\\sqrt{3}}{4} s^2"
+  },
+  {
+    "id": 134002,
+    "title": "Tower Guy Wire Length #20",
+    "text": "A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.",
+    "img": "/images/g8_t137_q20.svg",
+    "options": [
+      "22 meters",
+      "26 meters",
+      "28 meters",
+      "34 meters"
+    ],
+    "answer": "26 meters",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$L = \\sqrt{24^2 + 10^2} = \\sqrt{576 + 100} = \\sqrt{676}$$",
+      "**Step 2: Evaluate square root**",
+      "$$L = 26\\text{ meters}$$",
+      "**Final Verified Answer:** \\(26 meters\\)"
+    ],
+    "formula": "L = \\sqrt{24^2 + 10^2}"
+  },
+  {
+    "id": 134003,
+    "title": "Right Triangle Hypotenuse #21",
+    "text": "In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.",
+    "img": "/images/g8_t137_q21.svg",
+    "options": [
+      "15 cm",
+      "14 cm",
+      "21 cm",
+      "16 cm"
+    ],
+    "answer": "15 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$c = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144}$$",
+      "**Step 2: Evaluate square root**",
+      "$$c = \\sqrt{225} = 15\\text{ cm}$$",
+      "**Final Verified Answer:** \\(15 cm\\)"
+    ],
+    "formula": "c = \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 134004,
+    "title": "Missing Leg Calculation #22",
+    "text": "Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.",
+    "img": "/images/g8_t137_q22.svg",
+    "options": [
+      "20 cm",
+      "26 cm",
+      "18 cm",
+      "24 cm"
+    ],
+    "answer": "24 cm",
+    "steps": [
+      "**Step 1: Solve for missing leg**",
+      "$$a = \\sqrt{25^2 - 7^2} = \\sqrt{625 - 49}$$",
+      "**Step 2: Evaluate square root**",
+      "$$a = \\sqrt{576} = 24\\text{ cm}$$",
+      "**Final Verified Answer:** \\(24 cm\\)"
+    ],
+    "formula": "a = \\sqrt{c^2 - b^2}"
+  },
+  {
+    "id": 134005,
+    "title": "Triangle Classification (8,15,17) #23",
+    "text": "Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.",
+    "img": "/images/g8_t137_q23.svg",
+    "options": [
+      "Obtuse Triangle",
+      "Right Triangle (17² = 8² + 15²)",
+      "Acute Triangle",
+      "Equilateral Triangle"
+    ],
+    "answer": "Right Triangle (17² = 8² + 15²)",
+    "steps": [
+      "**Step 1: Square the longest side**",
+      "$$c^2 = 17^2 = 289$$",
+      "**Step 2: Sum the squares of shorter sides**",
+      "$$a^2 + b^2 = 8^2 + 15^2 = 64 + 225 = 289$$",
+      "**Step 3: Compare values**",
+      "$$289 = 289 \\implies \\text{Right Triangle}$$",
+      "**Final Verified Answer:** \\(Right Triangle (17² = 8² + 15²)\\)"
+    ],
+    "formula": "c^2 = a^2 + b^2 \\implies \\text{Right Triangle}"
+  },
+  {
+    "id": 134006,
+    "title": "Triangle Classification (7,10,12) #24",
+    "text": "Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.",
+    "img": "/images/g8_t137_q24.svg",
+    "options": [
+      "Acute Triangle (12² < 7² + 10²)",
+      "Right Triangle",
+      "Scalene Right Triangle",
+      "Obtuse Triangle"
+    ],
+    "answer": "Acute Triangle (12² < 7² + 10²)",
+    "steps": [
+      "**Step 1: Square longest side**",
+      "$$c^2 = 12^2 = 144$$",
+      "**Step 2: Sum squares of shorter sides**",
+      "$$a^2 + b^2 = 7^2 + 10^2 = 49 + 100 = 149$$",
+      "**Step 3: Compare values**",
+      "$$144 < 149 \\implies \\text{Acute Triangle}$$",
+      "**Final Verified Answer:** \\(Acute Triangle (12² < 7² + 10²)\\)"
+    ],
+    "formula": "c^2 < a^2 + b^2 \\implies \\text{Acute Triangle}"
+  },
+  {
+    "id": 134007,
+    "title": "Rescue Ladder Distance #25",
+    "text": "A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?",
+    "img": "/images/g8_t137_q25.svg",
+    "options": [
+      "8 meters",
+      "9 meters",
+      "3 meters",
+      "10 meters"
+    ],
+    "answer": "9 meters",
+    "steps": [
+      "**Step 1: Set up right triangle**",
+      "$$\\text{Ground} = \\sqrt{15^2 - 12^2} = \\sqrt{225 - 144}$$",
+      "**Step 2: Evaluate**",
+      "$$\\text{Ground} = \\sqrt{81} = 9\\text{ meters}$$",
+      "**Final Verified Answer:** \\(9 meters\\)"
+    ],
+    "formula": "\\text{Distance} = \\sqrt{15^2 - 12^2}"
+  },
+  {
+    "id": 134008,
+    "title": "TV Screen Diagonal #26",
+    "text": "A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?",
+    "img": "/images/g8_t137_q26.svg",
+    "options": [
+      "55 inches",
+      "50 inches",
+      "45 inches",
+      "70 inches"
+    ],
+    "answer": "50 inches",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$d = \\sqrt{40^2 + 30^2} = \\sqrt{1600 + 900} = \\sqrt{2500}$$",
+      "**Step 2: Take square root**",
+      "$$d = 50\\text{ inches}$$",
+      "**Final Verified Answer:** \\(50 inches\\)"
+    ],
+    "formula": "d = \\sqrt{40^2 + 30^2}"
+  },
+  {
+    "id": 134009,
+    "title": "Rectangle Diagonal #27",
+    "text": "Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.",
+    "img": "/images/g8_t137_q27.svg",
+    "options": [
+      "20 cm",
+      "24 cm",
+      "28 cm",
+      "18 cm"
+    ],
+    "answer": "20 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$d = \\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400}$$",
+      "**Step 2: Evaluate**",
+      "$$d = 20\\text{ cm}$$",
+      "**Final Verified Answer:** \\(20 cm\\)"
+    ],
+    "formula": "d = \\sqrt{16^2 + 12^2}"
+  },
+  {
+    "id": 134010,
+    "title": "Runner Compass Distance #28",
+    "text": "A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?",
+    "img": "/images/g8_t137_q28.svg",
+    "options": [
+      "10 km",
+      "14 km",
+      "7 km",
+      "12 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Identify right triangle legs**",
+      "$$\\text{Leg 1} = 6\\text{ km}, \\quad \\text{Leg 2} = 8\\text{ km}$$",
+      "**Step 2: Compute hypotenuse**",
+      "$$d = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10 km\\)"
+    ],
+    "formula": "d = \\sqrt{6^2 + 8^2}"
+  },
+  {
+    "id": 134011,
+    "title": "Equilateral Altitude & Area #29",
+    "text": "An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.",
+    "img": "/images/g8_t137_q29.svg",
+    "options": [
+      "Altitude = 5 cm, Area = 25 cm²",
+      "Altitude = 10√3 cm, Area = 50√3 cm²",
+      "Altitude = 5√3 cm, Area = 25√3 cm²",
+      "Altitude = 5√2 cm, Area = 25√2 cm²"
+    ],
+    "answer": "Altitude = 5√3 cm, Area = 25√3 cm²",
+    "steps": [
+      "**Step 1: Compute altitude h**",
+      "$$h = \\frac{\\sqrt{3}}{2} (10) = 5\\sqrt{3}\\text{ cm}$$",
+      "**Step 2: Compute Area**",
+      "$$A = \\frac{1}{2} \\times 10 \\times 5\\sqrt{3} = 25\\sqrt{3}\\text{ cm}^2$$",
+      "**Final Verified Answer:** \\(Altitude = 5√3 cm, Area = 25√3 cm²\\)"
+    ],
+    "formula": "h = \\frac{\\sqrt{3}}{2} s, \\quad A = \\frac{\\sqrt{3}}{4} s^2"
+  },
+  {
+    "id": 134012,
+    "title": "Tower Guy Wire Length #30",
+    "text": "A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.",
+    "img": "/images/g8_t137_q30.svg",
+    "options": [
+      "34 meters",
+      "22 meters",
+      "28 meters",
+      "26 meters"
+    ],
+    "answer": "26 meters",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$L = \\sqrt{24^2 + 10^2} = \\sqrt{576 + 100} = \\sqrt{676}$$",
+      "**Step 2: Evaluate square root**",
+      "$$L = 26\\text{ meters}$$",
+      "**Final Verified Answer:** \\(26 meters\\)"
+    ],
+    "formula": "L = \\sqrt{24^2 + 10^2}"
+  },
+  {
+    "id": 134013,
+    "title": "Right Triangle Hypotenuse #31",
+    "text": "In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.",
+    "img": "/images/g8_t137_q31.svg",
+    "options": [
+      "15 cm",
+      "14 cm",
+      "16 cm",
+      "21 cm"
+    ],
+    "answer": "15 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$c = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144}$$",
+      "**Step 2: Evaluate square root**",
+      "$$c = \\sqrt{225} = 15\\text{ cm}$$",
+      "**Final Verified Answer:** \\(15 cm\\)"
+    ],
+    "formula": "c = \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 134014,
+    "title": "Missing Leg Calculation #32",
+    "text": "Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.",
+    "img": "/images/g8_t137_q32.svg",
+    "options": [
+      "26 cm",
+      "24 cm",
+      "18 cm",
+      "20 cm"
+    ],
+    "answer": "24 cm",
+    "steps": [
+      "**Step 1: Solve for missing leg**",
+      "$$a = \\sqrt{25^2 - 7^2} = \\sqrt{625 - 49}$$",
+      "**Step 2: Evaluate square root**",
+      "$$a = \\sqrt{576} = 24\\text{ cm}$$",
+      "**Final Verified Answer:** \\(24 cm\\)"
+    ],
+    "formula": "a = \\sqrt{c^2 - b^2}"
+  },
+  {
+    "id": 134015,
+    "title": "Triangle Classification (8,15,17) #33",
+    "text": "Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.",
+    "img": "/images/g8_t137_q33.svg",
+    "options": [
+      "Right Triangle (17² = 8² + 15²)",
+      "Acute Triangle",
+      "Equilateral Triangle",
+      "Obtuse Triangle"
+    ],
+    "answer": "Right Triangle (17² = 8² + 15²)",
+    "steps": [
+      "**Step 1: Square the longest side**",
+      "$$c^2 = 17^2 = 289$$",
+      "**Step 2: Sum the squares of shorter sides**",
+      "$$a^2 + b^2 = 8^2 + 15^2 = 64 + 225 = 289$$",
+      "**Step 3: Compare values**",
+      "$$289 = 289 \\implies \\text{Right Triangle}$$",
+      "**Final Verified Answer:** \\(Right Triangle (17² = 8² + 15²)\\)"
+    ],
+    "formula": "c^2 = a^2 + b^2 \\implies \\text{Right Triangle}"
+  },
+  {
+    "id": 134016,
+    "title": "Triangle Classification (7,10,12) #34",
+    "text": "Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.",
+    "img": "/images/g8_t137_q34.svg",
+    "options": [
+      "Right Triangle",
+      "Acute Triangle (12² < 7² + 10²)",
+      "Scalene Right Triangle",
+      "Obtuse Triangle"
+    ],
+    "answer": "Acute Triangle (12² < 7² + 10²)",
+    "steps": [
+      "**Step 1: Square longest side**",
+      "$$c^2 = 12^2 = 144$$",
+      "**Step 2: Sum squares of shorter sides**",
+      "$$a^2 + b^2 = 7^2 + 10^2 = 49 + 100 = 149$$",
+      "**Step 3: Compare values**",
+      "$$144 < 149 \\implies \\text{Acute Triangle}$$",
+      "**Final Verified Answer:** \\(Acute Triangle (12² < 7² + 10²)\\)"
+    ],
+    "formula": "c^2 < a^2 + b^2 \\implies \\text{Acute Triangle}"
+  },
+  {
+    "id": 134017,
+    "title": "Rescue Ladder Distance #35",
+    "text": "A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?",
+    "img": "/images/g8_t137_q35.svg",
+    "options": [
+      "8 meters",
+      "10 meters",
+      "3 meters",
+      "9 meters"
+    ],
+    "answer": "9 meters",
+    "steps": [
+      "**Step 1: Set up right triangle**",
+      "$$\\text{Ground} = \\sqrt{15^2 - 12^2} = \\sqrt{225 - 144}$$",
+      "**Step 2: Evaluate**",
+      "$$\\text{Ground} = \\sqrt{81} = 9\\text{ meters}$$",
+      "**Final Verified Answer:** \\(9 meters\\)"
+    ],
+    "formula": "\\text{Distance} = \\sqrt{15^2 - 12^2}"
+  },
+  {
+    "id": 134018,
+    "title": "TV Screen Diagonal #36",
+    "text": "A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?",
+    "img": "/images/g8_t137_q36.svg",
+    "options": [
+      "45 inches",
+      "70 inches",
+      "55 inches",
+      "50 inches"
+    ],
+    "answer": "50 inches",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$d = \\sqrt{40^2 + 30^2} = \\sqrt{1600 + 900} = \\sqrt{2500}$$",
+      "**Step 2: Take square root**",
+      "$$d = 50\\text{ inches}$$",
+      "**Final Verified Answer:** \\(50 inches\\)"
+    ],
+    "formula": "d = \\sqrt{40^2 + 30^2}"
+  },
+  {
+    "id": 134019,
+    "title": "Rectangle Diagonal #37",
+    "text": "Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.",
+    "img": "/images/g8_t137_q37.svg",
+    "options": [
+      "24 cm",
+      "18 cm",
+      "28 cm",
+      "20 cm"
+    ],
+    "answer": "20 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$d = \\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400}$$",
+      "**Step 2: Evaluate**",
+      "$$d = 20\\text{ cm}$$",
+      "**Final Verified Answer:** \\(20 cm\\)"
+    ],
+    "formula": "d = \\sqrt{16^2 + 12^2}"
+  },
+  {
+    "id": 134020,
+    "title": "Runner Compass Distance #38",
+    "text": "A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?",
+    "img": "/images/g8_t137_q38.svg",
+    "options": [
+      "10 km",
+      "12 km",
+      "14 km",
+      "7 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Identify right triangle legs**",
+      "$$\\text{Leg 1} = 6\\text{ km}, \\quad \\text{Leg 2} = 8\\text{ km}$$",
+      "**Step 2: Compute hypotenuse**",
+      "$$d = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10 km\\)"
+    ],
+    "formula": "d = \\sqrt{6^2 + 8^2}"
+  },
+  {
+    "id": 134021,
+    "title": "Equilateral Altitude & Area #39",
+    "text": "An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.",
+    "img": "/images/g8_t137_q39.svg",
+    "options": [
+      "Altitude = 5√2 cm, Area = 25√2 cm²",
+      "Altitude = 5√3 cm, Area = 25√3 cm²",
+      "Altitude = 10√3 cm, Area = 50√3 cm²",
+      "Altitude = 5 cm, Area = 25 cm²"
+    ],
+    "answer": "Altitude = 5√3 cm, Area = 25√3 cm²",
+    "steps": [
+      "**Step 1: Compute altitude h**",
+      "$$h = \\frac{\\sqrt{3}}{2} (10) = 5\\sqrt{3}\\text{ cm}$$",
+      "**Step 2: Compute Area**",
+      "$$A = \\frac{1}{2} \\times 10 \\times 5\\sqrt{3} = 25\\sqrt{3}\\text{ cm}^2$$",
+      "**Final Verified Answer:** \\(Altitude = 5√3 cm, Area = 25√3 cm²\\)"
+    ],
+    "formula": "h = \\frac{\\sqrt{3}}{2} s, \\quad A = \\frac{\\sqrt{3}}{4} s^2"
+  },
+  {
+    "id": 134022,
+    "title": "Tower Guy Wire Length #40",
+    "text": "A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.",
+    "img": "/images/g8_t137_q40.svg",
+    "options": [
+      "34 meters",
+      "28 meters",
+      "26 meters",
+      "22 meters"
+    ],
+    "answer": "26 meters",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$L = \\sqrt{24^2 + 10^2} = \\sqrt{576 + 100} = \\sqrt{676}$$",
+      "**Step 2: Evaluate square root**",
+      "$$L = 26\\text{ meters}$$",
+      "**Final Verified Answer:** \\(26 meters\\)"
+    ],
+    "formula": "L = \\sqrt{24^2 + 10^2}"
+  },
+  {
+    "id": 134023,
+    "title": "Right Triangle Hypotenuse #41",
+    "text": "In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.",
+    "img": "/images/g8_t137_q41.svg",
+    "options": [
+      "14 cm",
+      "16 cm",
+      "21 cm",
+      "15 cm"
+    ],
+    "answer": "15 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$c = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144}$$",
+      "**Step 2: Evaluate square root**",
+      "$$c = \\sqrt{225} = 15\\text{ cm}$$",
+      "**Final Verified Answer:** \\(15 cm\\)"
+    ],
+    "formula": "c = \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 134024,
+    "title": "Missing Leg Calculation #42",
+    "text": "Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.",
+    "img": "/images/g8_t137_q42.svg",
+    "options": [
+      "20 cm",
+      "26 cm",
+      "24 cm",
+      "18 cm"
+    ],
+    "answer": "24 cm",
+    "steps": [
+      "**Step 1: Solve for missing leg**",
+      "$$a = \\sqrt{25^2 - 7^2} = \\sqrt{625 - 49}$$",
+      "**Step 2: Evaluate square root**",
+      "$$a = \\sqrt{576} = 24\\text{ cm}$$",
+      "**Final Verified Answer:** \\(24 cm\\)"
+    ],
+    "formula": "a = \\sqrt{c^2 - b^2}"
+  },
+  {
+    "id": 134025,
+    "title": "Triangle Classification (8,15,17) #43",
+    "text": "Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.",
+    "img": "/images/g8_t137_q43.svg",
+    "options": [
+      "Obtuse Triangle",
+      "Right Triangle (17² = 8² + 15²)",
+      "Acute Triangle",
+      "Equilateral Triangle"
+    ],
+    "answer": "Right Triangle (17² = 8² + 15²)",
+    "steps": [
+      "**Step 1: Square the longest side**",
+      "$$c^2 = 17^2 = 289$$",
+      "**Step 2: Sum the squares of shorter sides**",
+      "$$a^2 + b^2 = 8^2 + 15^2 = 64 + 225 = 289$$",
+      "**Step 3: Compare values**",
+      "$$289 = 289 \\implies \\text{Right Triangle}$$",
+      "**Final Verified Answer:** \\(Right Triangle (17² = 8² + 15²)\\)"
+    ],
+    "formula": "c^2 = a^2 + b^2 \\implies \\text{Right Triangle}"
+  },
+  {
+    "id": 134026,
+    "title": "Triangle Classification (7,10,12) #44",
+    "text": "Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.",
+    "img": "/images/g8_t137_q44.svg",
+    "options": [
+      "Obtuse Triangle",
+      "Acute Triangle (12² < 7² + 10²)",
+      "Scalene Right Triangle",
+      "Right Triangle"
+    ],
+    "answer": "Acute Triangle (12² < 7² + 10²)",
+    "steps": [
+      "**Step 1: Square longest side**",
+      "$$c^2 = 12^2 = 144$$",
+      "**Step 2: Sum squares of shorter sides**",
+      "$$a^2 + b^2 = 7^2 + 10^2 = 49 + 100 = 149$$",
+      "**Step 3: Compare values**",
+      "$$144 < 149 \\implies \\text{Acute Triangle}$$",
+      "**Final Verified Answer:** \\(Acute Triangle (12² < 7² + 10²)\\)"
+    ],
+    "formula": "c^2 < a^2 + b^2 \\implies \\text{Acute Triangle}"
+  },
+  {
+    "id": 134027,
+    "title": "Rescue Ladder Distance #45",
+    "text": "A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?",
+    "img": "/images/g8_t137_q45.svg",
+    "options": [
+      "8 meters",
+      "3 meters",
+      "10 meters",
+      "9 meters"
+    ],
+    "answer": "9 meters",
+    "steps": [
+      "**Step 1: Set up right triangle**",
+      "$$\\text{Ground} = \\sqrt{15^2 - 12^2} = \\sqrt{225 - 144}$$",
+      "**Step 2: Evaluate**",
+      "$$\\text{Ground} = \\sqrt{81} = 9\\text{ meters}$$",
+      "**Final Verified Answer:** \\(9 meters\\)"
+    ],
+    "formula": "\\text{Distance} = \\sqrt{15^2 - 12^2}"
+  },
+  {
+    "id": 134028,
+    "title": "TV Screen Diagonal #46",
+    "text": "A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?",
+    "img": "/images/g8_t137_q46.svg",
+    "options": [
+      "45 inches",
+      "50 inches",
+      "70 inches",
+      "55 inches"
+    ],
+    "answer": "50 inches",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$d = \\sqrt{40^2 + 30^2} = \\sqrt{1600 + 900} = \\sqrt{2500}$$",
+      "**Step 2: Take square root**",
+      "$$d = 50\\text{ inches}$$",
+      "**Final Verified Answer:** \\(50 inches\\)"
+    ],
+    "formula": "d = \\sqrt{40^2 + 30^2}"
+  },
+  {
+    "id": 134029,
+    "title": "Rectangle Diagonal #47",
+    "text": "Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.",
+    "img": "/images/g8_t137_q47.svg",
+    "options": [
+      "28 cm",
+      "24 cm",
+      "20 cm",
+      "18 cm"
+    ],
+    "answer": "20 cm",
+    "steps": [
+      "**Step 1: Apply Pythagorean theorem**",
+      "$$d = \\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400}$$",
+      "**Step 2: Evaluate**",
+      "$$d = 20\\text{ cm}$$",
+      "**Final Verified Answer:** \\(20 cm\\)"
+    ],
+    "formula": "d = \\sqrt{16^2 + 12^2}"
+  },
+  {
+    "id": 134030,
+    "title": "Runner Compass Distance #48",
+    "text": "A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?",
+    "img": "/images/g8_t137_q48.svg",
+    "options": [
+      "14 km",
+      "12 km",
+      "7 km",
+      "10 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Identify right triangle legs**",
+      "$$\\text{Leg 1} = 6\\text{ km}, \\quad \\text{Leg 2} = 8\\text{ km}$$",
+      "**Step 2: Compute hypotenuse**",
+      "$$d = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10 km\\)"
+    ],
+    "formula": "d = \\sqrt{6^2 + 8^2}"
+  },
+  {
+    "id": 134031,
+    "title": "Equilateral Altitude & Area #49",
+    "text": "An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.",
+    "img": "/images/g8_t137_q49.svg",
+    "options": [
+      "Altitude = 5 cm, Area = 25 cm²",
+      "Altitude = 5√3 cm, Area = 25√3 cm²",
+      "Altitude = 10√3 cm, Area = 50√3 cm²",
+      "Altitude = 5√2 cm, Area = 25√2 cm²"
+    ],
+    "answer": "Altitude = 5√3 cm, Area = 25√3 cm²",
+    "steps": [
+      "**Step 1: Compute altitude h**",
+      "$$h = \\frac{\\sqrt{3}}{2} (10) = 5\\sqrt{3}\\text{ cm}$$",
+      "**Step 2: Compute Area**",
+      "$$A = \\frac{1}{2} \\times 10 \\times 5\\sqrt{3} = 25\\sqrt{3}\\text{ cm}^2$$",
+      "**Final Verified Answer:** \\(Altitude = 5√3 cm, Area = 25√3 cm²\\)"
+    ],
+    "formula": "h = \\frac{\\sqrt{3}}{2} s, \\quad A = \\frac{\\sqrt{3}}{4} s^2"
+  },
+  {
+    "id": 134032,
+    "title": "Tower Guy Wire Length #50",
+    "text": "A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.",
+    "img": "/images/g8_t137_q50.svg",
+    "options": [
+      "34 meters",
+      "28 meters",
+      "26 meters",
+      "22 meters"
+    ],
+    "answer": "26 meters",
+    "steps": [
+      "**Step 1: Compute sum of squares**",
+      "$$L = \\sqrt{24^2 + 10^2} = \\sqrt{576 + 100} = \\sqrt{676}$$",
+      "**Step 2: Evaluate square root**",
+      "$$L = 26\\text{ meters}$$",
+      "**Final Verified Answer:** \\(26 meters\\)"
+    ],
+    "formula": "L = \\sqrt{24^2 + 10^2}"
+  },
+  {
+    "id": 134544,
+    "title": "Q12: Verify the Fundamental Pythagorean Trigonomet...",
+    "text": "Verify the Fundamental Pythagorean Trigonometric Identity: sin² θ + cos² θ = 1 for θ = 30°, θ = 45°, and θ = 60°.",
+    "img": "/images/g9_t153_q12.svg",
+    "options": [
+      "sin θ = Hyp/Opp, cos θ = Hyp/Adj, tan θ = Adj/Opp",
+      "sin θ = Opp/Adj, cos θ = Adj/Opp, tan θ = Hyp/Adj",
+      "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+      "sin θ = Adj/Hyp, cos θ = Opp/Hyp, tan θ = Hyp/Opp"
+    ],
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "steps": [
+      "**Step 1: Apply SOH** - sin = Opposite / Hypotenuse.",
+      "**Step 2: Apply CAH** - cos = Adjacent / Hypotenuse.",
+      "**Step 3: Apply TOA** - tan = Opposite / Adjacent.",
+      "**Final Verified Answer:** \\(sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj\\)"
+    ],
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}"
+  }
+]

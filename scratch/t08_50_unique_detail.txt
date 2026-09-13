@@ -1,0 +1,200 @@
+Q01 (T08-Q001):
+  Text: Derive the exact side length ratio (1 : 1 : √2) of a 45°-45°-90° right isosceles triangle by applying the Pythagorean theorem to a square cut along its diagonal.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q02 (T08-Q002):
+  Text: Derive the exact side length ratio (1 : √3 : 2) of a 30°-60°-90° right triangle by dropping an altitude in an equilateral triangle.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q03 (T08-Q003):
+  Text: State the exact formulas for the legs and hypotenuse of a 45°-45°-90° triangle given: a) leg length s, b) hypotenuse length h.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q04 (T08-Q004):
+  Text: State the formulas for the shorter leg, longer leg, and hypotenuse of a 30°-60°-90° triangle given: a) shorter leg x, b) longer leg y, c) hypotenuse h.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q05 (T08-Q005):
+  Text: In a 45°-45°-90° triangle, if each leg measures 9 cm, calculate the exact length of the hypotenuse in simplified radical form.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q06 (T08-Q006):
+  Text: In a 45°-45°-90° triangle, if the hypotenuse measures 16 cm, find the exact length of each leg in simplest radical form with rationalized denominator.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q07 (T08-Q007):
+  Text: The diagonal of a square bedroom measures 14 meters. Calculate the exact perimeter and floor area of the room.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q08 (T08-Q008):
+  Text: A square baseball diamond has 90 feet between consecutive bases. Calculate the exact throwing distance from home plate directly to second base in simplified radical form.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q09 (T08-Q009):
+  Text: The perimeter of an isosceles right triangle is (12 + 12√2) cm. Calculate the exact length of the hypotenuse and the area of the triangle.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q10 (T08-Q010):
+  Text: In a 30°-60°-90° triangle, if the shorter leg opposite the 30° angle is 7 cm, find the exact lengths of the longer leg and the hypotenuse.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q11 (T08-Q011):
+  Text: In a 30°-60°-90° triangle, if the hypotenuse measures 22 cm, determine the exact lengths of the shorter leg and the longer leg.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q12 (T08-Q012):
+  Text: In a 30°-60°-90° triangle, if the longer leg opposite the 60° angle is 15 cm, calculate the exact length of the shorter leg and the hypotenuse.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q13 (T08-Q013):
+  Text: An equilateral triangle has side lengths of 16 cm. Calculate the exact length of its altitude and its area in simplest radical form.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q14 (T08-Q014):
+  Text: The altitude of an equilateral triangle measures 9√3 cm. Calculate the perimeter and exact area of the triangle.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q15 (T08-Q015):
+  Text: The area of an equilateral triangle is 36√3 cm². Calculate its side length, perimeter, and altitude.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q16 (T08-Q016):
+  Text: In △ABC, angle A = 30°, angle B = 45°, and the altitude CD drawn from C to side AB has length 8 cm. Calculate the exact lengths of sides AC, BC, and base AB.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q17 (T08-Q017):
+  Text: In △PQR, m∠P = 45°, m∠Q = 60°, and side PQ = 12 cm. Calculate the exact length of the altitude drawn from vertex R to side PQ.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q18 (T08-Q018):
+  Text: A trapezoid has base angles of 60° and 30°. If the top base is 8 cm, the height is 6 cm, and legs extend to the lower base, find the length of the lower base and both legs.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q19 (T08-Q019):
+  Text: In an isosceles trapezoid, the base angles are each 45°, the top base is 10 cm, and the non-parallel legs are each 8 cm. Calculate the height, bottom base, and area.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q20 (T08-Q020):
+  Text: In an isosceles trapezoid with base angles of 60°, top base is 6 cm and legs are each 10 cm. Find the area and diagonal length.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q21 (T08-Q021):
+  Text: A regular hexagon is inscribed in a circle of radius 12 cm. Divide the hexagon into six special equilateral triangles to calculate its exact perimeter and area.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q22 (T08-Q022):
+  Text: A regular hexagon has an apothem (inradius) of 6√3 cm. Calculate the side length, perimeter, and area of the hexagon.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q23 (T08-Q023):
+  Text: A regular octagon is constructed by cutting four 45°-45°-90° corner triangles from a square sheet of metal of side 20 cm. Calculate the leg length of the removed triangles.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q24 (T08-Q024):
+  Text: A 12-meter extension ladder leans against a vertical building wall making a 60° angle with the horizontal ground. Calculate the exact height the ladder reaches up the wall and the distance of its foot from the base.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q25 (T08-Q025):
+  Text: A wheelchair ramp is designed with a 30° incline. If the ramp surface is 6 meters long, calculate the vertical rise gained.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q26 (T08-Q026):
+  Text: A roof truss has symmetric rafters inclined at 45° to the horizontal ceiling joist. If the house span (width) is 14 meters, calculate the rafter length and peak ceiling height.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q27 (T08-Q027):
+  Text: A guy wire supports a 30-meter radio mast. The wire is anchored to the ground at a 45° angle. Calculate the exact wire length and anchor distance from the mast base.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q28 (T08-Q028):
+  Text: A solar photovoltaic panel is tilted at 30° to horizontal on a flat commercial roof. If the panel length is 2.5 meters, calculate the vertical elevation of its top edge and its horizontal shadow footprint.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q29 (T08-Q029):
+  Text: A ship sails from port on a course of N 30° E for a distance of 80 nautical miles. Calculate how far North and how far East the ship has traveled in exact radical form.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q30 (T08-Q030):
+  Text: An airplane climbs at a steady 30° angle of elevation at an airspeed of 400 km/h. Find its vertical altitude gained and horizontal ground distance covered after 15 minutes.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q31 (T08-Q031):
+  Text: A tension cable holds a 500 N traffic light at the center of an intersection with symmetric support cables each making a 30° angle with the horizontal. Find the tension in each cable.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q32 (T08-Q032):
+  Text: Calculate the exact length of the space diagonal of a cube having an edge length of 10 cm (d = s√3) by analyzing embedded 45-45-90 and right triangles.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q33 (T08-Q033):
+  Text: A right square pyramid has a base side length of 12 cm and lateral edges of length 12 cm. Calculate the exact height of the pyramid and the slant height of its triangular faces.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q34 (T08-Q034):
+  Text: A tetrahedron has all edge lengths equal to 6 cm. Calculate the altitude of the tetrahedron in simplest radical form.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q35 (T08-Q035):
+  Text: Use a 45°-45°-90° triangle to derive the exact values of sin 45°, cos 45°, and tan 45°.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q36 (T08-Q036):
+  Text: Use a 30°-60°-90° triangle to derive the exact values of sin 30°, cos 30°, tan 30°, sin 60°, cos 60°, and tan 60°.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q37 (T08-Q037):
+  Text: Evaluate the exact numerical value of the trigonometric expression: (sin 30° · cos 45°) + (cos 30° · sin 45°).
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q38 (T08-Q038):
+  Text: Evaluate without a calculator: (tan² 60° - 2 sin² 45°) / (cos² 30° + sin² 30°).
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q39 (T08-Q039):
+  Text: Evaluate: (sin 60° · cos 30° - cos 60° · sin 30°) and verify it equals sin(60° - 30°).
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q40 (T08-Q040):
+  Text: In a 30°-60°-90° triangle, the hypotenuse is represented by 4x - 6 and the shorter leg by x + 5. Solve for x and find the length of the longer leg.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q41 (T08-Q041):
+  Text: In a 45°-45°-90° triangle, the hypotenuse is 2x + 4 and one leg is (x + 2)√2. Show that this equation holds identically for all x > -2.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q42 (T08-Q042):
+  Text: In a 30°-60°-90° triangle, the sum of the shorter leg and the hypotenuse is 36 cm. Calculate the length of the longer leg.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q43 (T08-Q043):
+  Text: A student attempts to solve a 30°-60°-90° triangle with hypotenuse 10 cm and claims the longer leg is 5 cm and shorter leg is 5√3 cm. Identify the student's error regarding side-angle opposition.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q44 (T08-Q044):
+  Text: A student computes the leg of a 45°-45°-90° triangle with hypotenuse 10 as 10√2 instead of 10/√2 = 5√2. Explain the conceptual confusion between multiplying and dividing by the scale factor.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q45 (T08-Q045):
+  Text: A folding stepladder has two legs of length 2.4 meters hinged at the top. When fully opened, the angle between the legs is 60°. Calculate the height of the ladder peak and the floor spread between the feet.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q46 (T08-Q046):
+  Text: An origami artist folds a 20 cm by 20 cm square paper along its diagonal, then folds the resulting 45-45-90 triangle along its altitude. Find the perimeter and area of the resulting shape.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q47 (T08-Q047):
+  Text: A diamond kite has upper triangular section as a 45°-45°-90° triangle with hypotenuse 30 cm, and lower section as a 30°-60°-90° composite. Calculate the total surface area.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q48 (T08-Q048):
+  Text: In a clock face of radius 15 cm, calculate the exact straight-line distance between the tip of the minute hand at 12:00 and its position at 12:20 (forming a 120° central angle / composite special triangles).
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q49 (T08-Q049):
+  Text: A CNC machine mills an equilateral triangular pocket of side 18 mm. Find the coordinates of its three vertices if the triangle is centered at the origin with one vertex on the positive y-axis.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+
+Q50 (T08-Q050):
+  Text: A surveyor measures an equilateral triangular park of perimeter 180 meters. Calculate the exact length of the central walking path connecting one vertex perpendicularly to the opposite side.
+  Comp: Solve problems involving measures of sides and angles of special triangles (30-60-90 and 45-45-90 triangles); apply special triangle relationships in contextual geometric problems.
+

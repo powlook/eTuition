@@ -1,0 +1,28 @@
+DB server/etuition.db: 50 questions found
+  Generic placeholder options count in server/etuition.db: 0
+DB QBank/server/qbank.db: 50 questions found
+  Generic placeholder options count in QBank/server/qbank.db: 0
+DB QBank/server/etuition.db: 50 questions found
+  Generic placeholder options count in QBank/server/etuition.db: 0
+JSON questions.json: 50 questions found
+  Generic placeholder options count in questions.json: 0
+JSON QBank/questions.json: 50 questions found
+  Generic placeholder options count in QBank/questions.json: 0
+JSON QBank/public/questions.json: 50 questions found
+  Generic placeholder options count in QBank/public/questions.json: 0
+JSON QBank/dist/questions.json: 50 questions found
+  Generic placeholder options count in QBank/dist/questions.json: 0
+
+--- Question ID 134386 ([T150-Q134386]) ---
+Text: Two similar rectangles have a scale factor of 3 : 5. If the perimeter of the smaller rectangle is 36 cm, find the perimeter of the larger rectangle.
+Options: ['60 cm', '100 cm', '48 cm', '75 cm']
+Correct Answer: 60 cm
+Math Formula: \frac{36}{P_{\text{large}}} = \frac{3}{5} \implies P_{\text{large}} = \frac{36 \times 5}{3} = 60\text{ cm}
+Show Image: 1, Image URL: /images/g9_t150_q4.svg
+
+--- Question ID 134402 ([T150-Q134402]) ---
+Text: In right triangle ABC with right angle at C, altitude CD is drawn to hypotenuse AB. If AD = 4 cm and DB = 9 cm, find the length of altitude CD.
+Options: ['6 cm', '6.5 cm', '13 cm', '5 cm']
+Correct Answer: 6 cm
+Math Formula: CD = \sqrt{AD \times DB} = \sqrt{4 \times 9} = \sqrt{36} = 6\text{ cm}
+Show Image: 1, Image URL: /images/g9_t150_q20.svg

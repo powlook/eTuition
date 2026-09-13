@@ -1,28 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" width="500" height="340">
   <rect width="100%" height="100%" fill="#0f172a" rx="12" />
 
-  <!-- Header Title -->
-  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
-  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
-    Probabilities of simple and compound events. #33
-  </text>
+  <g transform="translate(40, 30)">
+    <text x="20" y="140" fill="#38bdf8" font-family="sans-serif" font-size="12" font-weight="bold">Parents</text>
+    
+    <!-- Child 1 -->
+    <line x1="70" y1="135" x2="130" y2="70" stroke="#64748b" stroke-width="2"/>
+    <line x1="70" y1="135" x2="130" y2="200" stroke="#64748b" stroke-width="2"/>
+    <text x="135" y="75" fill="#ec4899" font-family="sans-serif" font-size="12" font-weight="bold">G</text>
+    <text x="135" y="205" fill="#38bdf8" font-family="sans-serif" font-size="12" font-weight="bold">B</text>
 
-  <!-- Body Content -->
-  
-        <g transform="translate(100, 70)">
-          <!-- Circle A -->
-          <circle cx="95" cy="110" r="65" fill="rgba(56, 189, 248, 0.3)" stroke="#38bdf8" stroke-width="2.5" />
-          <text x="60" y="115" font-family="sans-serif" font-size="14" fill="#38bdf8" font-weight="bold">Event A</text>
+    <!-- Child 2 & 3 Outcomes -->
+    <g transform="translate(210, 0)">
+      <text x="0" y="30" fill="#e2e8f0" font-size="11">GGG</text>
+      <text x="0" y="55" fill="#f59e0b" font-size="11" font-weight="bold">GGB (2G, 1B)</text>
+      <text x="0" y="90" fill="#f59e0b" font-size="11" font-weight="bold">GBG (2G, 1B)</text>
+      <text x="0" y="115" fill="#e2e8f0" font-size="11">GBB</text>
+      <text x="0" y="160" fill="#f59e0b" font-size="11" font-weight="bold">BGG (2G, 1B)</text>
+      <text x="0" y="185" fill="#e2e8f0" font-size="11">BGB</text>
+      <text x="0" y="220" fill="#e2e8f0" font-size="11">BBG</text>
+      <text x="0" y="245" fill="#e2e8f0" font-size="11">BBB</text>
+    </g>
+  </g>
+  <text x="250" y="315" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="12">Tree Diagram for 3 Children Gender Outcomes (8 Outcomes)</text>
 
-          <!-- Circle B -->
-          <circle cx="175" cy="110" r="65" fill="rgba(236, 72, 153, 0.3)" stroke="#ec4899" stroke-width="2.5" />
-          <text x="185" y="115" font-family="sans-serif" font-size="14" fill="#ec4899" font-weight="bold">Event B</text>
-
-          <!-- Intersection Text -->
-          <text x="135" y="115" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">A ∩ B</text>
-
-          <rect x="20" y="240" width="230" height="28" rx="6" fill="rgba(16, 185, 129, 0.9)" />
-          <text x="135" y="259" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Compound Event: P(A ∪ B) = P(A)+P(B)-P(A∩B)</text>
-        </g>
-      
 </svg>

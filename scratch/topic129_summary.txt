@@ -1,0 +1,250 @@
+QID 133333: Cartesian Quadrant Location #1
+  Img: /images/g8_t129_q1.svg
+  Text: In which quadrant of the Cartesian coordinate plane is the point \(P(-9, -9)\) located?
+  Ans: Quadrant III
+--------------------------------------------------
+QID 133334: Distance Formula #2
+  Img: /images/g8_t129_q2.svg
+  Text: Calculate the distance between points \(A(-3, 5)\) and \(B(3, 11)\) on the Cartesian plane.
+  Ans: \sqrt{72}
+--------------------------------------------------
+QID 133335: Midpoint Formula #3
+  Img: /images/g8_t129_q3.svg
+  Text: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(-7, -5)\) and \(B(2, -6)\).
+  Ans: (-2.5, -5.5)
+--------------------------------------------------
+QID 133336: Missing Endpoint Calculation #4
+  Img: /images/g8_t129_q4.svg
+  Text: The midpoint of line segment \(PQ\) is \(M(4, -4)\). If endpoint \(P\) has coordinates \((-4, -5)\), find the coordinates of endpoint \(Q\).
+  Ans: (12, -3)
+--------------------------------------------------
+QID 133337: Triangle Perimeter on Plane #5
+  Img: /images/g8_t129_q5.svg
+  Text: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle.
+  Ans: 60 units
+--------------------------------------------------
+QID 133338: Collinear Points Check #6
+  Img: /images/g8_t129_q6.svg
+  Text: Determine if the points \(A(1, 6)\), \(B(3, 10)\), and \(C(6, 16)\) lie on the same straight line (collinear).
+  Ans: Collinear (Slope m = 2)
+--------------------------------------------------
+QID 133339: Rectangle Area on Plane #7
+  Img: /images/g8_t129_q7.svg
+  Text: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-2, 4)\) and \((7, 8)\).
+  Ans: 36 sq units
+--------------------------------------------------
+QID 133340: Horizontal Distance #8
+  Img: /images/g8_t129_q8.svg
+  Text: Find the distance between the horizontal points \(P(-5, 0)\) and \(Q(7, 0)\).
+  Ans: 12 units
+--------------------------------------------------
+QID 133341: Map Distance Application #9
+  Img: /images/g8_t129_q9.svg
+  Text: On a city grid map where each unit equals 1 km, Camilla's house is at \((3, 5)\) and school is at \((9, 13)\). What is the direct distance between house and school?
+  Ans: 10 km
+--------------------------------------------------
+QID 133342: Circle Center Coordinates #10
+  Img: /images/g8_t129_q10.svg
+  Text: A circle has a diameter with endpoints at \(A(-4, -2)\) and \(B(6, 6)\). Find the center coordinates of the circle.
+  Ans: (1, 2)
+--------------------------------------------------
+QID 133343: Cartesian Quadrant Location #11
+  Img: /images/g8_t129_q11.svg
+  Text: In which quadrant of the Cartesian coordinate plane is the point \(P(-4, 4)\) located?
+  Ans: Quadrant II
+--------------------------------------------------
+QID 133344: Distance Formula #12
+  Img: /images/g8_t129_q12.svg
+  Text: Calculate the distance between points \(A(-3, -3)\) and \(B(5, 1)\) on the Cartesian plane.
+  Ans: \sqrt{80}
+--------------------------------------------------
+QID 133345: Midpoint Formula #13
+  Img: /images/g8_t129_q13.svg
+  Text: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(7, -6)\) and \(B(-5, 0)\).
+  Ans: (1, -3)
+--------------------------------------------------
+QID 133346: Missing Endpoint Calculation #14
+  Img: /images/g8_t129_q14.svg
+  Text: The midpoint of line segment \(PQ\) is \(M(0, -3)\). If endpoint \(P\) has coordinates \((7, -2)\), find the coordinates of endpoint \(Q\).
+  Ans: (-7, -4)
+--------------------------------------------------
+QID 133347: Triangle Perimeter on Plane #15
+  Img: /images/g8_t129_q15.svg
+  Text: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle.
+  Ans: 60 units
+--------------------------------------------------
+QID 133348: Collinear Points Check #16
+  Img: /images/g8_t129_q16.svg
+  Text: Determine if the points \(A(1, 8)\), \(B(3, 16)\), and \(C(6, 28)\) lie on the same straight line (collinear).
+  Ans: Collinear (Slope m = 4)
+--------------------------------------------------
+QID 133349: Rectangle Area on Plane #17
+  Img: /images/g8_t129_q17.svg
+  Text: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((0, 4)\) and \((3, 9)\).
+  Ans: 15 sq units
+--------------------------------------------------
+QID 133350: Horizontal Distance #18
+  Img: /images/g8_t129_q18.svg
+  Text: Find the distance between the horizontal points \(P(-5, -2)\) and \(Q(11, -2)\).
+  Ans: 16 units
+--------------------------------------------------
+QID 133351: Map Distance Application #19
+  Img: /images/g8_t129_q19.svg
+  Text: On a city grid map where each unit equals 1 km, Camilla's house is at \((2, 3)\) and school is at \((8, 11)\). What is the direct distance between house and school?
+  Ans: 10 km
+--------------------------------------------------
+QID 133352: Circle Center Coordinates #20
+  Img: /images/g8_t129_q20.svg
+  Text: A circle has a diameter with endpoints at \(A(-6, -2)\) and \(B(10, 8)\). Find the center coordinates of the circle.
+  Ans: (2, 3)
+--------------------------------------------------
+QID 133353: Cartesian Quadrant Location #21
+  Img: /images/g8_t129_q21.svg
+  Text: In which quadrant of the Cartesian coordinate plane is the point \(P(-2, 3)\) located?
+  Ans: Quadrant II
+--------------------------------------------------
+QID 133354: Distance Formula #22
+  Img: /images/g8_t129_q22.svg
+  Text: Calculate the distance between points \(A(-1, 4)\) and \(B(4, 8)\) on the Cartesian plane.
+  Ans: \sqrt{41}
+--------------------------------------------------
+QID 133355: Midpoint Formula #23
+  Img: /images/g8_t129_q23.svg
+  Text: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(6, -7)\) and \(B(-2, -8)\).
+  Ans: (2, -7.5)
+--------------------------------------------------
+QID 133356: Missing Endpoint Calculation #24
+  Img: /images/g8_t129_q24.svg
+  Text: The midpoint of line segment \(PQ\) is \(M(2, 3)\). If endpoint \(P\) has coordinates \((7, -5)\), find the coordinates of endpoint \(Q\).
+  Ans: (-3, 11)
+--------------------------------------------------
+QID 133357: Triangle Perimeter on Plane #25
+  Img: /images/g8_t129_q25.svg
+  Text: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle.
+  Ans: 60 units
+--------------------------------------------------
+QID 133358: Collinear Points Check #26
+  Img: /images/g8_t129_q26.svg
+  Text: Determine if the points \(A(1, 5)\), \(B(3, 13)\), and \(C(6, 25)\) lie on the same straight line (collinear).
+  Ans: Collinear (Slope m = 4)
+--------------------------------------------------
+QID 133359: Rectangle Area on Plane #27
+  Img: /images/g8_t129_q27.svg
+  Text: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-5, 3)\) and \((5, 10)\).
+  Ans: 70 sq units
+--------------------------------------------------
+QID 133360: Horizontal Distance #28
+  Img: /images/g8_t129_q28.svg
+  Text: Find the distance between the horizontal points \(P(-10, -1)\) and \(Q(12, -1)\).
+  Ans: 22 units
+--------------------------------------------------
+QID 133361: Map Distance Application #29
+  Img: /images/g8_t129_q29.svg
+  Text: On a city grid map where each unit equals 1 km, Camilla's house is at \((3, 5)\) and school is at \((9, 13)\). What is the direct distance between house and school?
+  Ans: 10 km
+--------------------------------------------------
+QID 133362: Circle Center Coordinates #30
+  Img: /images/g8_t129_q30.svg
+  Text: A circle has a diameter with endpoints at \(A(-5, 0)\) and \(B(9, 9)\). Find the center coordinates of the circle.
+  Ans: (2, 4.5)
+--------------------------------------------------
+QID 133363: Cartesian Quadrant Location #31
+  Img: /images/g8_t129_q31.svg
+  Text: In which quadrant of the Cartesian coordinate plane is the point \(P(-6, -3)\) located?
+  Ans: Quadrant III
+--------------------------------------------------
+QID 133364: Distance Formula #32
+  Img: /images/g8_t129_q32.svg
+  Text: Calculate the distance between points \(A(4, -1)\) and \(B(8, 6)\) on the Cartesian plane.
+  Ans: \sqrt{65}
+--------------------------------------------------
+QID 133365: Midpoint Formula #33
+  Img: /images/g8_t129_q33.svg
+  Text: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(-5, 5)\) and \(B(-3, -6)\).
+  Ans: (-4, -0.5)
+--------------------------------------------------
+QID 133366: Missing Endpoint Calculation #34
+  Img: /images/g8_t129_q34.svg
+  Text: The midpoint of line segment \(PQ\) is \(M(0, 0)\). If endpoint \(P\) has coordinates \((-1, 2)\), find the coordinates of endpoint \(Q\).
+  Ans: (1, -2)
+--------------------------------------------------
+QID 133367: Triangle Perimeter on Plane #35
+  Img: /images/g8_t129_q35.svg
+  Text: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle.
+  Ans: 60 units
+--------------------------------------------------
+QID 133368: Collinear Points Check #36
+  Img: /images/g8_t129_q36.svg
+  Text: Determine if the points \(A(1, 7)\), \(B(3, 15)\), and \(C(6, 27)\) lie on the same straight line (collinear).
+  Ans: Collinear (Slope m = 4)
+--------------------------------------------------
+QID 133369: Rectangle Area on Plane #37
+  Img: /images/g8_t129_q37.svg
+  Text: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-5, 4)\) and \((2, 7)\).
+  Ans: 21 sq units
+--------------------------------------------------
+QID 133370: Horizontal Distance #38
+  Img: /images/g8_t129_q38.svg
+  Text: Find the distance between the horizontal points \(P(-4, -1)\) and \(Q(4, -1)\).
+  Ans: 8 units
+--------------------------------------------------
+QID 133371: Map Distance Application #39
+  Img: /images/g8_t129_q39.svg
+  Text: On a city grid map where each unit equals 1 km, Camilla's house is at \((3, 3)\) and school is at \((9, 11)\). What is the direct distance between house and school?
+  Ans: 10 km
+--------------------------------------------------
+QID 133372: Circle Center Coordinates #40
+  Img: /images/g8_t129_q40.svg
+  Text: A circle has a diameter with endpoints at \(A(-6, -3)\) and \(B(9, 8)\). Find the center coordinates of the circle.
+  Ans: (1.5, 2.5)
+--------------------------------------------------
+QID 133373: Cartesian Quadrant Location #41
+  Img: /images/g8_t129_q41.svg
+  Text: In which quadrant of the Cartesian coordinate plane is the point \(P(-2, 9)\) located?
+  Ans: Quadrant II
+--------------------------------------------------
+QID 133374: Distance Formula #42
+  Img: /images/g8_t129_q42.svg
+  Text: Calculate the distance between points \(A(-4, -3)\) and \(B(3, 2)\) on the Cartesian plane.
+  Ans: \sqrt{74}
+--------------------------------------------------
+QID 133375: Midpoint Formula #43
+  Img: /images/g8_t129_q43.svg
+  Text: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(5, -3)\) and \(B(-1, -2)\).
+  Ans: (2, -2.5)
+--------------------------------------------------
+QID 133376: Missing Endpoint Calculation #44
+  Img: /images/g8_t129_q44.svg
+  Text: The midpoint of line segment \(PQ\) is \(M(-3, 4)\). If endpoint \(P\) has coordinates \((-3, 6)\), find the coordinates of endpoint \(Q\).
+  Ans: (-3, 2)
+--------------------------------------------------
+QID 133377: Triangle Perimeter on Plane #45
+  Img: /images/g8_t129_q45.svg
+  Text: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle.
+  Ans: 60 units
+--------------------------------------------------
+QID 133378: Collinear Points Check #46
+  Img: /images/g8_t129_q46.svg
+  Text: Determine if the points \(A(1, 8)\), \(B(3, 14)\), and \(C(6, 23)\) lie on the same straight line (collinear).
+  Ans: Collinear (Slope m = 3)
+--------------------------------------------------
+QID 133379: Rectangle Area on Plane #47
+  Img: /images/g8_t129_q47.svg
+  Text: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-3, 3)\) and \((7, 8)\).
+  Ans: 50 sq units
+--------------------------------------------------
+QID 133380: Horizontal Distance #48
+  Img: /images/g8_t129_q48.svg
+  Text: Find the distance between the horizontal points \(P(-5, 0)\) and \(Q(10, 0)\).
+  Ans: 15 units
+--------------------------------------------------
+QID 133381: Map Distance Application #49
+  Img: /images/g8_t129_q49.svg
+  Text: On a city grid map where each unit equals 1 km, Camilla's house is at \((1, 3)\) and school is at \((7, 11)\). What is the direct distance between house and school?
+  Ans: 10 km
+--------------------------------------------------
+QID 133382: Circle Center Coordinates #50
+  Img: /images/g8_t129_q50.svg
+  Text: A circle has a diameter with endpoints at \(A(-5, 2)\) and \(B(4, 9)\). Find the center coordinates of the circle.
+  Ans: (-0.5, 5.5)
+--------------------------------------------------

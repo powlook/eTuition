@@ -1,0 +1,250 @@
+Q01 (T03-Q001): State the Converse of the Corresponding Angles Postulate and explain how it serves as a criterion to establish that two lines are parallel.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q02 (T03-Q002): State the Converse of the Alternate Interior Angles Theorem and formulate its if-then statement.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q03 (T03-Q003): State the Converse of the Consecutive Interior Angles Theorem.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q04 (T03-Q004): State the Converse of the Alternate Exterior Angles Theorem.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q05 (T03-Q005): Two lines cut by a transversal form alternate interior angles measuring (5x - 14)° and (3x + 22)°. Find the exact value of x that guarantees the two lines are parallel.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q06 (T03-Q006): Two lines are intersected by a transversal. If a pair of consecutive interior angles measure (7x + 16)° and (4x + 32)°, determine the value of x that ensures the lines are parallel.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q07 (T03-Q007): Lines p and q are cut by transversal t. If a pair of corresponding angles measure (2x² - 15)° and (x² + 10)°, solve for all valid real values of x that make p || q.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q08 (T03-Q008): Two lines are cut by a transversal forming same-side exterior angles measuring (6x + 20)° and (4x - 10)°. Find the value of x for which the lines are parallel.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q09 (T03-Q009): State the algebraic slope condition for two non-vertical lines with slopes m₁ and m₂ to be parallel (m₁ = m₂).
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q10 (T03-Q010): State the algebraic slope condition for two non-vertical lines with slopes m₁ and m₂ to be perpendicular (m₁ · m₂ = -1 or m₂ = -1/m₁).
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q11 (T03-Q011): Line L₁ passes through (-3, 5) and (1, -3). Line L₂ passes through (2, 7) and (6, -1). Determine whether L₁ and L₂ are parallel, perpendicular, or neither.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q12 (T03-Q012): Line L₁ passes through (-2, -1) and (4, 3). Line L₂ passes through (1, 6) and (5, 0). Determine whether L₁ is perpendicular to L₂ by computing their slopes.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q13 (T03-Q013): Find the slope of a line parallel to the linear equation 5x - 2y = 10.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q14 (T03-Q014): Find the slope of a line perpendicular to the linear equation 3x + 4y = 12.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q15 (T03-Q015): Find the equation of the line in slope-intercept form that passes through the point P(4, -2) and is parallel to the line y = 3x - 5.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q16 (T03-Q016): Find the equation of the line in standard form Ax + By = C that passes through P(-3, 6) and is perpendicular to the line 2x - 5y = 15.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q17 (T03-Q017): Find the equation of the line passing through (5, -1) that is parallel to the horizontal line y = 4.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q18 (T03-Q018): Find the equation of the line passing through (-2, 7) that is perpendicular to the vertical line x = -3.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q19 (T03-Q019): Find the equation of the perpendicular bisector of the line segment joining A(-4, 2) and B(6, 10).
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q20 (T03-Q020): Triangle ABC has vertices A(1, 1), B(7, 3), and C(3, 7). Find the slope of side AB and determine the equation of the altitude line drawn from vertex C to side AB.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q21 (T03-Q021): A quadrilateral has vertices P(-2, 1), Q(2, 4), R(5, 0), and S(1, -3). Prove that PQRS is a rectangle by testing slopes for both parallelism of opposite sides and perpendicularity of adjacent sides.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q22 (T03-Q022): Determine whether the quadrilateral with vertices A(0, 0), B(4, 2), C(3, 5), and D(-1, 3) is a parallelogram, rhombus, or square using slopes and side lengths.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q23 (T03-Q023): Line L₁ passes through (k, 4) and (2, -2). Line L₂ passes through (1, 5) and (-2, -1). Find the value of k such that L₁ is parallel to L₂.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q24 (T03-Q024): Line L₁ has equation 4x - ky = 8. Line L₂ passes through (-1, 3) and (2, -1). Find the value of k such that L₁ is perpendicular to L₂.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q25 (T03-Q025): Determine the value of p such that the linear equations 3x + py = 9 and 2x - 6y = 5 represent perpendicular lines.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q26 (T03-Q026): Find the value of m such that the lines mx + 3y = 7 and 4x + 6y = 11 are parallel.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q27 (T03-Q027): State the formula for the perpendicular distance d from a point (x₀, y₀) to a line Ax + By + C = 0.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q28 (T03-Q028): Calculate the perpendicular distance from the point P(3, -2) to the line 4x - 3y + 7 = 0.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q29 (T03-Q029): Calculate the exact perpendicular distance between the two parallel lines L₁: 3x + 4y - 10 = 0 and L₂: 3x + 4y + 15 = 0.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q30 (T03-Q030): Explain step-by-step how to construct a perpendicular line to a given line through a point lying on the line using only compass and straightedge.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q31 (T03-Q031): Explain how to construct a perpendicular line to a given line from a point not on the line.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q32 (T03-Q032): Explain how to construct a square given one side length using perpendicular constructions.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q33 (T03-Q033): A civil engineer designs two parallel railway tracks. Track 1 follows the equation 2x - 5y = 100. If Track 2 passes through a station at (50, 40), write the equation of Track 2.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q34 (T03-Q034): Two straight roads intersect at a crossroads modeled by the equations 3x - 4y = 12 and 4x + 3y = 24. Verify whether the intersection is a true right angle.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q35 (T03-Q035): In residential plumbing, drainage pipes must slope at 2 cm per meter. Write the linear equation of a drainage pipe passing through (0, 100) and find the equation of a vertical vent stack perpendicular to it.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q36 (T03-Q036): A solar farm mounts panels on parallel support rails modeled by 4x - y = c. If three consecutive rails pass through (0, 0), (0, 5), and (0, 10), write their linear equations.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q37 (T03-Q037): Write a two-column proof: Given that line segment AB ⊥ BC and DC ⊥ BC, prove that line AB is parallel to line DC.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q38 (T03-Q038): Write a two-column proof: Prove that if the diagonals of a parallelogram are perpendicular, then the parallelogram must be a rhombus.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q39 (T03-Q039): Prove that two lines that are both perpendicular to the same line in a plane are parallel to each other.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q40 (T03-Q040): Prove the Transitivity of Parallel Lines: if line a || line b and line b || line c, then line a || line c.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q41 (T03-Q041): In 2D computer graphics, a vector normal (perpendicular) to the edge vector v = <dx, dy> is given by n = <-dy, dx>. Explain why the dot product v · n = 0 establishes perpendicularity.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q42 (T03-Q042): A robotic arm moves along a path y = -0.5x + 4. Find the velocity vector and path equation of a laser sensor required to scan perpendicularly to the arm trajectory.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q43 (T03-Q043): A student states that the line y = 3 and the line x = 3 are parallel because both contain the number 3. Correct this misconception and explain their geometric relationship.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q44 (T03-Q044): A student computes the perpendicular slope to m = -2/5 as m_perp = 5/2, but forgets the negative reciprocal rule when m = 0. What is the perpendicular slope to a horizontal line?
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q45 (T03-Q045): A student claims that any two distinct lines with equal y-intercepts must be parallel. Give a counterexample with sketches.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q46 (T03-Q046): Find the coordinates of the orthocenter (intersection of altitudes) of triangle ABC with vertices A(0, 0), B(6, 0), and C(2, 4).
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q47 (T03-Q047): Find the coordinates of the circumcenter (intersection of perpendicular bisectors) of triangle ABC with vertices A(0, 0), B(8, 0), and C(0, 6).
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q48 (T03-Q048): Determine whether the lines 2x - 3y = 7, 3x + 2y = 4, and 4x - 6y = 14 form a right triangle, parallel lines, or concurrent lines.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q49 (T03-Q049): Find the equation of the line passing through the intersection of 2x + 3y = 5 and x - y = 0 that is perpendicular to the line 3x - 2y = 8.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+
+Q50 (T03-Q050): A laser beam emitted from (2, 8) reflects off a mirror line y = 2x - 1 perpendicularly. Find the coordinates of the point of reflection.
+  LaTeX/Formula: 
+  Opts: A:  | B:  | C:  | D: 
+  Ans:  
+

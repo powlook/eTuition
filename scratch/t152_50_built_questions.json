@@ -1,0 +1,1102 @@
+[
+  {
+    "num": 1,
+    "id": 134483,
+    "title": "Q1: State the Triangle Inequality Theorem regardi...",
+    "text": "State the Triangle Inequality Theorem regarding the sum of any two side lengths of a triangle.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 2,
+    "id": 134484,
+    "title": "Q2: Determine whether a triangle can be construct...",
+    "text": "Determine whether a triangle can be constructed with side lengths: a) 4 cm, 7 cm, 12 cm; b) 5 cm, 12 cm, 13 cm; c) 6 cm, 8 cm, 14 cm.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q2.svg"
+  },
+  {
+    "num": 3,
+    "id": 134485,
+    "title": "Q3: Two sides of a triangle measure 9 cm and 15 c...",
+    "text": "Two sides of a triangle measure 9 cm and 15 cm. Find the range of possible lengths for the third side x.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q3.svg"
+  },
+  {
+    "num": 4,
+    "id": 134486,
+    "title": "Q4: If the sides of a triangle measure 3x, 4x, an...",
+    "text": "If the sides of a triangle measure 3x, 4x, and 28, find the range of possible values for x.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q4.svg"
+  },
+  {
+    "num": 5,
+    "id": 134487,
+    "title": "Q5: State the Side-Angle Inequality Theorem (the ...",
+    "text": "State the Side-Angle Inequality Theorem (the larger angle lies opposite the longer side).",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 6,
+    "id": 134488,
+    "title": "Q6: In △ABC, side AB = 11 cm, BC = 8 cm, and AC =...",
+    "text": "In △ABC, side AB = 11 cm, BC = 8 cm, and AC = 14 cm. Arrange the interior angles ∠A, ∠B, ∠C in order from smallest to largest.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q6.svg"
+  },
+  {
+    "num": 7,
+    "id": 134489,
+    "title": "Q7: State the Angle-Side Inequality Theorem (the ...",
+    "text": "State the Angle-Side Inequality Theorem (the longer side lies opposite the larger angle).",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 8,
+    "id": 134490,
+    "title": "Q8: In △PQR, m∠P = 52°, m∠Q = 68°, and m∠R = 60°....",
+    "text": "In △PQR, m∠P = 52°, m∠Q = 68°, and m∠R = 60°. Arrange the side lengths PQ, QR, PR in order from shortest to longest.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q8.svg"
+  },
+  {
+    "num": 9,
+    "id": 134491,
+    "title": "Q9: State the Exterior Angle Inequality Theorem....",
+    "text": "State the Exterior Angle Inequality Theorem.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 10,
+    "id": 134492,
+    "title": "Q10: In △XYZ, exterior angle at vertex Y measures ...",
+    "text": "In △XYZ, exterior angle at vertex Y measures 110°. If m∠X = 45°, prove that the exterior angle is strictly greater than either remote interior angle.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q10.svg"
+  },
+  {
+    "num": 11,
+    "id": 134493,
+    "title": "Q11: State the Hinge Theorem (SAS Inequality Theor...",
+    "text": "State the Hinge Theorem (SAS Inequality Theorem) for comparing two triangles with two pairs of congruent sides.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 12,
+    "id": 134494,
+    "title": "Q12: State the Converse of the Hinge Theorem (SSS ...",
+    "text": "State the Converse of the Hinge Theorem (SSS Inequality Theorem).",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 13,
+    "id": 134495,
+    "title": "Q13: In △ABC and △DEF, AB = DE = 8 cm, AC = DF = 1...",
+    "text": "In △ABC and △DEF, AB = DE = 8 cm, AC = DF = 11 cm. If m∠A = 55° and m∠D = 70°, use the Hinge Theorem to compare the lengths of BC and EF.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q13.svg"
+  },
+  {
+    "num": 14,
+    "id": 134496,
+    "title": "Q14: In △PQR and △STU, PQ = ST = 6, PR = SU = 9, Q...",
+    "text": "In △PQR and △STU, PQ = ST = 6, PR = SU = 9, QR = 8, and TU = 11. Use the Converse of the Hinge Theorem to compare m∠P and m∠S.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q14.svg"
+  },
+  {
+    "num": 15,
+    "id": 134497,
+    "title": "Q15: State the Perpendicular Bisector Theorem and ...",
+    "text": "State the Perpendicular Bisector Theorem and its geometric significance in finding equidistant locations.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 16,
+    "id": 134498,
+    "title": "Q16: State the Isosceles Triangle Theorem and its ...",
+    "text": "State the Isosceles Triangle Theorem and its converse.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 17,
+    "id": 134499,
+    "title": "Q17: In an isosceles triangle, if the vertex angle...",
+    "text": "In an isosceles triangle, if the vertex angle is obtuse, explain why the base must be the longest side of the triangle.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q17.svg"
+  },
+  {
+    "num": 18,
+    "id": 134500,
+    "title": "Q18: State the Equilateral Triangle Theorem and pr...",
+    "text": "State the Equilateral Triangle Theorem and prove that all three interior angles must be 60°.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 19,
+    "id": 134501,
+    "title": "Q19: State the Midline Theorem for triangles: prov...",
+    "text": "State the Midline Theorem for triangles: prove that the segment joining the midpoints of two sides is parallel to the third side and half its length.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 20,
+    "id": 134502,
+    "title": "Q20: In △ABC, points D and E are midpoints of AB a...",
+    "text": "In △ABC, points D and E are midpoints of AB and AC respectively. If DE = 3x - 2 and BC = 4x + 8, find the value of x, DE, and BC.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q20.svg"
+  },
+  {
+    "num": 21,
+    "id": 134503,
+    "title": "Q21: In right-angled triangle ABC with hypotenuse ...",
+    "text": "In right-angled triangle ABC with hypotenuse AB, prove using triangle inequalities that the hypotenuse is the longest side.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q21.svg"
+  },
+  {
+    "num": 22,
+    "id": 134504,
+    "title": "Q22: A triangle has integer side lengths. Two side...",
+    "text": "A triangle has integer side lengths. Two sides are 5 cm and 11 cm. What is the minimum possible perimeter and maximum possible perimeter of the triangle?",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q22.svg"
+  },
+  {
+    "num": 23,
+    "id": 134505,
+    "title": "Q23: If an isosceles triangle has legs of length 1...",
+    "text": "If an isosceles triangle has legs of length 10 cm, what is the range of possible lengths for its base?",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q23.svg"
+  },
+  {
+    "num": 24,
+    "id": 134506,
+    "title": "Q24: In △ABC, angle bisector AD is drawn to side B...",
+    "text": "In △ABC, angle bisector AD is drawn to side BC. If AB = 10 and AC = 6, compare the lengths of BD and CD.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q24.svg"
+  },
+  {
+    "num": 25,
+    "id": 134507,
+    "title": "Q25: Given four points A, B, C, D in a plane formi...",
+    "text": "Given four points A, B, C, D in a plane forming quadrilateral ABCD, prove that the sum of the lengths of the diagonals AC + BD is greater than half the perimeter of the quadrilateral.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q25.svg"
+  },
+  {
+    "num": 26,
+    "id": 134508,
+    "title": "Q26: Can a triangle have side lengths in the ratio...",
+    "text": "Can a triangle have side lengths in the ratio 2 : 3 : 6? Justify your answer using the Triangle Inequality Theorem.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 27,
+    "id": 134509,
+    "title": "Q27: In △KLM, m∠K = (3x + 10)°, m∠L = (2x + 20)°, ...",
+    "text": "In △KLM, m∠K = (3x + 10)°, m∠L = (2x + 20)°, and m∠M = (4x - 30)°. Find x, determine the angle measures, and order the sides from shortest to longest.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q27.svg"
+  },
+  {
+    "num": 28,
+    "id": 134510,
+    "title": "Q28: A surveyor needs to position a cell phone rel...",
+    "text": "A surveyor needs to position a cell phone relay station equidistant from three towns located at vertices A, B, and C. Explain which triangle center must be located and why.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q28.svg"
+  },
+  {
+    "num": 29,
+    "id": 134511,
+    "title": "Q29: A municipal engineer wants to build a central...",
+    "text": "A municipal engineer wants to build a central water reservoir equidistant from three major pipelines that form a triangle. Which triangle center should be used?",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q29.svg"
+  },
+  {
+    "num": 30,
+    "id": 134512,
+    "title": "Q30: Two hikers leave the same camp. Hiker A walks...",
+    "text": "Two hikers leave the same camp. Hiker A walks 4 km East, then turns 40° North of East and walks 3 km. Hiker B walks 4 km East, then turns 60° North of East and walks 3 km. Who is farther from the camp? Justify using the Hinge Theorem.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q30.svg"
+  },
+  {
+    "num": 31,
+    "id": 134513,
+    "title": "Q31: In △ABC, point P lies in the interior of the ...",
+    "text": "In △ABC, point P lies in the interior of the triangle. Prove that PA + PB + PC > (1/2)(AB + BC + AC).",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q31.svg"
+  },
+  {
+    "num": 32,
+    "id": 134514,
+    "title": "Q32: In an acute triangle, explain why the sum of ...",
+    "text": "In an acute triangle, explain why the sum of any two altitudes is greater than the third altitude.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q32.svg"
+  },
+  {
+    "num": 33,
+    "id": 134515,
+    "title": "Q33: A triangular garden has two sides of length 1...",
+    "text": "A triangular garden has two sides of length 12 m and 18 m. If the enclosed angle between them increases from 45° to 75°, what happens to the length of the third side? Explain using the Hinge Theorem.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q33.svg"
+  },
+  {
+    "num": 34,
+    "id": 134516,
+    "title": "Q34: Prove that the perimeter of a triangle is gre...",
+    "text": "Prove that the perimeter of a triangle is greater than the sum of its three medians.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q34.svg"
+  },
+  {
+    "num": 35,
+    "id": 134517,
+    "title": "Q35: If the sides of a triangle are a, b, and c wi...",
+    "text": "If the sides of a triangle are a, b, and c with a ≤ b ≤ c, state the single condition necessary to guarantee a valid triangle.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 36,
+    "id": 134518,
+    "title": "Q36: Determine all possible integer values for the...",
+    "text": "Determine all possible integer values for the third side of a triangle whose other two sides measure 7 cm and 10 cm.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q36.svg"
+  },
+  {
+    "num": 37,
+    "id": 134519,
+    "title": "Q37: In △ABC, altitude AH is drawn from vertex A t...",
+    "text": "In △ABC, altitude AH is drawn from vertex A to side BC. Prove that AB > AH and AC > AH.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q37.svg"
+  },
+  {
+    "num": 38,
+    "id": 134520,
+    "title": "Q38: In △PQR, PQ > PR. S is a point on QR such tha...",
+    "text": "In △PQR, PQ > PR. S is a point on QR such that PS is an altitude. Prove that QS > SR.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q38.svg"
+  },
+  {
+    "num": 39,
+    "id": 134521,
+    "title": "Q39: In △ABC, median AM is drawn from vertex A to ...",
+    "text": "In △ABC, median AM is drawn from vertex A to midpoint M of BC. Prove that AM < (1/2)(AB + AC).",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q39.svg"
+  },
+  {
+    "num": 40,
+    "id": 134522,
+    "title": "Q40: Explain why a triangle cannot have interior a...",
+    "text": "Explain why a triangle cannot have interior angle measures of 40°, 60°, and 90°.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 41,
+    "id": 134523,
+    "title": "Q41: In △ABC, if m∠A > m∠B > m∠C, what is the rela...",
+    "text": "In △ABC, if m∠A > m∠B > m∠C, what is the relationship between the lengths of altitudes h_a, h_b, and h_c?",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q41.svg"
+  },
+  {
+    "num": 42,
+    "id": 134524,
+    "title": "Q42: A mechanical robotic crane has two linked arm...",
+    "text": "A mechanical robotic crane has two linked arms of lengths 3 m and 2 m. Describe the circular boundary region accessible by the tip of the crane.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q42.svg"
+  },
+  {
+    "num": 43,
+    "id": 134525,
+    "title": "Q43: In △XYZ, XY = 8, YZ = x + 3, and XZ = 2x - 1....",
+    "text": "In △XYZ, XY = 8, YZ = x + 3, and XZ = 2x - 1. Find the range of values for x that allows △XYZ to exist.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q43.svg"
+  },
+  {
+    "num": 44,
+    "id": 134526,
+    "title": "Q44: Prove that in any right triangle, the sum of ...",
+    "text": "Prove that in any right triangle, the sum of the lengths of the two legs is greater than the length of the hypotenuse, but less than √2 times the hypotenuse.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 45,
+    "id": 134527,
+    "title": "Q45: In △ABC, D is a point on segment BC. Prove th...",
+    "text": "In △ABC, D is a point on segment BC. Prove that AD < max(AB, AC).",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180",
+      "The product of two sides equals the third side",
+      "The longest side equals the sum of the two shorter sides"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q45.svg"
+  },
+  {
+    "num": 46,
+    "id": 134528,
+    "title": "Q46: An isosceles triangle has a perimeter of 30 c...",
+    "text": "An isosceles triangle has a perimeter of 30 cm. If the side lengths are integers, find all possible dimensions (leg, leg, base) of the triangle.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q46.svg"
+  },
+  {
+    "num": 47,
+    "id": 134529,
+    "title": "Q47: If two sides of a triangle are 14 cm and 9 cm...",
+    "text": "If two sides of a triangle are 14 cm and 9 cm, can the third side be 5 cm? Explain why or why not.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 48,
+    "id": 134530,
+    "title": "Q48: In △ABC, exterior angles at vertices A, B, an...",
+    "text": "In △ABC, exterior angles at vertices A, B, and C are in the ratio 4 : 5 : 6. Find the interior angles and order the sides from longest to shortest.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q48.svg"
+  },
+  {
+    "num": 49,
+    "id": 134531,
+    "title": "Q49: Given quadrilateral ABCD, prove that AB + BC ...",
+    "text": "Given quadrilateral ABCD, prove that AB + BC + CD > AD.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The product of two sides equals the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": true,
+    "img_url": "/images/g9_t152_q49.svg"
+  },
+  {
+    "num": 50,
+    "id": 134532,
+    "title": "Q50: Explain how the Hinge Theorem applies to the ...",
+    "text": "Explain how the Hinge Theorem applies to the opening and closing of a door or scissors.",
+    "formula": "a + b > c, \\quad a + c > b, \\quad b + c > a",
+    "options": [
+      "The longest side equals the sum of the two shorter sides",
+      "The product of two sides equals the third side",
+      "The sum of the lengths of any two sides must be strictly greater than the third side",
+      "The sum of all three sides equals 180"
+    ],
+    "answer": "The sum of the lengths of any two sides must be strictly greater than the third side",
+    "hint": "Triangle Inequality Theorem requires a + b > c for all three side combinations.",
+    "steps": [
+      "**Step 1: State Triangle Inequality Theorem**",
+      "$$a + b > c$$",
+      "**Final Verified Answer:** \\(The sum of the lengths of any two sides must be strictly greater than the third side\\)"
+    ],
+    "needs_img": false,
+    "img_url": null
+  }
+]

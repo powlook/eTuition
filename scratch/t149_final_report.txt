@@ -1,0 +1,28 @@
+DB server/etuition.db: 50 questions found
+  Generic placeholder options count in server/etuition.db: 0
+DB QBank/server/qbank.db: 50 questions found
+  Generic placeholder options count in QBank/server/qbank.db: 0
+DB QBank/server/etuition.db: 50 questions found
+  Generic placeholder options count in QBank/server/etuition.db: 0
+JSON questions.json: 50 questions found
+  Generic placeholder options count in questions.json: 0
+JSON QBank/questions.json: 50 questions found
+  Generic placeholder options count in QBank/questions.json: 0
+JSON QBank/public/questions.json: 50 questions found
+  Generic placeholder options count in QBank/public/questions.json: 0
+JSON QBank/dist/questions.json: 50 questions found
+  Generic placeholder options count in QBank/dist/questions.json: 0
+
+--- Question ID 134333 ([T149-Q134333]) ---
+Text: Differentiate inductive reasoning from deductive reasoning. Provide an example of each in mathematical problem solving.
+Options: ['Inductive reasoning arrives at a general conclusion from specific observations/patterns; Deductive reasoning uses established facts/rules to prove a specific logical conclusion.', 'Inductive reasoning uses formal algebraic proofs; Deductive reasoning uses visual observation only.', 'Inductive reasoning is always 100% logically valid; Deductive reasoning is only an educated guess.', 'Inductive reasoning applies only to geometry; Deductive reasoning applies only to arithmetic.']
+Correct Answer: Inductive reasoning arrives at a general conclusion from specific observations/patterns; Deductive reasoning uses established facts/rules to prove a specific logical conclusion.
+Math Formula: \text{Inductive: Patterns } \implies \text{Conjecture; Deductive: Rules } \implies \text{Logical conclusion}
+Show Image: 0, Image URL: None
+
+--- Question ID 134356 ([T149-Q134356]) ---
+Text: Formulate an indirect proof (proof by contradiction): Prove that a triangle cannot have more than one right angle.
+Options: ['Assume a triangle has two right angles (90° + 90° = 180°); adding the 3rd angle makes sum > 180°, contradicting the Triangle Angle Sum Theorem (sum = 180°). Thus, assumption is false.', 'Assume a triangle has zero right angles; then sum of angles = 360°, which is impossible.', 'Assume all angles are obtuse; then the triangle becomes a circle.', 'Direct proof showing that 90 + 90 = 180.']
+Correct Answer: Assume a triangle has two right angles (90° + 90° = 180°); adding the 3rd angle makes sum > 180°, contradicting the Triangle Angle Sum Theorem (sum = 180°). Thus, assumption is false.
+Math Formula: \text{Assume } \angle A = 90^\circ, \angle B = 90^\circ \implies \text{Sum } > 180^\circ \text{ (Contradiction!)}
+Show Image: 0, Image URL: None

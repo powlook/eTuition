@@ -1,0 +1,502 @@
+[
+  {
+    "num": 1,
+    "id": 134533,
+    "title": "Q1: Define the three primary trigonometric ratios...",
+    "text": "Define the three primary trigonometric ratios: sine (sin), cosine (cos), and tangent (tan) in terms of opposite, adjacent, and hypotenuse of a right triangle.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q1.svg",
+    "show_img": 1
+  },
+  {
+    "num": 2,
+    "id": 134534,
+    "title": "Q2: State the mnemonic SOH-CAH-TOA and explain it...",
+    "text": "State the mnemonic SOH-CAH-TOA and explain its meaning.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q2.svg",
+    "show_img": 1
+  },
+  {
+    "num": 3,
+    "id": 134535,
+    "title": "Q3: In right triangle ABC with right angle at C, ...",
+    "text": "In right triangle ABC with right angle at C, side a = 3, b = 4, and c = 5. Write the exact values of sin A, cos A, tan A, sin B, cos B, and tan B.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q3.svg",
+    "show_img": 1
+  },
+  {
+    "num": 4,
+    "id": 134536,
+    "title": "Q4: In right triangle XYZ with right angle at Y, ...",
+    "text": "In right triangle XYZ with right angle at Y, leg XY = 5 cm and hypotenuse XZ = 13 cm. Find the length of leg YZ and evaluate sin X, cos X, and tan X.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q4.svg",
+    "show_img": 1
+  },
+  {
+    "num": 5,
+    "id": 134537,
+    "title": "Q5: State the exact values of sin 30°, cos 30°, a...",
+    "text": "State the exact values of sin 30°, cos 30°, and tan 30° in radical form.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q5.svg",
+    "show_img": 1
+  },
+  {
+    "num": 6,
+    "id": 134538,
+    "title": "Q6: State the exact values of sin 45°, cos 45°, a...",
+    "text": "State the exact values of sin 45°, cos 45°, and tan 45° in radical form.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q6.svg",
+    "show_img": 1
+  },
+  {
+    "num": 7,
+    "id": 134539,
+    "title": "Q7: State the exact values of sin 60°, cos 60°, a...",
+    "text": "State the exact values of sin 60°, cos 60°, and tan 60° in radical form.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q7.svg",
+    "show_img": 1
+  },
+  {
+    "num": 8,
+    "id": 134540,
+    "title": "Q8: Define the reciprocal trigonometric ratios: c...",
+    "text": "Define the reciprocal trigonometric ratios: cosecant (csc), secant (sec), and cotangent (cot).",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q8.svg",
+    "show_img": 1
+  },
+  {
+    "num": 9,
+    "id": 134541,
+    "title": "Q9: State the co-function identities relating sin...",
+    "text": "State the co-function identities relating sine and cosine, and tangent and cotangent for complementary acute angles (e.g., sin θ = cos(90° - θ)).",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q9.svg",
+    "show_img": 1
+  },
+  {
+    "num": 10,
+    "id": 134542,
+    "title": "Q10: If sin θ = 0.6 and θ is an acute angle, find ...",
+    "text": "If sin θ = 0.6 and θ is an acute angle, find the exact values of cos θ and tan θ without using a calculator.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q10.svg",
+    "show_img": 1
+  },
+  {
+    "num": 11,
+    "id": 134543,
+    "title": "Q11: If tan A = 5/12 and A is an acute angle, find...",
+    "text": "If tan A = 5/12 and A is an acute angle, find sin A and cos A.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q11.svg",
+    "show_img": 1
+  },
+  {
+    "num": 12,
+    "id": 134544,
+    "title": "Q12: Verify the Fundamental Pythagorean Trigonomet...",
+    "text": "Verify the Fundamental Pythagorean Trigonometric Identity: sin² θ + cos² θ = 1 for θ = 30°, θ = 45°, and θ = 60°.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q12.svg",
+    "show_img": 1
+  },
+  {
+    "num": 13,
+    "id": 134545,
+    "title": "Q13: Define an angle of elevation and illustrate w...",
+    "text": "Define an angle of elevation and illustrate with a labeled sketch.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q13.svg",
+    "show_img": 1
+  },
+  {
+    "num": 14,
+    "id": 134546,
+    "title": "Q14: Define an angle of depression and explain why...",
+    "text": "Define an angle of depression and explain why the angle of depression from an observer to an object equals the angle of elevation from the object to the observer.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q14.svg",
+    "show_img": 1
+  },
+  {
+    "num": 15,
+    "id": 134547,
+    "title": "Q15: From a point on the ground 25 meters away fro...",
+    "text": "From a point on the ground 25 meters away from the base of a cell tower, the angle of elevation to the top of the tower is 58°. Calculate the height of the tower to two decimal places.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q15.svg",
+    "show_img": 1
+  },
+  {
+    "num": 16,
+    "id": 134548,
+    "title": "Q16: A lighthouse keeper at top of a 40-meter clif...",
+    "text": "A lighthouse keeper at top of a 40-meter cliff spots a boat at sea. The angle of depression from the top of the lighthouse (height 15 m above cliff) to the boat is 18°. How far is the boat from the base of the cliff?",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q16.svg",
+    "show_img": 1
+  },
+  {
+    "num": 17,
+    "id": 134549,
+    "title": "Q17: A 6-meter ladder leans against a building mak...",
+    "text": "A 6-meter ladder leans against a building making a 72° angle with the ground. How high up the building does the ladder reach?",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q17.svg",
+    "show_img": 1
+  },
+  {
+    "num": 18,
+    "id": 134550,
+    "title": "Q18: A kite is flying at a string length of 80 met...",
+    "text": "A kite is flying at a string length of 80 meters. If the string makes an angle of 52° with the horizontal, find the altitude of the kite above the ground (assume the string is straight).",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q18.svg",
+    "show_img": 1
+  },
+  {
+    "num": 19,
+    "id": 134551,
+    "title": "Q19: An airplane climbs at a steady angle of 12° a...",
+    "text": "An airplane climbs at a steady angle of 12° after takeoff. What is the ground distance covered when the airplane reaches an altitude of 3,000 meters?",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q19.svg",
+    "show_img": 1
+  },
+  {
+    "num": 20,
+    "id": 134552,
+    "title": "Q20: Solve the right triangle ABC (∠C = 90°) given...",
+    "text": "Solve the right triangle ABC (∠C = 90°) given that ∠A = 36° and hypotenuse c = 15 cm. Find ∠B, side a, and side b.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q20.svg",
+    "show_img": 1
+  },
+  {
+    "num": 21,
+    "id": 134553,
+    "title": "Q21: Solve the right triangle ABC (∠C = 90°) given...",
+    "text": "Solve the right triangle ABC (∠C = 90°) given that side a = 8 cm and side b = 15 cm. Find hypotenuse c, ∠A, and ∠B in degrees.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q21.svg",
+    "show_img": 1
+  },
+  {
+    "num": 22,
+    "id": 134554,
+    "title": "Q22: From the top of an 80-meter observation tower...",
+    "text": "From the top of an 80-meter observation tower, the angles of depression to two cars parked in a straight line with the tower base are 35° and 50°. Calculate the distance between the two cars.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q22.svg",
+    "show_img": 1
+  },
+  {
+    "num": 23,
+    "id": 134555,
+    "title": "Q23: A surveyor stands at distance d from a buildi...",
+    "text": "A surveyor stands at distance d from a building. The angle of elevation to the top of the building is 30°. After walking 30 meters closer, the angle of elevation becomes 60°. Find the height of the building.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q23.svg",
+    "show_img": 1
+  },
+  {
+    "num": 24,
+    "id": 134556,
+    "title": "Q24: A wheelchair ramp must be built with a maximu...",
+    "text": "A wheelchair ramp must be built with a maximum allowable angle of incline of 4.8°. If the ramp needs to reach a porch that is 0.9 meters high, calculate the minimum required ramp surface length.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q24.svg",
+    "show_img": 1
+  },
+  {
+    "num": 25,
+    "id": 134557,
+    "title": "Q25: A tourist views a monument of height 45 meter...",
+    "text": "A tourist views a monument of height 45 meters. If the tourist's eye level is 1.6 meters above the ground and the angle of elevation to the top is 42°, how far is the tourist standing from the monument base?",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q25.svg",
+    "show_img": 1
+  },
+  {
+    "num": 26,
+    "id": 134558,
+    "title": "Q26: Evaluate without using a calculator: 2 sin 30...",
+    "text": "Evaluate without using a calculator: 2 sin 30° + 4 cos 60° - tan 45°.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q26.svg",
+    "show_img": 1
+  },
+  {
+    "num": 27,
+    "id": 134559,
+    "title": "Q27: Evaluate the exact value: (sin 45° · cos 45°)...",
+    "text": "Evaluate the exact value: (sin 45° · cos 45°) + (sin 30° · cos 60°).",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q27.svg",
+    "show_img": 1
+  },
+  {
+    "num": 28,
+    "id": 134560,
+    "title": "Q28: Evaluate: (tan² 60° - 2 sin² 45°) / (cos² 30°...",
+    "text": "Evaluate: (tan² 60° - 2 sin² 45°) / (cos² 30° + sin² 30°).",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q28.svg",
+    "show_img": 1
+  },
+  {
+    "num": 29,
+    "id": 134561,
+    "title": "Q29: If cos(2x + 10°) = sin(3x - 15°) where both a...",
+    "text": "If cos(2x + 10°) = sin(3x - 15°) where both angles are acute, find the value of x.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q29.svg",
+    "show_img": 1
+  },
+  {
+    "num": 30,
+    "id": 134562,
+    "title": "Q30: If tan(4θ) = cot(θ + 10°), solve for the acut...",
+    "text": "If tan(4θ) = cot(θ + 10°), solve for the acute angle θ.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q30.svg",
+    "show_img": 1
+  },
+  {
+    "num": 31,
+    "id": 134563,
+    "title": "Q31: A ship sails from port on a course of 140° fo...",
+    "text": "A ship sails from port on a course of 140° for 50 nautical miles. How far South and how far East is the ship from port?",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q31.svg",
+    "show_img": 1
+  },
+  {
+    "num": 32,
+    "id": 134564,
+    "title": "Q32: A zip-line cable is anchored between two tree...",
+    "text": "A zip-line cable is anchored between two trees across a canyon. Tree A has cable attached at height 25 m, Tree B at height 10 m. If horizontal distance is 60 m, find the cable length and angle of decline.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q32.svg",
+    "show_img": 1
+  },
+  {
+    "num": 33,
+    "id": 134565,
+    "title": "Q33: An observer at ground level spots a hot air b...",
+    "text": "An observer at ground level spots a hot air balloon directly above a road. Two tracking stations 1,200 meters apart record angles of elevation to the balloon of 42° and 58°. Find the altitude of the balloon.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q33.svg",
+    "show_img": 1
+  },
+  {
+    "num": 34,
+    "id": 134566,
+    "title": "Q34: A 12-meter flagpole stands on top of a buildi...",
+    "text": "A 12-meter flagpole stands on top of a building. From a point on the ground, the angles of elevation to the bottom and top of the flagpole are 40° and 48° respectively. Calculate the height of the building.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q34.svg",
+    "show_img": 1
+  },
+  {
+    "num": 35,
+    "id": 134567,
+    "title": "Q35: Find the perimeter of an isosceles triangle w...",
+    "text": "Find the perimeter of an isosceles triangle whose base is 16 cm and whose base angles each measure 65°.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q35.svg",
+    "show_img": 1
+  },
+  {
+    "num": 36,
+    "id": 134568,
+    "title": "Q36: Find the area of an isosceles triangle whose ...",
+    "text": "Find the area of an isosceles triangle whose equal legs measure 12 cm and whose vertex angle is 40° using trigonometry.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q36.svg",
+    "show_img": 1
+  },
+  {
+    "num": 37,
+    "id": 134569,
+    "title": "Q37: In a regular pentagon inscribed in a circle o...",
+    "text": "In a regular pentagon inscribed in a circle of radius 10 cm, use trigonometry to calculate the perimeter and area.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q37.svg",
+    "show_img": 1
+  },
+  {
+    "num": 38,
+    "id": 134570,
+    "title": "Q38: A camera is mounted on a tripod 1.5 meters ab...",
+    "text": "A camera is mounted on a tripod 1.5 meters above the ground, 12 meters away from a stage backdrop. If the backdrop is 4 meters tall, find the camera's required vertical tilt angle to view the top.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q38.svg",
+    "show_img": 1
+  },
+  {
+    "num": 39,
+    "id": 134571,
+    "title": "Q39: Explain why the value of sin θ and cos θ can ...",
+    "text": "Explain why the value of sin θ and cos θ can never exceed 1 for any acute angle θ in a right triangle.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q39.svg",
+    "show_img": 1
+  },
+  {
+    "num": 40,
+    "id": 134572,
+    "title": "Q40: Explain why tan θ increases without bound as ...",
+    "text": "Explain why tan θ increases without bound as θ approaches 90°.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q40.svg",
+    "show_img": 1
+  },
+  {
+    "num": 41,
+    "id": 134573,
+    "title": "Q41: If sin θ = x / y, express cos θ and tan θ in ...",
+    "text": "If sin θ = x / y, express cos θ and tan θ in terms of algebraic variables x and y.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q41.svg",
+    "show_img": 1
+  },
+  {
+    "num": 42,
+    "id": 134574,
+    "title": "Q42: A submarine dives at an angle of 15° beneath ...",
+    "text": "A submarine dives at an angle of 15° beneath the ocean surface at a speed of 20 km/h. What is its depth after 30 minutes?",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q42.svg",
+    "show_img": 1
+  },
+  {
+    "num": 43,
+    "id": 134575,
+    "title": "Q43: A forest ranger in a 35-meter watchtower spot...",
+    "text": "A forest ranger in a 35-meter watchtower spots a smoke column at an angle of depression of 4.5°. Calculate the direct distance from the base of the tower to the fire.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q43.svg",
+    "show_img": 1
+  },
+  {
+    "num": 44,
+    "id": 134576,
+    "title": "Q44: A highway ascends 150 meters over a distance ...",
+    "text": "A highway ascends 150 meters over a distance of 2.5 kilometers of pavement. Find the angle of elevation of the road grade.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q44.svg",
+    "show_img": 1
+  },
+  {
+    "num": 45,
+    "id": 134577,
+    "title": "Q45: In △ABC with right angle at C, if tan A = √3,...",
+    "text": "In △ABC with right angle at C, if tan A = √3, find the measures of angles A and B and evaluate sin A · cos B.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q45.svg",
+    "show_img": 1
+  },
+  {
+    "num": 46,
+    "id": 134578,
+    "title": "Q46: From a satellite tracking station, a rocket i...",
+    "text": "From a satellite tracking station, a rocket is tracked at an angle of elevation of 64° at a direct line-of-sight distance of 85 km. Calculate the altitude of the rocket.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q46.svg",
+    "show_img": 1
+  },
+  {
+    "num": 47,
+    "id": 134579,
+    "title": "Q47: A pedestrian overpass spans an 8-lane express...",
+    "text": "A pedestrian overpass spans an 8-lane expressway. The stairs have a slope angle of 32° and reach a height of 6 meters. What is the length of the stairway rail?",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q47.svg",
+    "show_img": 1
+  },
+  {
+    "num": 48,
+    "id": 134580,
+    "title": "Q48: Prove the trigonometric identity: tan θ + cot...",
+    "text": "Prove the trigonometric identity: tan θ + cot θ = sec θ · csc θ for acute angles.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q48.svg",
+    "show_img": 1
+  },
+  {
+    "num": 49,
+    "id": 134581,
+    "title": "Q49: Prove that (1 - sin θ)(1 + sin θ) = cos² θ....",
+    "text": "Prove that (1 - sin θ)(1 + sin θ) = cos² θ.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q49.svg",
+    "show_img": 1
+  },
+  {
+    "num": 50,
+    "id": 134582,
+    "title": "Q50: A suspension bridge cable hangs between two t...",
+    "text": "A suspension bridge cable hangs between two towers of height 75 meters above the roadway, 300 meters apart. The cable meets the roadway at the center. Find the angle of inclination of the cable at the tower attachment.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "img_url": "/images/g9_t153_q50.svg",
+    "show_img": 1
+  }
+]

@@ -1,0 +1,1070 @@
+[
+  {
+    "num": 1,
+    "title": "Converse of Corresponding Angles Postulate",
+    "text": "State the Converse of the Corresponding Angles Postulate and explain how it is used to establish that two lines are parallel.",
+    "formula": "\\text{If corresponding angles are equal } (\\angle 1 = \\angle 5) \\implies L_1 \\parallel L_2",
+    "options": [
+      "If two lines are cut by a transversal so that corresponding angles are congruent, then the two lines are parallel.",
+      "If two lines are parallel, then their corresponding angles are complementary.",
+      "If two lines are cut by a transversal, then alternate interior angles sum to 180°.",
+      "If two lines intersect at a right angle, then their corresponding angles are equal."
+    ],
+    "answer": "If two lines are cut by a transversal so that corresponding angles are congruent, then the two lines are parallel.",
+    "hint": "The converse swaps the hypothesis (equal corresponding angles) and conclusion (parallel lines).",
+    "steps": [
+      "**Step 1: Identify statement** - The postulate states parallel lines imply equal corresponding angles.",
+      "**Step 2: Reverse condition** - The converse states if corresponding angles are equal, the lines are parallel.",
+      "**Final Verified Answer:** \\(If two lines are cut by a transversal so that corresponding angles are congruent, then the two lines are parallel.\\)"
+    ],
+    "img_title": "Corresponding Angles & Parallel Lines",
+    "img_type": "transversal_corresponding"
+  },
+  {
+    "num": 2,
+    "title": "Converse of Alternate Interior Angles Theorem",
+    "text": "State the Converse of the Alternate Interior Angles Theorem.",
+    "formula": "\\text{If alternate interior angles are equal } (\\angle 3 = \\angle 6) \\implies L_1 \\parallel L_2",
+    "options": [
+      "If two lines are cut by a transversal so that alternate interior angles are congruent, then the lines are parallel.",
+      "If two lines are parallel, then alternate interior angles are supplementary.",
+      "If two lines intersect, then alternate interior angles are equal.",
+      "If consecutive interior angles are congruent, then the lines are perpendicular."
+    ],
+    "answer": "If two lines are cut by a transversal so that alternate interior angles are congruent, then the lines are parallel.",
+    "hint": "Congruent alternate interior angles guarantee parallel lines.",
+    "steps": [
+      "**Step 1: Recall theorem** - Parallel lines produce equal alternate interior angles.",
+      "**Step 2: State converse** - Equal alternate interior angles imply parallel lines.",
+      "**Final Verified Answer:** \\(If two lines are cut by a transversal so that alternate interior angles are congruent, then the lines are parallel.\\)"
+    ],
+    "img_title": "Alternate Interior Angles",
+    "img_type": "transversal_alt_interior"
+  },
+  {
+    "num": 3,
+    "title": "Converse of Consecutive Interior Angles Theorem",
+    "text": "State the Converse of the Consecutive Interior Angles Theorem.",
+    "formula": "\\text{If consecutive interior angles are supplementary } (\\angle 3 + \\angle 5 = 180^\\circ) \\implies L_1 \\parallel L_2",
+    "options": [
+      "If two lines are cut by a transversal so that consecutive interior angles are supplementary, then the lines are parallel.",
+      "If two lines are parallel, then consecutive interior angles are equal.",
+      "If consecutive interior angles are complementary, then lines are parallel.",
+      "If two lines are cut by a transversal, alternate exterior angles sum to 180°."
+    ],
+    "answer": "If two lines are cut by a transversal so that consecutive interior angles are supplementary, then the lines are parallel.",
+    "hint": "Consecutive interior (same-side interior) angles must add up to 180° to guarantee parallel lines.",
+    "steps": [
+      "**Step 1: Define consecutive interior angles** - Angles on the same side inside the parallel lines.",
+      "**Step 2: Apply condition** - Their sum must equal 180° to prove parallelism.",
+      "**Final Verified Answer:** \\(If two lines are cut by a transversal so that consecutive interior angles are supplementary, then the lines are parallel.\\)"
+    ],
+    "img_title": "Consecutive Interior Angles",
+    "img_type": "transversal_consec_interior"
+  },
+  {
+    "num": 4,
+    "title": "Converse of Alternate Exterior Angles Theorem",
+    "text": "State the Converse of the Alternate Exterior Angles Theorem.",
+    "formula": "\\text{If alternate exterior angles are equal } (\\angle 1 = \\angle 8) \\implies L_1 \\parallel L_2",
+    "options": [
+      "If two lines are cut by a transversal so that alternate exterior angles are congruent, then the lines are parallel.",
+      "If two lines are parallel, then alternate exterior angles are supplementary.",
+      "If alternate exterior angles are complementary, then the lines are perpendicular.",
+      "If corresponding angles sum to 180°, then the lines are parallel."
+    ],
+    "answer": "If two lines are cut by a transversal so that alternate exterior angles are congruent, then the lines are parallel.",
+    "hint": "Equal alternate exterior angles mean the lines cut by the transversal do not intersect.",
+    "steps": [
+      "**Step 1: Identify alternate exterior angles** - Angles outside the lines on opposite sides of transversal.",
+      "**Step 2: Apply converse** - Congruence proves lines are parallel.",
+      "**Final Verified Answer:** \\(If two lines are cut by a transversal so that alternate exterior angles are congruent, then the lines are parallel.\\)"
+    ],
+    "img_title": "Alternate Exterior Angles",
+    "img_type": "transversal_alt_exterior"
+  },
+  {
+    "num": 5,
+    "title": "Solving for x in Alternate Interior Angles",
+    "text": "Two lines cut by a transversal form alternate interior angles measuring \\((5x - 14)^\\circ\\) and \\((3x + 22)^\\circ\\). Find the exact value of x that guarantees the two lines are parallel.",
+    "formula": "5x - 14 = 3x + 22 \\implies 2x = 36 \\implies x = 18",
+    "options": [
+      "x = 18",
+      "x = 12",
+      "x = 24",
+      "x = 15"
+    ],
+    "answer": "x = 18",
+    "hint": "Set the two alternate interior angle expressions equal to each other.",
+    "steps": [
+      "**Step 1: Set up equation** - \\(5x - 14 = 3x + 22\\)",
+      "**Step 2: Solve for x** - \\(2x = 36 \\implies x = 18\\)",
+      "**Final Verified Answer:** \\(x = 18\\)"
+    ],
+    "img_title": "Alternate Interior Angles (5x - 14)° and (3x + 22)°",
+    "img_type": "transversal_algebra"
+  },
+  {
+    "num": 6,
+    "title": "Consecutive Interior Angles Parallelism",
+    "text": "Two lines are intersected by a transversal. If a pair of consecutive interior angles measure \\((7x + 16)^\\circ\\) and \\((4x + 32)^\\circ\\), determine the value of x that ensures the lines are parallel.",
+    "formula": "(7x + 16) + (4x + 32) = 180 \\implies 11x + 48 = 180 \\implies 11x = 132 \\implies x = 12",
+    "options": [
+      "x = 12",
+      "x = 16",
+      "x = 10",
+      "x = 14"
+    ],
+    "answer": "x = 12",
+    "hint": "Consecutive interior angles are supplementary, so their sum equals 180°.",
+    "steps": [
+      "**Step 1: Set sum to 180°** - \\((7x + 16) + (4x + 32) = 180\\)",
+      "**Step 2: Simplify** - \\(11x + 48 = 180 \\implies 11x = 132 \\implies x = 12\\)",
+      "**Final Verified Answer:** \\(x = 12\\)"
+    ],
+    "img_title": "Consecutive Interior Angles (7x + 16)° and (4x + 32)°",
+    "img_type": "transversal_consec_algebra"
+  },
+  {
+    "num": 7,
+    "title": "Quadratic Corresponding Angles Parallelism",
+    "text": "Lines p and q are cut by transversal t. If a pair of corresponding angles measure \\((2x^2 - 15)^\\circ\\) and \\((x^2 + 10)^\\circ\\), solve for all valid real values of x that make p \\parallel q.",
+    "formula": "2x^2 - 15 = x^2 + 10 \\implies x^2 = 25 \\implies x = \\pm 5",
+    "options": [
+      "x = ±5",
+      "x = ±25",
+      "x = 5 only",
+      "x = ±10"
+    ],
+    "answer": "x = ±5",
+    "hint": "Equal corresponding angles require 2x² - 15 = x² + 10.",
+    "steps": [
+      "**Step 1: Equate angles** - \\(2x^2 - 15 = x^2 + 10\\)",
+      "**Step 2: Solve quadratic** - \\(x^2 = 25 \\implies x = \\pm 5\\)",
+      "**Final Verified Answer:** \\(x = \\pm 5\\)"
+    ],
+    "img_title": "Corresponding Angles (2x² - 15)° and (x² + 10)°",
+    "img_type": "transversal_quadratic"
+  },
+  {
+    "num": 8,
+    "title": "Same-Side Exterior Angles Parallelism",
+    "text": "Two lines are cut by a transversal forming same-side exterior angles measuring \\((6x + 20)^\\circ\\) and \\((4x - 10)^\\circ\\). Find the value of x for which the lines are parallel.",
+    "formula": "(6x + 20) + (4x - 10) = 180 \\implies 10x + 10 = 180 \\implies x = 17",
+    "options": [
+      "x = 17",
+      "x = 15",
+      "x = 19",
+      "x = 20"
+    ],
+    "answer": "x = 17",
+    "hint": "Same-side exterior angles are supplementary when lines are parallel.",
+    "steps": [
+      "**Step 1: Sum to 180°** - \\((6x + 20) + (4x - 10) = 180\\)",
+      "**Step 2: Solve** - \\(10x + 10 = 180 \\implies 10x = 170 \\implies x = 17\\)",
+      "**Final Verified Answer:** \\(x = 17\\)"
+    ],
+    "img_title": "Same-Side Exterior Angles",
+    "img_type": "transversal_exterior_algebra"
+  },
+  {
+    "num": 9,
+    "title": "Slope Condition for Parallel Lines",
+    "text": "State the algebraic slope condition for two non-vertical lines with slopes \\(m_1\\) and \\(m_2\\) to be parallel.",
+    "formula": "L_1 \\parallel L_2 \\iff m_1 = m_2",
+    "options": [
+      "m₁ = m₂",
+      "m₁ · m₂ = -1",
+      "m₁ + m₂ = 0",
+      "m₁ = -m₂"
+    ],
+    "answer": "m₁ = m₂",
+    "hint": "Parallel lines have equal steepness and identical slopes.",
+    "steps": [
+      "**Step 1: Definition of parallel lines** - Non-vertical lines in a plane that never intersect.",
+      "**Step 2: Slope condition** - Their slopes must be equal: \\(m_1 = m_2\\).",
+      "**Final Verified Answer:** \\(m_1 = m_2\\)"
+    ],
+    "img_title": "Parallel Lines Slopes m1 and m2",
+    "img_type": "parallel_slopes"
+  },
+  {
+    "num": 10,
+    "title": "Slope Condition for Perpendicular Lines",
+    "text": "State the algebraic slope condition for two non-vertical lines with slopes \\(m_1\\) and \\(m_2\\) to be perpendicular.",
+    "formula": "L_1 \\perp L_2 \\iff m_1 \\cdot m_2 = -1 \\text{ or } m_2 = -\\frac{1}{m_1}",
+    "options": [
+      "m₁ · m₂ = -1 (negative reciprocals)",
+      "m₁ = m₂",
+      "m₁ + m₂ = 1",
+      "m₁ - m₂ = -1"
+    ],
+    "answer": "m₁ · m₂ = -1 (negative reciprocals)",
+    "hint": "Perpendicular lines intersect at 90° and their slopes are negative reciprocals.",
+    "steps": [
+      "**Step 1: Condition** - Slopes multiply to -1.",
+      "**Step 2: Negative reciprocal** - \\(m_2 = -1 / m_1\\).",
+      "**Final Verified Answer:** \\(m_1 \\cdot m_2 = -1 (negative reciprocals)\\)"
+    ],
+    "img_title": "Perpendicular Lines Slopes m1 and m2",
+    "img_type": "perpendicular_slopes"
+  },
+  {
+    "num": 11,
+    "title": "Parallel/Perpendicular Test for Line Segments",
+    "text": "Line \\(L_1\\) passes through (-3, 5) and (1, -3). Line \\(L_2\\) passes through (2, 7) and (6, -1). Determine whether \\(L_1\\) and \\(L_2\\) are parallel, perpendicular, or neither.",
+    "formula": "m_1 = \\frac{-3 - 5}{1 - (-3)} = -2, \\quad m_2 = \\frac{-1 - 7}{6 - 2} = -2 \\implies m_1 = m_2",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Neither parallel nor perpendicular",
+      "Coincident lines"
+    ],
+    "answer": "Parallel",
+    "hint": "Calculate the slope \\(m = (y_2 - y_1)/(x_2 - x_1)\\) for both lines.",
+    "steps": [
+      "**Step 1: Compute m1** - \\((-3 - 5)/(1 - (-3)) = -8/4 = -2\\)",
+      "**Step 2: Compute m2** - \\((-1 - 7)/(6 - 2) = -8/4 = -2\\)",
+      "**Step 3: Compare** - \\(m_1 = m_2 = -2\\) so lines are parallel.",
+      "**Final Verified Answer:** \\(Parallel\\)"
+    ],
+    "img_title": "Lines L1 and L2 through Points",
+    "img_type": "two_lines_coords_11"
+  },
+  {
+    "num": 12,
+    "title": "Perpendicularity Test via Slopes",
+    "text": "Line \\(L_1\\) passes through (-2, -1) and (4, 3). Line \\(L_2\\) passes through (1, 6) and (5, 0). Determine whether \\(L_1\\) is perpendicular to \\(L_2\\).",
+    "formula": "m_1 = \\frac{3 - (-1)}{4 - (-2)} = \\frac{2}{3}, \\quad m_2 = \\frac{0 - 6}{5 - 1} = -\\frac{3}{2} \\implies m_1 \\cdot m_2 = -1",
+    "options": [
+      "Perpendicular (m₁ · m₂ = -1)",
+      "Parallel (m₁ = m₂)",
+      "Neither parallel nor perpendicular",
+      "Intersecting at 45°"
+    ],
+    "answer": "Perpendicular (m₁ · m₂ = -1)",
+    "hint": "Check if \\(m_1 \\cdot m_2 = -1\\).",
+    "steps": [
+      "**Step 1: Compute m1** - \\((3 - (-1))/(4 - (-2)) = 4/6 = 2/3\\)",
+      "**Step 2: Compute m2** - \\((0 - 6)/(5 - 1) = -6/4 = -3/2\\)",
+      "**Step 3: Multiply** - \\((2/3)(-3/2) = -1\\) so perpendicular.",
+      "**Final Verified Answer:** \\(Perpendicular (m₁ · m₂ = -1)\\)"
+    ],
+    "img_title": "Perpendicular Test L1 and L2",
+    "img_type": "two_lines_coords_12"
+  },
+  {
+    "num": 13,
+    "title": "Slope of a Parallel Line",
+    "text": "Find the slope of a line parallel to the linear equation \\(5x - 2y = 10\\).",
+    "formula": "5x - 2y = 10 \\implies y = \\frac{5}{2}x - 5 \\implies m = \\frac{5}{2}",
+    "options": [
+      "5/2",
+      "-2/5",
+      "-5/2",
+      "2/5"
+    ],
+    "answer": "5/2",
+    "hint": "Convert equation to slope-intercept form \\(y = mx + b\\).",
+    "steps": [
+      "**Step 1: Rearrange** - \\(2y = 5x - 10 \\implies y = (5/2)x - 5\\)",
+      "**Step 2: Identify slope** - Parallel slope is equal: \\(m = 5/2\\).",
+      "**Final Verified Answer:** \\(5/2\\)"
+    ],
+    "img_title": "Parallel Slope to 5x - 2y = 10",
+    "img_type": "line_equation_13"
+  },
+  {
+    "num": 14,
+    "title": "Slope of a Perpendicular Line",
+    "text": "Find the slope of a line perpendicular to the linear equation \\(3x + 4y = 12\\).",
+    "formula": "3x + 4y = 12 \\implies y = -\\frac{3}{4}x + 3 \\implies m_{\\perp} = \\frac{4}{3}",
+    "options": [
+      "4/3",
+      "-3/4",
+      "-4/3",
+      "3/4"
+    ],
+    "answer": "4/3",
+    "hint": "Perpendicular slope is negative reciprocal of line's slope.",
+    "steps": [
+      "**Step 1: Find slope** - \\(4y = -3x + 12 \\implies m = -3/4\\)",
+      "**Step 2: Negative reciprocal** - \\(m_{\\perp} = -1 / (-3/4) = 4/3\\).",
+      "**Final Verified Answer:** \\(4/3\\)"
+    ],
+    "img_title": "Perpendicular Slope to 3x + 4y = 12",
+    "img_type": "line_equation_14"
+  },
+  {
+    "num": 15,
+    "title": "Equation of Parallel Line through Point",
+    "text": "Find the equation of the line in slope-intercept form that passes through P(4, -2) and is parallel to the line \\(y = 3x - 5\\).",
+    "formula": "m = 3 \\implies y - (-2) = 3(x - 4) \\implies y = 3x - 14",
+    "options": [
+      "y = 3x - 14",
+      "y = 3x + 10",
+      "y = -1/3x - 2",
+      "y = 3x - 2"
+    ],
+    "answer": "y = 3x - 14",
+    "hint": "Use slope \\(m = 3\\) and point (4, -2) in point-slope form \\(y - y_1 = m(x - x_1)\\).",
+    "steps": [
+      "**Step 1: Point-slope form** - \\(y - (-2) = 3(x - 4)\\)",
+      "**Step 2: Simplify** - \\(y + 2 = 3x - 12 \\implies y = 3x - 14\\)",
+      "**Final Verified Answer:** \\(y = 3x - 14\\)"
+    ],
+    "img_title": "Parallel Line through P(4, -2)",
+    "img_type": "point_parallel_15"
+  },
+  {
+    "num": 16,
+    "title": "Standard Form of Perpendicular Line",
+    "text": "Find the equation of the line in standard form Ax + By = C that passes through P(-3, 6) and is perpendicular to the line \\(2x - 5y = 15\\).",
+    "formula": "m_1 = \\frac{2}{5} \\implies m_{\\perp} = -\\frac{5}{2} \\implies 5x + 2y = -3",
+    "options": [
+      "5x + 2y = -3",
+      "2x + 5y = 24",
+      "5x - 2y = -27",
+      "2x - 5y = -36"
+    ],
+    "answer": "5x + 2y = -3",
+    "hint": "A line perpendicular to \\(Ax + By = C\\) has form \\(Bx - Ay = D\\) or \\(5x + 2y = C'\\).",
+    "steps": [
+      "**Step 1: Find slope** - \\(m = 2/5 \\implies m_{\\perp} = -5/2\\)",
+      "**Step 2: Point-slope** - \\(y - 6 = -5/2(x + 3) \\implies 2y - 12 = -5x - 15 \\implies 5x + 2y = -3\\)",
+      "**Final Verified Answer:** \\(5x + 2y = -3\\)"
+    ],
+    "img_title": "Perpendicular Line through P(-3, 6)",
+    "img_type": "point_perpendicular_16"
+  },
+  {
+    "num": 17,
+    "title": "Parallel to Horizontal Line",
+    "text": "Find the equation of the line passing through (5, -1) that is parallel to the horizontal line \\(y = 4\\).",
+    "formula": "m = 0 \\implies y = -1",
+    "options": [
+      "y = -1",
+      "x = 5",
+      "y = 5",
+      "x = -1"
+    ],
+    "answer": "y = -1",
+    "hint": "Any line parallel to a horizontal line is also horizontal (y = constant).",
+    "steps": [
+      "**Step 1: Identify orientation** - Horizontal lines have form \\(y = k\\).",
+      "**Step 2: Use y-coordinate** - Passes through (5, -1), so \\(y = -1\\).",
+      "**Final Verified Answer:** \\(y = -1\\)"
+    ],
+    "img_title": "Horizontal Line y = -1",
+    "img_type": "horizontal_line_17"
+  },
+  {
+    "num": 18,
+    "title": "Perpendicular to Vertical Line",
+    "text": "Find the equation of the line passing through (-2, 7) that is perpendicular to the vertical line \\(x = -3\\).",
+    "formula": "\\text{Perpendicular to vertical line } x = -3 \\implies \\text{Horizontal line } y = 7",
+    "options": [
+      "y = 7",
+      "x = -2",
+      "y = -2",
+      "x = 7"
+    ],
+    "answer": "y = 7",
+    "hint": "A line perpendicular to a vertical line is horizontal.",
+    "steps": [
+      "**Step 1: Identify orientation** - Perpendicular to vertical line is horizontal line \\(y = c\\).",
+      "**Step 2: Use y-coordinate** - \\(y = 7\\).",
+      "**Final Verified Answer:** \\(y = 7\\)"
+    ],
+    "img_title": "Perpendicular to Vertical Line x = -3",
+    "img_type": "vertical_line_18"
+  },
+  {
+    "num": 19,
+    "title": "Perpendicular Bisector Equation",
+    "text": "Find the equation of the perpendicular bisector of the line segment joining A(-4, 2) and B(6, 10).",
+    "formula": "\\text{Midpoint M}(1, 6), \\quad m_{AB} = \\frac{4}{5} \\implies m_{\\perp} = -\\frac{5}{4} \\implies y - 6 = -\\frac{5}{4}(x - 1) \\implies 5x + 4y = 29",
+    "options": [
+      "5x + 4y = 29",
+      "4x + 5y = 34",
+      "5x - 4y = -19",
+      "4x - 5y = -26"
+    ],
+    "answer": "5x + 4y = 29",
+    "hint": "Find the midpoint M of AB and the negative reciprocal slope of segment AB.",
+    "steps": [
+      "**Step 1: Midpoint** - \\(M = ((-4+6)/2, (2+10)/2) = (1, 6)\\)",
+      "**Step 2: Slope AB** - \\(m = (10-2)/(6 - (-4)) = 8/10 = 4/5\\)",
+      "**Step 3: Perp slope** - \\(m_{\\perp} = -5/4\\)",
+      "**Step 4: Equation** - \\(y - 6 = -5/4(x - 1) \\implies 5x + 4y = 29\\)",
+      "**Final Verified Answer:** \\(5x + 4y = 29\\)"
+    ],
+    "img_title": "Perpendicular Bisector of Segment AB",
+    "img_type": "perp_bisector_19"
+  },
+  {
+    "num": 20,
+    "title": "Triangle Altitude Line Equation",
+    "text": "Triangle ABC has vertices A(1, 1), B(7, 3), and C(3, 7). Find the slope of side AB and determine the equation of the altitude line drawn from vertex C to side AB.",
+    "formula": "m_{AB} = \\frac{3-1}{7-1} = \\frac{1}{3} \\implies m_{\\text{alt}} = -3 \\implies y - 7 = -3(x - 3) \\implies 3x + y = 16",
+    "options": [
+      "3x + y = 16",
+      "x + 3y = 24",
+      "3x - y = 2",
+      "x - 3y = -18"
+    ],
+    "answer": "3x + y = 16",
+    "hint": "An altitude is perpendicular to the opposite side and passes through the opposite vertex.",
+    "steps": [
+      "**Step 1: Slope AB** - \\(m_{AB} = (3-1)/(7-1) = 2/6 = 1/3\\)",
+      "**Step 2: Perp slope** - \\(m_{\\perp} = -3\\)",
+      "**Step 3: Equation through C(3, 7)** - \\(y - 7 = -3(x - 3) \\implies 3x + y = 16\\)",
+      "**Final Verified Answer:** \\(3x + y = 16\\)"
+    ],
+    "img_title": "Triangle Altitude from Vertex C",
+    "img_type": "triangle_altitude_20"
+  },
+  {
+    "num": 21,
+    "title": "Rectangle Coordinate Proof via Slopes",
+    "text": "Prove that the quadrilateral with vertices A(1, 2), B(5, 4), C(4, 7), and D(0, 5) has opposite sides that are parallel and adjacent sides perpendicular (forming a rectangle).",
+    "formula": "m_{AB} = \\frac{1}{2}, m_{CD} = \\frac{1}{2} \\implies AB \\parallel CD; \\quad m_{AD} = -3, m_{BC} = -3 \\implies AD \\parallel BC",
+    "options": [
+      "Opposite sides are parallel (m_AB = m_CD = 1/2 and m_AD = m_BC = -3)",
+      "Opposite sides are parallel (m_AB = m_CD = 1/2 and m_AD = m_BC = 3)",
+      "Sides are not parallel",
+      "Diagonals are perpendicular"
+    ],
+    "answer": "Opposite sides are parallel (m_AB = m_CD = 1/2 and m_AD = m_BC = -3)",
+    "hint": "Compute the slope of all four sides AB, BC, CD, DA.",
+    "steps": [
+      "**Step 1: Compute slope AB** - \\((4-2)/(5-1) = 2/4 = 1/2\\)",
+      "**Step 2: Compute slope CD** - \\((5-7)/(0-4) = -2/-4 = 1/2\\)",
+      "**Step 3: Compute slope BC** - \\((7-4)/(4-5) = 3/-1 = -3\\) (Wait, D(0,5) to C(4,7): slope (7-5)/(4-0) = 2/4 = 1/2, A(1,2) to B(5,4): slope (4-2)/(5-1) = 1/2. A(1,2) to D(0,5): slope (5-2)/(0-1) = -3, B(5,4) to C(4,7): slope (7-4)/(4-5) = -3.)",
+      "**Final Verified Answer:** \\(Opposite sides are parallel (m_AB = m_CD = 1/2 and m_AD = m_BC = -3)\\)"
+    ],
+    "img_title": "Quadrilateral ABCD in Coordinate Plane",
+    "img_type": "quadrilateral_coords_21"
+  },
+  {
+    "num": 22,
+    "title": "Classification of Quadrilateral by Slopes",
+    "text": "Determine whether the quadrilateral with vertices A(0, 0), B(4, 2), C(3, 5), and D(-1, 3) is a parallelogram, rectangle, or square.",
+    "formula": "m_{AB} = \\frac{1}{2}, m_{CD} = \\frac{1}{2}; \\quad m_{BC} = -3, m_{AD} = -3",
+    "options": [
+      "Parallelogram (Opposite sides parallel: m_AB = m_CD = 1/2, m_AD = m_BC = -3)",
+      "Trapezoid",
+      "Kite",
+      "Irregular Quadrilateral"
+    ],
+    "answer": "Parallelogram (Opposite sides parallel: m_AB = m_CD = 1/2, m_AD = m_BC = -3)",
+    "hint": "Check if opposite sides have equal slopes.",
+    "steps": [
+      "**Step 1: Compute slopes** - \\(m_{AB} = 2/4 = 1/2\\), \\(m_{CD} = (3-5)/(-1-3) = 1/2\\).",
+      "**Step 2: Compute other sides** - \\(m_{BC} = (5-2)/(3-4) = -3\\), \\(m_{AD} = 3/-1 = -3\\).",
+      "**Final Verified Answer:** \\(Parallelogram (Opposite sides parallel: m_AB = m_CD = 1/2, m_AD = m_BC = -3)\\)"
+    ],
+    "img_title": "Quadrilateral ABCD Classification",
+    "img_type": "quadrilateral_coords_22"
+  },
+  {
+    "num": 23,
+    "title": "Finding Unknown Coordinate for Parallel Lines",
+    "text": "Line \\(L_1\\) passes through (k, 4) and (2, -2). Line \\(L_2\\) passes through (1, 5) and (-2, -1). Find the value of k such that \\(L_1\\) is parallel to \\(L_2\\).",
+    "formula": "m_2 = \\frac{-1 - 5}{-2 - 1} = 2 \\implies m_1 = \\frac{-2 - 4}{2 - k} = 2 \\implies \\frac{-6}{2-k} = 2 \\implies k = 5",
+    "options": [
+      "k = 5",
+      "k = 3",
+      "k = -1",
+      "k = 8"
+    ],
+    "answer": "k = 5",
+    "hint": "Set slope \\(m_1 = m_2\\) and solve for k.",
+    "steps": [
+      "**Step 1: Compute m2** - \\((-1 - 5)/(-2 - 1) = -6/-3 = 2\\)",
+      "**Step 2: Set m1 = 2** - \\((-2 - 4)/(2 - k) = 2 \\implies -6 = 2(2 - k) \\implies -6 = 4 - 2k \\implies 2k = 10 \\implies k = 5\\)",
+      "**Final Verified Answer:** \\(k = 5\\)"
+    ],
+    "img_title": "Parallel Lines with Unknown Coordinate k",
+    "img_type": "unknown_k_parallel_23"
+  },
+  {
+    "num": 24,
+    "title": "Finding Unknown Coefficient for Perpendicular Lines",
+    "text": "Line \\(L_1\\) has equation \\(4x - ky = 8\\). Line \\(L_2\\) passes through (-1, 3) and (2, -1). Find the value of k such that \\(L_1\\) is perpendicular to \\(L_2\\).",
+    "formula": "m_2 = -\\frac{4}{3} \\implies m_1 = \\frac{3}{4} \\implies \\frac{4}{k} = \\frac{3}{4} \\implies k = \\frac{16}{3}",
+    "options": [
+      "k = 16/3",
+      "k = -3",
+      "k = 12",
+      "k = -16/3"
+    ],
+    "answer": "k = 16/3",
+    "hint": "Slope \\(m_1 = 4/k\\) and slope \\(m_2 = (-1 - 3)/(2 - (-1)) = -4/3\\).",
+    "steps": [
+      "**Step 1: Compute m2** - \\(-4/3\\)",
+      "**Step 2: Perp slope m1** - \\(m_1 = 3/4\\)",
+      "**Step 3: Equate 4/k = 3/4** - \\(3k = 16 \\implies k = 16/3\\)",
+      "**Final Verified Answer:** \\(k = 16/3\\)"
+    ],
+    "img_title": "Perpendicular Lines with Unknown k",
+    "img_type": "unknown_k_perp_24"
+  },
+  {
+    "num": 25,
+    "title": "Perpendicular Lines Parameter p",
+    "text": "Determine the value of p such that the linear equations \\(3x + py = 9\\) and \\(2x - 6y = 5\\) represent perpendicular lines.",
+    "formula": "m_1 = -\\frac{3}{p}, \\quad m_2 = \\frac{1}{3} \\implies \\left(-\\frac{3}{p}\\right)\\left(\\frac{1}{3}\\right) = -1 \\implies p = 1",
+    "options": [
+      "p = 1",
+      "p = -9",
+      "p = 3",
+      "p = -1"
+    ],
+    "answer": "p = 1",
+    "hint": "Find slopes \\(m_1 = -3/p\\) and \\(m_2 = 1/3\\), then set product equal to -1.",
+    "steps": [
+      "**Step 1: Slopes** - \\(m_1 = -3/p\\), \\(m_2 = 2/6 = 1/3\\)",
+      "**Step 2: Product -1** - \\((-3/p)(1/3) = -1/p = -1 \\implies p = 1\\)",
+      "**Final Verified Answer:** \\(p = 1\\)"
+    ],
+    "img_title": "Perpendicular Equations 3x + py = 9",
+    "img_type": "parameter_p_25"
+  },
+  {
+    "num": 26,
+    "title": "Parallel Lines Parameter m",
+    "text": "Find the value of m such that the lines \\(mx + 3y = 7\\) and \\(4x + 6y = 11\\) are parallel.",
+    "formula": "-\\frac{m}{3} = -\\frac{4}{6} = -\\frac{2}{3} \\implies m = 2",
+    "options": [
+      "m = 2",
+      "m = -2",
+      "m = 8",
+      "m = 4"
+    ],
+    "answer": "m = 2",
+    "hint": "Set slopes \\(-m/3 = -4/6\\).",
+    "steps": [
+      "**Step 1: Slopes** - \\(m_1 = -m/3\\), \\(m_2 = -4/6 = -2/3\\)",
+      "**Step 2: Equate** - \\(-m/3 = -2/3 \\implies m = 2\\)",
+      "**Final Verified Answer:** \\(m = 2\\)"
+    ],
+    "img_title": "Parallel Equations mx + 3y = 7",
+    "img_type": "parameter_m_26"
+  },
+  {
+    "num": 27,
+    "title": "Point-to-Line Distance Formula",
+    "text": "State the formula for the perpendicular distance d from a point \\((x_0, y_0)\\) to a line \\(Ax + By + C = 0\\).",
+    "formula": "d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}}",
+    "options": [
+      "d = |Ax₀ + By₀ + C| / √(A² + B²)",
+      "d = √( (x₀ - A)² + (y₀ - B)² )",
+      "d = (Ax₀ + By₀) / (A + B)",
+      "d = |Ax₀ - By₀| / √(A² - B²)"
+    ],
+    "answer": "d = |Ax₀ + By₀ + C| / √(A² + B²)",
+    "hint": "Numerator is the absolute value of the line equation evaluated at the point.",
+    "steps": [
+      "**Step 1: Distance formula** - \\(d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}}\\).",
+      "**Final Verified Answer:** \\(d = |Ax₀ + By₀ + C| / √(A² + B²)\\)"
+    ],
+    "img_title": "Perpendicular Distance Point to Line",
+    "img_type": "point_line_dist_formula_27"
+  },
+  {
+    "num": 28,
+    "title": "Perpendicular Distance Point to Line",
+    "text": "Calculate the perpendicular distance from the point P(3, -2) to the line \\(4x - 3y + 7 = 0\\).",
+    "formula": "d = \\frac{|4(3) - 3(-2) + 7|}{\\sqrt{4^2 + (-3)^2}} = \\frac{|12 + 6 + 7|}{\\sqrt{25}} = \\frac{25}{5} = 5",
+    "options": [
+      "5 units",
+      "3 units",
+      "7 units",
+      "4 units"
+    ],
+    "answer": "5 units",
+    "hint": "Substitute (3, -2) into \\(d = |4x - 3y + 7| / \\sqrt{4^2 + (-3)^2}\\).",
+    "steps": [
+      "**Step 1: Numerator** - \\(|4(3) - 3(-2) + 7| = |12 + 6 + 7| = 25\\)",
+      "**Step 2: Denominator** - \\(\\sqrt{16 + 9} = 5\\)",
+      "**Step 3: Distance** - \\(25 / 5 = 5\\) units.",
+      "**Final Verified Answer:** \\(5 units\\)"
+    ],
+    "img_title": "Distance from P(3, -2) to 4x - 3y + 7 = 0",
+    "img_type": "point_line_dist_calc_28"
+  },
+  {
+    "num": 29,
+    "title": "Distance Between Two Parallel Lines",
+    "text": "Calculate the exact perpendicular distance between the two parallel lines \\(L_1: 3x + 4y - 10 = 0\\) and \\(L_2: 3x + 4y + 15 = 0\\).",
+    "formula": "d = \\frac{|C_2 - C_1|}{\\sqrt{A^2 + B^2}} = \\frac{|15 - (-10)|}{\\sqrt{3^2 + 4^2}} = \\frac{25}{5} = 5",
+    "options": [
+      "5 units",
+      "25 units",
+      "1 unit",
+      "3.5 units"
+    ],
+    "answer": "5 units",
+    "hint": "Use formula \\(d = |C_2 - C_1| / \\sqrt{A^2 + B^2}\\).",
+    "steps": [
+      "**Step 1: Formula** - \\(d = |15 - (-10)| / \\sqrt{3^2 + 4^2}\\)",
+      "**Step 2: Compute** - \\(25 / 5 = 5\\) units.",
+      "**Final Verified Answer:** \\(5 units\\)"
+    ],
+    "img_title": "Distance Between Parallel Lines L1 and L2",
+    "img_type": "parallel_lines_dist_29"
+  },
+  {
+    "num": 30,
+    "title": "Perpendicular Construction at Point on Line",
+    "text": "Explain step-by-step how to construct a perpendicular line to a given line through a point P lying on the line using only compass and straightedge.",
+    "formula": "\\text{Arc centered at P } \\implies \\text{Equidistant points A, B } \\implies \\text{Intersecting arcs above P}",
+    "options": [
+      "Draw equal arcs from P on both sides to locate A and B, then draw intersecting arcs above P from A and B and connect to P.",
+      "Draw a circle around P and draw a tangent line.",
+      "Bisect the angle formed by P and the origin.",
+      "Draw any line crossing P at a 45° angle twice."
+    ],
+    "answer": "Draw equal arcs from P on both sides to locate A and B, then draw intersecting arcs above P from A and B and connect to P.",
+    "hint": "The point P serves as the midpoint between the two arc intersections on the line.",
+    "steps": [
+      "**Step 1: Mark A and B** - Centered at P.",
+      "**Step 2: Intersecting arcs** - From A and B with radius > AP.",
+      "**Step 3: Connect** - Draw line through intersection and P.",
+      "**Final Verified Answer:** \\(Draw equal arcs from P on both sides to locate A and B, then draw intersecting arcs above P from A and B and connect to P.\\)"
+    ],
+    "img_title": "Perpendicular Construction through Point P",
+    "img_type": "construction_point_on_line_30"
+  },
+  {
+    "num": 31,
+    "title": "Perpendicular Construction from Point External to Line",
+    "text": "Explain how to construct a perpendicular line to a given line from a point P NOT lying on the line.",
+    "formula": "\\text{Arc from P intersecting line at A, B } \\implies \\text{Intersecting arcs below line from A, B}",
+    "options": [
+      "From P, swing an arc intersecting the line at A and B; from A and B, swing equal arcs below the line to intersect, then connect to P.",
+      "Measure distance to line with a ruler and mark 90°.",
+      "Draw a parallel line through P first, then bisect it.",
+      "Draw a circle through P and the line's y-intercept."
+    ],
+    "answer": "From P, swing an arc intersecting the line at A and B; from A and B, swing equal arcs below the line to intersect, then connect to P.",
+    "hint": "The external point P is the apex of an isosceles triangle with base AB on the line.",
+    "steps": [
+      "**Step 1: Arc from P** - Intersects line at A and B.",
+      "**Step 2: Intersecting arcs** - Below line from A and B.",
+      "**Step 3: Connect** - Draw line from P through new intersection.",
+      "**Final Verified Answer:** \\(From P, swing an arc intersecting the line at A and B; from A and B, swing equal arcs below the line to intersect, then connect to P.\\)"
+    ],
+    "img_title": "Perpendicular Construction from External Point P",
+    "img_type": "construction_external_point_31"
+  },
+  {
+    "num": 32,
+    "title": "Square Construction via Perpendiculars",
+    "text": "Explain how to construct a square given one side length AB using perpendicular constructions.",
+    "formula": "\\text{Erect perpendiculars at A and B } \\implies \\text{Mark side length s on both perpendiculars}",
+    "options": [
+      "Construct perpendicular lines at endpoints A and B, mark distance s on both perpendiculars to find C and D, then connect C and D.",
+      "Draw four arbitrary lines of length s.",
+      "Draw a diagonal of length s and construct 45° angles.",
+      "Construct a circle of diameter s and draw inscribed square."
+    ],
+    "answer": "Construct perpendicular lines at endpoints A and B, mark distance s on both perpendiculars to find C and D, then connect C and D.",
+    "hint": "A square requires 4 right angles and 4 equal sides of length s.",
+    "steps": [
+      "**Step 1: Perpendiculars** - At A and B.",
+      "**Step 2: Measure s** - Cut off length s on both perpendiculars to locate D and C.",
+      "**Step 3: Complete** - Connect C and D.",
+      "**Final Verified Answer:** \\(Construct perpendicular lines at endpoints A and B, mark distance s on both perpendiculars to find C and D, then connect C and D.\\)"
+    ],
+    "img_title": "Square Construction on Segment AB",
+    "img_type": "construction_square_32"
+  },
+  {
+    "num": 33,
+    "title": "Railway Track Parallel Equation",
+    "text": "A civil engineer designs two parallel railway tracks. Track 1 follows the equation \\(2x - 5y = 100\\). If Track 2 passes through a station at (50, 40), write the equation of Track 2.",
+    "formula": "m = \\frac{2}{5} \\implies 2x - 5y = 2(50) - 5(40) = 100 - 200 = -100 \\implies 2x - 5y = -100",
+    "options": [
+      "2x - 5y = -100",
+      "2x - 5y = 100",
+      "5x + 2y = 330",
+      "2x + 5y = 300"
+    ],
+    "answer": "2x - 5y = -100",
+    "hint": "Parallel tracks must have the same coefficients \\(2x - 5y = C\\).",
+    "steps": [
+      "**Step 1: Same coefficients** - \\(2x - 5y = C\\)",
+      "**Step 2: Plug in (50, 40)** - \\(2(50) - 5(40) = 100 - 200 = -100\\)",
+      "**Step 3: Equation** - \\(2x - 5y = -100\\)",
+      "**Final Verified Answer:** \\(2x - 5y = -100\\)"
+    ],
+    "img_title": "Parallel Railway Tracks 1 & 2",
+    "img_type": "railway_tracks_33"
+  },
+  {
+    "num": 34,
+    "title": "Crossroads Perpendicularity Verification",
+    "text": "Two straight roads intersect at a crossroads modeled by equations \\(3x - 4y = 12\\) and \\(4x + 3y = 24\\). Verify whether the intersection forms a right angle (90°).",
+    "formula": "m_1 = \\frac{3}{4}, \\quad m_2 = -\\frac{4}{3} \\implies m_1 \\cdot m_2 = -1 \\implies \\text{Right Angle (90°)}",
+    "options": [
+      "Yes, they are perpendicular (m₁ = 3/4, m₂ = -4/3, product = -1)",
+      "No, they intersect at 60°",
+      "No, the roads are parallel",
+      "No, the roads are skew"
+    ],
+    "answer": "Yes, they are perpendicular (m₁ = 3/4, m₂ = -4/3, product = -1)",
+    "hint": "Check the slopes of both road equations.",
+    "steps": [
+      "**Step 1: Slope 1** - \\(m_1 = 3/4\\)",
+      "**Step 2: Slope 2** - \\(m_2 = -4/3\\)",
+      "**Step 3: Product** - \\((3/4)(-4/3) = -1\\) so right angle.",
+      "**Final Verified Answer:** \\(Yes, they are perpendicular (m₁ = 3/4, m₂ = -4/3, product = -1)\\)"
+    ],
+    "img_title": "Crossroads Intersecting Lines",
+    "img_type": "crossroads_34"
+  },
+  {
+    "num": 35,
+    "title": "Plumbing Pipe & Vent Stack Equations",
+    "text": "In residential plumbing, drainage pipes slope at 0.02 (2 cm per meter). Write the linear equation of a drainage pipe passing through (0, 100) and find the equation of a vertical vent stack perpendicular to horizontal movement.",
+    "formula": "y = 0.02x + 100, \\quad \\text{Vent stack: } x = c",
+    "options": [
+      "Drainage pipe: y = 0.02x + 100, Vent stack is vertical line x = constant",
+      "Drainage pipe: y = -50x + 100",
+      "Drainage pipe: y = 2x + 100",
+      "Vent stack: y = -0.02x + 100"
+    ],
+    "answer": "Drainage pipe: y = 0.02x + 100, Vent stack is vertical line x = constant",
+    "hint": "Slope is 0.02 with y-intercept 100. Vent stack is vertical.",
+    "steps": [
+      "**Step 1: Pipe equation** - \\(y = 0.02x + 100\\).",
+      "**Step 2: Vent stack** - Vertical line \\(x = c\\).",
+      "**Final Verified Answer:** \\(Drainage pipe: y = 0.02x + 100, Vent stack is vertical line x = constant\\)"
+    ],
+    "img_title": "Plumbing Drainage Pipe & Vent Stack",
+    "img_type": "plumbing_35"
+  },
+  {
+    "num": 36,
+    "title": "Solar Panel Parallel Mounting Rails",
+    "text": "A solar farm mounts panels on parallel support rails modeled by \\(4x - y = c\\). If three consecutive rails pass through (0, 0), (0, 5), and (0, 10), write their linear equations.",
+    "formula": "Rail 1: 4x - y = 0, \\quad Rail 2: 4x - y = -5, \\quad Rail 3: 4x - y = -10",
+    "options": [
+      "4x - y = 0, 4x - y = -5, 4x - y = -10",
+      "4x - y = 0, 4x - y = 5, 4x - y = 10",
+      "x + 4y = 0, x + 4y = 20, x + 4y = 40",
+      "4x + y = 0, 4x + y = 5, 4x + y = 10"
+    ],
+    "answer": "4x - y = 0, 4x - y = -5, 4x - y = -10",
+    "hint": "Substitute each y-intercept (0, c_y) into \\(4(0) - y_0 = -y_0\\).",
+    "steps": [
+      "**Step 1: Rail 1 at (0, 0)** - \\(4(0) - 0 = 0 \\implies 4x - y = 0\\)",
+      "**Step 2: Rail 2 at (0, 5)** - \\(4(0) - 5 = -5 \\implies 4x - y = -5\\)",
+      "**Step 3: Rail 3 at (0, 10)** - \\(4(0) - 10 = -10 \\implies 4x - y = -10\\)",
+      "**Final Verified Answer:** \\(4x - y = 0, 4x - y = -5, 4x - y = -10\\)"
+    ],
+    "img_title": "Parallel Solar Support Rails",
+    "img_type": "solar_rails_36"
+  },
+  {
+    "num": 37,
+    "title": "Two-Column Proof: Perpendicular to Same Line",
+    "text": "Write the key reason in a proof: Given segment AB ⊥ BC and segment DC ⊥ BC, prove that line AB is parallel to line DC.",
+    "formula": "AB \\perp BC \\land DC \\perp BC \\implies AB \\parallel DC",
+    "options": [
+      "Two lines perpendicular to the same line in a plane are parallel to each other.",
+      "Alternate interior angles are complementary.",
+      "Perpendicular lines have equal slopes.",
+      "Consecutive interior angles are equal to 90°."
+    ],
+    "answer": "Two lines perpendicular to the same line in a plane are parallel to each other.",
+    "hint": "Both lines form 90° angles with line BC, creating equal corresponding angles.",
+    "steps": [
+      "**Step 1: Identify angle measures** - \\(\\angle B = 90^\\circ, \\angle C = 90^\\circ\\).",
+      "**Step 2: Apply theorem** - Lines perpendicular to the same transversal are parallel.",
+      "**Final Verified Answer:** \\(Two lines perpendicular to the same line in a plane are parallel to each other.\\)"
+    ],
+    "img_title": "Proof: AB ⊥ BC and DC ⊥ BC",
+    "img_type": "proof_perp_same_line_37"
+  },
+  {
+    "num": 38,
+    "title": "Proof: Perpendicular Diagonals of Parallelogram",
+    "text": "Prove that if the diagonals of a parallelogram are perpendicular, then the parallelogram must be a rhombus.",
+    "formula": "AC \\perp BD \\text{ in parallelogram } ABCD \\implies ABCD \\text{ is a rhombus}",
+    "options": [
+      "Perpendicular diagonals bisect each other forming 4 congruent right triangles, making all 4 sides congruent (rhombus).",
+      "Perpendicular diagonals prove all 4 angles are 90° (rectangle).",
+      "Perpendicular diagonals mean opposite sides are unequal.",
+      "Diagonals equal in length prove it is a kite."
+    ],
+    "answer": "Perpendicular diagonals bisect each other forming 4 congruent right triangles, making all 4 sides congruent (rhombus).",
+    "hint": "Use SAS congruence on the 4 smaller triangles formed by the diagonals.",
+    "steps": [
+      "**Step 1: Diagonals bisect at right angles** - All 4 central angles are 90°.",
+      "**Step 2: SAS congruence** - All 4 triangles are congruent.",
+      "**Step 3: Hypotenuses equal** - All 4 outer sides are congruent, defining a rhombus.",
+      "**Final Verified Answer:** \\(Perpendicular diagonals bisect each other forming 4 congruent right triangles, making all 4 sides congruent (rhombus).\\)"
+    ],
+    "img_title": "Parallelogram with Perpendicular Diagonals",
+    "img_type": "proof_rhombus_diagonals_38"
+  },
+  {
+    "num": 39,
+    "title": "Perpendicular to Same Line Parallelism Proof",
+    "text": "Prove that two lines that are both perpendicular to the same line in a plane are parallel to each other.",
+    "formula": "L_1 \\perp T \\land L_2 \\perp T \\implies L_1 \\parallel L_2",
+    "options": [
+      "Both form 90° corresponding angles with the transversal line, so by Converse of Corresponding Angles Postulate, lines are parallel.",
+      "Slopes sum to zero.",
+      "The lines must intersect at the origin.",
+      "Vertical angles are supplementary."
+    ],
+    "answer": "Both form 90° corresponding angles with the transversal line, so by Converse of Corresponding Angles Postulate, lines are parallel.",
+    "hint": "Both perpendicular lines make 90° angles with the transversal.",
+    "steps": [
+      "**Step 1: Corresponding angles** - Both equal 90°.",
+      "**Step 2: Equal corresponding angles** - Implies parallel lines.",
+      "**Final Verified Answer:** \\(Both form 90° corresponding angles with the transversal line, so by Converse of Corresponding Angles Postulate, lines are parallel.\\)"
+    ],
+    "img_title": "Proof: Lines Perpendicular to Same Line",
+    "img_type": "proof_perp_transversal_39"
+  },
+  {
+    "num": 40,
+    "title": "Transitivity of Parallel Lines Proof",
+    "text": "State the Transitive Property of Parallel Lines: if line a \\parallel line b and line b \\parallel line c, what is the relationship between line a and line c?",
+    "formula": "a \\parallel b \\land b \\parallel c \\implies a \\parallel c",
+    "options": [
+      "line a ∥ line c (parallel)",
+      "line a ⊥ line c (perpendicular)",
+      "line a and line c are skew",
+      "line a and line c intersect at 45°"
+    ],
+    "answer": "line a ∥ line c (parallel)",
+    "hint": "Parallelism is a transitive relation in a plane.",
+    "steps": [
+      "**Step 1: Transitive property** - If two lines are parallel to the same line, they are parallel to each other.",
+      "**Final Verified Answer:** \\(line a ∥ line c (parallel)\\)"
+    ],
+    "img_title": "Transitive Property of Parallel Lines a, b, c",
+    "img_type": "transitive_parallel_40"
+  },
+  {
+    "num": 41,
+    "title": "2D Vector Normal & Dot Product Perpendicularity",
+    "text": "In 2D computer graphics, a vector normal (perpendicular) to direction vector v = <dx, dy> is given by n = <-dy, dx>. Explain why the dot product v · n = 0 establishes perpendicularity.",
+    "formula": "\\mathbf{v} \\cdot \\mathbf{n} = dx(-dy) + dy(dx) = -dx\\,dy + dx\\,dy = 0 \\iff \\mathbf{v} \\perp \\mathbf{n}",
+    "options": [
+      "Dot product equals zero because dx(-dy) + dy(dx) = 0, which geometrically means cos(θ) = 0 (θ = 90°).",
+      "Dot product equals 1 which means parallel.",
+      "Dot product equals -1 which means opposite directions.",
+      "Vectors are equal in magnitude."
+    ],
+    "answer": "Dot product equals zero because dx(-dy) + dy(dx) = 0, which geometrically means cos(θ) = 0 (θ = 90°).",
+    "hint": "Dot product \\(\\mathbf{v} \\cdot \\mathbf{n} = |v||n| \\cos(\\theta) = 0\\) when \\(\\theta = 90^\\circ\\).",
+    "steps": [
+      "**Step 1: Compute dot product** - \\(dx(-dy) + dy(dx) = 0\\).",
+      "**Step 2: Angle theta** - \\(\\cos(\\theta) = 0 \\implies \\theta = 90^\\circ\\).",
+      "**Final Verified Answer:** \\(Dot product equals zero because dx(-dy) + dy(dx) = 0, which geometrically means cos(θ) = 0 (θ = 90°).\\)"
+    ],
+    "img_title": "Vectors v and Normal n Dot Product",
+    "img_type": "vector_normal_41"
+  },
+  {
+    "num": 42,
+    "title": "Robotic Arm Perpendicular Trajectory",
+    "text": "A robotic arm moves along a path \\(y = -0.5x + 4\\). Find the slope of a laser sensor path required to move perpendicularly to the arm trajectory.",
+    "formula": "m_{\\text{arm}} = -0.5 = -\\frac{1}{2} \\implies m_{\\text{laser}} = +2",
+    "options": [
+      "m = +2",
+      "m = -0.5",
+      "m = +0.5",
+      "m = -2"
+    ],
+    "answer": "m = +2",
+    "hint": "Negative reciprocal of -0.5 (-1/2) is +2.",
+    "steps": [
+      "**Step 1: Identify arm slope** - \\(m = -1/2\\).",
+      "**Step 2: Perp slope** - \\(m_{\\perp} = -1 / (-1/2) = +2\\).",
+      "**Final Verified Answer:** \\(m = +2\\)"
+    ],
+    "img_title": "Robotic Arm & Perpendicular Sensor Path",
+    "img_type": "robotic_arm_42"
+  },
+  {
+    "num": 43,
+    "title": "Misconception: y = 3 and x = 3",
+    "text": "A student states that the line \\(y = 3\\) and the line \\(x = 3\\) are parallel because both contain the number 3. Correct this misconception and describe their true geometric relationship.",
+    "formula": "y = 3 \\text{ (Horizontal, } m=0\\text{)}, \\quad x = 3 \\text{ (Vertical, } m=\\infty\\text{)} \\implies \\text{Perpendicular (90°)}",
+    "options": [
+      "They are perpendicular because y = 3 is horizontal and x = 3 is vertical, intersecting at (3, 3) at a right angle.",
+      "They are parallel because both have slope 3.",
+      "They are coincident lines.",
+      "They intersect at a 45° angle."
+    ],
+    "answer": "They are perpendicular because y = 3 is horizontal and x = 3 is vertical, intersecting at (3, 3) at a right angle.",
+    "hint": "Horizontal lines (y = k) and vertical lines (x = c) are always perpendicular.",
+    "steps": [
+      "**Step 1: Line y = 3** - Horizontal line.",
+      "**Step 2: Line x = 3** - Vertical line.",
+      "**Step 3: Relationship** - Horizontal and vertical lines are perpendicular at (3, 3).",
+      "**Final Verified Answer:** \\(They are perpendicular because y = 3 is horizontal and x = 3 is vertical, intersecting at (3, 3) at a right angle.\\)"
+    ],
+    "img_title": "Lines y = 3 and x = 3 Intersection",
+    "img_type": "misconception_y3_x3_43"
+  },
+  {
+    "num": 44,
+    "title": "Perpendicular Slope to Horizontal Line",
+    "text": "What is the slope of a line perpendicular to a horizontal line (slope m = 0)?",
+    "formula": "m_{\\text{horizontal}} = 0 \\implies m_{\\text{perp}} = \\text{Undefined (Vertical Line)}",
+    "options": [
+      "Undefined (vertical line has undefined slope)",
+      "m = 0",
+      "m = 1",
+      "m = -1"
+    ],
+    "answer": "Undefined (vertical line has undefined slope)",
+    "hint": "A line perpendicular to a horizontal line is a vertical line.",
+    "steps": [
+      "**Step 1: Horizontal slope** - \\(m = 0\\).",
+      "**Step 2: Perpendicular orientation** - Vertical line.",
+      "**Step 3: Vertical slope** - Division by zero \\(\\implies\\) undefined.",
+      "**Final Verified Answer:** \\(Undefined (vertical line has undefined slope)\\)"
+    ],
+    "img_title": "Horizontal vs Vertical Line Slopes",
+    "img_type": "slope_zero_undefined_44"
+  },
+  {
+    "num": 45,
+    "title": "Counterexample: Equal y-intercepts",
+    "text": "A student claims that any two distinct lines with equal y-intercepts must be parallel. Provide a counterexample and explain why they cannot be parallel.",
+    "formula": "y = 2x + 3 \\text{ and } y = -x + 3 \\implies \\text{Intersect at } (0, 3) \\implies \\text{NOT parallel}",
+    "options": [
+      "Lines y = 2x + 3 and y = -x + 3 both have y-intercept (0, 3) and intersect at (0, 3), so they are NOT parallel.",
+      "Distinct lines with equal y-intercepts are always parallel.",
+      "Equal y-intercepts mean lines are skew.",
+      "Equal y-intercepts mean lines are vertical."
+    ],
+    "answer": "Lines y = 2x + 3 and y = -x + 3 both have y-intercept (0, 3) and intersect at (0, 3), so they are NOT parallel.",
+    "hint": "Parallel lines never intersect. If two lines share a y-intercept (0, b), they intersect at (0, b).",
+    "steps": [
+      "**Step 1: Y-intercept definition** - Point where line crosses y-axis.",
+      "**Step 2: Intersection** - If two lines have same y-intercept, they intersect at that point.",
+      "**Step 3: Conclusion** - Parallel lines NEVER intersect, so lines with equal y-intercepts cannot be parallel (unless coincident).",
+      "**Final Verified Answer:** \\(Lines y = 2x + 3 and y = -x + 3 both have y-intercept (0, 3) and intersect at (0, 3), so they are NOT parallel.\\)"
+    ],
+    "img_title": "Lines y = 2x + 3 and y = -x + 3 Intersecting at (0, 3)",
+    "img_type": "equal_intercepts_45"
+  },
+  {
+    "num": 46,
+    "title": "Triangle Orthocenter Coordinates",
+    "text": "Find the coordinates of the orthocenter (intersection of altitudes) of triangle ABC with vertices A(0, 0), B(6, 0), and C(2, 4).",
+    "formula": "\\text{Altitude from C: } x = 2, \\quad m_{AC} = 2 \\implies m_{\\text{alt } B} = -\\frac{1}{2} \\implies y - 0 = -\\frac{1}{2}(x - 6) \\implies y = -\\frac{1}{2}(2-6) = 2 \\implies (2, 2)",
+    "options": [
+      "(2, 2)",
+      "(3, 2)",
+      "(2, 4)",
+      "(4, 2)"
+    ],
+    "answer": "(2, 2)",
+    "hint": "Orthocenter is the intersection point of two altitudes.",
+    "steps": [
+      "**Step 1: Altitude from C(2, 4)** - Since AB is on x-axis (y=0), altitude from C is vertical line \\(x = 2\\).",
+      "**Step 2: Altitude from B(6, 0)** - Slope AC = 4/2 = 2, so perp slope = -1/2. Line: \\(y - 0 = -1/2(x - 6)\\).",
+      "**Step 3: Intersection at x = 2** - \\(y = -1/2(2 - 6) = 2 \\implies (2, 2)\\).",
+      "**Final Verified Answer:** \\((2, 2)\\)"
+    ],
+    "img_title": "Triangle ABC & Orthocenter H(2, 2)",
+    "img_type": "orthocenter_46"
+  },
+  {
+    "num": 47,
+    "title": "Right Triangle Circumcenter Coordinates",
+    "text": "Find the coordinates of the circumcenter (intersection of perpendicular bisectors) of right triangle ABC with vertices A(0, 0), B(8, 0), and C(0, 6).",
+    "formula": "\\text{Midpoint of hypotenuse BC: } \\left(\\frac{8+0}{2}, \\frac{0+6}{2}\\right) = (4, 3)",
+    "options": [
+      "(4, 3)",
+      "(3, 4)",
+      "(4, 4)",
+      "(2, 3)"
+    ],
+    "answer": "(4, 3)",
+    "hint": "For any right triangle, the circumcenter lies at the midpoint of the hypotenuse.",
+    "steps": [
+      "**Step 1: Identify hypotenuse** - Segment BC joining (8, 0) and (0, 6).",
+      "**Step 2: Compute midpoint** - \\(((8+0)/2, (0+6)/2) = (4, 3)\\).",
+      "**Final Verified Answer:** \\((4, 3)\\)"
+    ],
+    "img_title": "Right Triangle & Circumcenter (4, 3)",
+    "img_type": "circumcenter_47"
+  },
+  {
+    "num": 48,
+    "title": "System of Three Lines Relationship",
+    "text": "Determine whether the lines \\(L_1: 2x - 3y = 7\\), \\(L_2: 3x + 2y = 4\\), and \\(L_3: 4x - 6y = 14\\) form perpendicular/coincident lines.",
+    "formula": "m_1 = \\frac{2}{3}, \\quad m_2 = -\\frac{3}{2} \\implies L_1 \\perp L_2; \\quad L_3: 2(2x - 3y = 7) \\implies L_1 \\text{ and } L_3 \\text{ are coincident}",
+    "options": [
+      "L1 ⊥ L2 and L1 is coincident with L3",
+      "All three lines are parallel",
+      "All three lines are perpendicular to each other",
+      "The lines form an equilateral triangle"
+    ],
+    "answer": "L1 ⊥ L2 and L1 is coincident with L3",
+    "hint": "Compare slopes \\(m_1 = 2/3\\), \\(m_2 = -3/2\\) and check if L3 is a scalar multiple of L1.",
+    "steps": [
+      "**Step 1: Slopes** - \\(m_1 = 2/3\\), \\(m_2 = -3/2\\) (perpendicular).",
+      "**Step 2: Compare L1 and L3** - \\(4x - 6y = 14\\) is \\(2(2x - 3y = 7)\\) (coincident).",
+      "**Final Verified Answer:** \\(L1 ⊥ L2 and L1 is coincident with L3\\)"
+    ],
+    "img_title": "Relationship of Three Lines L1, L2, L3",
+    "img_type": "three_lines_48"
+  },
+  {
+    "num": 49,
+    "title": "Perpendicular Line through Intersection Point",
+    "text": "Find the equation of the line passing through the intersection of \\(2x + 3y = 5\\) and \\(x - y = 0\\) that is perpendicular to the line \\(3x - 2y = 8\\).",
+    "formula": "x = y \\implies 5x = 5 \\implies (1, 1); \\quad m_{\\text{given}} = \\frac{3}{2} \\implies m_{\\perp} = -\\frac{2}{3} \\implies y - 1 = -\\frac{2}{3}(x - 1) \\implies 2x + 3y = 5",
+    "options": [
+      "2x + 3y = 5",
+      "3x - 2y = 1",
+      "2x - 3y = -1",
+      "3x + 2y = 5"
+    ],
+    "answer": "2x + 3y = 5",
+    "hint": "First solve the system for intersection point (1, 1).",
+    "steps": [
+      "**Step 1: Intersection** - \\(x = y \\implies 2x + 3x = 5 \\implies x = 1, y = 1 \\implies (1, 1)\\).",
+      "**Step 2: Perp slope** - \\(m = 3/2 \\implies m_{\\perp} = -2/3\\).",
+      "**Step 3: Line equation** - \\(y - 1 = -2/3(x - 1) \\implies 2x + 3y = 5\\).",
+      "**Final Verified Answer:** \\(2x + 3y = 5\\)"
+    ],
+    "img_title": "Perpendicular Line through Intersection (1, 1)",
+    "img_type": "intersection_perp_49"
+  },
+  {
+    "num": 50,
+    "title": "Laser Reflection off Mirror Line",
+    "text": "A laser beam emitted from P(2, 8) reflects off a mirror line \\(y = 2x - 1\\) perpendicularly. Find the coordinates of the point of reflection on the mirror line.",
+    "formula": "m_{\\text{mirror}} = 2 \\implies m_{\\text{perpendicular}} = -\\frac{1}{2} \\implies y - 8 = -\\frac{1}{2}(x - 2) \\implies y = -0.5x + 9 \\implies 2x - 1 = -0.5x + 9 \\implies 2.5x = 10 \\implies x = 4, y = 7 \\implies (4, 7)",
+    "options": [
+      "(4, 7)",
+      "(2, 3)",
+      "(5, 9)",
+      "(3, 5)"
+    ],
+    "answer": "(4, 7)",
+    "hint": "Find the perpendicular line from P(2, 8) to mirror line \\(y = 2x - 1\\) and solve for their intersection.",
+    "steps": [
+      "**Step 1: Perp line equation** - \\(m_{\\perp} = -1/2\\), passes through (2, 8): \\(y - 8 = -0.5(x - 2) \\implies y = -0.5x + 9\\).",
+      "**Step 2: Intersection with mirror** - \\(2x - 1 = -0.5x + 9 \\implies 2.5x = 10 \\implies x = 4, y = 2(4)-1 = 7 \\implies (4, 7)\\).",
+      "**Final Verified Answer:** \\((4, 7)\\)"
+    ],
+    "img_title": "Laser Beam Reflection Point (4, 7)",
+    "img_type": "laser_reflection_50"
+  }
+]

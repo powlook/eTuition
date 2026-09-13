@@ -1,0 +1,349 @@
+=== Question #1 | ID: 134383 | Title: Q1: Define similar polygons in terms of correspon... ===
+Text: Define similar polygons in terms of corresponding angles and corresponding side lengths.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q1.svg
+
+=== Question #2 | ID: 134384 | Title: Q2: Explain the difference between congruence (≅)... ===
+Text: Explain the difference between congruence (≅) and similarity (~) of geometric figures.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q2.svg
+
+=== Question #3 | ID: 134385 | Title: Q3: What is a scale factor (ratio of similitude)?... ===
+Text: What is a scale factor (ratio of similitude)? Explain how a scale factor k affects perimeter and area.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q3.svg
+
+=== Question #4 | ID: 134386 | Title: Q4: Two similar rectangles have a scale factor of... ===
+Text: Two similar rectangles have a scale factor of 3 : 5. If the perimeter of the smaller rectangle is 36 cm, find the perimeter of the larger rectangle.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q4.svg
+
+=== Question #5 | ID: 134387 | Title: Q5: Two similar polygons have areas of 48 cm² and... ===
+Text: Two similar polygons have areas of 48 cm² and 108 cm². Find the ratio of their corresponding side lengths in simplest form.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q5.svg
+
+=== Question #6 | ID: 134388 | Title: Q6: State the Angle-Angle (AA) Similarity Postula... ===
+Text: State the Angle-Angle (AA) Similarity Postulate for triangles.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q6.svg
+
+=== Question #7 | ID: 134389 | Title: Q7: State the Side-Angle-Side (SAS) Similarity Th... ===
+Text: State the Side-Angle-Side (SAS) Similarity Theorem for triangles.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q7.svg
+
+=== Question #8 | ID: 134390 | Title: Q8: State the Side-Side-Side (SSS) Similarity The... ===
+Text: State the Side-Side-Side (SSS) Similarity Theorem for triangles.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q8.svg
+
+=== Question #9 | ID: 134391 | Title: Q9: In △ABC and △DEF, m∠A = 48°, m∠B = 72°, m∠D =... ===
+Text: In △ABC and △DEF, m∠A = 48°, m∠B = 72°, m∠D = 48°, and m∠F = 60°. Determine whether △ABC ~ △DEF and justify your answer.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q9.svg
+
+=== Question #10 | ID: 134392 | Title: Q10: In △PQR and △STU, PQ = 6 cm, QR = 9 cm, PR = ... ===
+Text: In △PQR and △STU, PQ = 6 cm, QR = 9 cm, PR = 12 cm, and ST = 8 cm, TU = 12 cm, SU = 16 cm. Prove whether △PQR ~ △STU.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q10.svg
+
+=== Question #11 | ID: 134393 | Title: Q11: In △ABC, DE || BC where D is on AB and E is o... ===
+Text: In △ABC, DE || BC where D is on AB and E is on AC. If AD = 4 cm, DB = 6 cm, and AE = 5 cm, find the length of EC using the Triangle Proportionality Theorem.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q11.svg
+
+=== Question #12 | ID: 134394 | Title: Q12: State the Triangle Proportionality Theorem (B... ===
+Text: State the Triangle Proportionality Theorem (Basic Proportionality / Thales' Theorem) and its converse.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q12.svg
+
+=== Question #13 | ID: 134395 | Title: Q13: In △ABC with DE || BC, if AD = x + 1, DB = 2x... ===
+Text: In △ABC with DE || BC, if AD = x + 1, DB = 2x - 1, AE = 3, and EC = 5, solve for x.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q13.svg
+
+=== Question #14 | ID: 134396 | Title: Q14: State the Triangle Angle Bisector Theorem reg... ===
+Text: State the Triangle Angle Bisector Theorem regarding the ratio of opposite side segments to adjacent sides.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q14.svg
+
+=== Question #15 | ID: 134397 | Title: Q15: In △PQR, ray PS bisects ∠P intersecting QR at... ===
+Text: In △PQR, ray PS bisects ∠P intersecting QR at S. If PQ = 12 cm, PR = 18 cm, and QS = 6 cm, find the length of SR.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q15.svg
+
+=== Question #16 | ID: 134398 | Title: Q16: A 6-foot tall person casts a shadow of 9 feet... ===
+Text: A 6-foot tall person casts a shadow of 9 feet at the same time a nearby flagpole casts a shadow of 45 feet. Calculate the height of the flagpole.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q16.svg
+
+=== Question #17 | ID: 134399 | Title: Q17: A tree casts a 15-meter shadow while a vertic... ===
+Text: A tree casts a 15-meter shadow while a vertical 2-meter measuring stick casts a 1.2-meter shadow. How tall is the tree?
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q17.svg
+
+=== Question #18 | ID: 134400 | Title: Q18: A surveyor uses a mirror placed flat on the g... ===
+Text: A surveyor uses a mirror placed flat on the ground 12 meters from the base of a cliff. The surveyor stands 2 meters from the mirror so that the top of the cliff is visible in the mirror. If the surveyor's eye level is 1.6 meters, calculate the cliff height.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q18.svg
+
+=== Question #19 | ID: 134401 | Title: Q19: State the Right Triangle Altitude Theorem (Ge... ===
+Text: State the Right Triangle Altitude Theorem (Geometric Mean Theorems for Altitude and Legs).
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q19.svg
+
+=== Question #20 | ID: 134402 | Title: Q20: In right triangle ABC with right angle at C, ... ===
+Text: In right triangle ABC with right angle at C, altitude CD is drawn to hypotenuse AB. If AD = 4 cm and DB = 9 cm, find the length of altitude CD.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q20.svg
+
+=== Question #21 | ID: 134403 | Title: Q21: Referring to the right triangle in Question 2... ===
+Text: Referring to the right triangle in Question 20, find the lengths of legs AC and BC using the Geometric Mean Leg Theorem.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q21.svg
+
+=== Question #22 | ID: 134404 | Title: Q22: In right triangle XYZ with altitude h to hypo... ===
+Text: In right triangle XYZ with altitude h to hypotenuse c, the segments of the hypotenuse are 3 cm and 12 cm. Find the area of triangle XYZ.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q22.svg
+
+=== Question #23 | ID: 134405 | Title: Q23: A photographic print measuring 4 inches by 6 ... ===
+Text: A photographic print measuring 4 inches by 6 inches is enlarged so that its longer side is 15 inches. What is the width of the enlarged photo?
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q23.svg
+
+=== Question #24 | ID: 134406 | Title: Q24: A map has a scale of 1 cm : 50 km. If the dis... ===
+Text: A map has a scale of 1 cm : 50 km. If the distance between two cities on the map is 7.4 cm, find the actual distance between them.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q24.svg
+
+=== Question #25 | ID: 134407 | Title: Q25: Two similar cylinders have heights in the rat... ===
+Text: Two similar cylinders have heights in the ratio 2 : 3. What is the ratio of their surface areas, and what is the ratio of their volumes?
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q25.svg
+
+=== Question #26 | ID: 134408 | Title: Q26: An architectural blueprint has a scale of 1 :... ===
+Text: An architectural blueprint has a scale of 1 : 100. If a rectangular room measures 6 cm by 8 cm on the blueprint, find the actual area of the room in square meters.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q26.svg
+
+=== Question #27 | ID: 134409 | Title: Q27: In △ABC, point D is on AB and E is on AC such... ===
+Text: In △ABC, point D is on AB and E is on AC such that AD = 3, AB = 9, AE = 4, and AC = 12. If BC = 15, find DE.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q27.svg
+
+=== Question #28 | ID: 134410 | Title: Q28: Prove that if a line divides two sides of a t... ===
+Text: Prove that if a line divides two sides of a triangle proportionally, it is parallel to the third side.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q28.svg
+
+=== Question #29 | ID: 134411 | Title: Q29: Two similar triangles have perimeters of 45 c... ===
+Text: Two similar triangles have perimeters of 45 cm and 60 cm. If one side of the first triangle is 12 cm, find the corresponding side of the second triangle.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q29.svg
+
+=== Question #30 | ID: 134412 | Title: Q30: A flashlight beam expands as it travels. An o... ===
+Text: A flashlight beam expands as it travels. An object 10 cm tall placed 20 cm from the light source casts a shadow on a wall 80 cm from the source. How tall is the shadow?
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q30.svg
+
+=== Question #31 | ID: 134413 | Title: Q31: In △ABC and △A'B'C', ∠A ≅ ∠A' and the sides i... ===
+Text: In △ABC and △A'B'C', ∠A ≅ ∠A' and the sides including those angles are proportional (AB / A'B' = AC / A'C'). If AB = 8, A'B' = 12, AC = 10, find A'C'.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q31.svg
+
+=== Question #32 | ID: 134414 | Title: Q32: Prove that any two equilateral triangles are ... ===
+Text: Prove that any two equilateral triangles are always similar.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q32.svg
+
+=== Question #33 | ID: 134415 | Title: Q33: Prove that any two squares are always similar... ===
+Text: Prove that any two squares are always similar, but any two rectangles are not necessarily similar.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q33.svg
+
+=== Question #34 | ID: 134416 | Title: Q34: In trapezoid ABCD with AB || CD, the diagonal... ===
+Text: In trapezoid ABCD with AB || CD, the diagonals AC and BD intersect at E. Prove that △ABE ~ △CDE.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q34.svg
+
+=== Question #35 | ID: 134417 | Title: Q35: In the trapezoid of Question 34, if AB = 8 cm... ===
+Text: In the trapezoid of Question 34, if AB = 8 cm, CD = 20 cm, and AE = 6 cm, find the length of EC.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q35.svg
+
+=== Question #36 | ID: 134418 | Title: Q36: A model airplane is built to a scale of 1 : 4... ===
+Text: A model airplane is built to a scale of 1 : 48. If the wingspan of the model is 25 cm, what is the actual wingspan of the aircraft in meters?
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q36.svg
+
+=== Question #37 | ID: 134419 | Title: Q37: In △PQR, S is on PQ and T is on PR such that ... ===
+Text: In △PQR, S is on PQ and T is on PR such that ∠PST ≅ ∠R. Prove that △PST ~ △PRQ.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q37.svg
+
+=== Question #38 | ID: 134420 | Title: Q38: Explain how pantographs and digital image sca... ===
+Text: Explain how pantographs and digital image scaling algorithms use geometric similarity principles.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q38.svg
+
+=== Question #39 | ID: 134421 | Title: Q39: If △ABC ~ △DEF with similarity ratio 4 : 7, a... ===
+Text: If △ABC ~ △DEF with similarity ratio 4 : 7, and the area of △ABC is 64 cm², calculate the area of △DEF.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q39.svg
+
+=== Question #40 | ID: 134422 | Title: Q40: In a circle, two chords AB and CD intersect a... ===
+Text: In a circle, two chords AB and CD intersect at internal point E. Prove that △AEC ~ △DEB, and establish that AE · EB = CE · ED (Intersecting Chords Theorem).
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q40.svg
+
+=== Question #41 | ID: 134423 | Title: Q41: In right triangle ABC with right angle at C, ... ===
+Text: In right triangle ABC with right angle at C, altitude CD = 6 cm divides hypotenuse AB into segments AD = x and DB = 3x. Find x and the length of AB.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q41.svg
+
+=== Question #42 | ID: 134424 | Title: Q42: A ramp rises 2 meters over a horizontal run o... ===
+Text: A ramp rises 2 meters over a horizontal run of 15 meters. How high has a person risen after walking 9 meters along the ramp surface?
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q42.svg
+
+=== Question #43 | ID: 134425 | Title: Q43: State the Three Parallel Lines Theorem (Trans... ===
+Text: State the Three Parallel Lines Theorem (Transversal Proportionality Theorem) and formulate an illustrative algebraic problem.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q43.svg
+
+=== Question #44 | ID: 134426 | Title: Q44: In △ABC, points D and E lie on AB and BC resp... ===
+Text: In △ABC, points D and E lie on AB and BC respectively such that DE || AC. If the area of △BDE is 16 cm² and the area of trapezoid ADEC is 33 cm², find the ratio BD : DA.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q44.svg
+
+=== Question #45 | ID: 134427 | Title: Q45: Explain why similarity transformations preser... ===
+Text: Explain why similarity transformations preserve angle measures but change lengths by a constant scale factor.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q45.svg
+
+=== Question #46 | ID: 134428 | Title: Q46: A painter leans a ladder against a wall, touc... ===
+Text: A painter leans a ladder against a wall, touching a point 4 m high. A horizontal strut connects the ladder to the wall at a height of 1.5 m. If the ladder is 5 m long, how far up the ladder is the strut attached?
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding sides and angles are all equal', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q46.svg
+
+=== Question #47 | ID: 134429 | Title: Q47: In △ABC, AB = 10, BC = 14, and AC = 16. A sma... ===
+Text: In △ABC, AB = 10, BC = 14, and AC = 16. A smaller similar triangle has a longest side of 12. Find the lengths of its other two sides.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding angles sum to 360°']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q47.svg
+
+=== Question #48 | ID: 134430 | Title: Q48: Prove that the ratio of the perimeters of two... ===
+Text: Prove that the ratio of the perimeters of two similar triangles equals the ratio of any two corresponding medians.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal', 'Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q48.svg
+
+=== Question #49 | ID: 134431 | Title: Q49: Prove that the ratio of the areas of two simi... ===
+Text: Prove that the ratio of the areas of two similar triangles equals the square of the ratio of their corresponding altitudes.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Perimeters are equal but areas differ', 'Corresponding sides and angles are all equal']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q49.svg
+
+=== Question #50 | ID: 134432 | Title: Q50: A pinhole camera forms an inverted real image... ===
+Text: A pinhole camera forms an inverted real image on a screen 15 cm behind the pinhole. If a 1.8-meter tall person stands 3 meters in front of the pinhole, calculate the height of the image on the screen.
+Formula: \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} = k, \quad \text{Area Ratio} = k^2
+Options: ['Corresponding angles sum to 360°', 'Corresponding angles are equal, and corresponding sides are in proportion (ratio k)', 'Corresponding sides and angles are all equal', 'Perimeters are equal but areas differ']
+Correct Ans: Corresponding angles are equal, and corresponding sides are in proportion (ratio k)
+Show Img: 1 | URL: /images/g9_t150_q50.svg

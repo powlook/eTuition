@@ -1,0 +1,250 @@
+File: g8_t138_q1.svg | QID: 134033
+  Question: Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer....
+  Answer: No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)
+  SVG Texts: ['Triangle Side Length Check #1', 'Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)', 'c = 17 cm', 'a = 6 cm', 'b = 9 cm']
+============================================================
+File: g8_t138_q2.svg | QID: 134034
+  Question: Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?...
+  Answer: 5 cm < x < 21 cm
+  SVG Texts: ['Third Side Range Bounds #2', 'Third side x', 'a = 8 cm', 'b = 13 cm', 'Range: 5 &lt; x &lt; 21']
+============================================================
+File: g8_t138_q3.svg | QID: 134035
+  Question: In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from sho...
+  Answer: BC, AB, AC
+  SVG Texts: ['Angle-Side Order Relationship #3', 'A=45°', 'B=75°', 'C=60°', 'Side Order: BC &lt; AB &lt; AC']
+============================================================
+File: g8_t138_q4.svg | QID: 134036
+  Question: In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smalles...
+  Answer: ∠X, ∠Z, ∠Y
+  SVG Texts: ['Side-Angle Order Relationship #4', 'YZ = 9 cm (shortest)', 'XY = 12 cm', 'XZ = 15 cm (longest)', 'Angle Order: ∠X &lt; ∠Z &lt; ∠Y']
+============================================================
+File: g8_t138_q5.svg | QID: 134037
+  Question: If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not....
+  Answer: No, because 15 + 7 = 22, which is not strictly greater than 22
+  SVG Texts: ['Third Side Non-Zero Bounds #5', 'Third side x', 'a = 15 cm', 'b = 22 cm', 'Range: 7 &lt; x &lt; 37']
+============================================================
+File: g8_t138_q6.svg | QID: 134038
+  Question: In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible inte...
+  Answer: Minimum = 7 cm, Maximum = 21 cm
+  SVG Texts: ['Third Side Integer Bounds #6', 'Third side x', 'a = 8 cm', 'b = 14 cm', 'Range: 6 &lt; x &lt; 22']
+============================================================
+File: g8_t138_q7.svg | QID: 134039
+  Question: Which statement correctly expresses the Exterior Angle Inequality Theorem?...
+  Answer: An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles
+  SVG Texts: ['Exterior Angle Inequality Theorem #7', 'Ext ∠4', 'Int ∠1', 'Int ∠2', 'Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2']
+============================================================
+File: g8_t138_q8.svg | QID: 134040
+  Question: In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to c...
+  Answer: BC > EF (because included angle m∠A = 65° > m∠D = 48°)
+  SVG Texts: ['Hinge Theorem Comparison #8', 'BC (larger)', '∠A = 65°', '&gt;', 'EF (smaller)', '∠D = 48°', 'Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF']
+============================================================
+File: g8_t138_q9.svg | QID: 134041
+  Question: In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle....
+  Answer: ∠K and ∠M are the equal smallest angles
+  SVG Texts: ['Isosceles Angle Ranking #9', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q10.svg | QID: 134042
+  Question: A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangul...
+  Answer: 7 km
+  SVG Texts: ['Surveyor Return Path Max Bounds #10', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q11.svg | QID: 134043
+  Question: Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer....
+  Answer: No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)
+  SVG Texts: ['Triangle Side Length Check #11', 'Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)', 'c = 17 cm', 'a = 6 cm', 'b = 9 cm']
+============================================================
+File: g8_t138_q12.svg | QID: 134044
+  Question: Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?...
+  Answer: 5 cm < x < 21 cm
+  SVG Texts: ['Third Side Range Bounds #12', 'Third side x', 'a = 8 cm', 'b = 13 cm', 'Range: 5 &lt; x &lt; 21']
+============================================================
+File: g8_t138_q13.svg | QID: 134045
+  Question: In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from sho...
+  Answer: BC, AB, AC
+  SVG Texts: ['Angle-Side Order Relationship #13', 'A=45°', 'B=75°', 'C=60°', 'Side Order: BC &lt; AB &lt; AC']
+============================================================
+File: g8_t138_q14.svg | QID: 134046
+  Question: In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smalles...
+  Answer: ∠X, ∠Z, ∠Y
+  SVG Texts: ['Side-Angle Order Relationship #14', 'YZ = 9 cm (shortest)', 'XY = 12 cm', 'XZ = 15 cm (longest)', 'Angle Order: ∠X &lt; ∠Z &lt; ∠Y']
+============================================================
+File: g8_t138_q15.svg | QID: 134047
+  Question: If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not....
+  Answer: No, because 15 + 7 = 22, which is not strictly greater than 22
+  SVG Texts: ['Third Side Non-Zero Bounds #15', 'Third side x', 'a = 15 cm', 'b = 22 cm', 'Range: 7 &lt; x &lt; 37']
+============================================================
+File: g8_t138_q16.svg | QID: 134048
+  Question: In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible inte...
+  Answer: Minimum = 7 cm, Maximum = 21 cm
+  SVG Texts: ['Third Side Integer Bounds #16', 'Third side x', 'a = 8 cm', 'b = 14 cm', 'Range: 6 &lt; x &lt; 22']
+============================================================
+File: g8_t138_q17.svg | QID: 134049
+  Question: Which statement correctly expresses the Exterior Angle Inequality Theorem?...
+  Answer: An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles
+  SVG Texts: ['Exterior Angle Inequality Theorem #17', 'Ext ∠4', 'Int ∠1', 'Int ∠2', 'Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2']
+============================================================
+File: g8_t138_q18.svg | QID: 134050
+  Question: In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to c...
+  Answer: BC > EF (because included angle m∠A = 65° > m∠D = 48°)
+  SVG Texts: ['Hinge Theorem Comparison #18', 'BC (larger)', '∠A = 65°', '&gt;', 'EF (smaller)', '∠D = 48°', 'Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF']
+============================================================
+File: g8_t138_q19.svg | QID: 134051
+  Question: In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle....
+  Answer: ∠K and ∠M are the equal smallest angles
+  SVG Texts: ['Isosceles Angle Ranking #19', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q20.svg | QID: 134052
+  Question: A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangul...
+  Answer: 7 km
+  SVG Texts: ['Surveyor Return Path Max Bounds #20', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q21.svg | QID: 134053
+  Question: Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer....
+  Answer: No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)
+  SVG Texts: ['Triangle Side Length Check #21', 'Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)', 'c = 17 cm', 'a = 6 cm', 'b = 9 cm']
+============================================================
+File: g8_t138_q22.svg | QID: 134054
+  Question: Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?...
+  Answer: 5 cm < x < 21 cm
+  SVG Texts: ['Third Side Range Bounds #22', 'Third side x', 'a = 8 cm', 'b = 13 cm', 'Range: 5 &lt; x &lt; 21']
+============================================================
+File: g8_t138_q23.svg | QID: 134055
+  Question: In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from sho...
+  Answer: BC, AB, AC
+  SVG Texts: ['Angle-Side Order Relationship #23', 'A=45°', 'B=75°', 'C=60°', 'Side Order: BC &lt; AB &lt; AC']
+============================================================
+File: g8_t138_q24.svg | QID: 134056
+  Question: In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smalles...
+  Answer: ∠X, ∠Z, ∠Y
+  SVG Texts: ['Side-Angle Order Relationship #24', 'YZ = 9 cm (shortest)', 'XY = 12 cm', 'XZ = 15 cm (longest)', 'Angle Order: ∠X &lt; ∠Z &lt; ∠Y']
+============================================================
+File: g8_t138_q25.svg | QID: 134057
+  Question: If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not....
+  Answer: No, because 15 + 7 = 22, which is not strictly greater than 22
+  SVG Texts: ['Third Side Non-Zero Bounds #25', 'Third side x', 'a = 15 cm', 'b = 22 cm', 'Range: 7 &lt; x &lt; 37']
+============================================================
+File: g8_t138_q26.svg | QID: 134058
+  Question: In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible inte...
+  Answer: Minimum = 7 cm, Maximum = 21 cm
+  SVG Texts: ['Third Side Integer Bounds #26', 'Third side x', 'a = 8 cm', 'b = 14 cm', 'Range: 6 &lt; x &lt; 22']
+============================================================
+File: g8_t138_q27.svg | QID: 134059
+  Question: Which statement correctly expresses the Exterior Angle Inequality Theorem?...
+  Answer: An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles
+  SVG Texts: ['Exterior Angle Inequality Theorem #27', 'Ext ∠4', 'Int ∠1', 'Int ∠2', 'Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2']
+============================================================
+File: g8_t138_q28.svg | QID: 134060
+  Question: In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to c...
+  Answer: BC > EF (because included angle m∠A = 65° > m∠D = 48°)
+  SVG Texts: ['Hinge Theorem Comparison #28', 'BC (larger)', '∠A = 65°', '&gt;', 'EF (smaller)', '∠D = 48°', 'Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF']
+============================================================
+File: g8_t138_q29.svg | QID: 134061
+  Question: In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle....
+  Answer: ∠K and ∠M are the equal smallest angles
+  SVG Texts: ['Isosceles Angle Ranking #29', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q30.svg | QID: 134062
+  Question: A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangul...
+  Answer: 7 km
+  SVG Texts: ['Surveyor Return Path Max Bounds #30', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q31.svg | QID: 134063
+  Question: Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer....
+  Answer: No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)
+  SVG Texts: ['Triangle Side Length Check #31', 'Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)', 'c = 17 cm', 'a = 6 cm', 'b = 9 cm']
+============================================================
+File: g8_t138_q32.svg | QID: 134064
+  Question: Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?...
+  Answer: 5 cm < x < 21 cm
+  SVG Texts: ['Third Side Range Bounds #32', 'Third side x', 'a = 8 cm', 'b = 13 cm', 'Range: 5 &lt; x &lt; 21']
+============================================================
+File: g8_t138_q33.svg | QID: 134065
+  Question: In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from sho...
+  Answer: BC, AB, AC
+  SVG Texts: ['Angle-Side Order Relationship #33', 'A=45°', 'B=75°', 'C=60°', 'Side Order: BC &lt; AB &lt; AC']
+============================================================
+File: g8_t138_q34.svg | QID: 134066
+  Question: In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smalles...
+  Answer: ∠X, ∠Z, ∠Y
+  SVG Texts: ['Side-Angle Order Relationship #34', 'YZ = 9 cm (shortest)', 'XY = 12 cm', 'XZ = 15 cm (longest)', 'Angle Order: ∠X &lt; ∠Z &lt; ∠Y']
+============================================================
+File: g8_t138_q35.svg | QID: 134067
+  Question: If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not....
+  Answer: No, because 15 + 7 = 22, which is not strictly greater than 22
+  SVG Texts: ['Third Side Non-Zero Bounds #35', 'Third side x', 'a = 15 cm', 'b = 22 cm', 'Range: 7 &lt; x &lt; 37']
+============================================================
+File: g8_t138_q36.svg | QID: 134068
+  Question: In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible inte...
+  Answer: Minimum = 7 cm, Maximum = 21 cm
+  SVG Texts: ['Third Side Integer Bounds #36', 'Third side x', 'a = 8 cm', 'b = 14 cm', 'Range: 6 &lt; x &lt; 22']
+============================================================
+File: g8_t138_q37.svg | QID: 134069
+  Question: Which statement correctly expresses the Exterior Angle Inequality Theorem?...
+  Answer: An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles
+  SVG Texts: ['Exterior Angle Inequality Theorem #37', 'Ext ∠4', 'Int ∠1', 'Int ∠2', 'Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2']
+============================================================
+File: g8_t138_q38.svg | QID: 134070
+  Question: In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to c...
+  Answer: BC > EF (because included angle m∠A = 65° > m∠D = 48°)
+  SVG Texts: ['Hinge Theorem Comparison #38', 'BC (larger)', '∠A = 65°', '&gt;', 'EF (smaller)', '∠D = 48°', 'Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF']
+============================================================
+File: g8_t138_q39.svg | QID: 134071
+  Question: In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle....
+  Answer: ∠K and ∠M are the equal smallest angles
+  SVG Texts: ['Isosceles Angle Ranking #39', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q40.svg | QID: 134072
+  Question: A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangul...
+  Answer: 7 km
+  SVG Texts: ['Surveyor Return Path Max Bounds #40', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q41.svg | QID: 134073
+  Question: Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer....
+  Answer: No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)
+  SVG Texts: ['Triangle Side Length Check #41', 'Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)', 'c = 17 cm', 'a = 6 cm', 'b = 9 cm']
+============================================================
+File: g8_t138_q42.svg | QID: 134074
+  Question: Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?...
+  Answer: 5 cm < x < 21 cm
+  SVG Texts: ['Third Side Range Bounds #42', 'Third side x', 'a = 8 cm', 'b = 13 cm', 'Range: 5 &lt; x &lt; 21']
+============================================================
+File: g8_t138_q43.svg | QID: 134075
+  Question: In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from sho...
+  Answer: BC, AB, AC
+  SVG Texts: ['Angle-Side Order Relationship #43', 'A=45°', 'B=75°', 'C=60°', 'Side Order: BC &lt; AB &lt; AC']
+============================================================
+File: g8_t138_q44.svg | QID: 134076
+  Question: In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smalles...
+  Answer: ∠X, ∠Z, ∠Y
+  SVG Texts: ['Side-Angle Order Relationship #44', 'YZ = 9 cm (shortest)', 'XY = 12 cm', 'XZ = 15 cm (longest)', 'Angle Order: ∠X &lt; ∠Z &lt; ∠Y']
+============================================================
+File: g8_t138_q45.svg | QID: 134077
+  Question: If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not....
+  Answer: No, because 15 + 7 = 22, which is not strictly greater than 22
+  SVG Texts: ['Third Side Non-Zero Bounds #45', 'Third side x', 'a = 15 cm', 'b = 22 cm', 'Range: 7 &lt; x &lt; 37']
+============================================================
+File: g8_t138_q46.svg | QID: 134078
+  Question: In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible inte...
+  Answer: Minimum = 7 cm, Maximum = 21 cm
+  SVG Texts: ['Third Side Integer Bounds #46', 'Third side x', 'a = 8 cm', 'b = 14 cm', 'Range: 6 &lt; x &lt; 22']
+============================================================
+File: g8_t138_q47.svg | QID: 134079
+  Question: Which statement correctly expresses the Exterior Angle Inequality Theorem?...
+  Answer: An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles
+  SVG Texts: ['Exterior Angle Inequality Theorem #47', 'Ext ∠4', 'Int ∠1', 'Int ∠2', 'Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2']
+============================================================
+File: g8_t138_q48.svg | QID: 134080
+  Question: In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to c...
+  Answer: BC > EF (because included angle m∠A = 65° > m∠D = 48°)
+  SVG Texts: ['Hinge Theorem Comparison #48', 'BC (larger)', '∠A = 65°', '&gt;', 'EF (smaller)', '∠D = 48°', 'Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF']
+============================================================
+File: g8_t138_q49.svg | QID: 134081
+  Question: In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle....
+  Answer: ∠K and ∠M are the equal smallest angles
+  SVG Texts: ['Isosceles Angle Ranking #49', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================
+File: g8_t138_q50.svg | QID: 134082
+  Question: A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangul...
+  Answer: 7 km
+  SVG Texts: ['Surveyor Return Path Max Bounds #50', 'KM = 11 cm (longest side)', 'KL = 7', 'LM = 7', 'Smallest Angles: ∠K and ∠M (equal)']
+============================================================

@@ -1,0 +1,350 @@
+Q01 (ID 133583): System Classification #1
+   Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+   Ans:  Consistent-dependent (Infinitely many solutions)
+   Opts: ['Consistent-dependent (Infinitely many solutions)', 'Consistent-independent (One solution)', 'Inconsistent (No solution)', 'Non-linear system']
+   Img:  /images/g8_t134_q1.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x - y = 4', 'L2: 4x - 2y = 8']
+------------------------------------------------------------
+Q02 (ID 133584): Solve System Graphically #2
+   Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+   Ans:  (4, 2)
+   Opts: ['(2, 4)', '(5, 1)', '(0, 0)', '(4, 2)']
+   Img:  /images/g8_t134_q2.svg
+   SVG Texts: ['System of Linear Equations', 'L1: x + y = 6', 'L2: x - y = 2', 'Intersection = ?']
+------------------------------------------------------------
+Q03 (ID 133585): Substitution Method System #3
+   Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+   Ans:  x = 3, y = 4
+   Opts: ['x = 3, y = 4', 'x = 4, y = 3', 'x = 5, y = 10', 'x = 2, y = 1']
+   Img:  /images/g8_t134_q3.svg
+   SVG Texts: ['System of Linear Equations', 'L1: y = 3x - 5', 'L2: 2x + 3y = 18', 'Intersection = ?']
+------------------------------------------------------------
+Q04 (ID 133586): Elimination Method System #4
+   Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+   Ans:  x = 4, y = 2
+   Opts: ['x = 2, y = 4', 'x = 5, y = 1', 'x = 4, y = 2', 'x = 3, y = 3']
+   Img:  /images/g8_t134_q4.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 3x + 2y = 16', 'L2: 5x - 2y = 16', 'Intersection = ?']
+------------------------------------------------------------
+Q05 (ID 133587): General System Solution #5
+   Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+   Ans:  (2, 1)
+   Opts: ['(1, 2)', '(2, 1)', '(0, 0)', '(3, -1)']
+   Img:  /images/g8_t134_q5.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 4x + 3y = 11', 'L2: 3x - 5y = -7', 'Intersection = ?']
+------------------------------------------------------------
+Q06 (ID 133588): Inconsistent System Identification #6
+   Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+   Ans:  No Solution (Inconsistent System)
+   Opts: ['No Solution (Inconsistent System)', 'One Solution (4, 1)', 'Infinitely Many Solutions', 'Two Solutions']
+   Img:  /images/g8_t134_q6.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x + 6y = 10', 'L2: x + 3y = 7']
+------------------------------------------------------------
+Q07 (ID 133589): Number Problem System #7
+   Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+   Ans:  41 and 23
+   Opts: ['40 and 24', '41 and 23', '35 and 29', '42 and 22']
+   Img:  /images/g8_t134_q7.svg
+   SVG Texts: ['System: Number Word Problem', 'L1: x + y = 64', 'L2: x - y = 18', 'Solution (x, y) = ?']
+------------------------------------------------------------
+Q08 (ID 133590): Cafeteria Price System #8
+   Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+   Ans:  Burger: ₱45, Drink: ₱20
+   Opts: ['Burger: ₱35, Drink: ₱30', 'Burger: ₱50, Drink: ₱15', 'Burger: ₱45, Drink: ₱20', 'Burger: ₱40, Drink: ₱25']
+   Img:  /images/g8_t134_q8.svg
+   SVG Texts: ['Cafeteria Pricing System', 'L1: 3b + 2d = 175', 'L2: 2b + 4d = 170', 'Price (b, d) = ?']
+------------------------------------------------------------
+Q09 (ID 133591): Boat & Current Motion System #9
+   Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+   Ans:  Boat: 15 km/h, Current: 3 km/h
+   Opts: ['Boat: 12 km/h, Current: 4 km/h', 'Boat: 15 km/h, Current: 3 km/h', 'Boat: 20 km/h, Current: 5 km/h', 'Boat: 18 km/h, Current: 2 km/h']
+   Img:  /images/g8_t134_q9.svg
+   SVG Texts: ['Boat &amp; Current Motion System', 'L1: b + c = 18', 'L2: b - c = 12', 'Speed (b, c) = ?']
+------------------------------------------------------------
+Q10 (ID 133592): Acid Mixture System #10
+   Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+   Ans:  10 liters of 20% solution and 20 liters of 50% solution
+   Opts: ['20 liters of 20% and 10 liters of 50%', '10 liters of 20% solution and 20 liters of 50% solution', '15 liters of 20% and 15 liters of 50%', '5 liters of 20% and 25 liters of 50%']
+   Img:  /images/g8_t134_q10.svg
+   SVG Texts: ['Acid Mixture System', 'L1: x + y = 30', 'L2: 0.2x + 0.5y = 12', 'Volume (x, y) = ?']
+------------------------------------------------------------
+Q11 (ID 133593): System Classification #11
+   Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+   Ans:  Consistent-dependent (Infinitely many solutions)
+   Opts: ['Consistent-dependent (Infinitely many solutions)', 'Consistent-independent (One solution)', 'Inconsistent (No solution)', 'Non-linear system']
+   Img:  /images/g8_t134_q11.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x - y = 4', 'L2: 4x - 2y = 8']
+------------------------------------------------------------
+Q12 (ID 133594): Solve System Graphically #12
+   Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+   Ans:  (4, 2)
+   Opts: ['(2, 4)', '(5, 1)', '(4, 2)', '(0, 0)']
+   Img:  /images/g8_t134_q12.svg
+   SVG Texts: ['System of Linear Equations', 'L1: x + y = 6', 'L2: x - y = 2', 'Intersection = ?']
+------------------------------------------------------------
+Q13 (ID 133595): Substitution Method System #13
+   Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+   Ans:  x = 3, y = 4
+   Opts: ['x = 3, y = 4', 'x = 5, y = 10', 'x = 2, y = 1', 'x = 4, y = 3']
+   Img:  /images/g8_t134_q13.svg
+   SVG Texts: ['System of Linear Equations', 'L1: y = 3x - 5', 'L2: 2x + 3y = 18', 'Intersection = ?']
+------------------------------------------------------------
+Q14 (ID 133596): Elimination Method System #14
+   Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+   Ans:  x = 4, y = 2
+   Opts: ['x = 5, y = 1', 'x = 2, y = 4', 'x = 4, y = 2', 'x = 3, y = 3']
+   Img:  /images/g8_t134_q14.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 3x + 2y = 16', 'L2: 5x - 2y = 16', 'Intersection = ?']
+------------------------------------------------------------
+Q15 (ID 133597): General System Solution #15
+   Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+   Ans:  (2, 1)
+   Opts: ['(0, 0)', '(1, 2)', '(2, 1)', '(3, -1)']
+   Img:  /images/g8_t134_q15.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 4x + 3y = 11', 'L2: 3x - 5y = -7', 'Intersection = ?']
+------------------------------------------------------------
+Q16 (ID 133598): Inconsistent System Identification #16
+   Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+   Ans:  No Solution (Inconsistent System)
+   Opts: ['No Solution (Inconsistent System)', 'One Solution (4, 1)', 'Infinitely Many Solutions', 'Two Solutions']
+   Img:  /images/g8_t134_q16.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x + 6y = 10', 'L2: x + 3y = 7']
+------------------------------------------------------------
+Q17 (ID 133599): Number Problem System #17
+   Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+   Ans:  41 and 23
+   Opts: ['40 and 24', '42 and 22', '35 and 29', '41 and 23']
+   Img:  /images/g8_t134_q17.svg
+   SVG Texts: ['System: Number Word Problem', 'L1: x + y = 64', 'L2: x - y = 18', 'Solution (x, y) = ?']
+------------------------------------------------------------
+Q18 (ID 133600): Cafeteria Price System #18
+   Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+   Ans:  Burger: ₱45, Drink: ₱20
+   Opts: ['Burger: ₱35, Drink: ₱30', 'Burger: ₱40, Drink: ₱25', 'Burger: ₱45, Drink: ₱20', 'Burger: ₱50, Drink: ₱15']
+   Img:  /images/g8_t134_q18.svg
+   SVG Texts: ['Cafeteria Pricing System', 'L1: 3b + 2d = 175', 'L2: 2b + 4d = 170', 'Price (b, d) = ?']
+------------------------------------------------------------
+Q19 (ID 133601): Boat & Current Motion System #19
+   Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+   Ans:  Boat: 15 km/h, Current: 3 km/h
+   Opts: ['Boat: 12 km/h, Current: 4 km/h', 'Boat: 18 km/h, Current: 2 km/h', 'Boat: 20 km/h, Current: 5 km/h', 'Boat: 15 km/h, Current: 3 km/h']
+   Img:  /images/g8_t134_q19.svg
+   SVG Texts: ['Boat &amp; Current Motion System', 'L1: b + c = 18', 'L2: b - c = 12', 'Speed (b, c) = ?']
+------------------------------------------------------------
+Q20 (ID 133602): Acid Mixture System #20
+   Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+   Ans:  10 liters of 20% solution and 20 liters of 50% solution
+   Opts: ['15 liters of 20% and 15 liters of 50%', '10 liters of 20% solution and 20 liters of 50% solution', '5 liters of 20% and 25 liters of 50%', '20 liters of 20% and 10 liters of 50%']
+   Img:  /images/g8_t134_q20.svg
+   SVG Texts: ['Acid Mixture System', 'L1: x + y = 30', 'L2: 0.2x + 0.5y = 12', 'Volume (x, y) = ?']
+------------------------------------------------------------
+Q21 (ID 133603): System Classification #21
+   Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+   Ans:  Consistent-dependent (Infinitely many solutions)
+   Opts: ['Consistent-dependent (Infinitely many solutions)', 'Consistent-independent (One solution)', 'Inconsistent (No solution)', 'Non-linear system']
+   Img:  /images/g8_t134_q21.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x - y = 4', 'L2: 4x - 2y = 8']
+------------------------------------------------------------
+Q22 (ID 133604): Solve System Graphically #22
+   Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+   Ans:  (4, 2)
+   Opts: ['(5, 1)', '(2, 4)', '(0, 0)', '(4, 2)']
+   Img:  /images/g8_t134_q22.svg
+   SVG Texts: ['System of Linear Equations', 'L1: x + y = 6', 'L2: x - y = 2', 'Intersection = ?']
+------------------------------------------------------------
+Q23 (ID 133605): Substitution Method System #23
+   Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+   Ans:  x = 3, y = 4
+   Opts: ['x = 5, y = 10', 'x = 4, y = 3', 'x = 2, y = 1', 'x = 3, y = 4']
+   Img:  /images/g8_t134_q23.svg
+   SVG Texts: ['System of Linear Equations', 'L1: y = 3x - 5', 'L2: 2x + 3y = 18', 'Intersection = ?']
+------------------------------------------------------------
+Q24 (ID 133606): Elimination Method System #24
+   Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+   Ans:  x = 4, y = 2
+   Opts: ['x = 2, y = 4', 'x = 3, y = 3', 'x = 4, y = 2', 'x = 5, y = 1']
+   Img:  /images/g8_t134_q24.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 3x + 2y = 16', 'L2: 5x - 2y = 16', 'Intersection = ?']
+------------------------------------------------------------
+Q25 (ID 133607): General System Solution #25
+   Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+   Ans:  (2, 1)
+   Opts: ['(3, -1)', '(0, 0)', '(1, 2)', '(2, 1)']
+   Img:  /images/g8_t134_q25.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 4x + 3y = 11', 'L2: 3x - 5y = -7', 'Intersection = ?']
+------------------------------------------------------------
+Q26 (ID 133608): Inconsistent System Identification #26
+   Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+   Ans:  No Solution (Inconsistent System)
+   Opts: ['No Solution (Inconsistent System)', 'One Solution (4, 1)', 'Infinitely Many Solutions', 'Two Solutions']
+   Img:  /images/g8_t134_q26.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x + 6y = 10', 'L2: x + 3y = 7']
+------------------------------------------------------------
+Q27 (ID 133609): Number Problem System #27
+   Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+   Ans:  41 and 23
+   Opts: ['40 and 24', '42 and 22', '35 and 29', '41 and 23']
+   Img:  /images/g8_t134_q27.svg
+   SVG Texts: ['System: Number Word Problem', 'L1: x + y = 64', 'L2: x - y = 18', 'Solution (x, y) = ?']
+------------------------------------------------------------
+Q28 (ID 133610): Cafeteria Price System #28
+   Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+   Ans:  Burger: ₱45, Drink: ₱20
+   Opts: ['Burger: ₱35, Drink: ₱30', 'Burger: ₱45, Drink: ₱20', 'Burger: ₱40, Drink: ₱25', 'Burger: ₱50, Drink: ₱15']
+   Img:  /images/g8_t134_q28.svg
+   SVG Texts: ['Cafeteria Pricing System', 'L1: 3b + 2d = 175', 'L2: 2b + 4d = 170', 'Price (b, d) = ?']
+------------------------------------------------------------
+Q29 (ID 133611): Boat & Current Motion System #29
+   Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+   Ans:  Boat: 15 km/h, Current: 3 km/h
+   Opts: ['Boat: 15 km/h, Current: 3 km/h', 'Boat: 12 km/h, Current: 4 km/h', 'Boat: 20 km/h, Current: 5 km/h', 'Boat: 18 km/h, Current: 2 km/h']
+   Img:  /images/g8_t134_q29.svg
+   SVG Texts: ['Boat &amp; Current Motion System', 'L1: b + c = 18', 'L2: b - c = 12', 'Speed (b, c) = ?']
+------------------------------------------------------------
+Q30 (ID 133612): Acid Mixture System #30
+   Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+   Ans:  10 liters of 20% solution and 20 liters of 50% solution
+   Opts: ['5 liters of 20% and 25 liters of 50%', '20 liters of 20% and 10 liters of 50%', '15 liters of 20% and 15 liters of 50%', '10 liters of 20% solution and 20 liters of 50% solution']
+   Img:  /images/g8_t134_q30.svg
+   SVG Texts: ['Acid Mixture System', 'L1: x + y = 30', 'L2: 0.2x + 0.5y = 12', 'Volume (x, y) = ?']
+------------------------------------------------------------
+Q31 (ID 133613): System Classification #31
+   Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+   Ans:  Consistent-dependent (Infinitely many solutions)
+   Opts: ['Consistent-dependent (Infinitely many solutions)', 'Consistent-independent (One solution)', 'Inconsistent (No solution)', 'Non-linear system']
+   Img:  /images/g8_t134_q31.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x - y = 4', 'L2: 4x - 2y = 8']
+------------------------------------------------------------
+Q32 (ID 133614): Solve System Graphically #32
+   Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+   Ans:  (4, 2)
+   Opts: ['(2, 4)', '(5, 1)', '(0, 0)', '(4, 2)']
+   Img:  /images/g8_t134_q32.svg
+   SVG Texts: ['System of Linear Equations', 'L1: x + y = 6', 'L2: x - y = 2', 'Intersection = ?']
+------------------------------------------------------------
+Q33 (ID 133615): Substitution Method System #33
+   Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+   Ans:  x = 3, y = 4
+   Opts: ['x = 3, y = 4', 'x = 5, y = 10', 'x = 2, y = 1', 'x = 4, y = 3']
+   Img:  /images/g8_t134_q33.svg
+   SVG Texts: ['System of Linear Equations', 'L1: y = 3x - 5', 'L2: 2x + 3y = 18', 'Intersection = ?']
+------------------------------------------------------------
+Q34 (ID 133616): Elimination Method System #34
+   Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+   Ans:  x = 4, y = 2
+   Opts: ['x = 3, y = 3', 'x = 4, y = 2', 'x = 5, y = 1', 'x = 2, y = 4']
+   Img:  /images/g8_t134_q34.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 3x + 2y = 16', 'L2: 5x - 2y = 16', 'Intersection = ?']
+------------------------------------------------------------
+Q35 (ID 133617): General System Solution #35
+   Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+   Ans:  (2, 1)
+   Opts: ['(0, 0)', '(2, 1)', '(3, -1)', '(1, 2)']
+   Img:  /images/g8_t134_q35.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 4x + 3y = 11', 'L2: 3x - 5y = -7', 'Intersection = ?']
+------------------------------------------------------------
+Q36 (ID 133618): Inconsistent System Identification #36
+   Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+   Ans:  No Solution (Inconsistent System)
+   Opts: ['No Solution (Inconsistent System)', 'One Solution (4, 1)', 'Infinitely Many Solutions', 'Two Solutions']
+   Img:  /images/g8_t134_q36.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x + 6y = 10', 'L2: x + 3y = 7']
+------------------------------------------------------------
+Q37 (ID 133619): Number Problem System #37
+   Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+   Ans:  41 and 23
+   Opts: ['35 and 29', '41 and 23', '42 and 22', '40 and 24']
+   Img:  /images/g8_t134_q37.svg
+   SVG Texts: ['System: Number Word Problem', 'L1: x + y = 64', 'L2: x - y = 18', 'Solution (x, y) = ?']
+------------------------------------------------------------
+Q38 (ID 133620): Cafeteria Price System #38
+   Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+   Ans:  Burger: ₱45, Drink: ₱20
+   Opts: ['Burger: ₱40, Drink: ₱25', 'Burger: ₱35, Drink: ₱30', 'Burger: ₱50, Drink: ₱15', 'Burger: ₱45, Drink: ₱20']
+   Img:  /images/g8_t134_q38.svg
+   SVG Texts: ['Cafeteria Pricing System', 'L1: 3b + 2d = 175', 'L2: 2b + 4d = 170', 'Price (b, d) = ?']
+------------------------------------------------------------
+Q39 (ID 133621): Boat & Current Motion System #39
+   Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+   Ans:  Boat: 15 km/h, Current: 3 km/h
+   Opts: ['Boat: 18 km/h, Current: 2 km/h', 'Boat: 20 km/h, Current: 5 km/h', 'Boat: 12 km/h, Current: 4 km/h', 'Boat: 15 km/h, Current: 3 km/h']
+   Img:  /images/g8_t134_q39.svg
+   SVG Texts: ['Boat &amp; Current Motion System', 'L1: b + c = 18', 'L2: b - c = 12', 'Speed (b, c) = ?']
+------------------------------------------------------------
+Q40 (ID 133622): Acid Mixture System #40
+   Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+   Ans:  10 liters of 20% solution and 20 liters of 50% solution
+   Opts: ['20 liters of 20% and 10 liters of 50%', '10 liters of 20% solution and 20 liters of 50% solution', '5 liters of 20% and 25 liters of 50%', '15 liters of 20% and 15 liters of 50%']
+   Img:  /images/g8_t134_q40.svg
+   SVG Texts: ['Acid Mixture System', 'L1: x + y = 30', 'L2: 0.2x + 0.5y = 12', 'Volume (x, y) = ?']
+------------------------------------------------------------
+Q41 (ID 133623): System Classification #41
+   Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+   Ans:  Consistent-dependent (Infinitely many solutions)
+   Opts: ['Consistent-dependent (Infinitely many solutions)', 'Consistent-independent (One solution)', 'Inconsistent (No solution)', 'Non-linear system']
+   Img:  /images/g8_t134_q41.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x - y = 4', 'L2: 4x - 2y = 8']
+------------------------------------------------------------
+Q42 (ID 133624): Solve System Graphically #42
+   Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+   Ans:  (4, 2)
+   Opts: ['(4, 2)', '(0, 0)', '(2, 4)', '(5, 1)']
+   Img:  /images/g8_t134_q42.svg
+   SVG Texts: ['System of Linear Equations', 'L1: x + y = 6', 'L2: x - y = 2', 'Intersection = ?']
+------------------------------------------------------------
+Q43 (ID 133625): Substitution Method System #43
+   Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+   Ans:  x = 3, y = 4
+   Opts: ['x = 5, y = 10', 'x = 4, y = 3', 'x = 2, y = 1', 'x = 3, y = 4']
+   Img:  /images/g8_t134_q43.svg
+   SVG Texts: ['System of Linear Equations', 'L1: y = 3x - 5', 'L2: 2x + 3y = 18', 'Intersection = ?']
+------------------------------------------------------------
+Q44 (ID 133626): Elimination Method System #44
+   Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+   Ans:  x = 4, y = 2
+   Opts: ['x = 3, y = 3', 'x = 5, y = 1', 'x = 2, y = 4', 'x = 4, y = 2']
+   Img:  /images/g8_t134_q44.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 3x + 2y = 16', 'L2: 5x - 2y = 16', 'Intersection = ?']
+------------------------------------------------------------
+Q45 (ID 133627): General System Solution #45
+   Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+   Ans:  (2, 1)
+   Opts: ['(0, 0)', '(2, 1)', '(1, 2)', '(3, -1)']
+   Img:  /images/g8_t134_q45.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 4x + 3y = 11', 'L2: 3x - 5y = -7', 'Intersection = ?']
+------------------------------------------------------------
+Q46 (ID 133628): Inconsistent System Identification #46
+   Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+   Ans:  No Solution (Inconsistent System)
+   Opts: ['No Solution (Inconsistent System)', 'One Solution (4, 1)', 'Infinitely Many Solutions', 'Two Solutions']
+   Img:  /images/g8_t134_q46.svg
+   SVG Texts: ['System of Linear Equations', 'L1: 2x + 6y = 10', 'L2: x + 3y = 7']
+------------------------------------------------------------
+Q47 (ID 133629): Number Problem System #47
+   Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+   Ans:  41 and 23
+   Opts: ['35 and 29', '42 and 22', '41 and 23', '40 and 24']
+   Img:  /images/g8_t134_q47.svg
+   SVG Texts: ['System: Number Word Problem', 'L1: x + y = 64', 'L2: x - y = 18', 'Solution (x, y) = ?']
+------------------------------------------------------------
+Q48 (ID 133630): Cafeteria Price System #48
+   Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+   Ans:  Burger: ₱45, Drink: ₱20
+   Opts: ['Burger: ₱40, Drink: ₱25', 'Burger: ₱50, Drink: ₱15', 'Burger: ₱45, Drink: ₱20', 'Burger: ₱35, Drink: ₱30']
+   Img:  /images/g8_t134_q48.svg
+   SVG Texts: ['Cafeteria Pricing System', 'L1: 3b + 2d = 175', 'L2: 2b + 4d = 170', 'Price (b, d) = ?']
+------------------------------------------------------------
+Q49 (ID 133631): Boat & Current Motion System #49
+   Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+   Ans:  Boat: 15 km/h, Current: 3 km/h
+   Opts: ['Boat: 20 km/h, Current: 5 km/h', 'Boat: 15 km/h, Current: 3 km/h', 'Boat: 18 km/h, Current: 2 km/h', 'Boat: 12 km/h, Current: 4 km/h']
+   Img:  /images/g8_t134_q49.svg
+   SVG Texts: ['Boat &amp; Current Motion System', 'L1: b + c = 18', 'L2: b - c = 12', 'Speed (b, c) = ?']
+------------------------------------------------------------
+Q50 (ID 133632): Acid Mixture System #50
+   Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+   Ans:  10 liters of 20% solution and 20 liters of 50% solution
+   Opts: ['20 liters of 20% and 10 liters of 50%', '10 liters of 20% solution and 20 liters of 50% solution', '5 liters of 20% and 25 liters of 50%', '15 liters of 20% and 15 liters of 50%']
+   Img:  /images/g8_t134_q50.svg
+   SVG Texts: ['Acid Mixture System', 'L1: x + y = 30', 'L2: 0.2x + 0.5y = 12', 'Volume (x, y) = ?']
+------------------------------------------------------------

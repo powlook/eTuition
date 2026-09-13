@@ -1,0 +1,306 @@
+[1/50] QID 133983: Right Triangle Hypotenuse #1
+  Image: /images/g8_t137_q1.svg
+  Text: In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.
+  Answer: 15 cm
+  Options: ['14 cm', '15 cm', '21 cm', '16 cm']
+------------------------------------------------------------
+[2/50] QID 133984: Missing Leg Calculation #2
+  Image: /images/g8_t137_q2.svg
+  Text: Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.
+  Answer: 24 cm
+  Options: ['20 cm', '18 cm', '26 cm', '24 cm']
+------------------------------------------------------------
+[3/50] QID 133985: Triangle Classification (8,15,17) #3
+  Image: /images/g8_t137_q3.svg
+  Text: Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.
+  Answer: Right Triangle (17² = 8² + 15²)
+  Options: ['Right Triangle (17² = 8² + 15²)', 'Equilateral Triangle', 'Acute Triangle', 'Obtuse Triangle']
+------------------------------------------------------------
+[4/50] QID 133986: Triangle Classification (7,10,12) #4
+  Image: /images/g8_t137_q4.svg
+  Text: Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.
+  Answer: Acute Triangle (12² < 7² + 10²)
+  Options: ['Scalene Right Triangle', 'Acute Triangle (12² < 7² + 10²)', 'Right Triangle', 'Obtuse Triangle']
+------------------------------------------------------------
+[5/50] QID 133987: Rescue Ladder Distance #5
+  Image: /images/g8_t137_q5.svg
+  Text: A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?
+  Answer: 9 meters
+  Options: ['10 meters', '9 meters', '8 meters', '3 meters']
+------------------------------------------------------------
+[6/50] QID 133988: TV Screen Diagonal #6
+  Image: /images/g8_t137_q6.svg
+  Text: A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?
+  Answer: 50 inches
+  Options: ['45 inches', '70 inches', '55 inches', '50 inches']
+------------------------------------------------------------
+[7/50] QID 133989: Rectangle Diagonal #7
+  Image: /images/g8_t137_q7.svg
+  Text: Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.
+  Answer: 20 cm
+  Options: ['20 cm', '28 cm', '24 cm', '18 cm']
+------------------------------------------------------------
+[8/50] QID 133990: Runner Compass Distance #8
+  Image: /images/g8_t137_q8.svg
+  Text: A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?
+  Answer: 10 km
+  Options: ['7 km', '14 km', '12 km', '10 km']
+------------------------------------------------------------
+[9/50] QID 133991: Equilateral Altitude & Area #9
+  Image: /images/g8_t137_q9.svg
+  Text: An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.
+  Answer: Altitude = 5√3 cm, Area = 25√3 cm²
+  Options: ['Altitude = 5 cm, Area = 25 cm²', 'Altitude = 10√3 cm, Area = 50√3 cm²', 'Altitude = 5√3 cm, Area = 25√3 cm²', 'Altitude = 5√2 cm, Area = 25√2 cm²']
+------------------------------------------------------------
+[10/50] QID 133992: Tower Guy Wire Length #10
+  Image: /images/g8_t137_q10.svg
+  Text: A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.
+  Answer: 26 meters
+  Options: ['28 meters', '26 meters', '22 meters', '34 meters']
+------------------------------------------------------------
+[11/50] QID 133993: Right Triangle Hypotenuse #11
+  Image: /images/g8_t137_q11.svg
+  Text: In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.
+  Answer: 15 cm
+  Options: ['16 cm', '21 cm', '15 cm', '14 cm']
+------------------------------------------------------------
+[12/50] QID 133994: Missing Leg Calculation #12
+  Image: /images/g8_t137_q12.svg
+  Text: Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.
+  Answer: 24 cm
+  Options: ['18 cm', '20 cm', '24 cm', '26 cm']
+------------------------------------------------------------
+[13/50] QID 133995: Triangle Classification (8,15,17) #13
+  Image: /images/g8_t137_q13.svg
+  Text: Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.
+  Answer: Right Triangle (17² = 8² + 15²)
+  Options: ['Acute Triangle', 'Equilateral Triangle', 'Obtuse Triangle', 'Right Triangle (17² = 8² + 15²)']
+------------------------------------------------------------
+[14/50] QID 133996: Triangle Classification (7,10,12) #14
+  Image: /images/g8_t137_q14.svg
+  Text: Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.
+  Answer: Acute Triangle (12² < 7² + 10²)
+  Options: ['Obtuse Triangle', 'Acute Triangle (12² < 7² + 10²)', 'Scalene Right Triangle', 'Right Triangle']
+------------------------------------------------------------
+[15/50] QID 133997: Rescue Ladder Distance #15
+  Image: /images/g8_t137_q15.svg
+  Text: A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?
+  Answer: 9 meters
+  Options: ['3 meters', '8 meters', '10 meters', '9 meters']
+------------------------------------------------------------
+[16/50] QID 133998: TV Screen Diagonal #16
+  Image: /images/g8_t137_q16.svg
+  Text: A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?
+  Answer: 50 inches
+  Options: ['50 inches', '55 inches', '45 inches', '70 inches']
+------------------------------------------------------------
+[17/50] QID 133999: Rectangle Diagonal #17
+  Image: /images/g8_t137_q17.svg
+  Text: Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.
+  Answer: 20 cm
+  Options: ['20 cm', '24 cm', '28 cm', '18 cm']
+------------------------------------------------------------
+[18/50] QID 134000: Runner Compass Distance #18
+  Image: /images/g8_t137_q18.svg
+  Text: A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?
+  Answer: 10 km
+  Options: ['10 km', '14 km', '12 km', '7 km']
+------------------------------------------------------------
+[19/50] QID 134001: Equilateral Altitude & Area #19
+  Image: /images/g8_t137_q19.svg
+  Text: An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.
+  Answer: Altitude = 5√3 cm, Area = 25√3 cm²
+  Options: ['Altitude = 5√3 cm, Area = 25√3 cm²', 'Altitude = 5√2 cm, Area = 25√2 cm²', 'Altitude = 5 cm, Area = 25 cm²', 'Altitude = 10√3 cm, Area = 50√3 cm²']
+------------------------------------------------------------
+[20/50] QID 134002: Tower Guy Wire Length #20
+  Image: /images/g8_t137_q20.svg
+  Text: A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.
+  Answer: 26 meters
+  Options: ['22 meters', '26 meters', '28 meters', '34 meters']
+------------------------------------------------------------
+[21/50] QID 134003: Right Triangle Hypotenuse #21
+  Image: /images/g8_t137_q21.svg
+  Text: In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.
+  Answer: 15 cm
+  Options: ['15 cm', '14 cm', '21 cm', '16 cm']
+------------------------------------------------------------
+[22/50] QID 134004: Missing Leg Calculation #22
+  Image: /images/g8_t137_q22.svg
+  Text: Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.
+  Answer: 24 cm
+  Options: ['20 cm', '26 cm', '18 cm', '24 cm']
+------------------------------------------------------------
+[23/50] QID 134005: Triangle Classification (8,15,17) #23
+  Image: /images/g8_t137_q23.svg
+  Text: Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.
+  Answer: Right Triangle (17² = 8² + 15²)
+  Options: ['Obtuse Triangle', 'Right Triangle (17² = 8² + 15²)', 'Acute Triangle', 'Equilateral Triangle']
+------------------------------------------------------------
+[24/50] QID 134006: Triangle Classification (7,10,12) #24
+  Image: /images/g8_t137_q24.svg
+  Text: Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.
+  Answer: Acute Triangle (12² < 7² + 10²)
+  Options: ['Acute Triangle (12² < 7² + 10²)', 'Right Triangle', 'Scalene Right Triangle', 'Obtuse Triangle']
+------------------------------------------------------------
+[25/50] QID 134007: Rescue Ladder Distance #25
+  Image: /images/g8_t137_q25.svg
+  Text: A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?
+  Answer: 9 meters
+  Options: ['8 meters', '9 meters', '3 meters', '10 meters']
+------------------------------------------------------------
+[26/50] QID 134008: TV Screen Diagonal #26
+  Image: /images/g8_t137_q26.svg
+  Text: A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?
+  Answer: 50 inches
+  Options: ['55 inches', '50 inches', '45 inches', '70 inches']
+------------------------------------------------------------
+[27/50] QID 134009: Rectangle Diagonal #27
+  Image: /images/g8_t137_q27.svg
+  Text: Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.
+  Answer: 20 cm
+  Options: ['20 cm', '24 cm', '28 cm', '18 cm']
+------------------------------------------------------------
+[28/50] QID 134010: Runner Compass Distance #28
+  Image: /images/g8_t137_q28.svg
+  Text: A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?
+  Answer: 10 km
+  Options: ['10 km', '14 km', '7 km', '12 km']
+------------------------------------------------------------
+[29/50] QID 134011: Equilateral Altitude & Area #29
+  Image: /images/g8_t137_q29.svg
+  Text: An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.
+  Answer: Altitude = 5√3 cm, Area = 25√3 cm²
+  Options: ['Altitude = 5 cm, Area = 25 cm²', 'Altitude = 10√3 cm, Area = 50√3 cm²', 'Altitude = 5√3 cm, Area = 25√3 cm²', 'Altitude = 5√2 cm, Area = 25√2 cm²']
+------------------------------------------------------------
+[30/50] QID 134012: Tower Guy Wire Length #30
+  Image: /images/g8_t137_q30.svg
+  Text: A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.
+  Answer: 26 meters
+  Options: ['34 meters', '22 meters', '28 meters', '26 meters']
+------------------------------------------------------------
+[31/50] QID 134013: Right Triangle Hypotenuse #31
+  Image: /images/g8_t137_q31.svg
+  Text: In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.
+  Answer: 15 cm
+  Options: ['15 cm', '14 cm', '16 cm', '21 cm']
+------------------------------------------------------------
+[32/50] QID 134014: Missing Leg Calculation #32
+  Image: /images/g8_t137_q32.svg
+  Text: Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.
+  Answer: 24 cm
+  Options: ['26 cm', '24 cm', '18 cm', '20 cm']
+------------------------------------------------------------
+[33/50] QID 134015: Triangle Classification (8,15,17) #33
+  Image: /images/g8_t137_q33.svg
+  Text: Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.
+  Answer: Right Triangle (17² = 8² + 15²)
+  Options: ['Right Triangle (17² = 8² + 15²)', 'Acute Triangle', 'Equilateral Triangle', 'Obtuse Triangle']
+------------------------------------------------------------
+[34/50] QID 134016: Triangle Classification (7,10,12) #34
+  Image: /images/g8_t137_q34.svg
+  Text: Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.
+  Answer: Acute Triangle (12² < 7² + 10²)
+  Options: ['Right Triangle', 'Acute Triangle (12² < 7² + 10²)', 'Scalene Right Triangle', 'Obtuse Triangle']
+------------------------------------------------------------
+[35/50] QID 134017: Rescue Ladder Distance #35
+  Image: /images/g8_t137_q35.svg
+  Text: A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?
+  Answer: 9 meters
+  Options: ['8 meters', '10 meters', '3 meters', '9 meters']
+------------------------------------------------------------
+[36/50] QID 134018: TV Screen Diagonal #36
+  Image: /images/g8_t137_q36.svg
+  Text: A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?
+  Answer: 50 inches
+  Options: ['45 inches', '70 inches', '55 inches', '50 inches']
+------------------------------------------------------------
+[37/50] QID 134019: Rectangle Diagonal #37
+  Image: /images/g8_t137_q37.svg
+  Text: Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.
+  Answer: 20 cm
+  Options: ['24 cm', '18 cm', '28 cm', '20 cm']
+------------------------------------------------------------
+[38/50] QID 134020: Runner Compass Distance #38
+  Image: /images/g8_t137_q38.svg
+  Text: A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?
+  Answer: 10 km
+  Options: ['10 km', '12 km', '14 km', '7 km']
+------------------------------------------------------------
+[39/50] QID 134021: Equilateral Altitude & Area #39
+  Image: /images/g8_t137_q39.svg
+  Text: An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.
+  Answer: Altitude = 5√3 cm, Area = 25√3 cm²
+  Options: ['Altitude = 5√2 cm, Area = 25√2 cm²', 'Altitude = 5√3 cm, Area = 25√3 cm²', 'Altitude = 10√3 cm, Area = 50√3 cm²', 'Altitude = 5 cm, Area = 25 cm²']
+------------------------------------------------------------
+[40/50] QID 134022: Tower Guy Wire Length #40
+  Image: /images/g8_t137_q40.svg
+  Text: A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.
+  Answer: 26 meters
+  Options: ['34 meters', '28 meters', '26 meters', '22 meters']
+------------------------------------------------------------
+[41/50] QID 134023: Right Triangle Hypotenuse #41
+  Image: /images/g8_t137_q41.svg
+  Text: In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.
+  Answer: 15 cm
+  Options: ['14 cm', '16 cm', '21 cm', '15 cm']
+------------------------------------------------------------
+[42/50] QID 134024: Missing Leg Calculation #42
+  Image: /images/g8_t137_q42.svg
+  Text: Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.
+  Answer: 24 cm
+  Options: ['20 cm', '26 cm', '24 cm', '18 cm']
+------------------------------------------------------------
+[43/50] QID 134025: Triangle Classification (8,15,17) #43
+  Image: /images/g8_t137_q43.svg
+  Text: Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.
+  Answer: Right Triangle (17² = 8² + 15²)
+  Options: ['Obtuse Triangle', 'Right Triangle (17² = 8² + 15²)', 'Acute Triangle', 'Equilateral Triangle']
+------------------------------------------------------------
+[44/50] QID 134026: Triangle Classification (7,10,12) #44
+  Image: /images/g8_t137_q44.svg
+  Text: Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.
+  Answer: Acute Triangle (12² < 7² + 10²)
+  Options: ['Obtuse Triangle', 'Acute Triangle (12² < 7² + 10²)', 'Scalene Right Triangle', 'Right Triangle']
+------------------------------------------------------------
+[45/50] QID 134027: Rescue Ladder Distance #45
+  Image: /images/g8_t137_q45.svg
+  Text: A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?
+  Answer: 9 meters
+  Options: ['8 meters', '3 meters', '10 meters', '9 meters']
+------------------------------------------------------------
+[46/50] QID 134028: TV Screen Diagonal #46
+  Image: /images/g8_t137_q46.svg
+  Text: A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?
+  Answer: 50 inches
+  Options: ['45 inches', '50 inches', '70 inches', '55 inches']
+------------------------------------------------------------
+[47/50] QID 134029: Rectangle Diagonal #47
+  Image: /images/g8_t137_q47.svg
+  Text: Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.
+  Answer: 20 cm
+  Options: ['28 cm', '24 cm', '20 cm', '18 cm']
+------------------------------------------------------------
+[48/50] QID 134030: Runner Compass Distance #48
+  Image: /images/g8_t137_q48.svg
+  Text: A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?
+  Answer: 10 km
+  Options: ['14 km', '12 km', '7 km', '10 km']
+------------------------------------------------------------
+[49/50] QID 134031: Equilateral Altitude & Area #49
+  Image: /images/g8_t137_q49.svg
+  Text: An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.
+  Answer: Altitude = 5√3 cm, Area = 25√3 cm²
+  Options: ['Altitude = 5 cm, Area = 25 cm²', 'Altitude = 5√3 cm, Area = 25√3 cm²', 'Altitude = 10√3 cm, Area = 50√3 cm²', 'Altitude = 5√2 cm, Area = 25√2 cm²']
+------------------------------------------------------------
+[50/50] QID 134032: Tower Guy Wire Length #50
+  Image: /images/g8_t137_q50.svg
+  Text: A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.
+  Answer: 26 meters
+  Options: ['34 meters', '28 meters', '26 meters', '22 meters']
+------------------------------------------------------------
+[51/50] QID 134544: Q12: Verify the Fundamental Pythagorean Trigonomet...
+  Image: /images/g9_t153_q12.svg
+  Text: Verify the Fundamental Pythagorean Trigonometric Identity: sin² θ + cos² θ = 1 for θ = 30°, θ = 45°, and θ = 60°.
+  Answer: sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj
+  Options: ['sin θ = Hyp/Opp, cos θ = Hyp/Adj, tan θ = Adj/Opp', 'sin θ = Opp/Adj, cos θ = Adj/Opp, tan θ = Hyp/Adj', 'sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj', 'sin θ = Adj/Hyp, cos θ = Opp/Hyp, tan θ = Hyp/Opp']
+------------------------------------------------------------

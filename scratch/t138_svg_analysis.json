@@ -1,0 +1,662 @@
+[
+  {
+    "fname": "g8_t138_q1.svg",
+    "qid": 134033,
+    "question_text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "svg_texts": [
+      "Triangle Side Length Check #1",
+      "Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)",
+      "c = 17 cm",
+      "a = 6 cm",
+      "b = 9 cm"
+    ]
+  },
+  {
+    "fname": "g8_t138_q2.svg",
+    "qid": 134034,
+    "question_text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "answer": "5 cm < x < 21 cm",
+    "svg_texts": [
+      "Third Side Range Bounds #2",
+      "Third side x",
+      "a = 8 cm",
+      "b = 13 cm",
+      "Range: 5 &lt; x &lt; 21"
+    ]
+  },
+  {
+    "fname": "g8_t138_q3.svg",
+    "qid": 134035,
+    "question_text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "answer": "BC, AB, AC",
+    "svg_texts": [
+      "Angle-Side Order Relationship #3",
+      "A=45°",
+      "B=75°",
+      "C=60°",
+      "Side Order: BC &lt; AB &lt; AC"
+    ]
+  },
+  {
+    "fname": "g8_t138_q4.svg",
+    "qid": 134036,
+    "question_text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "answer": "∠X, ∠Z, ∠Y",
+    "svg_texts": [
+      "Side-Angle Order Relationship #4",
+      "YZ = 9 cm (shortest)",
+      "XY = 12 cm",
+      "XZ = 15 cm (longest)",
+      "Angle Order: ∠X &lt; ∠Z &lt; ∠Y"
+    ]
+  },
+  {
+    "fname": "g8_t138_q5.svg",
+    "qid": 134037,
+    "question_text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "svg_texts": [
+      "Third Side Non-Zero Bounds #5",
+      "Third side x",
+      "a = 15 cm",
+      "b = 22 cm",
+      "Range: 7 &lt; x &lt; 37"
+    ]
+  },
+  {
+    "fname": "g8_t138_q6.svg",
+    "qid": 134038,
+    "question_text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "svg_texts": [
+      "Third Side Integer Bounds #6",
+      "Third side x",
+      "a = 8 cm",
+      "b = 14 cm",
+      "Range: 6 &lt; x &lt; 22"
+    ]
+  },
+  {
+    "fname": "g8_t138_q7.svg",
+    "qid": 134039,
+    "question_text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "svg_texts": [
+      "Exterior Angle Inequality Theorem #7",
+      "Ext ∠4",
+      "Int ∠1",
+      "Int ∠2",
+      "Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2"
+    ]
+  },
+  {
+    "fname": "g8_t138_q8.svg",
+    "qid": 134040,
+    "question_text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "svg_texts": [
+      "Hinge Theorem Comparison #8",
+      "BC (larger)",
+      "∠A = 65°",
+      "&gt;",
+      "EF (smaller)",
+      "∠D = 48°",
+      "Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF"
+    ]
+  },
+  {
+    "fname": "g8_t138_q9.svg",
+    "qid": 134041,
+    "question_text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "svg_texts": [
+      "Isosceles Angle Ranking #9",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q10.svg",
+    "qid": 134042,
+    "question_text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "answer": "7 km",
+    "svg_texts": [
+      "Surveyor Return Path Max Bounds #10",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q11.svg",
+    "qid": 134043,
+    "question_text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "svg_texts": [
+      "Triangle Side Length Check #11",
+      "Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)",
+      "c = 17 cm",
+      "a = 6 cm",
+      "b = 9 cm"
+    ]
+  },
+  {
+    "fname": "g8_t138_q12.svg",
+    "qid": 134044,
+    "question_text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "answer": "5 cm < x < 21 cm",
+    "svg_texts": [
+      "Third Side Range Bounds #12",
+      "Third side x",
+      "a = 8 cm",
+      "b = 13 cm",
+      "Range: 5 &lt; x &lt; 21"
+    ]
+  },
+  {
+    "fname": "g8_t138_q13.svg",
+    "qid": 134045,
+    "question_text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "answer": "BC, AB, AC",
+    "svg_texts": [
+      "Angle-Side Order Relationship #13",
+      "A=45°",
+      "B=75°",
+      "C=60°",
+      "Side Order: BC &lt; AB &lt; AC"
+    ]
+  },
+  {
+    "fname": "g8_t138_q14.svg",
+    "qid": 134046,
+    "question_text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "answer": "∠X, ∠Z, ∠Y",
+    "svg_texts": [
+      "Side-Angle Order Relationship #14",
+      "YZ = 9 cm (shortest)",
+      "XY = 12 cm",
+      "XZ = 15 cm (longest)",
+      "Angle Order: ∠X &lt; ∠Z &lt; ∠Y"
+    ]
+  },
+  {
+    "fname": "g8_t138_q15.svg",
+    "qid": 134047,
+    "question_text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "svg_texts": [
+      "Third Side Non-Zero Bounds #15",
+      "Third side x",
+      "a = 15 cm",
+      "b = 22 cm",
+      "Range: 7 &lt; x &lt; 37"
+    ]
+  },
+  {
+    "fname": "g8_t138_q16.svg",
+    "qid": 134048,
+    "question_text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "svg_texts": [
+      "Third Side Integer Bounds #16",
+      "Third side x",
+      "a = 8 cm",
+      "b = 14 cm",
+      "Range: 6 &lt; x &lt; 22"
+    ]
+  },
+  {
+    "fname": "g8_t138_q17.svg",
+    "qid": 134049,
+    "question_text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "svg_texts": [
+      "Exterior Angle Inequality Theorem #17",
+      "Ext ∠4",
+      "Int ∠1",
+      "Int ∠2",
+      "Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2"
+    ]
+  },
+  {
+    "fname": "g8_t138_q18.svg",
+    "qid": 134050,
+    "question_text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "svg_texts": [
+      "Hinge Theorem Comparison #18",
+      "BC (larger)",
+      "∠A = 65°",
+      "&gt;",
+      "EF (smaller)",
+      "∠D = 48°",
+      "Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF"
+    ]
+  },
+  {
+    "fname": "g8_t138_q19.svg",
+    "qid": 134051,
+    "question_text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "svg_texts": [
+      "Isosceles Angle Ranking #19",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q20.svg",
+    "qid": 134052,
+    "question_text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "answer": "7 km",
+    "svg_texts": [
+      "Surveyor Return Path Max Bounds #20",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q21.svg",
+    "qid": 134053,
+    "question_text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "svg_texts": [
+      "Triangle Side Length Check #21",
+      "Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)",
+      "c = 17 cm",
+      "a = 6 cm",
+      "b = 9 cm"
+    ]
+  },
+  {
+    "fname": "g8_t138_q22.svg",
+    "qid": 134054,
+    "question_text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "answer": "5 cm < x < 21 cm",
+    "svg_texts": [
+      "Third Side Range Bounds #22",
+      "Third side x",
+      "a = 8 cm",
+      "b = 13 cm",
+      "Range: 5 &lt; x &lt; 21"
+    ]
+  },
+  {
+    "fname": "g8_t138_q23.svg",
+    "qid": 134055,
+    "question_text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "answer": "BC, AB, AC",
+    "svg_texts": [
+      "Angle-Side Order Relationship #23",
+      "A=45°",
+      "B=75°",
+      "C=60°",
+      "Side Order: BC &lt; AB &lt; AC"
+    ]
+  },
+  {
+    "fname": "g8_t138_q24.svg",
+    "qid": 134056,
+    "question_text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "answer": "∠X, ∠Z, ∠Y",
+    "svg_texts": [
+      "Side-Angle Order Relationship #24",
+      "YZ = 9 cm (shortest)",
+      "XY = 12 cm",
+      "XZ = 15 cm (longest)",
+      "Angle Order: ∠X &lt; ∠Z &lt; ∠Y"
+    ]
+  },
+  {
+    "fname": "g8_t138_q25.svg",
+    "qid": 134057,
+    "question_text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "svg_texts": [
+      "Third Side Non-Zero Bounds #25",
+      "Third side x",
+      "a = 15 cm",
+      "b = 22 cm",
+      "Range: 7 &lt; x &lt; 37"
+    ]
+  },
+  {
+    "fname": "g8_t138_q26.svg",
+    "qid": 134058,
+    "question_text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "svg_texts": [
+      "Third Side Integer Bounds #26",
+      "Third side x",
+      "a = 8 cm",
+      "b = 14 cm",
+      "Range: 6 &lt; x &lt; 22"
+    ]
+  },
+  {
+    "fname": "g8_t138_q27.svg",
+    "qid": 134059,
+    "question_text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "svg_texts": [
+      "Exterior Angle Inequality Theorem #27",
+      "Ext ∠4",
+      "Int ∠1",
+      "Int ∠2",
+      "Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2"
+    ]
+  },
+  {
+    "fname": "g8_t138_q28.svg",
+    "qid": 134060,
+    "question_text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "svg_texts": [
+      "Hinge Theorem Comparison #28",
+      "BC (larger)",
+      "∠A = 65°",
+      "&gt;",
+      "EF (smaller)",
+      "∠D = 48°",
+      "Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF"
+    ]
+  },
+  {
+    "fname": "g8_t138_q29.svg",
+    "qid": 134061,
+    "question_text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "svg_texts": [
+      "Isosceles Angle Ranking #29",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q30.svg",
+    "qid": 134062,
+    "question_text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "answer": "7 km",
+    "svg_texts": [
+      "Surveyor Return Path Max Bounds #30",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q31.svg",
+    "qid": 134063,
+    "question_text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "svg_texts": [
+      "Triangle Side Length Check #31",
+      "Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)",
+      "c = 17 cm",
+      "a = 6 cm",
+      "b = 9 cm"
+    ]
+  },
+  {
+    "fname": "g8_t138_q32.svg",
+    "qid": 134064,
+    "question_text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "answer": "5 cm < x < 21 cm",
+    "svg_texts": [
+      "Third Side Range Bounds #32",
+      "Third side x",
+      "a = 8 cm",
+      "b = 13 cm",
+      "Range: 5 &lt; x &lt; 21"
+    ]
+  },
+  {
+    "fname": "g8_t138_q33.svg",
+    "qid": 134065,
+    "question_text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "answer": "BC, AB, AC",
+    "svg_texts": [
+      "Angle-Side Order Relationship #33",
+      "A=45°",
+      "B=75°",
+      "C=60°",
+      "Side Order: BC &lt; AB &lt; AC"
+    ]
+  },
+  {
+    "fname": "g8_t138_q34.svg",
+    "qid": 134066,
+    "question_text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "answer": "∠X, ∠Z, ∠Y",
+    "svg_texts": [
+      "Side-Angle Order Relationship #34",
+      "YZ = 9 cm (shortest)",
+      "XY = 12 cm",
+      "XZ = 15 cm (longest)",
+      "Angle Order: ∠X &lt; ∠Z &lt; ∠Y"
+    ]
+  },
+  {
+    "fname": "g8_t138_q35.svg",
+    "qid": 134067,
+    "question_text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "svg_texts": [
+      "Third Side Non-Zero Bounds #35",
+      "Third side x",
+      "a = 15 cm",
+      "b = 22 cm",
+      "Range: 7 &lt; x &lt; 37"
+    ]
+  },
+  {
+    "fname": "g8_t138_q36.svg",
+    "qid": 134068,
+    "question_text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "svg_texts": [
+      "Third Side Integer Bounds #36",
+      "Third side x",
+      "a = 8 cm",
+      "b = 14 cm",
+      "Range: 6 &lt; x &lt; 22"
+    ]
+  },
+  {
+    "fname": "g8_t138_q37.svg",
+    "qid": 134069,
+    "question_text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "svg_texts": [
+      "Exterior Angle Inequality Theorem #37",
+      "Ext ∠4",
+      "Int ∠1",
+      "Int ∠2",
+      "Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2"
+    ]
+  },
+  {
+    "fname": "g8_t138_q38.svg",
+    "qid": 134070,
+    "question_text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "svg_texts": [
+      "Hinge Theorem Comparison #38",
+      "BC (larger)",
+      "∠A = 65°",
+      "&gt;",
+      "EF (smaller)",
+      "∠D = 48°",
+      "Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF"
+    ]
+  },
+  {
+    "fname": "g8_t138_q39.svg",
+    "qid": 134071,
+    "question_text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "svg_texts": [
+      "Isosceles Angle Ranking #39",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q40.svg",
+    "qid": 134072,
+    "question_text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "answer": "7 km",
+    "svg_texts": [
+      "Surveyor Return Path Max Bounds #40",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q41.svg",
+    "qid": 134073,
+    "question_text": "Determine whether it is possible to form a triangle with side lengths: 6 cm, 9 cm, and 17 cm. Justify your answer.",
+    "answer": "No, because 6 + 9 = 15 < 17 (violates Triangle Inequality Theorem)",
+    "svg_texts": [
+      "Triangle Side Length Check #41",
+      "Gap: 6 + 9 = 15 &lt; 17 (Cannot Form Triangle)",
+      "c = 17 cm",
+      "a = 6 cm",
+      "b = 9 cm"
+    ]
+  },
+  {
+    "fname": "g8_t138_q42.svg",
+    "qid": 134074,
+    "question_text": "Two sides of a triangle measure 8 cm and 13 cm. What is the range of possible lengths for the third side x?",
+    "answer": "5 cm < x < 21 cm",
+    "svg_texts": [
+      "Third Side Range Bounds #42",
+      "Third side x",
+      "a = 8 cm",
+      "b = 13 cm",
+      "Range: 5 &lt; x &lt; 21"
+    ]
+  },
+  {
+    "fname": "g8_t138_q43.svg",
+    "qid": 134075,
+    "question_text": "In triangle ABC, m∠A = 45°, m∠B = 75°, and m∠C = 60°. List the lengths of the three sides (AB, BC, AC) in order from shortest to longest.",
+    "answer": "BC, AB, AC",
+    "svg_texts": [
+      "Angle-Side Order Relationship #43",
+      "A=45°",
+      "B=75°",
+      "C=60°",
+      "Side Order: BC &lt; AB &lt; AC"
+    ]
+  },
+  {
+    "fname": "g8_t138_q44.svg",
+    "qid": 134076,
+    "question_text": "In triangle XYZ, side XY = 12 cm, YZ = 9 cm, and XZ = 15 cm. List the interior angles (∠X, ∠Y, ∠Z) in order from smallest to largest.",
+    "answer": "∠X, ∠Z, ∠Y",
+    "svg_texts": [
+      "Side-Angle Order Relationship #44",
+      "YZ = 9 cm (shortest)",
+      "XY = 12 cm",
+      "XZ = 15 cm (longest)",
+      "Angle Order: ∠X &lt; ∠Z &lt; ∠Y"
+    ]
+  },
+  {
+    "fname": "g8_t138_q45.svg",
+    "qid": 134077,
+    "question_text": "If the lengths of two sides of a triangle are 15 cm and 22 cm, can the third side be 7 cm? Explain why or why not.",
+    "answer": "No, because 15 + 7 = 22, which is not strictly greater than 22",
+    "svg_texts": [
+      "Third Side Non-Zero Bounds #45",
+      "Third side x",
+      "a = 15 cm",
+      "b = 22 cm",
+      "Range: 7 &lt; x &lt; 37"
+    ]
+  },
+  {
+    "fname": "g8_t138_q46.svg",
+    "qid": 134078,
+    "question_text": "In triangle PQR, PQ = 8 cm and QR = 14 cm. If the third side PR has an integer length, what is the minimum possible integer length and maximum possible integer length of PR?",
+    "answer": "Minimum = 7 cm, Maximum = 21 cm",
+    "svg_texts": [
+      "Third Side Integer Bounds #46",
+      "Third side x",
+      "a = 8 cm",
+      "b = 14 cm",
+      "Range: 6 &lt; x &lt; 22"
+    ]
+  },
+  {
+    "fname": "g8_t138_q47.svg",
+    "qid": 134079,
+    "question_text": "Which statement correctly expresses the Exterior Angle Inequality Theorem?",
+    "answer": "An exterior angle of a triangle is strictly greater in measure than either of its remote interior angles",
+    "svg_texts": [
+      "Exterior Angle Inequality Theorem #47",
+      "Ext ∠4",
+      "Int ∠1",
+      "Int ∠2",
+      "Theorem: Ext ∠4 &gt; Int ∠1 and Ext ∠4 &gt; Int ∠2"
+    ]
+  },
+  {
+    "fname": "g8_t138_q48.svg",
+    "qid": 134080,
+    "question_text": "In triangles ABC and DEF, AB = DE, AC = DF, and m∠A = 65° while m∠D = 48°. Apply the Hinge Theorem (SAS Inequality) to compare the lengths of BC and EF.",
+    "answer": "BC > EF (because included angle m∠A = 65° > m∠D = 48°)",
+    "svg_texts": [
+      "Hinge Theorem Comparison #48",
+      "BC (larger)",
+      "∠A = 65°",
+      "&gt;",
+      "EF (smaller)",
+      "∠D = 48°",
+      "Hinge Theorem: m∠A &gt; m∠D ⟹ BC &gt; EF"
+    ]
+  },
+  {
+    "fname": "g8_t138_q49.svg",
+    "qid": 134081,
+    "question_text": "In triangle KLM, KL = 7 cm, LM = 7 cm, and KM = 11 cm. Identify the smallest angle(s) in the triangle.",
+    "answer": "∠K and ∠M are the equal smallest angles",
+    "svg_texts": [
+      "Isosceles Angle Ranking #49",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  },
+  {
+    "fname": "g8_t138_q50.svg",
+    "qid": 134082,
+    "question_text": "A surveyor measures two paths extending from a basecamp: Path 1 is 3 km and Path 2 is 5 km. If the paths form a triangular circuit with a third return path, what is the maximum possible integer length (in whole kilometers) of the return path?",
+    "answer": "7 km",
+    "svg_texts": [
+      "Surveyor Return Path Max Bounds #50",
+      "KM = 11 cm (longest side)",
+      "KL = 7",
+      "LM = 7",
+      "Smallest Angles: ∠K and ∠M (equal)"
+    ]
+  }
+]

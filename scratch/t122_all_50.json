@@ -1,0 +1,1012 @@
+[
+  {
+    "id": 128674,
+    "title": "Grouped vs. Ungrouped Frequency Table Rationale",
+    "text": "When constructing a frequency distribution table for a continuous dataset of 100 student exam scores ranging from 35 to 98, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?",
+    "img": "",
+    "options": [
+      "When all data values are identical integer constants.",
+      "When the dataset contains only 5 distinct categorical outcomes.",
+      "When every single raw data point must be displayed individually without any aggregation.",
+      "When the dataset is large with a wide numerical range, making grouped intervals essential to reveal distribution patterns."
+    ],
+    "answer": "When the dataset is large with a wide numerical range, making grouped intervals essential to reveal distribution patterns.",
+    "steps": [
+      "**Step 1: Evaluate dataset size and range**",
+      "$$\\text{Large sample size } N \\text{ and broad range } R \\implies \\text{Grouped intervals condensely summarize distribution}$$",
+      "**Final Verified Answer:** When the dataset is large with a wide numerical range, making grouped intervals essential to reveal distribution patterns."
+    ],
+    "formula": "\\text{Class Width } (w) = \\left\\lceil \\frac{\\text{Maximum} - \\text{Minimum}}{\\text{Number of Classes}} \\right\\rceil"
+  },
+  {
+    "id": 128675,
+    "title": "Stem-and-Leaf Plot Information Value Comparison",
+    "text": "Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing small to moderate numerical datasets (e.g. 20-50 test scores)?",
+    "img": "/images/dp_t122_q2.svg",
+    "options": [
+      "When representing budget percentage breakdowns summing to 100%.",
+      "When it is necessary to preserve individual raw data values while simultaneously displaying the overall distribution shape.",
+      "When summarizing categorical qualitative data such as favorite colors.",
+      "When displaying continuous time-series data over multiple years."
+    ],
+    "answer": "When it is necessary to preserve individual raw data values while simultaneously displaying the overall distribution shape.",
+    "steps": [
+      "**Step 1: Identify data retention features**",
+      "$$\\text{Bar graphs summarize counts; Stem-and-leaf plots preserve exact raw numerical data points.}$$",
+      "**Final Verified Answer:** When it is necessary to preserve individual raw data values while simultaneously displaying the overall distribution shape."
+    ],
+    "formula": "\\text{Stem} = \\text{Leading Digits}, \\quad \\text{Leaf} = \\text{Trailing Digit}"
+  },
+  {
+    "id": 128676,
+    "title": "Frequency Distribution Table Class Width Calculation",
+    "text": "A teacher collects raw test scores for a class of students. The minimum score is $42$ and the maximum score is $98$. If the teacher wishes to organize this data into a frequency distribution table with $5$ equal class intervals, what is the appropriate class width $w$?",
+    "img": "",
+    "options": [
+      "Class width $w = 15$",
+      "Class width $w = 10$",
+      "Class width $w = 12$",
+      "Class width $w = 56$"
+    ],
+    "answer": "Class width $w = 12$",
+    "steps": [
+      "**Step 1: Calculate the range**",
+      "$$\\text{Range} = \\text{Max} - \\text{Min} = 98 - 42 = 56$$",
+      "**Step 2: Divide range by number of classes $k = 5$**",
+      "$$\\frac{\\text{Range}}{k} = \\frac{56}{5} = 11.2$$",
+      "**Step 3: Round up to next whole number width**",
+      "$$w = \\lceil 11.2 \\rceil = 12$$",
+      "**Final Verified Answer:** Class width $w = 12$"
+    ],
+    "formula": "w = \\left\\lceil \\frac{\\text{Range}}{k} \\right\\rceil = \\left\\lceil \\frac{\\text{Max} - \\text{Min}}{k} \\right\\rceil"
+  },
+  {
+    "id": 128677,
+    "title": "Appropriate Graph Selection Rationale",
+    "text": "Why is a line graph significantly more appropriate than a pie chart for displaying hourly outdoor temperatures recorded continuously over a 24-hour period?",
+    "img": "/images/dp_t122_q4.svg",
+    "options": [
+      "Line graphs illustrate continuous trend movement, fluctuations, and rates of change over sequential time periods.",
+      "Bar graphs can only represent negative numbers.",
+      "Pie charts cannot be drawn with more than 3 sectors.",
+      "Line graphs automatically compute the mean temperature."
+    ],
+    "answer": "Line graphs illustrate continuous trend movement, fluctuations, and rates of change over sequential time periods.",
+    "steps": [
+      "**Step 1: Compare graph purposes**",
+      "$$\\text{Continuous sequential time data } \\implies \\text{Line graph tracks trends and rate of change.}$$",
+      "**Final Verified Answer:** Line graphs illustrate continuous trend movement, fluctuations, and rates of change over sequential time periods."
+    ],
+    "formula": "\\text{Line Graph} \\implies \\text{Time-Series / Trends}; \\quad \\text{Pie Chart} \\implies \\text{Part-to-Whole Proportions}"
+  },
+  {
+    "id": 128678,
+    "title": "Statistical Sampling Technique Identification",
+    "text": "Identify the specific statistical sampling technique described: \"A quality inspector selects every $15^{\\text{th}}$ item coming off an assembly line starting from a randomly selected first item.\"",
+    "img": "",
+    "options": [
+      "Stratified Sampling",
+      "Simple Random Sampling",
+      "Cluster Sampling",
+      "Systematic Sampling"
+    ],
+    "answer": "Systematic Sampling",
+    "steps": [
+      "**Step 1: Analyze sampling mechanism**",
+      "$$\\text{Method mechanism fits definition of: } Systematic Sampling$$",
+      "**Final Verified Answer:** Systematic Sampling"
+    ],
+    "formula": "\\text{Sampling Methods: Simple Random, Stratified, Systematic, Cluster, Convenience}"
+  },
+  {
+    "id": 128679,
+    "title": "Stem-and-Leaf Plot Data Extraction & Analysis",
+    "text": "Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \\mid 2 = 52$):\n\nStem 4 | 2, 5; Stem 5 | 1, 3, 8; Stem 6 | 0, 4, 7\n\nWhat is the median score of this dataset?",
+    "img": "/images/dp_t122_q6.svg",
+    "options": [
+      "Median score = 49",
+      "Median score = 56",
+      "Median score = 42",
+      "Median score = 52"
+    ],
+    "answer": "Median score = 52",
+    "steps": [
+      "**Step 1: Reconstruct raw dataset from stems and leaves**",
+      "$$\\text{Scores: } 42, 45, 51, 53, 58, 60, 64, 67$$",
+      "**Step 2: Find middle values ($4^{\\text{th}}$ and $5^{\\text{th}}$)**",
+      "$$v_4 = 53, \\quad v_5 = 58$$",
+      "**Step 3: Calculate median**",
+      "$$\\text{Median} = \\frac{53 + 58}{2} = 52$$",
+      "**Final Verified Answer:** Median score = 52"
+    ],
+    "formula": "\\text{Median} = \\text{Middle value when ordered} \\quad (N = 8 \\implies \\text{average of } 4^{\\text{th}} \\text{ and } 5^{\\text{th}} \\text{ values})"
+  },
+  {
+    "id": 128680,
+    "title": "Pie Chart Central Sector Angle Calculation",
+    "text": "In a school survey of $200$ students, $60$ students selected Mathematics as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the Mathematics sector?",
+    "img": "/images/dp_t122_q7.svg",
+    "options": [
+      "Central angle $= 90^\\circ$",
+      "Central angle $= 30.0^\\circ$",
+      "Central angle $= 132^\\circ$",
+      "Central angle $= 108^\\circ$"
+    ],
+    "answer": "Central angle $= 108^\\circ$",
+    "steps": [
+      "**Step 1: Calculate fraction of total**",
+      "$$\\text{Fraction} = \\frac{60}{200} = 0.30$$",
+      "**Step 2: Multiply by $360^\\circ$**",
+      "$$\\theta = 0.30 \\times 360^\\circ = 108^\\circ$$",
+      "**Final Verified Answer:** Central angle $= 108^\\circ$"
+    ],
+    "formula": "\\text{Central Angle } (\\theta) = \\left(\\frac{\\text{Category Frequency}}{\\text{Total Frequency}}\\right) \\times 360^\\circ"
+  },
+  {
+    "id": 128681,
+    "title": "Relative Frequency Percentage Calculation",
+    "text": "A grouped frequency distribution table has 4 class intervals with frequencies $12$, $18$, $15$, and $5$. What is the relative frequency percentage of the second class (frequency 18)?",
+    "img": "",
+    "options": [
+      "Relative frequency = 45%",
+      "Relative frequency = 36%",
+      "Relative frequency = 18%",
+      "Relative frequency = 25%"
+    ],
+    "answer": "Relative frequency = 36%",
+    "steps": [
+      "**Step 1: Calculate total frequency $\\sum f$**",
+      "$$\\sum f = 12 + 18 + 15 + 5 = 50$$",
+      "**Step 2: Calculate relative frequency percentage**",
+      "$$\\text{Relative Frequency} = \\frac{\\text{Target Frequency}}{50} \\times 100\\% = 36%$$",
+      "**Final Verified Answer:** Relative frequency = 36%"
+    ],
+    "formula": "\\text{Relative Frequency \\%} = \\left(\\frac{f_i}{\\sum f}\\right) \\times 100\\%"
+  },
+  {
+    "id": 128682,
+    "title": "Statistical Data Variable Type Classification",
+    "text": "Classify the statistical variable type: \"The exact height in meters of high school students\"",
+    "img": "",
+    "options": [
+      "Continuous Quantitative Data",
+      "Qualitative Ordinal Data",
+      "Discrete Quantitative Data",
+      "Qualitative Nominal Data"
+    ],
+    "answer": "Continuous Quantitative Data",
+    "steps": [
+      "**Step 1: Determine numerical vs non-numerical**",
+      "$$\\text{Variable attributes fit classification: } Continuous Quantitative Data$$",
+      "**Final Verified Answer:** Continuous Quantitative Data"
+    ],
+    "formula": "\\text{Data Types: Qualitative (Nominal/Ordinal) vs Quantitative (Discrete/Continuous)}"
+  },
+  {
+    "id": 128683,
+    "title": "Identifying Misleading Statistical Data Presentations",
+    "text": "Evaluate the validity of the following statistical graph usage: \"Using a pie chart to present non-mutually exclusive survey responses where percentages sum to 145%.\"",
+    "img": "",
+    "options": [
+      "Appropriate: Pie charts automatically normalize any sum of percentages.",
+      "Inappropriate: Pie charts can only display two slices.",
+      "Appropriate: Pie charts are designed for overlapping survey data.",
+      "Inappropriate: Pie charts strictly require mutually exclusive categories that sum to exactly 100%."
+    ],
+    "answer": "Inappropriate: Pie charts strictly require mutually exclusive categories that sum to exactly 100%.",
+    "steps": [
+      "**Step 1: Analyze graphical representation rules**",
+      "$$\\text{Evaluation result: } Inappropriate: Pie charts strictly require mutually exclusive categories that sum to exactly 100%.$$",
+      "**Final Verified Answer:** Inappropriate: Pie charts strictly require mutually exclusive categories that sum to exactly 100%."
+    ],
+    "formula": "\\text{Statistical Integrity: Baseline at 0, Proportional Slices (100\\%), Un-distorted Axes}"
+  },
+  {
+    "id": 128684,
+    "title": "Grouped vs. Ungrouped Frequency Table Rationale",
+    "text": "When constructing a frequency distribution table for daily temperature measurements over a 365-day calendar year spanning -10°C to 42°C, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?",
+    "img": "",
+    "options": [
+      "When calculating the mean of a 4-element list.",
+      "When ordering a list of 3 prime numbers.",
+      "When classifying a survey with only two choices (Yes / No).",
+      "When dealing with a vast continuous dataset with high spread to condense data into meaningful class intervals."
+    ],
+    "answer": "When dealing with a vast continuous dataset with high spread to condense data into meaningful class intervals.",
+    "steps": [
+      "**Step 1: Evaluate dataset size and range**",
+      "$$\\text{Large sample size } N \\text{ and broad range } R \\implies \\text{Grouped intervals condensely summarize distribution}$$",
+      "**Final Verified Answer:** When dealing with a vast continuous dataset with high spread to condense data into meaningful class intervals."
+    ],
+    "formula": "\\text{Class Width } (w) = \\left\\lceil \\frac{\\text{Maximum} - \\text{Minimum}}{\\text{Number of Classes}} \\right\\rceil"
+  },
+  {
+    "id": 128685,
+    "title": "Stem-and-Leaf Plot Information Value Comparison",
+    "text": "Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing analyzing bowler scores in a regional cricket tournament (35 data points)?",
+    "img": "/images/dp_t122_q12.svg",
+    "options": [
+      "When retaining original exact score values alongside frequency density is required for detailed statistical analysis.",
+      "When plotting non-numerical nominal labels.",
+      "When illustrating ratio parts of a whole circle.",
+      "When depicting cumulative growth curves over decades."
+    ],
+    "answer": "When retaining original exact score values alongside frequency density is required for detailed statistical analysis.",
+    "steps": [
+      "**Step 1: Identify data retention features**",
+      "$$\\text{Bar graphs summarize counts; Stem-and-leaf plots preserve exact raw numerical data points.}$$",
+      "**Final Verified Answer:** When retaining original exact score values alongside frequency density is required for detailed statistical analysis."
+    ],
+    "formula": "\\text{Stem} = \\text{Leading Digits}, \\quad \\text{Leaf} = \\text{Trailing Digit}"
+  },
+  {
+    "id": 128686,
+    "title": "Frequency Distribution Table Class Width Calculation",
+    "text": "A teacher collects raw test scores for a class of students. The minimum score is $35$ and the maximum score is $89$. If the teacher wishes to organize this data into a frequency distribution table with $6$ equal class intervals, what is the appropriate class width $w$?",
+    "img": "",
+    "options": [
+      "Class width $w = 10$",
+      "Class width $w = 13$",
+      "Class width $w = 54$",
+      "Class width $w = 8$"
+    ],
+    "answer": "Class width $w = 10$",
+    "steps": [
+      "**Step 1: Calculate the range**",
+      "$$\\text{Range} = \\text{Max} - \\text{Min} = 89 - 35 = 54$$",
+      "**Step 2: Divide range by number of classes $k = 6$**",
+      "$$\\frac{\\text{Range}}{k} = \\frac{54}{6} = 9$$",
+      "**Step 3: Round up to next whole number width**",
+      "$$w = \\lceil 9 \\rceil = 10$$",
+      "**Final Verified Answer:** Class width $w = 10$"
+    ],
+    "formula": "w = \\left\\lceil \\frac{\\text{Range}}{k} \\right\\rceil = \\left\\lceil \\frac{\\text{Max} - \\text{Min}}{k} \\right\\rceil"
+  },
+  {
+    "id": 128687,
+    "title": "Appropriate Graph Selection Rationale",
+    "text": "Why is a line graph significantly more appropriate than a pie chart for displaying monthly company revenue growth over a 5-year period?",
+    "img": "/images/dp_t122_q14.svg",
+    "options": [
+      "Pie charts require all data to be prime numbers.",
+      "Line graphs display categorical frequencies better than bar charts.",
+      "Pie charts are restricted to qualitative surveys only.",
+      "Line graphs show chronological trends, continuous progression, and direction of change over time."
+    ],
+    "answer": "Line graphs show chronological trends, continuous progression, and direction of change over time.",
+    "steps": [
+      "**Step 1: Compare graph purposes**",
+      "$$\\text{Continuous sequential time data } \\implies \\text{Line graph tracks trends and rate of change.}$$",
+      "**Final Verified Answer:** Line graphs show chronological trends, continuous progression, and direction of change over time."
+    ],
+    "formula": "\\text{Line Graph} \\implies \\text{Time-Series / Trends}; \\quad \\text{Pie Chart} \\implies \\text{Part-to-Whole Proportions}"
+  },
+  {
+    "id": 128688,
+    "title": "Statistical Sampling Technique Identification",
+    "text": "Identify the specific statistical sampling technique described: \"A researcher divides a high school population into Form 7, Form 8, Form 9, and Form 10 strata, then randomly selects 25 students from each grade level.\"",
+    "img": "",
+    "options": [
+      "Cluster Sampling",
+      "Systematic Sampling",
+      "Stratified Random Sampling",
+      "Convenience Sampling"
+    ],
+    "answer": "Stratified Random Sampling",
+    "steps": [
+      "**Step 1: Analyze sampling mechanism**",
+      "$$\\text{Method mechanism fits definition of: } Stratified Random Sampling$$",
+      "**Final Verified Answer:** Stratified Random Sampling"
+    ],
+    "formula": "\\text{Sampling Methods: Simple Random, Stratified, Systematic, Cluster, Convenience}"
+  },
+  {
+    "id": 128689,
+    "title": "Stem-and-Leaf Plot Data Extraction & Analysis",
+    "text": "Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \\mid 2 = 52$):\n\nStem 6 | 1, 4, 8; Stem 7 | 2, 5; Stem 8 | 0, 3, 9\n\nWhat is the median score of this dataset?",
+    "img": "/images/dp_t122_q16.svg",
+    "options": [
+      "Median score = 61",
+      "Median score = 73.5",
+      "Median score = 77.5",
+      "Median score = 70.5"
+    ],
+    "answer": "Median score = 73.5",
+    "steps": [
+      "**Step 1: Reconstruct raw dataset from stems and leaves**",
+      "$$\\text{Scores: } 61, 64, 68, 72, 75, 80, 83, 89$$",
+      "**Step 2: Find middle values ($4^{\\text{th}}$ and $5^{\\text{th}}$)**",
+      "$$v_4 = 72, \\quad v_5 = 75$$",
+      "**Step 3: Calculate median**",
+      "$$\\text{Median} = \\frac{72 + 75}{2} = 73.5$$",
+      "**Final Verified Answer:** Median score = 73.5"
+    ],
+    "formula": "\\text{Median} = \\text{Middle value when ordered} \\quad (N = 8 \\implies \\text{average of } 4^{\\text{th}} \\text{ and } 5^{\\text{th}} \\text{ values})"
+  },
+  {
+    "id": 128690,
+    "title": "Pie Chart Central Sector Angle Calculation",
+    "text": "In a school survey of $180$ students, $45$ students selected Science as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the Science sector?",
+    "img": "/images/dp_t122_q17.svg",
+    "options": [
+      "Central angle $= 90^\\circ$",
+      "Central angle $= 72^\\circ$",
+      "Central angle $= 114^\\circ$",
+      "Central angle $= 25.0^\\circ$"
+    ],
+    "answer": "Central angle $= 90^\\circ$",
+    "steps": [
+      "**Step 1: Calculate fraction of total**",
+      "$$\\text{Fraction} = \\frac{45}{180} = 0.25$$",
+      "**Step 2: Multiply by $360^\\circ$**",
+      "$$\\theta = 0.25 \\times 360^\\circ = 90^\\circ$$",
+      "**Final Verified Answer:** Central angle $= 90^\\circ$"
+    ],
+    "formula": "\\text{Central Angle } (\\theta) = \\left(\\frac{\\text{Category Frequency}}{\\text{Total Frequency}}\\right) \\times 360^\\circ"
+  },
+  {
+    "id": 128691,
+    "title": "Relative Frequency Percentage Calculation",
+    "text": "A grouped frequency distribution table has 4 class intervals with frequencies $10$, $25$, $10$, and $5$. What is the relative frequency percentage of the second class (frequency 25)?",
+    "img": "",
+    "options": [
+      "Relative frequency = 18%",
+      "Relative frequency = 45%",
+      "Relative frequency = 50%",
+      "Relative frequency = 25%"
+    ],
+    "answer": "Relative frequency = 50%",
+    "steps": [
+      "**Step 1: Calculate total frequency $\\sum f$**",
+      "$$\\sum f = 10 + 25 + 10 + 5 = 50$$",
+      "**Step 2: Calculate relative frequency percentage**",
+      "$$\\text{Relative Frequency} = \\frac{\\text{Target Frequency}}{50} \\times 100\\% = 50%$$",
+      "**Final Verified Answer:** Relative frequency = 50%"
+    ],
+    "formula": "\\text{Relative Frequency \\%} = \\left(\\frac{f_i}{\\sum f}\\right) \\times 100\\%"
+  },
+  {
+    "id": 128692,
+    "title": "Statistical Data Variable Type Classification",
+    "text": "Classify the statistical variable type: \"The total number of cars registered per household\"",
+    "img": "",
+    "options": [
+      "Qualitative Nominal Data",
+      "Continuous Quantitative Data",
+      "Discrete Quantitative Data",
+      "Qualitative Ordinal Data"
+    ],
+    "answer": "Discrete Quantitative Data",
+    "steps": [
+      "**Step 1: Determine numerical vs non-numerical**",
+      "$$\\text{Variable attributes fit classification: } Discrete Quantitative Data$$",
+      "**Final Verified Answer:** Discrete Quantitative Data"
+    ],
+    "formula": "\\text{Data Types: Qualitative (Nominal/Ordinal) vs Quantitative (Discrete/Continuous)}"
+  },
+  {
+    "id": 128693,
+    "title": "Identifying Misleading Statistical Data Presentations",
+    "text": "Evaluate the validity of the following statistical graph usage: \"Truncating the vertical y-axis of a bar chart to start at 90 instead of 0, making a 5% difference look like a 500% increase.\"",
+    "img": "",
+    "options": [
+      "Misleading: Bar charts must always use logarithmic scales.",
+      "Appropriate: Starting at 90 makes the graph 100% accurate.",
+      "Misleading: Truncating the vertical baseline exaggerates visual differences between bar heights.",
+      "Appropriate: Truncating axes is standard practice for all bar graphs."
+    ],
+    "answer": "Misleading: Truncating the vertical baseline exaggerates visual differences between bar heights.",
+    "steps": [
+      "**Step 1: Analyze graphical representation rules**",
+      "$$\\text{Evaluation result: } Misleading: Truncating the vertical baseline exaggerates visual differences between bar heights.$$",
+      "**Final Verified Answer:** Misleading: Truncating the vertical baseline exaggerates visual differences between bar heights."
+    ],
+    "formula": "\\text{Statistical Integrity: Baseline at 0, Proportional Slices (100\\%), Un-distorted Axes}"
+  },
+  {
+    "id": 128694,
+    "title": "Grouped vs. Ungrouped Frequency Table Rationale",
+    "text": "When constructing a frequency distribution table for monthly household electricity consumption figures across 500 residences, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?",
+    "img": "",
+    "options": [
+      "When raw data spans a broad range, grouping into equal intervals simplifies visualization without losing overall shape.",
+      "When all values fall into 2 integer categories.",
+      "When recording discrete tally counts of 3 color options.",
+      "When graphing a single static data point."
+    ],
+    "answer": "When raw data spans a broad range, grouping into equal intervals simplifies visualization without losing overall shape.",
+    "steps": [
+      "**Step 1: Evaluate dataset size and range**",
+      "$$\\text{Large sample size } N \\text{ and broad range } R \\implies \\text{Grouped intervals condensely summarize distribution}$$",
+      "**Final Verified Answer:** When raw data spans a broad range, grouping into equal intervals simplifies visualization without losing overall shape."
+    ],
+    "formula": "\\text{Class Width } (w) = \\left\\lceil \\frac{\\text{Maximum} - \\text{Minimum}}{\\text{Number of Classes}} \\right\\rceil"
+  },
+  {
+    "id": 128695,
+    "title": "Stem-and-Leaf Plot Information Value Comparison",
+    "text": "Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing evaluating patient recovery times in days for a 30-patient trial?",
+    "img": "/images/dp_t122_q22.svg",
+    "options": [
+      "When graphing discrete survey options without numbers.",
+      "When plotting continuous geographical elevation maps.",
+      "When presenting financial market share percentages.",
+      "When maintaining complete access to every original numerical data point while visualizing skewness and clusters."
+    ],
+    "answer": "When maintaining complete access to every original numerical data point while visualizing skewness and clusters.",
+    "steps": [
+      "**Step 1: Identify data retention features**",
+      "$$\\text{Bar graphs summarize counts; Stem-and-leaf plots preserve exact raw numerical data points.}$$",
+      "**Final Verified Answer:** When maintaining complete access to every original numerical data point while visualizing skewness and clusters."
+    ],
+    "formula": "\\text{Stem} = \\text{Leading Digits}, \\quad \\text{Leaf} = \\text{Trailing Digit}"
+  },
+  {
+    "id": 128696,
+    "title": "Frequency Distribution Table Class Width Calculation",
+    "text": "A teacher collects raw test scores for a class of students. The minimum score is $50$ and the maximum score is $95$. If the teacher wishes to organize this data into a frequency distribution table with $5$ equal class intervals, what is the appropriate class width $w$?",
+    "img": "",
+    "options": [
+      "Class width $w = 8$",
+      "Class width $w = 10$",
+      "Class width $w = 13$",
+      "Class width $w = 45$"
+    ],
+    "answer": "Class width $w = 10$",
+    "steps": [
+      "**Step 1: Calculate the range**",
+      "$$\\text{Range} = \\text{Max} - \\text{Min} = 95 - 50 = 45$$",
+      "**Step 2: Divide range by number of classes $k = 5$**",
+      "$$\\frac{\\text{Range}}{k} = \\frac{45}{5} = 9$$",
+      "**Step 3: Round up to next whole number width**",
+      "$$w = \\lceil 9 \\rceil = 10$$",
+      "**Final Verified Answer:** Class width $w = 10$"
+    ],
+    "formula": "w = \\left\\lceil \\frac{\\text{Range}}{k} \\right\\rceil = \\left\\lceil \\frac{\\text{Max} - \\text{Min}}{k} \\right\\rceil"
+  },
+  {
+    "id": 128697,
+    "title": "Appropriate Graph Selection Rationale",
+    "text": "Why is a line graph significantly more appropriate than a pie chart for displaying reservoir water level variations measured daily across 30 days?",
+    "img": "/images/dp_t122_q24.svg",
+    "options": [
+      "Pie charts cannot depict percentage values.",
+      "Line graphs convert all values into percentages.",
+      "Stem-and-leaf plots are illegal for water measurements.",
+      "Line graphs visually emphasize continuous time-series patterns, peaks, and troughs over time."
+    ],
+    "answer": "Line graphs visually emphasize continuous time-series patterns, peaks, and troughs over time.",
+    "steps": [
+      "**Step 1: Compare graph purposes**",
+      "$$\\text{Continuous sequential time data } \\implies \\text{Line graph tracks trends and rate of change.}$$",
+      "**Final Verified Answer:** Line graphs visually emphasize continuous time-series patterns, peaks, and troughs over time."
+    ],
+    "formula": "\\text{Line Graph} \\implies \\text{Time-Series / Trends}; \\quad \\text{Pie Chart} \\implies \\text{Part-to-Whole Proportions}"
+  },
+  {
+    "id": 128698,
+    "title": "Statistical Sampling Technique Identification",
+    "text": "Identify the specific statistical sampling technique described: \"A survey company randomly selects 5 entire school districts out of 50 in a province and surveys ALL teachers in those 5 chosen districts.\"",
+    "img": "",
+    "options": [
+      "Stratified Random Sampling",
+      "Cluster Sampling",
+      "Systematic Sampling",
+      "Simple Random Sampling"
+    ],
+    "answer": "Cluster Sampling",
+    "steps": [
+      "**Step 1: Analyze sampling mechanism**",
+      "$$\\text{Method mechanism fits definition of: } Cluster Sampling$$",
+      "**Final Verified Answer:** Cluster Sampling"
+    ],
+    "formula": "\\text{Sampling Methods: Simple Random, Stratified, Systematic, Cluster, Convenience}"
+  },
+  {
+    "id": 128699,
+    "title": "Stem-and-Leaf Plot Data Extraction & Analysis",
+    "text": "Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \\mid 2 = 52$):\n\nStem 5 | 0, 2, 6; Stem 6 | 3, 7, 9; Stem 7 | 1, 5\n\nWhat is the median score of this dataset?",
+    "img": "/images/dp_t122_q26.svg",
+    "options": [
+      "Median score = 50",
+      "Median score = 62",
+      "Median score = 65",
+      "Median score = 69"
+    ],
+    "answer": "Median score = 65",
+    "steps": [
+      "**Step 1: Reconstruct raw dataset from stems and leaves**",
+      "$$\\text{Scores: } 50, 52, 56, 63, 67, 69, 71, 75$$",
+      "**Step 2: Find middle values ($4^{\\text{th}}$ and $5^{\\text{th}}$)**",
+      "$$v_4 = 63, \\quad v_5 = 67$$",
+      "**Step 3: Calculate median**",
+      "$$\\text{Median} = \\frac{63 + 67}{2} = 65$$",
+      "**Final Verified Answer:** Median score = 65"
+    ],
+    "formula": "\\text{Median} = \\text{Middle value when ordered} \\quad (N = 8 \\implies \\text{average of } 4^{\\text{th}} \\text{ and } 5^{\\text{th}} \\text{ values})"
+  },
+  {
+    "id": 128700,
+    "title": "Pie Chart Central Sector Angle Calculation",
+    "text": "In a school survey of $300$ students, $80$ students selected English as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the English sector?",
+    "img": "/images/dp_t122_q27.svg",
+    "options": [
+      "Central angle $= 120^\\circ$",
+      "Central angle $= 26.7^\\circ$",
+      "Central angle $= 96^\\circ$",
+      "Central angle $= 78^\\circ$"
+    ],
+    "answer": "Central angle $= 96^\\circ$",
+    "steps": [
+      "**Step 1: Calculate fraction of total**",
+      "$$\\text{Fraction} = \\frac{80}{300} = 0.27$$",
+      "**Step 2: Multiply by $360^\\circ$**",
+      "$$\\theta = 0.27 \\times 360^\\circ = 96^\\circ$$",
+      "**Final Verified Answer:** Central angle $= 96^\\circ$"
+    ],
+    "formula": "\\text{Central Angle } (\\theta) = \\left(\\frac{\\text{Category Frequency}}{\\text{Total Frequency}}\\right) \\times 360^\\circ"
+  },
+  {
+    "id": 128701,
+    "title": "Relative Frequency Percentage Calculation",
+    "text": "A grouped frequency distribution table has 4 class intervals with frequencies $14$, $21$, $28$, and $7$. What is the relative frequency percentage of the third class (frequency 28)?",
+    "img": "",
+    "options": [
+      "Relative frequency = 18%",
+      "Relative frequency = 40%",
+      "Relative frequency = 25%",
+      "Relative frequency = 45%"
+    ],
+    "answer": "Relative frequency = 40%",
+    "steps": [
+      "**Step 1: Calculate total frequency $\\sum f$**",
+      "$$\\sum f = 14 + 21 + 28 + 7 = 70$$",
+      "**Step 2: Calculate relative frequency percentage**",
+      "$$\\text{Relative Frequency} = \\frac{\\text{Target Frequency}}{70} \\times 100\\% = 40%$$",
+      "**Final Verified Answer:** Relative frequency = 40%"
+    ],
+    "formula": "\\text{Relative Frequency \\%} = \\left(\\frac{f_i}{\\sum f}\\right) \\times 100\\%"
+  },
+  {
+    "id": 128702,
+    "title": "Statistical Data Variable Type Classification",
+    "text": "Classify the statistical variable type: \"The favorite music genres chosen by survey respondents\"",
+    "img": "",
+    "options": [
+      "Continuous Quantitative Data",
+      "Discrete Quantitative Data",
+      "Qualitative Ordinal Data",
+      "Qualitative Nominal Data"
+    ],
+    "answer": "Qualitative Nominal Data",
+    "steps": [
+      "**Step 1: Determine numerical vs non-numerical**",
+      "$$\\text{Variable attributes fit classification: } Qualitative Nominal Data$$",
+      "**Final Verified Answer:** Qualitative Nominal Data"
+    ],
+    "formula": "\\text{Data Types: Qualitative (Nominal/Ordinal) vs Quantitative (Discrete/Continuous)}"
+  },
+  {
+    "id": 128703,
+    "title": "Identifying Misleading Statistical Data Presentations",
+    "text": "Evaluate the validity of the following statistical graph usage: \"Using a 3D bar graph with perspective depth that visually distorts the relative heights of the bars.\"",
+    "img": "",
+    "options": [
+      "Misleading: 3D graphs are illegal in statistics.",
+      "Appropriate: 3D graphs are mathematically superior to 2D graphs.",
+      "Misleading: 3D perspective distortion makes visual estimation of accurate values difficult.",
+      "Appropriate: Perspective depth increases numerical precision."
+    ],
+    "answer": "Misleading: 3D perspective distortion makes visual estimation of accurate values difficult.",
+    "steps": [
+      "**Step 1: Analyze graphical representation rules**",
+      "$$\\text{Evaluation result: } Misleading: 3D perspective distortion makes visual estimation of accurate values difficult.$$",
+      "**Final Verified Answer:** Misleading: 3D perspective distortion makes visual estimation of accurate values difficult."
+    ],
+    "formula": "\\text{Statistical Integrity: Baseline at 0, Proportional Slices (100\\%), Un-distorted Axes}"
+  },
+  {
+    "id": 128704,
+    "title": "Grouped vs. Ungrouped Frequency Table Rationale",
+    "text": "When constructing a frequency distribution table for marathon completion times in minutes for 250 runners, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?",
+    "img": "",
+    "options": [
+      "When listing names of top 3 winners.",
+      "When data consists of exact qualitative rank titles.",
+      "When continuous numerical data spans broad ranges, grouping into intervals avoids overly sparse ungrouped tables.",
+      "When comparing binary survey responses."
+    ],
+    "answer": "When continuous numerical data spans broad ranges, grouping into intervals avoids overly sparse ungrouped tables.",
+    "steps": [
+      "**Step 1: Evaluate dataset size and range**",
+      "$$\\text{Large sample size } N \\text{ and broad range } R \\implies \\text{Grouped intervals condensely summarize distribution}$$",
+      "**Final Verified Answer:** When continuous numerical data spans broad ranges, grouping into intervals avoids overly sparse ungrouped tables."
+    ],
+    "formula": "\\text{Class Width } (w) = \\left\\lceil \\frac{\\text{Maximum} - \\text{Minimum}}{\\text{Number of Classes}} \\right\\rceil"
+  },
+  {
+    "id": 128705,
+    "title": "Stem-and-Leaf Plot Information Value Comparison",
+    "text": "Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing comparing student math quiz results across two class sections?",
+    "img": "/images/dp_t122_q32.svg",
+    "options": [
+      "When recording qualitative binary votes.",
+      "When tracking monthly stock indices.",
+      "When back-to-back comparisons require seeing raw individual scores alongside shape and spread.",
+      "When graphing pie slices of favorite fruits."
+    ],
+    "answer": "When back-to-back comparisons require seeing raw individual scores alongside shape and spread.",
+    "steps": [
+      "**Step 1: Identify data retention features**",
+      "$$\\text{Bar graphs summarize counts; Stem-and-leaf plots preserve exact raw numerical data points.}$$",
+      "**Final Verified Answer:** When back-to-back comparisons require seeing raw individual scores alongside shape and spread."
+    ],
+    "formula": "\\text{Stem} = \\text{Leading Digits}, \\quad \\text{Leaf} = \\text{Trailing Digit}"
+  },
+  {
+    "id": 128706,
+    "title": "Frequency Distribution Table Class Width Calculation",
+    "text": "A teacher collects raw test scores for a class of students. The minimum score is $28$ and the maximum score is $94$. If the teacher wishes to organize this data into a frequency distribution table with $6$ equal class intervals, what is the appropriate class width $w$?",
+    "img": "",
+    "options": [
+      "Class width $w = 14$",
+      "Class width $w = 11$",
+      "Class width $w = 66$",
+      "Class width $w = 9$"
+    ],
+    "answer": "Class width $w = 11$",
+    "steps": [
+      "**Step 1: Calculate the range**",
+      "$$\\text{Range} = \\text{Max} - \\text{Min} = 94 - 28 = 66$$",
+      "**Step 2: Divide range by number of classes $k = 6$**",
+      "$$\\frac{\\text{Range}}{k} = \\frac{66}{6} = 11$$",
+      "**Step 3: Round up to next whole number width**",
+      "$$w = \\lceil 11 \\rceil = 11$$",
+      "**Final Verified Answer:** Class width $w = 11$"
+    ],
+    "formula": "w = \\left\\lceil \\frac{\\text{Range}}{k} \\right\\rceil = \\left\\lceil \\frac{\\text{Max} - \\text{Min}}{k} \\right\\rceil"
+  },
+  {
+    "id": 128707,
+    "title": "Appropriate Graph Selection Rationale",
+    "text": "Why is a line graph significantly more appropriate than a pie chart for displaying heart rate changes in beats per minute during a 45-minute exercise session?",
+    "img": "/images/dp_t122_q34.svg",
+    "options": [
+      "Bar graphs require equal frequencies across bars.",
+      "Line graphs effectively depict continuous dynamic changes and trends over continuous time intervals.",
+      "Line graphs sum all data points to 100%.",
+      "Pie charts can only show binary data."
+    ],
+    "answer": "Line graphs effectively depict continuous dynamic changes and trends over continuous time intervals.",
+    "steps": [
+      "**Step 1: Compare graph purposes**",
+      "$$\\text{Continuous sequential time data } \\implies \\text{Line graph tracks trends and rate of change.}$$",
+      "**Final Verified Answer:** Line graphs effectively depict continuous dynamic changes and trends over continuous time intervals."
+    ],
+    "formula": "\\text{Line Graph} \\implies \\text{Time-Series / Trends}; \\quad \\text{Pie Chart} \\implies \\text{Part-to-Whole Proportions}"
+  },
+  {
+    "id": 128708,
+    "title": "Statistical Sampling Technique Identification",
+    "text": "Identify the specific statistical sampling technique described: \"A computer generates a list of 50 random student identification numbers out of a master list of 1,000 students, giving every student an equal chance of selection.\"",
+    "img": "",
+    "options": [
+      "Systematic Sampling",
+      "Stratified Sampling",
+      "Cluster Sampling",
+      "Simple Random Sampling"
+    ],
+    "answer": "Simple Random Sampling",
+    "steps": [
+      "**Step 1: Analyze sampling mechanism**",
+      "$$\\text{Method mechanism fits definition of: } Simple Random Sampling$$",
+      "**Final Verified Answer:** Simple Random Sampling"
+    ],
+    "formula": "\\text{Sampling Methods: Simple Random, Stratified, Systematic, Cluster, Convenience}"
+  },
+  {
+    "id": 128709,
+    "title": "Stem-and-Leaf Plot Data Extraction & Analysis",
+    "text": "Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \\mid 2 = 52$):\n\nStem 7 | 3, 5, 8; Stem 8 | 1, 4; Stem 9 | 0, 2, 6\n\nWhat is the median score of this dataset?",
+    "img": "/images/dp_t122_q36.svg",
+    "options": [
+      "Median score = 86.5",
+      "Median score = 79.5",
+      "Median score = 73",
+      "Median score = 82.5"
+    ],
+    "answer": "Median score = 82.5",
+    "steps": [
+      "**Step 1: Reconstruct raw dataset from stems and leaves**",
+      "$$\\text{Scores: } 73, 75, 78, 81, 84, 90, 92, 96$$",
+      "**Step 2: Find middle values ($4^{\\text{th}}$ and $5^{\\text{th}}$)**",
+      "$$v_4 = 81, \\quad v_5 = 84$$",
+      "**Step 3: Calculate median**",
+      "$$\\text{Median} = \\frac{81 + 84}{2} = 82.5$$",
+      "**Final Verified Answer:** Median score = 82.5"
+    ],
+    "formula": "\\text{Median} = \\text{Middle value when ordered} \\quad (N = 8 \\implies \\text{average of } 4^{\\text{th}} \\text{ and } 5^{\\text{th}} \\text{ values})"
+  },
+  {
+    "id": 128710,
+    "title": "Pie Chart Central Sector Angle Calculation",
+    "text": "In a school survey of $140$ students, $35$ students selected History as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the History sector?",
+    "img": "/images/dp_t122_q37.svg",
+    "options": [
+      "Central angle $= 90^\\circ$",
+      "Central angle $= 114^\\circ$",
+      "Central angle $= 72^\\circ$",
+      "Central angle $= 25.0^\\circ$"
+    ],
+    "answer": "Central angle $= 90^\\circ$",
+    "steps": [
+      "**Step 1: Calculate fraction of total**",
+      "$$\\text{Fraction} = \\frac{35}{140} = 0.25$$",
+      "**Step 2: Multiply by $360^\\circ$**",
+      "$$\\theta = 0.25 \\times 360^\\circ = 90^\\circ$$",
+      "**Final Verified Answer:** Central angle $= 90^\\circ$"
+    ],
+    "formula": "\\text{Central Angle } (\\theta) = \\left(\\frac{\\text{Category Frequency}}{\\text{Total Frequency}}\\right) \\times 360^\\circ"
+  },
+  {
+    "id": 128711,
+    "title": "Relative Frequency Percentage Calculation",
+    "text": "A grouped frequency distribution table has 4 class intervals with frequencies $8$, $12$, $16$, and $4$. What is the relative frequency percentage of the third class (frequency 16)?",
+    "img": "",
+    "options": [
+      "Relative frequency = 45%",
+      "Relative frequency = 18%",
+      "Relative frequency = 25%",
+      "Relative frequency = 40%"
+    ],
+    "answer": "Relative frequency = 40%",
+    "steps": [
+      "**Step 1: Calculate total frequency $\\sum f$**",
+      "$$\\sum f = 8 + 12 + 16 + 4 = 40$$",
+      "**Step 2: Calculate relative frequency percentage**",
+      "$$\\text{Relative Frequency} = \\frac{\\text{Target Frequency}}{40} \\times 100\\% = 40%$$",
+      "**Final Verified Answer:** Relative frequency = 40%"
+    ],
+    "formula": "\\text{Relative Frequency \\%} = \\left(\\frac{f_i}{\\sum f}\\right) \\times 100\\%"
+  },
+  {
+    "id": 128712,
+    "title": "Statistical Data Variable Type Classification",
+    "text": "Classify the statistical variable type: \"Customer satisfaction ratings ranked as Poor, Fair, Good, Excellent\"",
+    "img": "",
+    "options": [
+      "Qualitative Ordinal Data",
+      "Discrete Quantitative Data",
+      "Qualitative Nominal Data",
+      "Continuous Quantitative Data"
+    ],
+    "answer": "Qualitative Ordinal Data",
+    "steps": [
+      "**Step 1: Determine numerical vs non-numerical**",
+      "$$\\text{Variable attributes fit classification: } Qualitative Ordinal Data$$",
+      "**Final Verified Answer:** Qualitative Ordinal Data"
+    ],
+    "formula": "\\text{Data Types: Qualitative (Nominal/Ordinal) vs Quantitative (Discrete/Continuous)}"
+  },
+  {
+    "id": 128713,
+    "title": "Identifying Misleading Statistical Data Presentations",
+    "text": "Evaluate the validity of the following statistical graph usage: \"Using uneven class interval widths in a histogram without adjusting bar height densities.\"",
+    "img": "",
+    "options": [
+      "Appropriate: Bar area does not represent frequency in a histogram.",
+      "Misleading: Histograms can only use 3 class intervals.",
+      "Appropriate: Histograms do not depend on class widths.",
+      "Misleading: Equal bar widths with unequal intervals distort area representations of frequency."
+    ],
+    "answer": "Misleading: Equal bar widths with unequal intervals distort area representations of frequency.",
+    "steps": [
+      "**Step 1: Analyze graphical representation rules**",
+      "$$\\text{Evaluation result: } Misleading: Equal bar widths with unequal intervals distort area representations of frequency.$$",
+      "**Final Verified Answer:** Misleading: Equal bar widths with unequal intervals distort area representations of frequency."
+    ],
+    "formula": "\\text{Statistical Integrity: Baseline at 0, Proportional Slices (100\\%), Un-distorted Axes}"
+  },
+  {
+    "id": 128714,
+    "title": "Grouped vs. Ungrouped Frequency Table Rationale",
+    "text": "When constructing a frequency distribution table for heights in centimeters of 150 high school athletes, under what condition is a grouped frequency table with class intervals preferred over an ungrouped table?",
+    "img": "",
+    "options": [
+      "When reporting eye colors of 10 individuals.",
+      "When all values are equal to zero.",
+      "When listing days of the week.",
+      "When measuring continuous quantitative variables across large samples to summarize frequency across bounded class limits."
+    ],
+    "answer": "When measuring continuous quantitative variables across large samples to summarize frequency across bounded class limits.",
+    "steps": [
+      "**Step 1: Evaluate dataset size and range**",
+      "$$\\text{Large sample size } N \\text{ and broad range } R \\implies \\text{Grouped intervals condensely summarize distribution}$$",
+      "**Final Verified Answer:** When measuring continuous quantitative variables across large samples to summarize frequency across bounded class limits."
+    ],
+    "formula": "\\text{Class Width } (w) = \\left\\lceil \\frac{\\text{Maximum} - \\text{Minimum}}{\\text{Number of Classes}} \\right\\rceil"
+  },
+  {
+    "id": 128715,
+    "title": "Stem-and-Leaf Plot Information Value Comparison",
+    "text": "Under what specific conditions is a stem-and-leaf plot more informative and advantageous than a standard bar graph when analyzing recording plant growth heights in mm for 25 laboratory specimens?",
+    "img": "/images/dp_t122_q42.svg",
+    "options": [
+      "When detailed inspection of data clusters, gaps, and outliers is needed without discarding actual data digits.",
+      "When displaying 24-hour continuous temperature changes.",
+      "When creating a 3D bar chart for nominal labels.",
+      "When summarizing vehicle paint color choices."
+    ],
+    "answer": "When detailed inspection of data clusters, gaps, and outliers is needed without discarding actual data digits.",
+    "steps": [
+      "**Step 1: Identify data retention features**",
+      "$$\\text{Bar graphs summarize counts; Stem-and-leaf plots preserve exact raw numerical data points.}$$",
+      "**Final Verified Answer:** When detailed inspection of data clusters, gaps, and outliers is needed without discarding actual data digits."
+    ],
+    "formula": "\\text{Stem} = \\text{Leading Digits}, \\quad \\text{Leaf} = \\text{Trailing Digit}"
+  },
+  {
+    "id": 128716,
+    "title": "Frequency Distribution Table Class Width Calculation",
+    "text": "A teacher collects raw test scores for a class of students. The minimum score is $15$ and the maximum score is $87$. If the teacher wishes to organize this data into a frequency distribution table with $8$ equal class intervals, what is the appropriate class width $w$?",
+    "img": "",
+    "options": [
+      "Class width $w = 13$",
+      "Class width $w = 8$",
+      "Class width $w = 10$",
+      "Class width $w = 72$"
+    ],
+    "answer": "Class width $w = 10$",
+    "steps": [
+      "**Step 1: Calculate the range**",
+      "$$\\text{Range} = \\text{Max} - \\text{Min} = 87 - 15 = 72$$",
+      "**Step 2: Divide range by number of classes $k = 8$**",
+      "$$\\frac{\\text{Range}}{k} = \\frac{72}{8} = 9$$",
+      "**Step 3: Round up to next whole number width**",
+      "$$w = \\lceil 9 \\rceil = 10$$",
+      "**Final Verified Answer:** Class width $w = 10$"
+    ],
+    "formula": "w = \\left\\lceil \\frac{\\text{Range}}{k} \\right\\rceil = \\left\\lceil \\frac{\\text{Max} - \\text{Min}}{k} \\right\\rceil"
+  },
+  {
+    "id": 128717,
+    "title": "Appropriate Graph Selection Rationale",
+    "text": "Why is a line graph significantly more appropriate than a pie chart for displaying annual country population totals tracked over 10 consecutive years?",
+    "img": "/images/dp_t122_q44.svg",
+    "options": [
+      "Bar graphs cannot display large numbers.",
+      "Pie charts can only represent 4 age categories.",
+      "Line graphs reveal temporal progression, growth rates, and overall trajectory across continuous time.",
+      "Line graphs hide numerical axis labels."
+    ],
+    "answer": "Line graphs reveal temporal progression, growth rates, and overall trajectory across continuous time.",
+    "steps": [
+      "**Step 1: Compare graph purposes**",
+      "$$\\text{Continuous sequential time data } \\implies \\text{Line graph tracks trends and rate of change.}$$",
+      "**Final Verified Answer:** Line graphs reveal temporal progression, growth rates, and overall trajectory across continuous time."
+    ],
+    "formula": "\\text{Line Graph} \\implies \\text{Time-Series / Trends}; \\quad \\text{Pie Chart} \\implies \\text{Part-to-Whole Proportions}"
+  },
+  {
+    "id": 128718,
+    "title": "Statistical Sampling Technique Identification",
+    "text": "Identify the specific statistical sampling technique described: \"A news reporter interviews the first 20 people who walk out of a shopping mall entrance because they are easy to reach.\"",
+    "img": "",
+    "options": [
+      "Systematic Sampling",
+      "Convenience Sampling",
+      "Simple Random Sampling",
+      "Stratified Sampling"
+    ],
+    "answer": "Convenience Sampling",
+    "steps": [
+      "**Step 1: Analyze sampling mechanism**",
+      "$$\\text{Method mechanism fits definition of: } Convenience Sampling$$",
+      "**Final Verified Answer:** Convenience Sampling"
+    ],
+    "formula": "\\text{Sampling Methods: Simple Random, Stratified, Systematic, Cluster, Convenience}"
+  },
+  {
+    "id": 128719,
+    "title": "Stem-and-Leaf Plot Data Extraction & Analysis",
+    "text": "Consider the following stem-and-leaf plot representing quiz scores of 8 students (Key: $5 \\mid 2 = 52$):\n\nStem 3 | 4, 9; Stem 4 | 2, 6, 8; Stem 5 | 1, 5, 7\n\nWhat is the median score of this dataset?",
+    "img": "/images/dp_t122_q46.svg",
+    "options": [
+      "Median score = 44",
+      "Median score = 51",
+      "Median score = 34",
+      "Median score = 47"
+    ],
+    "answer": "Median score = 47",
+    "steps": [
+      "**Step 1: Reconstruct raw dataset from stems and leaves**",
+      "$$\\text{Scores: } 34, 39, 42, 46, 48, 51, 55, 57$$",
+      "**Step 2: Find middle values ($4^{\\text{th}}$ and $5^{\\text{th}}$)**",
+      "$$v_4 = 46, \\quad v_5 = 48$$",
+      "**Step 3: Calculate median**",
+      "$$\\text{Median} = \\frac{46 + 48}{2} = 47$$",
+      "**Final Verified Answer:** Median score = 47"
+    ],
+    "formula": "\\text{Median} = \\text{Middle value when ordered} \\quad (N = 8 \\implies \\text{average of } 4^{\\text{th}} \\text{ and } 5^{\\text{th}} \\text{ values})"
+  },
+  {
+    "id": 128720,
+    "title": "Pie Chart Central Sector Angle Calculation",
+    "text": "In a school survey of $250$ students, $50$ students selected Art as their favorite subject. If this data is presented in a pie chart (circle graph), what central angle in degrees should represent the Art sector?",
+    "img": "/images/dp_t122_q47.svg",
+    "options": [
+      "Central angle $= 72^\\circ$",
+      "Central angle $= 20.0^\\circ$",
+      "Central angle $= 96^\\circ$",
+      "Central angle $= 54^\\circ$"
+    ],
+    "answer": "Central angle $= 72^\\circ$",
+    "steps": [
+      "**Step 1: Calculate fraction of total**",
+      "$$\\text{Fraction} = \\frac{50}{250} = 0.20$$",
+      "**Step 2: Multiply by $360^\\circ$**",
+      "$$\\theta = 0.20 \\times 360^\\circ = 72^\\circ$$",
+      "**Final Verified Answer:** Central angle $= 72^\\circ$"
+    ],
+    "formula": "\\text{Central Angle } (\\theta) = \\left(\\frac{\\text{Category Frequency}}{\\text{Total Frequency}}\\right) \\times 360^\\circ"
+  },
+  {
+    "id": 128721,
+    "title": "Relative Frequency Percentage Calculation",
+    "text": "A grouped frequency distribution table has 4 class intervals with frequencies $15$, $30$, $40$, and $15$. What is the relative frequency percentage of the third class (frequency 40)?",
+    "img": "",
+    "options": [
+      "Relative frequency = 25%",
+      "Relative frequency = 45%",
+      "Relative frequency = 40%",
+      "Relative frequency = 18%"
+    ],
+    "answer": "Relative frequency = 40%",
+    "steps": [
+      "**Step 1: Calculate total frequency $\\sum f$**",
+      "$$\\sum f = 15 + 30 + 40 + 15 = 100$$",
+      "**Step 2: Calculate relative frequency percentage**",
+      "$$\\text{Relative Frequency} = \\frac{\\text{Target Frequency}}{100} \\times 100\\% = 40%$$",
+      "**Final Verified Answer:** Relative frequency = 40%"
+    ],
+    "formula": "\\text{Relative Frequency \\%} = \\left(\\frac{f_i}{\\sum f}\\right) \\times 100\\%"
+  },
+  {
+    "id": 128722,
+    "title": "Statistical Data Variable Type Classification",
+    "text": "Classify the statistical variable type: \"The mass in kilograms of harvested watermelons\"",
+    "img": "",
+    "options": [
+      "Qualitative Ordinal Data",
+      "Discrete Quantitative Data",
+      "Qualitative Nominal Data",
+      "Continuous Quantitative Data"
+    ],
+    "answer": "Continuous Quantitative Data",
+    "steps": [
+      "**Step 1: Determine numerical vs non-numerical**",
+      "$$\\text{Variable attributes fit classification: } Continuous Quantitative Data$$",
+      "**Final Verified Answer:** Continuous Quantitative Data"
+    ],
+    "formula": "\\text{Data Types: Qualitative (Nominal/Ordinal) vs Quantitative (Discrete/Continuous)}"
+  },
+  {
+    "id": 128723,
+    "title": "Identifying Misleading Statistical Data Presentations",
+    "text": "Evaluate the validity of the following statistical graph usage: \"Displaying temperature changes over time using a pie chart with 24 individual hourly slices.\"",
+    "img": "",
+    "options": [
+      "Appropriate: Pie charts show temperature changes best.",
+      "Inappropriate: Line graphs cannot show negative temperatures.",
+      "Inappropriate: Pie charts obscure temporal trends and continuity, which require a line graph.",
+      "Appropriate: 24 slices is the ideal number for pie charts."
+    ],
+    "answer": "Inappropriate: Pie charts obscure temporal trends and continuity, which require a line graph.",
+    "steps": [
+      "**Step 1: Analyze graphical representation rules**",
+      "$$\\text{Evaluation result: } Inappropriate: Pie charts obscure temporal trends and continuity, which require a line graph.$$",
+      "**Final Verified Answer:** Inappropriate: Pie charts obscure temporal trends and continuity, which require a line graph."
+    ],
+    "formula": "\\text{Statistical Integrity: Baseline at 0, Proportional Slices (100\\%), Un-distorted Axes}"
+  }
+]

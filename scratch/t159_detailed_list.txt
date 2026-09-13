@@ -1,0 +1,402 @@
+Total T159 questions: 50
+
+Q1 (ID 134833):
+  Title: Q1: Define misleading data and explain why graphs...
+  Text: Define misleading data and explain why graphs and statistics in digital and print media can sometimes be misleading.
+  Formula: \text{Misleading Graph: Truncated Y-axis} \implies \Delta y_{\text{visual}} \gg \Delta y_{\text{actual}}
+  Options: ['Graphs drawn using computers rather than paper', 'Data collected from random population samples', 'Data presented in a way that creates a false impression or distorts the true reality', 'Data that contains mathematical calculation errors only']
+  Correct: Data presented in a way that creates a false impression or distorts the true reality
+  Img: /images/g9_t159_q1.svg (show: 1)
+======================================================================
+Q2 (ID 134834):
+  Title: Q2: Explain the visual effect of a truncated vert...
+  Text: Explain the visual effect of a truncated vertical axis (a graph that does not start at zero) on the comparison of bar heights.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It exaggerates small differences between categories by shrinking the baseline', 'It makes all bars appear completely equal in height', 'It automatically corrects for sampling bias', 'It renders the graph easier to calculate percentages']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q2.svg (show: 1)
+======================================================================
+Q3 (ID 134835):
+  Title: Q3: A company reports sales growth: Year 1 = ₱100...
+  Text: A company reports sales growth: Year 1 = ₱100M, Year 2 = ₱105M. A bar graph starts the y-axis at ₱95M. Explain how this exaggerates the appearance of growth.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It renders the graph easier to calculate percentages', 'It automatically corrects for sampling bias', 'It exaggerates small differences between categories by shrinking the baseline', 'It makes all bars appear completely equal in height']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q3.svg (show: 1)
+======================================================================
+Q4 (ID 134836):
+  Title: Q4: Explain how altering the scale intervals on t...
+  Text: Explain how altering the scale intervals on the horizontal or vertical axis of a line graph can make a gentle trend look drastically steep.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Change the bar colors to grey', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q4.svg (show: 1)
+======================================================================
+Q5 (ID 134837):
+  Title: Q5: Explain why 3D pie charts and 3D bar graphs o...
+  Text: Explain why 3D pie charts and 3D bar graphs often distort the visual proportion of data slices.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart', 'Remove the y-axis labels completely', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q5.svg (show: 1)
+======================================================================
+Q6 (ID 134838):
+  Title: Q6: Describe the distortion created when pictogra...
+  Text: Describe the distortion created when pictograms scale both the width and height of an icon proportionally instead of just the height.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey', 'Convert the graph to a 3D pie chart']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q6.svg (show: 1)
+======================================================================
+Q7 (ID 134839):
+  Title: Q7: A pictogram doubles the height and width of a...
+  Text: A pictogram doubles the height and width of a money bag icon to represent a 2-fold increase in donations. By what factor did the area of the icon actually increase?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q7.svg (show: 1)
+======================================================================
+Q8 (ID 134840):
+  Title: Q8: Explain the statistical difference between co...
+  Text: Explain the statistical difference between correlation and causation, and give an example of how media headlines might falsely imply causation from correlation.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q8.svg (show: 1)
+======================================================================
+Q9 (ID 134841):
+  Title: Q9: What is selective data presentation (cherry-p...
+  Text: What is selective data presentation (cherry-picking) and how does it mislead the public in financial or climate reports?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q9.svg (show: 1)
+======================================================================
+Q10 (ID 134842):
+  Title: Q10: A company advertises that 'Our product is 200...
+  Text: A company advertises that 'Our product is 200% better than the leading competitor!' Explain why this claim is ambiguous and misleading without defined metrics.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q10.svg (show: 1)
+======================================================================
+Q11 (ID 134843):
+  Title: Q11: Explain how using the Mean instead of the Med...
+  Text: Explain how using the Mean instead of the Median can give a misleading impression of the 'typical' salary in a company with severe executive income inequality.
+  Formula: \text{Misleading Graph: Truncated Y-axis} \implies \Delta y_{\text{visual}} \gg \Delta y_{\text{actual}}
+  Options: ['Data that contains mathematical calculation errors only', 'Graphs drawn using computers rather than paper', 'Data collected from random population samples', 'Data presented in a way that creates a false impression or distorts the true reality']
+  Correct: Data presented in a way that creates a false impression or distorts the true reality
+  Img: /images/g9_t159_q11.svg (show: 1)
+======================================================================
+Q12 (ID 134844):
+  Title: Q12: In a survey of 20 people outside a luxury gol...
+  Text: In a survey of 20 people outside a luxury golf club, 18 reported owning two or more cars. Explain why generalizing this result to the entire city population is an example of sampling bias.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It makes all bars appear completely equal in height', 'It exaggerates small differences between categories by shrinking the baseline', 'It automatically corrects for sampling bias', 'It renders the graph easier to calculate percentages']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q12.svg (show: 1)
+======================================================================
+Q13 (ID 134845):
+  Title: Q13: Explain how the wording of a survey question ...
+  Text: Explain how the wording of a survey question (loaded or leading question) can bias respondents' answers.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It renders the graph easier to calculate percentages', 'It automatically corrects for sampling bias', 'It makes all bars appear completely equal in height', 'It exaggerates small differences between categories by shrinking the baseline']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q13.svg (show: 1)
+======================================================================
+Q14 (ID 134846):
+  Title: Q14: A graph comparing four smartphone brands omit...
+  Text: A graph comparing four smartphone brands omits Brand C which has higher customer satisfaction ratings. What type of misleading technique is this?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q14.svg (show: 1)
+======================================================================
+Q15 (ID 134847):
+  Title: Q15: Explain why percentage changes can be mislead...
+  Text: Explain why percentage changes can be misleading when the baseline (original value) is very small.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q15.svg (show: 1)
+======================================================================
+Q16 (ID 134848):
+  Title: Q16: A health supplement advertisement claims: 'In...
+  Text: A health supplement advertisement claims: 'In a clinical study, 100% of participants lost weight!' Fine print reveals there were only 3 participants. Explain the misleading aspect of small sample sizes.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q16.svg (show: 1)
+======================================================================
+Q17 (ID 134849):
+  Title: Q17: Explain how the omission of a clear legend, a...
+  Text: Explain how the omission of a clear legend, axis labels, or units of measurement makes a graphical display unreliable.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q17.svg (show: 1)
+======================================================================
+Q18 (ID 134850):
+  Title: Q18: Analyze a dual-axis line graph where two diff...
+  Text: Analyze a dual-axis line graph where two different scales are used: how can manipulating the second axis create a false visual impression of a close relationship?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Change the bar colors to grey', 'Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q18.svg (show: 1)
+======================================================================
+Q19 (ID 134851):
+  Title: Q19: Describe the concept of 'survivorship bias' i...
+  Text: Describe the concept of 'survivorship bias' in data analysis with an example from business or academics.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Change the bar colors to grey', 'Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q19.svg (show: 1)
+======================================================================
+Q20 (ID 134852):
+  Title: Q20: A news broadcast displays a pie chart whose s...
+  Text: A news broadcast displays a pie chart whose sector percentages sum up to 128%. What error has been made and what does it indicate about the data?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q20.svg (show: 1)
+======================================================================
+Q21 (ID 134853):
+  Title: Q21: Explain how cumulative frequency graphs can g...
+  Text: Explain how cumulative frequency graphs can give the false impression of continuous rapid growth even when quarterly gains are decreasing.
+  Formula: \text{Misleading Graph: Truncated Y-axis} \implies \Delta y_{\text{visual}} \gg \Delta y_{\text{actual}}
+  Options: ['Graphs drawn using computers rather than paper', 'Data collected from random population samples', 'Data presented in a way that creates a false impression or distorts the true reality', 'Data that contains mathematical calculation errors only']
+  Correct: Data presented in a way that creates a false impression or distorts the true reality
+  Img: /images/g9_t159_q21.svg (show: 1)
+======================================================================
+Q22 (ID 134854):
+  Title: Q22: Analyze why presenting only relative risk red...
+  Text: Analyze why presenting only relative risk reduction (e.g., '50% reduction in disease risk') without stating absolute risk (e.g., from 2 in 10,000 to 1 in 10,000) can mislead patients.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It automatically corrects for sampling bias', 'It exaggerates small differences between categories by shrinking the baseline', 'It makes all bars appear completely equal in height', 'It renders the graph easier to calculate percentages']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q22.svg (show: 1)
+======================================================================
+Q23 (ID 134855):
+  Title: Q23: A company publishes an infograph showing that...
+  Text: A company publishes an infograph showing that '9 out of 10 dentists recommend our toothpaste.' What critical statistical information is omitted?
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It makes all bars appear completely equal in height', 'It exaggerates small differences between categories by shrinking the baseline', 'It automatically corrects for sampling bias', 'It renders the graph easier to calculate percentages']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q23.svg (show: 1)
+======================================================================
+Q24 (ID 134856):
+  Title: Q24: Explain how non-uniform interval binning in a...
+  Text: Explain how non-uniform interval binning in a histogram can distort the visual distribution of test scores.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Change the bar colors to grey', 'Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q24.svg (show: 1)
+======================================================================
+Q25 (ID 134857):
+  Title: Q25: Describe how self-selection bias (voluntary r...
+  Text: Describe how self-selection bias (voluntary response bias) in online polls produces unrepresentative data.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q25.svg (show: 1)
+======================================================================
+Q26 (ID 134858):
+  Title: Q26: A graph shows ice cream sales and drowning in...
+  Text: A graph shows ice cream sales and drowning incidents both rising during June-August. Explain the lurking variable (confounding variable) responsible for this correlation.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q26.svg (show: 1)
+======================================================================
+Q27 (ID 134859):
+  Title: Q27: Explain the importance of checking the data s...
+  Text: Explain the importance of checking the data source, publisher funding, and publication date when evaluating media infographics.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q27.svg (show: 1)
+======================================================================
+Q28 (ID 134860):
+  Title: Q28: Analyze a bar chart where the bar widths vary...
+  Text: Analyze a bar chart where the bar widths vary in size. Why must bar widths always remain identical in legitimate bar graphs?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey', 'Convert the graph to a 3D pie chart']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q28.svg (show: 1)
+======================================================================
+Q29 (ID 134861):
+  Title: Q29: A stock chart shows a company's stock price o...
+  Text: A stock chart shows a company's stock price over only the last 3 days showing a sharp upward spike, ignoring the previous 6-month downward plunge. How does timeframe manipulation mislead investors?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q29.svg (show: 1)
+======================================================================
+Q30 (ID 134862):
+  Title: Q30: Describe how cherry-picked start and end date...
+  Text: Describe how cherry-picked start and end dates on economic trend lines can completely reverse the apparent trajectory of unemployment rates.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q30.svg (show: 1)
+======================================================================
+Q31 (ID 134863):
+  Title: Q31: Explain what margin of error is in political ...
+  Text: Explain what margin of error is in political opinion polls and why failing to report it misleads the public about close elections.
+  Formula: \text{Misleading Graph: Truncated Y-axis} \implies \Delta y_{\text{visual}} \gg \Delta y_{\text{actual}}
+  Options: ['Data presented in a way that creates a false impression or distorts the true reality', 'Graphs drawn using computers rather than paper', 'Data that contains mathematical calculation errors only', 'Data collected from random population samples']
+  Correct: Data presented in a way that creates a false impression or distorts the true reality
+  Img: /images/g9_t159_q31.svg (show: 1)
+======================================================================
+Q32 (ID 134864):
+  Title: Q32: A headline reads: 'Crime rate doubles!' The d...
+  Text: A headline reads: 'Crime rate doubles!' The data shows crime incidents increased from 1 case per 100,000 to 2 cases per 100,000. Explain why this presentation is sensationalized.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It makes all bars appear completely equal in height', 'It automatically corrects for sampling bias', 'It renders the graph easier to calculate percentages', 'It exaggerates small differences between categories by shrinking the baseline']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q32.svg (show: 1)
+======================================================================
+Q33 (ID 134865):
+  Title: Q33: Explain why a circle graph is inappropriate f...
+  Text: Explain why a circle graph is inappropriate for displaying categorical data where respondents could select multiple options.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It renders the graph easier to calculate percentages', 'It automatically corrects for sampling bias', 'It makes all bars appear completely equal in height', 'It exaggerates small differences between categories by shrinking the baseline']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q33.svg (show: 1)
+======================================================================
+Q34 (ID 134866):
+  Title: Q34: How can color choice in data visualization (e...
+  Text: How can color choice in data visualization (e.g., using alarming bright red for small negative changes) emotionally manipulate reader interpretation?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q34.svg (show: 1)
+======================================================================
+Q35 (ID 134867):
+  Title: Q35: Explain how an inverted y-axis (where zero is...
+  Text: Explain how an inverted y-axis (where zero is at the top and larger values are at the bottom) was famously used to mislead viewers regarding gun legislation impact.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Change the bar colors to grey', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q35.svg (show: 1)
+======================================================================
+Q36 (ID 134868):
+  Title: Q36: Describe the difference between an outlier an...
+  Text: Describe the difference between an outlier and a pattern in data, and explain how improperly removing outliers can mislead research conclusions.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Change the bar colors to grey', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q36.svg (show: 1)
+======================================================================
+Q37 (ID 134869):
+  Title: Q37: Explain how Simpson's Paradox occurs, where a...
+  Text: Explain how Simpson's Paradox occurs, where a trend appears in several groups of data but disappears or reverses when the groups are combined.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q37.svg (show: 1)
+======================================================================
+Q38 (ID 134870):
+  Title: Q38: A social media ad states: 'Users of App X sle...
+  Text: A social media ad states: 'Users of App X sleep 2 hours more on average than non-users.' Identify at least two potential confounding variables not accounted for.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q38.svg (show: 1)
+======================================================================
+Q39 (ID 134871):
+  Title: Q39: Explain the role of peer review and independe...
+  Text: Explain the role of peer review and independent replication in preventing misleading data dissemination in scientific publications.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Change the bar colors to grey', 'Convert the graph to a 3D pie chart']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q39.svg (show: 1)
+======================================================================
+Q40 (ID 134872):
+  Title: Q40: Identify the visual flaw in a line graph wher...
+  Text: Identify the visual flaw in a line graph where the horizontal time intervals are spaced equally even though the data was collected at irregular intervals (e.g., Day 1, Day 2, Day 10, Day 30).
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Change the bar colors to grey', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q40.svg (show: 1)
+======================================================================
+Q41 (ID 134873):
+  Title: Q41: Explain why reporting the mode can be mislead...
+  Text: Explain why reporting the mode can be misleading when the modal value occurs only slightly more often than other values in a widely dispersed dataset.
+  Formula: \text{Misleading Graph: Truncated Y-axis} \implies \Delta y_{\text{visual}} \gg \Delta y_{\text{actual}}
+  Options: ['Data presented in a way that creates a false impression or distorts the true reality', 'Data that contains mathematical calculation errors only', 'Graphs drawn using computers rather than paper', 'Data collected from random population samples']
+  Correct: Data presented in a way that creates a false impression or distorts the true reality
+  Img: /images/g9_t159_q41.svg (show: 1)
+======================================================================
+Q42 (ID 134874):
+  Title: Q42: A beauty brand claims '84% of 50 women saw fe...
+  Text: A beauty brand claims '84% of 50 women saw fewer wrinkles.' Calculate the actual number of women who agreed and discuss the statistical validity of the sample size.
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It makes all bars appear completely equal in height', 'It exaggerates small differences between categories by shrinking the baseline', 'It automatically corrects for sampling bias', 'It renders the graph easier to calculate percentages']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q42.svg (show: 1)
+======================================================================
+Q43 (ID 134875):
+  Title: Q43: How can a clustered column chart be designed ...
+  Text: How can a clustered column chart be designed to deceptively minimize the apparent difference between two competitors?
+  Formula: \text{Relative Visual Height} = \frac{y - y_{\text{min}}}{y_{\text{max}} - y_{\text{min}}}
+  Options: ['It makes all bars appear completely equal in height', 'It renders the graph easier to calculate percentages', 'It exaggerates small differences between categories by shrinking the baseline', 'It automatically corrects for sampling bias']
+  Correct: It exaggerates small differences between categories by shrinking the baseline
+  Img: /images/g9_t159_q43.svg (show: 1)
+======================================================================
+Q44 (ID 134876):
+  Title: Q44: Explain how cherry-picking sub-groups from a ...
+  Text: Explain how cherry-picking sub-groups from a larger failed clinical trial (data dredging / p-hacking) creates misleading claims of product efficacy.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Change the bar colors to grey', 'Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Convert the graph to a 3D pie chart']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q44.svg (show: 1)
+======================================================================
+Q45 (ID 134877):
+  Title: Q45: What questions should a critical consumer ask...
+  Text: What questions should a critical consumer ask when encountering a dramatic statistical claim on social media?
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Convert the graph to a 3D pie chart', 'Change the bar colors to grey', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q45.svg (show: 1)
+======================================================================
+Q46 (ID 134878):
+  Title: Q46: Explain why infographics that replace bar gra...
+  Text: Explain why infographics that replace bar graphs with area-based shapes (like circles or human silhouettes) frequently mislead readers.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q46.svg (show: 1)
+======================================================================
+Q47 (ID 134879):
+  Title: Q47: A graph tracking student pass rates shows a s...
+  Text: A graph tracking student pass rates shows a steep upward line, but the vertical axis grid spans only 88% to 91%. Redraw the concept on an honest 0% to 100% axis and explain the visual difference.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q47.svg (show: 1)
+======================================================================
+Q48 (ID 134880):
+  Title: Q48: Describe how publishing results with no basel...
+  Text: Describe how publishing results with no baseline comparison group (control group) makes medical claims unscientific.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q48.svg (show: 1)
+======================================================================
+Q49 (ID 134881):
+  Title: Q49: Analyze how changing the aspect ratio (stretc...
+  Text: Analyze how changing the aspect ratio (stretching the height vs width of a chart canvas) distorts perceived rate of change.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Change the bar colors to grey', 'Convert the graph to a 3D pie chart', 'Remove the y-axis labels completely', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q49.svg (show: 1)
+======================================================================
+Q50 (ID 134882):
+  Title: Q50: Formulate a checklist of 5 criteria for evalu...
+  Text: Formulate a checklist of 5 criteria for evaluating whether a digital media chart is objective and trustworthy.
+  Formula: \text{Unbiased Chart} \implies y_{\text{origin}} = 0
+  Options: ['Remove the y-axis labels completely', 'Convert the graph to a 3D pie chart', 'Re-plot the graph starting the vertical y-axis at zero (₱0M)', 'Change the bar colors to grey']
+  Correct: Re-plot the graph starting the vertical y-axis at zero (₱0M)
+  Img: /images/g9_t159_q50.svg (show: 1)
+======================================================================

@@ -1,0 +1,30 @@
+QID 133583: System Classification #1
+  Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+--------------------------------------------------
+QID 133584: Solve System Graphically #2
+  Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+--------------------------------------------------
+QID 133585: Substitution Method System #3
+  Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+--------------------------------------------------
+QID 133586: Elimination Method System #4
+  Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+--------------------------------------------------
+QID 133587: General System Solution #5
+  Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+--------------------------------------------------
+QID 133588: Inconsistent System Identification #6
+  Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+--------------------------------------------------
+QID 133589: Number Problem System #7
+  Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+--------------------------------------------------
+QID 133590: Cafeteria Price System #8
+  Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+--------------------------------------------------
+QID 133591: Boat & Current Motion System #9
+  Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+--------------------------------------------------
+QID 133592: Acid Mixture System #10
+  Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+--------------------------------------------------

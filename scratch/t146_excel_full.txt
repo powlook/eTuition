@@ -1,0 +1,502 @@
+Total T146 rows in QBank/questions_bank.xlsx: 50
+
+Row 2802 (ID 134183):
+  Title:   Q1: State the converse of the Corresponding Angle...
+  Text:    State the converse of the Corresponding Angles Postulate and explain how it is used to prove two lines are parallel.
+  Formula: \text{Corresponding Angles } \angle 1 = \angle 5, \angle 2 = \angle 6, \angle 3 = \angle 7, \angle 4 = \angle 8
+  Opts:    A: 2 pairs of corresponding angles | B: 8 pairs of corresponding angles | C: 6 pairs of corresponding angles | D: 4 pairs of corresponding angles
+  Ans:     4 pairs of corresponding angles
+  Hint:    Positions matching at each intersection form corresponding angle pairs.
+  Steps:   ["**Step 1: Count intersections** - 2 intersections with 4 quadrants each.","**Step 2: Match positions** - Top-left, top-right, bottom-left, bottom-right = 4 pairs.","**Final Verified Answer:** \\(4 pairs of corresponding angles\\)"]
+  Img:     /images/g9_t146_q1.svg
+------------------------------------------------------------
+Row 2803 (ID 134184):
+  Title:   Q2: State the converse of the Alternate Interior ...
+  Text:    State the converse of the Alternate Interior Angles Theorem.
+  Formula: m\angle 1 = m\angle 2 = 135^\circ
+  Opts:    A: m∠2 = 45° | B: m∠2 = 90° | C: m∠2 = 180° | D: m∠2 = 135° (Alternate Interior Angles are equal)
+  Ans:     m∠2 = 135° (Alternate Interior Angles are equal)
+  Hint:    When lines are parallel, alternate interior angles are congruent.
+  Steps:   ["**Step 1: Identify angle relationship** - Alternate Interior Angles.","**Step 2: Equate measures** - m∠2 = 135°.","**Final Verified Answer:** \\(m∠2 = 135° (Alternate Interior Angles are equal)\\)"]
+  Img:     /images/g9_t146_q2.svg
+------------------------------------------------------------
+Row 2804 (ID 134185):
+  Title:   Q3: State the converse of the Alternate Exterior ...
+  Text:    State the converse of the Alternate Exterior Angles Theorem.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Lines intersect at 45° | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q3.svg
+------------------------------------------------------------
+Row 2805 (ID 134186):
+  Title:   Q4: State the converse of the Consecutive Interio...
+  Text:    State the converse of the Consecutive Interior Angles Theorem.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Lines intersect at 45° | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q4.svg
+------------------------------------------------------------
+Row 2806 (ID 134187):
+  Title:   Q5: Given two lines intersected by a transversal,...
+  Text:    Given two lines intersected by a transversal, if a pair of alternate interior angles measure (4x + 12)° and (6x - 18)°, find the value of x that proves the lines are parallel.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines are skew | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines intersect at 45°
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q5.svg
+------------------------------------------------------------
+Row 2807 (ID 134188):
+  Title:   Q6: Two lines are cut by a transversal. If a pair...
+  Text:    Two lines are cut by a transversal. If a pair of consecutive interior angles measure (5x + 25)° and (3x + 15)°, determine the value of x that ensures parallelism.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines intersect at 45° | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q6.svg
+------------------------------------------------------------
+Row 2808 (ID 134189):
+  Title:   Q7: In coordinate geometry, state the condition f...
+  Text:    In coordinate geometry, state the condition for two non-vertical lines with slopes m₁ and m₂ to be parallel.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Lines intersect at 45°
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q7.svg
+------------------------------------------------------------
+Row 2809 (ID 134190):
+  Title:   Q8: State the condition for two non-vertical line...
+  Text:    State the condition for two non-vertical lines with slopes m₁ and m₂ to be perpendicular.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Lines are skew | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q8.svg
+------------------------------------------------------------
+Row 2810 (ID 134191):
+  Title:   Q9: Determine whether the line passing through (2...
+  Text:    Determine whether the line passing through (2, 5) and (6, 13) is parallel to the line passing through (-1, 4) and (3, 12).
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines are skew | C: Lines intersect at 45° | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q9.svg
+------------------------------------------------------------
+Row 2811 (ID 134192):
+  Title:   Q10: Determine whether the line passing through (-...
+  Text:    Determine whether the line passing through (-2, 7) and (4, 4) is perpendicular to the line passing through (1, -2) and (3, 2).
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is parallel to Line L2 (L1 ∥ L2) | B: Lines intersect at 45° | C: Lines are skew | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q10.svg
+------------------------------------------------------------
+Row 2812 (ID 134193):
+  Title:   Q11: Find the slope of a line parallel to the line...
+  Text:    Find the slope of a line parallel to the linear equation 4x - 6y = 15.
+  Formula: \text{Corresponding Angles } \angle 1 = \angle 5, \angle 2 = \angle 6, \angle 3 = \angle 7, \angle 4 = \angle 8
+  Opts:    A: 8 pairs of corresponding angles | B: 2 pairs of corresponding angles | C: 6 pairs of corresponding angles | D: 4 pairs of corresponding angles
+  Ans:     4 pairs of corresponding angles
+  Hint:    Positions matching at each intersection form corresponding angle pairs.
+  Steps:   ["**Step 1: Count intersections** - 2 intersections with 4 quadrants each.","**Step 2: Match positions** - Top-left, top-right, bottom-left, bottom-right = 4 pairs.","**Final Verified Answer:** \\(4 pairs of corresponding angles\\)"]
+  Img:     /images/g9_t146_q11.svg
+------------------------------------------------------------
+Row 2813 (ID 134194):
+  Title:   Q12: Find the slope of a line perpendicular to the...
+  Text:    Find the slope of a line perpendicular to the linear equation 3x + 5y = 20.
+  Formula: m\angle 1 = m\angle 2 = 135^\circ
+  Opts:    A: m∠2 = 135° (Alternate Interior Angles are equal) | B: m∠2 = 180° | C: m∠2 = 90° | D: m∠2 = 45°
+  Ans:     m∠2 = 135° (Alternate Interior Angles are equal)
+  Hint:    When lines are parallel, alternate interior angles are congruent.
+  Steps:   ["**Step 1: Identify angle relationship** - Alternate Interior Angles.","**Step 2: Equate measures** - m∠2 = 135°.","**Final Verified Answer:** \\(m∠2 = 135° (Alternate Interior Angles are equal)\\)"]
+  Img:     /images/g9_t146_q12.svg
+------------------------------------------------------------
+Row 2814 (ID 134195):
+  Title:   Q13: Find the equation of the line in slope-interc...
+  Text:    Find the equation of the line in slope-intercept form that passes through (3, -2) and is parallel to the line y = 4x - 7.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines are skew | C: Lines intersect at 45° | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q13.svg
+------------------------------------------------------------
+Row 2815 (ID 134196):
+  Title:   Q14: Find the equation of the line in slope-interc...
+  Text:    Find the equation of the line in slope-intercept form that passes through (-4, 5) and is perpendicular to the line 2x - 3y = 9.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Lines are skew | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q14.svg
+------------------------------------------------------------
+Row 2816 (ID 134197):
+  Title:   Q15: Explain step-by-step how to construct a line ...
+  Text:    Explain step-by-step how to construct a line parallel to a given line through a point not on the line using a compass and straightedge.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines intersect at 45° | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q15.svg
+------------------------------------------------------------
+Row 2817 (ID 134198):
+  Title:   Q16: Explain step-by-step how to construct a perpe...
+  Text:    Explain step-by-step how to construct a perpendicular bisector of a given line segment using a compass and straightedge.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines intersect at 45° | C: Lines are skew | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q16.svg
+------------------------------------------------------------
+Row 2818 (ID 134199):
+  Title:   Q17: Explain how to construct a line perpendicular...
+  Text:    Explain how to construct a line perpendicular to a given line through a point on the line.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q17.svg
+------------------------------------------------------------
+Row 2819 (ID 134200):
+  Title:   Q18: Explain how to construct a line perpendicular...
+  Text:    Explain how to construct a line perpendicular to a given line through a point not on the line.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Lines are skew | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q18.svg
+------------------------------------------------------------
+Row 2820 (ID 134201):
+  Title:   Q19: If line k has slope m = 0, describe the line ...
+  Text:    If line k has slope m = 0, describe the line and determine the slope of a line perpendicular to line k.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is parallel to Line L2 (L1 ∥ L2) | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Lines are skew | D: Lines intersect at 45°
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q19.svg
+------------------------------------------------------------
+Row 2821 (ID 134202):
+  Title:   Q20: If line p is a vertical line with undefined s...
+  Text:    If line p is a vertical line with undefined slope, describe the orientation of any line parallel to line p and any line perpendicular to line p.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines intersect at 45°
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q20.svg
+------------------------------------------------------------
+Row 2822 (ID 134203):
+  Title:   Q21: Prove that the quadrilateral with vertices A(...
+  Text:    Prove that the quadrilateral with vertices A(1, 2), B(5, 4), C(4, 7), and D(0, 5) has opposite sides that are parallel.
+  Formula: \text{Corresponding Angles } \angle 1 = \angle 5, \angle 2 = \angle 6, \angle 3 = \angle 7, \angle 4 = \angle 8
+  Opts:    A: 2 pairs of corresponding angles | B: 8 pairs of corresponding angles | C: 4 pairs of corresponding angles | D: 6 pairs of corresponding angles
+  Ans:     4 pairs of corresponding angles
+  Hint:    Positions matching at each intersection form corresponding angle pairs.
+  Steps:   ["**Step 1: Count intersections** - 2 intersections with 4 quadrants each.","**Step 2: Match positions** - Top-left, top-right, bottom-left, bottom-right = 4 pairs.","**Final Verified Answer:** \\(4 pairs of corresponding angles\\)"]
+  Img:     /images/g9_t146_q21.svg
+------------------------------------------------------------
+Row 2823 (ID 134204):
+  Title:   Q22: Determine whether the quadrilateral with vert...
+  Text:    Determine whether the quadrilateral with vertices P(-2, 1), Q(2, 4), R(5, 0), and S(1, -3) is a rectangle by testing for perpendicular adjacent sides.
+  Formula: m\angle 1 = m\angle 2 = 135^\circ
+  Opts:    A: m∠2 = 180° | B: m∠2 = 135° (Alternate Interior Angles are equal) | C: m∠2 = 45° | D: m∠2 = 90°
+  Ans:     m∠2 = 135° (Alternate Interior Angles are equal)
+  Hint:    When lines are parallel, alternate interior angles are congruent.
+  Steps:   ["**Step 1: Identify angle relationship** - Alternate Interior Angles.","**Step 2: Equate measures** - m∠2 = 135°.","**Final Verified Answer:** \\(m∠2 = 135° (Alternate Interior Angles are equal)\\)"]
+  Img:     /images/g9_t146_q22.svg
+------------------------------------------------------------
+Row 2824 (ID 134205):
+  Title:   Q23: Lines l₁ and l₂ are cut by transversal t. If ...
+  Text:    Lines l₁ and l₂ are cut by transversal t. If corresponding angles are (2x² - 10)° and (x² + 15)°, find all values of x that make l₁ || l₂.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Lines intersect at 45°
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q23.svg
+------------------------------------------------------------
+Row 2825 (ID 134206):
+  Title:   Q24: Given three lines a, b, and c in a plane: if ...
+  Text:    Given three lines a, b, and c in a plane: if a ⊥ b and b ⊥ c, what is the geometric relationship between line a and line c? Prove your answer.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q24.svg
+------------------------------------------------------------
+Row 2826 (ID 134207):
+  Title:   Q25: Given three lines p, q, and r in a plane: if ...
+  Text:    Given three lines p, q, and r in a plane: if p || q and q ⊥ r, what is the geometric relationship between line p and line r? Explain.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Lines intersect at 45° | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q25.svg
+------------------------------------------------------------
+Row 2827 (ID 134208):
+  Title:   Q26: A line passes through (k, 4) and (2, -1). If ...
+  Text:    A line passes through (k, 4) and (2, -1). If this line is parallel to 2x - y = 8, solve for the value of k.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is parallel to Line L2 (L1 ∥ L2) | B: Lines are skew | C: Lines intersect at 45° | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q26.svg
+------------------------------------------------------------
+Row 2828 (ID 134209):
+  Title:   Q27: A line passes through (3, k) and (-5, 2). If ...
+  Text:    A line passes through (3, k) and (-5, 2). If this line is perpendicular to the line y = -(4/3)x + 1, find the value of k.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines are skew | C: Lines intersect at 45° | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q27.svg
+------------------------------------------------------------
+Row 2829 (ID 134210):
+  Title:   Q28: State the Parallel Postulate (Euclid's Fifth ...
+  Text:    State the Parallel Postulate (Euclid's Fifth Postulate / Playfair's Axiom) and discuss its significance in Euclidean geometry.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Lines intersect at 45° | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q28.svg
+------------------------------------------------------------
+Row 2830 (ID 134211):
+  Title:   Q29: Show that the lines represented by 6x - 9y = ...
+  Text:    Show that the lines represented by 6x - 9y = 12 and 4x - 6y = 18 are parallel and distinct.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is parallel to Line L2 (L1 ∥ L2) | B: Lines are skew | C: Lines intersect at 45° | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q29.svg
+------------------------------------------------------------
+Row 2831 (ID 134212):
+  Title:   Q30: Show that the lines represented by 5x + 2y = ...
+  Text:    Show that the lines represented by 5x + 2y = 10 and 2x - 5y = 15 are perpendicular.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines are skew | C: Lines intersect at 45° | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q30.svg
+------------------------------------------------------------
+Row 2832 (ID 134213):
+  Title:   Q31: In triangle ABC, vertices are at A(0, 0), B(6...
+  Text:    In triangle ABC, vertices are at A(0, 0), B(6, 0), and C(3, 4). Find the slope of the altitude drawn from vertex C to side AB.
+  Formula: \text{Corresponding Angles } \angle 1 = \angle 5, \angle 2 = \angle 6, \angle 3 = \angle 7, \angle 4 = \angle 8
+  Opts:    A: 2 pairs of corresponding angles | B: 8 pairs of corresponding angles | C: 6 pairs of corresponding angles | D: 4 pairs of corresponding angles
+  Ans:     4 pairs of corresponding angles
+  Hint:    Positions matching at each intersection form corresponding angle pairs.
+  Steps:   ["**Step 1: Count intersections** - 2 intersections with 4 quadrants each.","**Step 2: Match positions** - Top-left, top-right, bottom-left, bottom-right = 4 pairs.","**Final Verified Answer:** \\(4 pairs of corresponding angles\\)"]
+  Img:     /images/g9_t146_q31.svg
+------------------------------------------------------------
+Row 2833 (ID 134214):
+  Title:   Q32: Determine the value of a such that the lines ...
+  Text:    Determine the value of a such that the lines ax + 3y = 7 and 2x - 6y = 5 are perpendicular.
+  Formula: m\angle 1 = m\angle 2 = 135^\circ
+  Opts:    A: m∠2 = 90° | B: m∠2 = 180° | C: m∠2 = 135° (Alternate Interior Angles are equal) | D: m∠2 = 45°
+  Ans:     m∠2 = 135° (Alternate Interior Angles are equal)
+  Hint:    When lines are parallel, alternate interior angles are congruent.
+  Steps:   ["**Step 1: Identify angle relationship** - Alternate Interior Angles.","**Step 2: Equate measures** - m∠2 = 135°.","**Final Verified Answer:** \\(m∠2 = 135° (Alternate Interior Angles are equal)\\)"]
+  Img:     /images/g9_t146_q32.svg
+------------------------------------------------------------
+Row 2834 (ID 134215):
+  Title:   Q33: Determine the value of p such that the lines ...
+  Text:    Determine the value of p such that the lines px + 4y = 12 and 3x + 6y = 8 are parallel.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q33.svg
+------------------------------------------------------------
+Row 2835 (ID 134216):
+  Title:   Q34: In a roadway intersection, two straight roads...
+  Text:    In a roadway intersection, two straight roads are modeled by the equations 3x - 4y = 12 and 4x + 3y = 24. Determine whether the intersection is at a right angle.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Lines are skew | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q34.svg
+------------------------------------------------------------
+Row 2836 (ID 134217):
+  Title:   Q35: A fence installer must ensure two fence posts...
+  Text:    A fence installer must ensure two fence posts are parallel. If the angle between post A and a crossbeam is 88°, what must the angle between post B and the crossbeam be?
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines intersect at 45°
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q35.svg
+------------------------------------------------------------
+Row 2837 (ID 134218):
+  Title:   Q36: Explain why two lines that are both parallel ...
+  Text:    Explain why two lines that are both parallel to a third line must be parallel to each other.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is parallel to Line L2 (L1 ∥ L2) | B: Lines intersect at 45° | C: Lines are skew | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q36.svg
+------------------------------------------------------------
+Row 2838 (ID 134219):
+  Title:   Q37: Can two lines in 3D space be non-intersecting...
+  Text:    Can two lines in 3D space be non-intersecting and yet not parallel? Name and define this geometric configuration.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Lines are skew | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q37.svg
+------------------------------------------------------------
+Row 2839 (ID 134220):
+  Title:   Q38: Given line segment AB with endpoints A(-3, 1)...
+  Text:    Given line segment AB with endpoints A(-3, 1) and B(5, 7), find the equation of the perpendicular bisector of AB.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is parallel to Line L2 (L1 ∥ L2) | B: Lines intersect at 45° | C: Lines are skew | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q38.svg
+------------------------------------------------------------
+Row 2840 (ID 134221):
+  Title:   Q39: Prove algebraically that the diagonals of a r...
+  Text:    Prove algebraically that the diagonals of a rhombus with vertices (0, 4), (3, 0), (0, -4), and (-3, 0) are perpendicular.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines intersect at 45° | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q39.svg
+------------------------------------------------------------
+Row 2841 (ID 134222):
+  Title:   Q40: A laser beam reflects off a flat mirror such ...
+  Text:    A laser beam reflects off a flat mirror such that the angle of incidence equals the angle of reflection. Prove that two parallel incoming rays produce two parallel reflected rays.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Lines intersect at 45° | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q40.svg
+------------------------------------------------------------
+Row 2842 (ID 134223):
+  Title:   Q41: If line l has equation y = mx + c, write the ...
+  Text:    If line l has equation y = mx + c, write the general equation of a family of lines parallel to l.
+  Formula: \text{Corresponding Angles } \angle 1 = \angle 5, \angle 2 = \angle 6, \angle 3 = \angle 7, \angle 4 = \angle 8
+  Opts:    A: 4 pairs of corresponding angles | B: 8 pairs of corresponding angles | C: 6 pairs of corresponding angles | D: 2 pairs of corresponding angles
+  Ans:     4 pairs of corresponding angles
+  Hint:    Positions matching at each intersection form corresponding angle pairs.
+  Steps:   ["**Step 1: Count intersections** - 2 intersections with 4 quadrants each.","**Step 2: Match positions** - Top-left, top-right, bottom-left, bottom-right = 4 pairs.","**Final Verified Answer:** \\(4 pairs of corresponding angles\\)"]
+  Img:     /images/g9_t146_q41.svg
+------------------------------------------------------------
+Row 2843 (ID 134224):
+  Title:   Q42: If line l has equation y = mx + c (where m ≠ ...
+  Text:    If line l has equation y = mx + c (where m ≠ 0), write the general equation of a family of lines perpendicular to l.
+  Formula: m\angle 1 = m\angle 2 = 135^\circ
+  Opts:    A: m∠2 = 90° | B: m∠2 = 135° (Alternate Interior Angles are equal) | C: m∠2 = 180° | D: m∠2 = 45°
+  Ans:     m∠2 = 135° (Alternate Interior Angles are equal)
+  Hint:    When lines are parallel, alternate interior angles are congruent.
+  Steps:   ["**Step 1: Identify angle relationship** - Alternate Interior Angles.","**Step 2: Equate measures** - m∠2 = 135°.","**Final Verified Answer:** \\(m∠2 = 135° (Alternate Interior Angles are equal)\\)"]
+  Img:     /images/g9_t146_q42.svg
+------------------------------------------------------------
+Row 2844 (ID 134225):
+  Title:   Q43: Verify whether the triangle with vertices D(-...
+  Text:    Verify whether the triangle with vertices D(-3, 2), E(1, 5), and F(4, 1) is a right-angled triangle using slopes.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | B: Lines intersect at 45° | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q43.svg
+------------------------------------------------------------
+Row 2845 (ID 134226):
+  Title:   Q44: In a drafting project, a line segment is draw...
+  Text:    In a drafting project, a line segment is drawn between (2, 8) and (10, 2). Find the coordinates of its midpoint and the slope of its perpendicular bisector.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Lines intersect at 45° | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q44.svg
+------------------------------------------------------------
+Row 2846 (ID 134227):
+  Title:   Q45: Given lines L₁: 2x - 5y = 10 and L₂: 5x + 2y ...
+  Text:    Given lines L₁: 2x - 5y = 10 and L₂: 5x + 2y = -4, find their point of intersection and verify that they are perpendicular.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Line L1 is parallel to Line L2 (L1 ∥ L2) | B: Lines intersect at 45° | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q45.svg
+------------------------------------------------------------
+Row 2847 (ID 134228):
+  Title:   Q46: Describe how optical reflection in parallel m...
+  Text:    Describe how optical reflection in parallel mirrors creates an infinite series of images.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Lines intersect at 45° | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q46.svg
+------------------------------------------------------------
+Row 2848 (ID 134229):
+  Title:   Q47: State the condition under which a pair of lin...
+  Text:    State the condition under which a pair of linear equations a₁x + b₁y = c₁ and a₂x + b₂y = c₂ represent coincident (identical) parallel lines.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Lines intersect at 45° | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q47.svg
+------------------------------------------------------------
+Row 2849 (ID 134230):
+  Title:   Q48: Determine whether the lines y - 4 = 3(x + 1) ...
+  Text:    Determine whether the lines y - 4 = 3(x + 1) and 3x - y + 7 = 0 are parallel, perpendicular, or neither.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Lines are skew | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Line L1 is perpendicular to Line L2 (L1 ⊥ L2)
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q48.svg
+------------------------------------------------------------
+Row 2850 (ID 134231):
+  Title:   Q49: A surveyor sets up stakes at points A(1, 3), ...
+  Text:    A surveyor sets up stakes at points A(1, 3), B(7, 5), C(8, 2), and D(2, 0). Prove whether the quadrilateral ABCD is a parallelogram using the slopes of opposite sides.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines intersect at 45° | B: Line L1 is parallel to Line L2 (L1 ∥ L2) | C: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | D: Lines are skew
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q49.svg
+------------------------------------------------------------
+Row 2851 (ID 134232):
+  Title:   Q50: Formulate a two-column proof: Given that ∠1 ≅...
+  Text:    Formulate a two-column proof: Given that ∠1 ≅ ∠2 where ∠1 and ∠2 are alternate interior angles, prove that line m is parallel to line n.
+  Formula: L_1 \parallel L_2
+  Opts:    A: Lines are skew | B: Line L1 is perpendicular to Line L2 (L1 ⊥ L2) | C: Line L1 is parallel to Line L2 (L1 ∥ L2) | D: Lines intersect at 45°
+  Ans:     Line L1 is parallel to Line L2 (L1 ∥ L2)
+  Hint:    If alternate interior angles are equal, the two lines cut by the transversal must be parallel.
+  Steps:   ["**Step 1: Apply Converse of Alternate Interior Angles Theorem**","$$\\text{Equal alternate interior angles } \\implies L_1 \\parallel L_2$$","**Final Verified Answer:** \\(Line L1 is parallel to Line L2 (L1 ∥ L2)\\)"]
+  Img:     /images/g9_t146_q50.svg
+------------------------------------------------------------

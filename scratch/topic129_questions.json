@@ -1,0 +1,1032 @@
+[
+  {
+    "id": 133333,
+    "title": "Cartesian Quadrant Location #1",
+    "text": "In which quadrant of the Cartesian coordinate plane is the point \\(P(-9, -9)\\) located?",
+    "img": "/images/g8_t129_q1.svg",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "answer": "Quadrant III",
+    "steps": [
+      "**Step 1: Analyze signs**",
+      "$$x = -9 \\text{ (-)}, \\quad y = -9 \\text{ (-)}$$",
+      "**Step 2: Determine quadrant**",
+      "$$(-, -) \\implies \\text{Quadrant III}$$",
+      "**Final Verified Answer:** \\(Quadrant III\\)"
+    ],
+    "formula": "P(x, y) \\rightarrow (\\text{sign}(x), \\text{sign}(y))"
+  },
+  {
+    "id": 133334,
+    "title": "Distance Formula #2",
+    "text": "Calculate the distance between points \\(A(-3, 5)\\) and \\(B(3, 11)\\) on the Cartesian plane.",
+    "img": "/images/g8_t129_q2.svg",
+    "options": [
+      "12",
+      "\\sqrt{82}",
+      "72",
+      "\\sqrt{72}"
+    ],
+    "answer": "\\sqrt{72}",
+    "steps": [
+      "**Step 1: Compute differences**",
+      "$$x_2 - x_1 = 6, \\quad y_2 - y_1 = 6$$",
+      "**Step 2: Square and add**",
+      "$$d = \\sqrt{6^2 + 6^2} = \\sqrt{36 + 36} = \\sqrt{72} $$",
+      "**Final Verified Answer:** \\(\\sqrt{72}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133335,
+    "title": "Midpoint Formula #3",
+    "text": "Find the coordinates of the midpoint of line segment \\(AB\\) joining \\(A(-7, -5)\\) and \\(B(2, -6)\\).",
+    "img": "/images/g8_t129_q3.svg",
+    "options": [
+      "(-2.5, -5.5)",
+      "(-1.5, -6.5)",
+      "(9, -1)",
+      "(-5, -11)"
+    ],
+    "answer": "(-2.5, -5.5)",
+    "steps": [
+      "**Step 1: Calculate x-midpoint**",
+      "$$M_x = \\frac{-7 + (2)}{2} = -2.5$$",
+      "**Step 2: Calculate y-midpoint**",
+      "$$M_y = \\frac{-5 + (-6)}{2} = -5.5$$",
+      "**Final Verified Answer:** \\((-2.5, -5.5)\\)"
+    ],
+    "formula": "M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)"
+  },
+  {
+    "id": 133336,
+    "title": "Missing Endpoint Calculation #4",
+    "text": "The midpoint of line segment \\(PQ\\) is \\(M(4, -4)\\). If endpoint \\(P\\) has coordinates \\((-4, -5)\\), find the coordinates of endpoint \\(Q\\).",
+    "img": "/images/g8_t129_q4.svg",
+    "options": [
+      "(12, -3)",
+      "(0, -9)",
+      "(14, -5)",
+      "(8, 1)"
+    ],
+    "answer": "(12, -3)",
+    "steps": [
+      "**Step 1: Solve for x_Q**",
+      "$$x_Q = 2(4) - (-4) = 8 - (-4) = 12$$",
+      "**Step 2: Solve for y_Q**",
+      "$$y_Q = 2(-4) - (-5) = -8 - (-5) = -3$$",
+      "**Final Verified Answer:** \\((12, -3)\\)"
+    ],
+    "formula": "x_2 = 2M_x - x_1, \\quad y_2 = 2M_y - y_1"
+  },
+  {
+    "id": 133337,
+    "title": "Triangle Perimeter on Plane #5",
+    "text": "A triangle has vertices at \\(A(0, 0)\\), \\(B(15, 0)\\), and \\(C(0, 20)\\). Find the perimeter of the triangle.",
+    "img": "/images/g8_t129_q5.svg",
+    "options": [
+      "64 units",
+      "60 units",
+      "35 units",
+      "150 units"
+    ],
+    "answer": "60 units",
+    "steps": [
+      "**Step 1: Calculate hypotenuse BC**",
+      "$$BC = \\sqrt{15^2 + 20^2} = \\sqrt{225 + 400} = \\sqrt{625} = 25$$",
+      "**Step 2: Sum side lengths**",
+      "$$P = 15 + 20 + 25 = 60$$",
+      "**Final Verified Answer:** \\(60\\) units"
+    ],
+    "formula": "P = a + b + \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 133338,
+    "title": "Collinear Points Check #6",
+    "text": "Determine if the points \\(A(1, 6)\\), \\(B(3, 10)\\), and \\(C(6, 16)\\) lie on the same straight line (collinear).",
+    "img": "/images/g8_t129_q6.svg",
+    "options": [
+      "Collinear (Slope m = 2)",
+      "Not Collinear",
+      "Perpendicular Lines",
+      "Forms Right Triangle"
+    ],
+    "answer": "Collinear (Slope m = 2)",
+    "steps": [
+      "**Step 1: Calculate slope AB**",
+      "$$m_{AB} = \\frac{10 - 6}{3 - 1} = \\frac{4}{2} = 2$$",
+      "**Step 2: Calculate slope BC**",
+      "$$m_{BC} = \\frac{16 - 10}{6 - 3} = \\frac{6}{3} = 2$$",
+      "**Final Verified Answer:** \\(Collinear (Slope m = 2)\\)"
+    ],
+    "formula": "m_{AB} = m_{BC} = \\frac{y_2 - y_1}{x_2 - x_1}"
+  },
+  {
+    "id": 133339,
+    "title": "Rectangle Area on Plane #7",
+    "text": "Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \\((-2, 4)\\) and \\((7, 8)\\).",
+    "img": "/images/g8_t129_q7.svg",
+    "options": [
+      "18 sq units",
+      "46 sq units",
+      "26 sq units",
+      "36 sq units"
+    ],
+    "answer": "36 sq units",
+    "steps": [
+      "**Step 1: Compute dimensions**",
+      "$$\\text{Width} = 7 - (-2) = 9, \\quad \\text{Height} = 8 - 4 = 4$$",
+      "**Step 2: Calculate Area**",
+      "$$A = 9 \\times 4 = 36$$",
+      "**Final Verified Answer:** \\(36\\) sq units"
+    ],
+    "formula": "A = |x_2 - x_1| \\times |y_2 - y_1|"
+  },
+  {
+    "id": 133340,
+    "title": "Horizontal Distance #8",
+    "text": "Find the distance between the horizontal points \\(P(-5, 0)\\) and \\(Q(7, 0)\\).",
+    "img": "/images/g8_t129_q8.svg",
+    "options": [
+      "7 units",
+      "5 units",
+      "12 units",
+      "15 units"
+    ],
+    "answer": "12 units",
+    "steps": [
+      "**Step 1: Subtract x-coordinates**",
+      "$$d = |7 - (-5)| = |7 + 5| = 12$$",
+      "**Final Verified Answer:** \\(12 units\\)"
+    ],
+    "formula": "d = |x_2 - x_1|"
+  },
+  {
+    "id": 133341,
+    "title": "Map Distance Application #9",
+    "text": "On a city grid map where each unit equals 1 km, Camilla's house is at \\((3, 5)\\) and school is at \\((9, 13)\\). What is the direct distance between house and school?",
+    "img": "/images/g8_t129_q9.svg",
+    "options": [
+      "14 km (v1)",
+      "14 km",
+      "10 km",
+      "8 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Apply distance formula**",
+      "$$d = \\sqrt{(9 - 3)^2 + (13 - 5)^2} = \\sqrt{6^2 + 8^2}$$",
+      "**Step 2: Evaluate square root**",
+      "$$d = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10\\text{ km}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133342,
+    "title": "Circle Center Coordinates #10",
+    "text": "A circle has a diameter with endpoints at \\(A(-4, -2)\\) and \\(B(6, 6)\\). Find the center coordinates of the circle.",
+    "img": "/images/g8_t129_q10.svg",
+    "options": [
+      "(1, 2)",
+      "(2, 4)",
+      "(2, 1)",
+      "(10, 8)"
+    ],
+    "answer": "(1, 2)",
+    "steps": [
+      "**Step 1: Average x and y coordinates**",
+      "$$C_x = \\frac{-4 + 6}{2} = 1, \\quad C_y = \\frac{-2 + 6}{2} = 2$$",
+      "**Final Verified Answer:** \\((1, 2)\\)"
+    ],
+    "formula": "\\text{Center} = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  },
+  {
+    "id": 133343,
+    "title": "Cartesian Quadrant Location #11",
+    "text": "In which quadrant of the Cartesian coordinate plane is the point \\(P(-4, 4)\\) located?",
+    "img": "/images/g8_t129_q11.svg",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "answer": "Quadrant II",
+    "steps": [
+      "**Step 1: Analyze signs**",
+      "$$x = -4 \\text{ (-)}, \\quad y = 4 \\text{ (+)}$$",
+      "**Step 2: Determine quadrant**",
+      "$$(-, +) \\implies \\text{Quadrant II}$$",
+      "**Final Verified Answer:** \\(Quadrant II\\)"
+    ],
+    "formula": "P(x, y) \\rightarrow (\\text{sign}(x), \\text{sign}(y))"
+  },
+  {
+    "id": 133344,
+    "title": "Distance Formula #12",
+    "text": "Calculate the distance between points \\(A(-3, -3)\\) and \\(B(5, 1)\\) on the Cartesian plane.",
+    "img": "/images/g8_t129_q12.svg",
+    "options": [
+      "12",
+      "\\sqrt{90}",
+      "\\sqrt{80}",
+      "80"
+    ],
+    "answer": "\\sqrt{80}",
+    "steps": [
+      "**Step 1: Compute differences**",
+      "$$x_2 - x_1 = 8, \\quad y_2 - y_1 = 4$$",
+      "**Step 2: Square and add**",
+      "$$d = \\sqrt{8^2 + 4^2} = \\sqrt{64 + 16} = \\sqrt{80} $$",
+      "**Final Verified Answer:** \\(\\sqrt{80}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133345,
+    "title": "Midpoint Formula #13",
+    "text": "Find the coordinates of the midpoint of line segment \\(AB\\) joining \\(A(7, -6)\\) and \\(B(-5, 0)\\).",
+    "img": "/images/g8_t129_q13.svg",
+    "options": [
+      "(2, -6)",
+      "(-12, 6)",
+      "(1, -3)",
+      "(2, -4)"
+    ],
+    "answer": "(1, -3)",
+    "steps": [
+      "**Step 1: Calculate x-midpoint**",
+      "$$M_x = \\frac{7 + (-5)}{2} = 1$$",
+      "**Step 2: Calculate y-midpoint**",
+      "$$M_y = \\frac{-6 + (0)}{2} = -3$$",
+      "**Final Verified Answer:** \\((1, -3)\\)"
+    ],
+    "formula": "M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)"
+  },
+  {
+    "id": 133346,
+    "title": "Missing Endpoint Calculation #14",
+    "text": "The midpoint of line segment \\(PQ\\) is \\(M(0, -3)\\). If endpoint \\(P\\) has coordinates \\((7, -2)\\), find the coordinates of endpoint \\(Q\\).",
+    "img": "/images/g8_t129_q14.svg",
+    "options": [
+      "(7, -5)",
+      "(-7, -1)",
+      "(-5, -6)",
+      "(-7, -4)"
+    ],
+    "answer": "(-7, -4)",
+    "steps": [
+      "**Step 1: Solve for x_Q**",
+      "$$x_Q = 2(0) - (7) = 0 - (7) = -7$$",
+      "**Step 2: Solve for y_Q**",
+      "$$y_Q = 2(-3) - (-2) = -6 - (-2) = -4$$",
+      "**Final Verified Answer:** \\((-7, -4)\\)"
+    ],
+    "formula": "x_2 = 2M_x - x_1, \\quad y_2 = 2M_y - y_1"
+  },
+  {
+    "id": 133347,
+    "title": "Triangle Perimeter on Plane #15",
+    "text": "A triangle has vertices at \\(A(0, 0)\\), \\(B(15, 0)\\), and \\(C(0, 20)\\). Find the perimeter of the triangle.",
+    "img": "/images/g8_t129_q15.svg",
+    "options": [
+      "60 units",
+      "64 units",
+      "150 units",
+      "35 units"
+    ],
+    "answer": "60 units",
+    "steps": [
+      "**Step 1: Calculate hypotenuse BC**",
+      "$$BC = \\sqrt{15^2 + 20^2} = \\sqrt{225 + 400} = \\sqrt{625} = 25$$",
+      "**Step 2: Sum side lengths**",
+      "$$P = 15 + 20 + 25 = 60$$",
+      "**Final Verified Answer:** \\(60\\) units"
+    ],
+    "formula": "P = a + b + \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 133348,
+    "title": "Collinear Points Check #16",
+    "text": "Determine if the points \\(A(1, 8)\\), \\(B(3, 16)\\), and \\(C(6, 28)\\) lie on the same straight line (collinear).",
+    "img": "/images/g8_t129_q16.svg",
+    "options": [
+      "Collinear (Slope m = 4)",
+      "Not Collinear",
+      "Perpendicular Lines",
+      "Forms Right Triangle"
+    ],
+    "answer": "Collinear (Slope m = 4)",
+    "steps": [
+      "**Step 1: Calculate slope AB**",
+      "$$m_{AB} = \\frac{16 - 8}{3 - 1} = \\frac{8}{2} = 4$$",
+      "**Step 2: Calculate slope BC**",
+      "$$m_{BC} = \\frac{28 - 16}{6 - 3} = \\frac{12}{3} = 4$$",
+      "**Final Verified Answer:** \\(Collinear (Slope m = 4)\\)"
+    ],
+    "formula": "m_{AB} = m_{BC} = \\frac{y_2 - y_1}{x_2 - x_1}"
+  },
+  {
+    "id": 133349,
+    "title": "Rectangle Area on Plane #17",
+    "text": "Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \\((0, 4)\\) and \\((3, 9)\\).",
+    "img": "/images/g8_t129_q17.svg",
+    "options": [
+      "6 sq units",
+      "16 sq units",
+      "15 sq units",
+      "25 sq units"
+    ],
+    "answer": "15 sq units",
+    "steps": [
+      "**Step 1: Compute dimensions**",
+      "$$\\text{Width} = 3 - (0) = 3, \\quad \\text{Height} = 9 - 4 = 5$$",
+      "**Step 2: Calculate Area**",
+      "$$A = 3 \\times 5 = 15$$",
+      "**Final Verified Answer:** \\(15\\) sq units"
+    ],
+    "formula": "A = |x_2 - x_1| \\times |y_2 - y_1|"
+  },
+  {
+    "id": 133350,
+    "title": "Horizontal Distance #18",
+    "text": "Find the distance between the horizontal points \\(P(-5, -2)\\) and \\(Q(11, -2)\\).",
+    "img": "/images/g8_t129_q18.svg",
+    "options": [
+      "19 units",
+      "16 units",
+      "11 units",
+      "5 units"
+    ],
+    "answer": "16 units",
+    "steps": [
+      "**Step 1: Subtract x-coordinates**",
+      "$$d = |11 - (-5)| = |11 + 5| = 16$$",
+      "**Final Verified Answer:** \\(16 units\\)"
+    ],
+    "formula": "d = |x_2 - x_1|"
+  },
+  {
+    "id": 133351,
+    "title": "Map Distance Application #19",
+    "text": "On a city grid map where each unit equals 1 km, Camilla's house is at \\((2, 3)\\) and school is at \\((8, 11)\\). What is the direct distance between house and school?",
+    "img": "/images/g8_t129_q19.svg",
+    "options": [
+      "14 km",
+      "10 km",
+      "8 km",
+      "14 km (v1)"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Apply distance formula**",
+      "$$d = \\sqrt{(8 - 2)^2 + (11 - 3)^2} = \\sqrt{6^2 + 8^2}$$",
+      "**Step 2: Evaluate square root**",
+      "$$d = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10\\text{ km}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133352,
+    "title": "Circle Center Coordinates #20",
+    "text": "A circle has a diameter with endpoints at \\(A(-6, -2)\\) and \\(B(10, 8)\\). Find the center coordinates of the circle.",
+    "img": "/images/g8_t129_q20.svg",
+    "options": [
+      "(2, 3)",
+      "(3, 2)",
+      "(16, 10)",
+      "(4, 6)"
+    ],
+    "answer": "(2, 3)",
+    "steps": [
+      "**Step 1: Average x and y coordinates**",
+      "$$C_x = \\frac{-6 + 10}{2} = 2, \\quad C_y = \\frac{-2 + 8}{2} = 3$$",
+      "**Final Verified Answer:** \\((2, 3)\\)"
+    ],
+    "formula": "\\text{Center} = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  },
+  {
+    "id": 133353,
+    "title": "Cartesian Quadrant Location #21",
+    "text": "In which quadrant of the Cartesian coordinate plane is the point \\(P(-2, 3)\\) located?",
+    "img": "/images/g8_t129_q21.svg",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "answer": "Quadrant II",
+    "steps": [
+      "**Step 1: Analyze signs**",
+      "$$x = -2 \\text{ (-)}, \\quad y = 3 \\text{ (+)}$$",
+      "**Step 2: Determine quadrant**",
+      "$$(-, +) \\implies \\text{Quadrant II}$$",
+      "**Final Verified Answer:** \\(Quadrant II\\)"
+    ],
+    "formula": "P(x, y) \\rightarrow (\\text{sign}(x), \\text{sign}(y))"
+  },
+  {
+    "id": 133354,
+    "title": "Distance Formula #22",
+    "text": "Calculate the distance between points \\(A(-1, 4)\\) and \\(B(4, 8)\\) on the Cartesian plane.",
+    "img": "/images/g8_t129_q22.svg",
+    "options": [
+      "\\sqrt{41}",
+      "\\sqrt{51}",
+      "41",
+      "9"
+    ],
+    "answer": "\\sqrt{41}",
+    "steps": [
+      "**Step 1: Compute differences**",
+      "$$x_2 - x_1 = 5, \\quad y_2 - y_1 = 4$$",
+      "**Step 2: Square and add**",
+      "$$d = \\sqrt{5^2 + 4^2} = \\sqrt{25 + 16} = \\sqrt{41} $$",
+      "**Final Verified Answer:** \\(\\sqrt{41}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133355,
+    "title": "Midpoint Formula #23",
+    "text": "Find the coordinates of the midpoint of line segment \\(AB\\) joining \\(A(6, -7)\\) and \\(B(-2, -8)\\).",
+    "img": "/images/g8_t129_q23.svg",
+    "options": [
+      "(-8, -1)",
+      "(4, -15)",
+      "(3, -8.5)",
+      "(2, -7.5)"
+    ],
+    "answer": "(2, -7.5)",
+    "steps": [
+      "**Step 1: Calculate x-midpoint**",
+      "$$M_x = \\frac{6 + (-2)}{2} = 2$$",
+      "**Step 2: Calculate y-midpoint**",
+      "$$M_y = \\frac{-7 + (-8)}{2} = -7.5$$",
+      "**Final Verified Answer:** \\((2, -7.5)\\)"
+    ],
+    "formula": "M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)"
+  },
+  {
+    "id": 133356,
+    "title": "Missing Endpoint Calculation #24",
+    "text": "The midpoint of line segment \\(PQ\\) is \\(M(2, 3)\\). If endpoint \\(P\\) has coordinates \\((7, -5)\\), find the coordinates of endpoint \\(Q\\).",
+    "img": "/images/g8_t129_q24.svg",
+    "options": [
+      "(9, -2)",
+      "(-5, 8)",
+      "(-3, 11)",
+      "(-1, 9)"
+    ],
+    "answer": "(-3, 11)",
+    "steps": [
+      "**Step 1: Solve for x_Q**",
+      "$$x_Q = 2(2) - (7) = 4 - (7) = -3$$",
+      "**Step 2: Solve for y_Q**",
+      "$$y_Q = 2(3) - (-5) = 6 - (-5) = 11$$",
+      "**Final Verified Answer:** \\((-3, 11)\\)"
+    ],
+    "formula": "x_2 = 2M_x - x_1, \\quad y_2 = 2M_y - y_1"
+  },
+  {
+    "id": 133357,
+    "title": "Triangle Perimeter on Plane #25",
+    "text": "A triangle has vertices at \\(A(0, 0)\\), \\(B(15, 0)\\), and \\(C(0, 20)\\). Find the perimeter of the triangle.",
+    "img": "/images/g8_t129_q25.svg",
+    "options": [
+      "60 units",
+      "150 units",
+      "35 units",
+      "64 units"
+    ],
+    "answer": "60 units",
+    "steps": [
+      "**Step 1: Calculate hypotenuse BC**",
+      "$$BC = \\sqrt{15^2 + 20^2} = \\sqrt{225 + 400} = \\sqrt{625} = 25$$",
+      "**Step 2: Sum side lengths**",
+      "$$P = 15 + 20 + 25 = 60$$",
+      "**Final Verified Answer:** \\(60\\) units"
+    ],
+    "formula": "P = a + b + \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 133358,
+    "title": "Collinear Points Check #26",
+    "text": "Determine if the points \\(A(1, 5)\\), \\(B(3, 13)\\), and \\(C(6, 25)\\) lie on the same straight line (collinear).",
+    "img": "/images/g8_t129_q26.svg",
+    "options": [
+      "Collinear (Slope m = 4)",
+      "Not Collinear",
+      "Perpendicular Lines",
+      "Forms Right Triangle"
+    ],
+    "answer": "Collinear (Slope m = 4)",
+    "steps": [
+      "**Step 1: Calculate slope AB**",
+      "$$m_{AB} = \\frac{13 - 5}{3 - 1} = \\frac{8}{2} = 4$$",
+      "**Step 2: Calculate slope BC**",
+      "$$m_{BC} = \\frac{25 - 13}{6 - 3} = \\frac{12}{3} = 4$$",
+      "**Final Verified Answer:** \\(Collinear (Slope m = 4)\\)"
+    ],
+    "formula": "m_{AB} = m_{BC} = \\frac{y_2 - y_1}{x_2 - x_1}"
+  },
+  {
+    "id": 133359,
+    "title": "Rectangle Area on Plane #27",
+    "text": "Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \\((-5, 3)\\) and \\((5, 10)\\).",
+    "img": "/images/g8_t129_q27.svg",
+    "options": [
+      "70 sq units",
+      "20 sq units",
+      "80 sq units",
+      "34 sq units"
+    ],
+    "answer": "70 sq units",
+    "steps": [
+      "**Step 1: Compute dimensions**",
+      "$$\\text{Width} = 5 - (-5) = 10, \\quad \\text{Height} = 10 - 3 = 7$$",
+      "**Step 2: Calculate Area**",
+      "$$A = 10 \\times 7 = 70$$",
+      "**Final Verified Answer:** \\(70\\) sq units"
+    ],
+    "formula": "A = |x_2 - x_1| \\times |y_2 - y_1|"
+  },
+  {
+    "id": 133360,
+    "title": "Horizontal Distance #28",
+    "text": "Find the distance between the horizontal points \\(P(-10, -1)\\) and \\(Q(12, -1)\\).",
+    "img": "/images/g8_t129_q28.svg",
+    "options": [
+      "10 units",
+      "22 units",
+      "25 units",
+      "12 units"
+    ],
+    "answer": "22 units",
+    "steps": [
+      "**Step 1: Subtract x-coordinates**",
+      "$$d = |12 - (-10)| = |12 + 10| = 22$$",
+      "**Final Verified Answer:** \\(22 units\\)"
+    ],
+    "formula": "d = |x_2 - x_1|"
+  },
+  {
+    "id": 133361,
+    "title": "Map Distance Application #29",
+    "text": "On a city grid map where each unit equals 1 km, Camilla's house is at \\((3, 5)\\) and school is at \\((9, 13)\\). What is the direct distance between house and school?",
+    "img": "/images/g8_t129_q29.svg",
+    "options": [
+      "10 km",
+      "14 km (v1)",
+      "8 km",
+      "14 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Apply distance formula**",
+      "$$d = \\sqrt{(9 - 3)^2 + (13 - 5)^2} = \\sqrt{6^2 + 8^2}$$",
+      "**Step 2: Evaluate square root**",
+      "$$d = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10\\text{ km}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133362,
+    "title": "Circle Center Coordinates #30",
+    "text": "A circle has a diameter with endpoints at \\(A(-5, 0)\\) and \\(B(9, 9)\\). Find the center coordinates of the circle.",
+    "img": "/images/g8_t129_q30.svg",
+    "options": [
+      "(14, 9)",
+      "(2, 4.5)",
+      "(3, 3.5)",
+      "(4, 9)"
+    ],
+    "answer": "(2, 4.5)",
+    "steps": [
+      "**Step 1: Average x and y coordinates**",
+      "$$C_x = \\frac{-5 + 9}{2} = 2, \\quad C_y = \\frac{0 + 9}{2} = 4.5$$",
+      "**Final Verified Answer:** \\((2, 4.5)\\)"
+    ],
+    "formula": "\\text{Center} = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  },
+  {
+    "id": 133363,
+    "title": "Cartesian Quadrant Location #31",
+    "text": "In which quadrant of the Cartesian coordinate plane is the point \\(P(-6, -3)\\) located?",
+    "img": "/images/g8_t129_q31.svg",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "answer": "Quadrant III",
+    "steps": [
+      "**Step 1: Analyze signs**",
+      "$$x = -6 \\text{ (-)}, \\quad y = -3 \\text{ (-)}$$",
+      "**Step 2: Determine quadrant**",
+      "$$(-, -) \\implies \\text{Quadrant III}$$",
+      "**Final Verified Answer:** \\(Quadrant III\\)"
+    ],
+    "formula": "P(x, y) \\rightarrow (\\text{sign}(x), \\text{sign}(y))"
+  },
+  {
+    "id": 133364,
+    "title": "Distance Formula #32",
+    "text": "Calculate the distance between points \\(A(4, -1)\\) and \\(B(8, 6)\\) on the Cartesian plane.",
+    "img": "/images/g8_t129_q32.svg",
+    "options": [
+      "\\sqrt{75}",
+      "\\sqrt{65}",
+      "11",
+      "65"
+    ],
+    "answer": "\\sqrt{65}",
+    "steps": [
+      "**Step 1: Compute differences**",
+      "$$x_2 - x_1 = 4, \\quad y_2 - y_1 = 7$$",
+      "**Step 2: Square and add**",
+      "$$d = \\sqrt{4^2 + 7^2} = \\sqrt{16 + 49} = \\sqrt{65} $$",
+      "**Final Verified Answer:** \\(\\sqrt{65}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133365,
+    "title": "Midpoint Formula #33",
+    "text": "Find the coordinates of the midpoint of line segment \\(AB\\) joining \\(A(-5, 5)\\) and \\(B(-3, -6)\\).",
+    "img": "/images/g8_t129_q33.svg",
+    "options": [
+      "(-4, -0.5)",
+      "(2, -11)",
+      "(-8, -1)",
+      "(-3, -1.5)"
+    ],
+    "answer": "(-4, -0.5)",
+    "steps": [
+      "**Step 1: Calculate x-midpoint**",
+      "$$M_x = \\frac{-5 + (-3)}{2} = -4$$",
+      "**Step 2: Calculate y-midpoint**",
+      "$$M_y = \\frac{5 + (-6)}{2} = -0.5$$",
+      "**Final Verified Answer:** \\((-4, -0.5)\\)"
+    ],
+    "formula": "M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)"
+  },
+  {
+    "id": 133366,
+    "title": "Missing Endpoint Calculation #34",
+    "text": "The midpoint of line segment \\(PQ\\) is \\(M(0, 0)\\). If endpoint \\(P\\) has coordinates \\((-1, 2)\\), find the coordinates of endpoint \\(Q\\).",
+    "img": "/images/g8_t129_q34.svg",
+    "options": [
+      "(1, -2) (v1)",
+      "(3, -4)",
+      "(1, -2)",
+      "(-1, 2)"
+    ],
+    "answer": "(1, -2)",
+    "steps": [
+      "**Step 1: Solve for x_Q**",
+      "$$x_Q = 2(0) - (-1) = 0 - (-1) = 1$$",
+      "**Step 2: Solve for y_Q**",
+      "$$y_Q = 2(0) - (2) = 0 - (2) = -2$$",
+      "**Final Verified Answer:** \\((1, -2)\\)"
+    ],
+    "formula": "x_2 = 2M_x - x_1, \\quad y_2 = 2M_y - y_1"
+  },
+  {
+    "id": 133367,
+    "title": "Triangle Perimeter on Plane #35",
+    "text": "A triangle has vertices at \\(A(0, 0)\\), \\(B(15, 0)\\), and \\(C(0, 20)\\). Find the perimeter of the triangle.",
+    "img": "/images/g8_t129_q35.svg",
+    "options": [
+      "35 units",
+      "150 units",
+      "60 units",
+      "64 units"
+    ],
+    "answer": "60 units",
+    "steps": [
+      "**Step 1: Calculate hypotenuse BC**",
+      "$$BC = \\sqrt{15^2 + 20^2} = \\sqrt{225 + 400} = \\sqrt{625} = 25$$",
+      "**Step 2: Sum side lengths**",
+      "$$P = 15 + 20 + 25 = 60$$",
+      "**Final Verified Answer:** \\(60\\) units"
+    ],
+    "formula": "P = a + b + \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 133368,
+    "title": "Collinear Points Check #36",
+    "text": "Determine if the points \\(A(1, 7)\\), \\(B(3, 15)\\), and \\(C(6, 27)\\) lie on the same straight line (collinear).",
+    "img": "/images/g8_t129_q36.svg",
+    "options": [
+      "Collinear (Slope m = 4)",
+      "Not Collinear",
+      "Perpendicular Lines",
+      "Forms Right Triangle"
+    ],
+    "answer": "Collinear (Slope m = 4)",
+    "steps": [
+      "**Step 1: Calculate slope AB**",
+      "$$m_{AB} = \\frac{15 - 7}{3 - 1} = \\frac{8}{2} = 4$$",
+      "**Step 2: Calculate slope BC**",
+      "$$m_{BC} = \\frac{27 - 15}{6 - 3} = \\frac{12}{3} = 4$$",
+      "**Final Verified Answer:** \\(Collinear (Slope m = 4)\\)"
+    ],
+    "formula": "m_{AB} = m_{BC} = \\frac{y_2 - y_1}{x_2 - x_1}"
+  },
+  {
+    "id": 133369,
+    "title": "Rectangle Area on Plane #37",
+    "text": "Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \\((-5, 4)\\) and \\((2, 7)\\).",
+    "img": "/images/g8_t129_q37.svg",
+    "options": [
+      "31 sq units",
+      "14 sq units",
+      "20 sq units",
+      "21 sq units"
+    ],
+    "answer": "21 sq units",
+    "steps": [
+      "**Step 1: Compute dimensions**",
+      "$$\\text{Width} = 2 - (-5) = 7, \\quad \\text{Height} = 7 - 4 = 3$$",
+      "**Step 2: Calculate Area**",
+      "$$A = 7 \\times 3 = 21$$",
+      "**Final Verified Answer:** \\(21\\) sq units"
+    ],
+    "formula": "A = |x_2 - x_1| \\times |y_2 - y_1|"
+  },
+  {
+    "id": 133370,
+    "title": "Horizontal Distance #38",
+    "text": "Find the distance between the horizontal points \\(P(-4, -1)\\) and \\(Q(4, -1)\\).",
+    "img": "/images/g8_t129_q38.svg",
+    "options": [
+      "11 units",
+      "8 units",
+      "4 units",
+      "4 units (v1)"
+    ],
+    "answer": "8 units",
+    "steps": [
+      "**Step 1: Subtract x-coordinates**",
+      "$$d = |4 - (-4)| = |4 + 4| = 8$$",
+      "**Final Verified Answer:** \\(8 units\\)"
+    ],
+    "formula": "d = |x_2 - x_1|"
+  },
+  {
+    "id": 133371,
+    "title": "Map Distance Application #39",
+    "text": "On a city grid map where each unit equals 1 km, Camilla's house is at \\((3, 3)\\) and school is at \\((9, 11)\\). What is the direct distance between house and school?",
+    "img": "/images/g8_t129_q39.svg",
+    "options": [
+      "14 km",
+      "8 km",
+      "10 km",
+      "14 km (v1)"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Apply distance formula**",
+      "$$d = \\sqrt{(9 - 3)^2 + (11 - 3)^2} = \\sqrt{6^2 + 8^2}$$",
+      "**Step 2: Evaluate square root**",
+      "$$d = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10\\text{ km}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133372,
+    "title": "Circle Center Coordinates #40",
+    "text": "A circle has a diameter with endpoints at \\(A(-6, -3)\\) and \\(B(9, 8)\\). Find the center coordinates of the circle.",
+    "img": "/images/g8_t129_q40.svg",
+    "options": [
+      "(15, 11)",
+      "(3, 5)",
+      "(2.5, 1.5)",
+      "(1.5, 2.5)"
+    ],
+    "answer": "(1.5, 2.5)",
+    "steps": [
+      "**Step 1: Average x and y coordinates**",
+      "$$C_x = \\frac{-6 + 9}{2} = 1.5, \\quad C_y = \\frac{-3 + 8}{2} = 2.5$$",
+      "**Final Verified Answer:** \\((1.5, 2.5)\\)"
+    ],
+    "formula": "\\text{Center} = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  },
+  {
+    "id": 133373,
+    "title": "Cartesian Quadrant Location #41",
+    "text": "In which quadrant of the Cartesian coordinate plane is the point \\(P(-2, 9)\\) located?",
+    "img": "/images/g8_t129_q41.svg",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "answer": "Quadrant II",
+    "steps": [
+      "**Step 1: Analyze signs**",
+      "$$x = -2 \\text{ (-)}, \\quad y = 9 \\text{ (+)}$$",
+      "**Step 2: Determine quadrant**",
+      "$$(-, +) \\implies \\text{Quadrant II}$$",
+      "**Final Verified Answer:** \\(Quadrant II\\)"
+    ],
+    "formula": "P(x, y) \\rightarrow (\\text{sign}(x), \\text{sign}(y))"
+  },
+  {
+    "id": 133374,
+    "title": "Distance Formula #42",
+    "text": "Calculate the distance between points \\(A(-4, -3)\\) and \\(B(3, 2)\\) on the Cartesian plane.",
+    "img": "/images/g8_t129_q42.svg",
+    "options": [
+      "12",
+      "\\sqrt{74}",
+      "\\sqrt{84}",
+      "74"
+    ],
+    "answer": "\\sqrt{74}",
+    "steps": [
+      "**Step 1: Compute differences**",
+      "$$x_2 - x_1 = 7, \\quad y_2 - y_1 = 5$$",
+      "**Step 2: Square and add**",
+      "$$d = \\sqrt{7^2 + 5^2} = \\sqrt{49 + 25} = \\sqrt{74} $$",
+      "**Final Verified Answer:** \\(\\sqrt{74}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133375,
+    "title": "Midpoint Formula #43",
+    "text": "Find the coordinates of the midpoint of line segment \\(AB\\) joining \\(A(5, -3)\\) and \\(B(-1, -2)\\).",
+    "img": "/images/g8_t129_q43.svg",
+    "options": [
+      "(2, -2.5)",
+      "(4, -5)",
+      "(-6, 1)",
+      "(3, -3.5)"
+    ],
+    "answer": "(2, -2.5)",
+    "steps": [
+      "**Step 1: Calculate x-midpoint**",
+      "$$M_x = \\frac{5 + (-1)}{2} = 2$$",
+      "**Step 2: Calculate y-midpoint**",
+      "$$M_y = \\frac{-3 + (-2)}{2} = -2.5$$",
+      "**Final Verified Answer:** \\((2, -2.5)\\)"
+    ],
+    "formula": "M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)"
+  },
+  {
+    "id": 133376,
+    "title": "Missing Endpoint Calculation #44",
+    "text": "The midpoint of line segment \\(PQ\\) is \\(M(-3, 4)\\). If endpoint \\(P\\) has coordinates \\((-3, 6)\\), find the coordinates of endpoint \\(Q\\).",
+    "img": "/images/g8_t129_q44.svg",
+    "options": [
+      "(-1, 0)",
+      "(-3, 2)",
+      "(0, -2)",
+      "(-6, 10)"
+    ],
+    "answer": "(-3, 2)",
+    "steps": [
+      "**Step 1: Solve for x_Q**",
+      "$$x_Q = 2(-3) - (-3) = -6 - (-3) = -3$$",
+      "**Step 2: Solve for y_Q**",
+      "$$y_Q = 2(4) - (6) = 8 - (6) = 2$$",
+      "**Final Verified Answer:** \\((-3, 2)\\)"
+    ],
+    "formula": "x_2 = 2M_x - x_1, \\quad y_2 = 2M_y - y_1"
+  },
+  {
+    "id": 133377,
+    "title": "Triangle Perimeter on Plane #45",
+    "text": "A triangle has vertices at \\(A(0, 0)\\), \\(B(15, 0)\\), and \\(C(0, 20)\\). Find the perimeter of the triangle.",
+    "img": "/images/g8_t129_q45.svg",
+    "options": [
+      "60 units",
+      "150 units",
+      "35 units",
+      "64 units"
+    ],
+    "answer": "60 units",
+    "steps": [
+      "**Step 1: Calculate hypotenuse BC**",
+      "$$BC = \\sqrt{15^2 + 20^2} = \\sqrt{225 + 400} = \\sqrt{625} = 25$$",
+      "**Step 2: Sum side lengths**",
+      "$$P = 15 + 20 + 25 = 60$$",
+      "**Final Verified Answer:** \\(60\\) units"
+    ],
+    "formula": "P = a + b + \\sqrt{a^2 + b^2}"
+  },
+  {
+    "id": 133378,
+    "title": "Collinear Points Check #46",
+    "text": "Determine if the points \\(A(1, 8)\\), \\(B(3, 14)\\), and \\(C(6, 23)\\) lie on the same straight line (collinear).",
+    "img": "/images/g8_t129_q46.svg",
+    "options": [
+      "Collinear (Slope m = 3)",
+      "Not Collinear",
+      "Perpendicular Lines",
+      "Forms Right Triangle"
+    ],
+    "answer": "Collinear (Slope m = 3)",
+    "steps": [
+      "**Step 1: Calculate slope AB**",
+      "$$m_{AB} = \\frac{14 - 8}{3 - 1} = \\frac{6}{2} = 3$$",
+      "**Step 2: Calculate slope BC**",
+      "$$m_{BC} = \\frac{23 - 14}{6 - 3} = \\frac{9}{3} = 3$$",
+      "**Final Verified Answer:** \\(Collinear (Slope m = 3)\\)"
+    ],
+    "formula": "m_{AB} = m_{BC} = \\frac{y_2 - y_1}{x_2 - x_1}"
+  },
+  {
+    "id": 133379,
+    "title": "Rectangle Area on Plane #47",
+    "text": "Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \\((-3, 3)\\) and \\((7, 8)\\).",
+    "img": "/images/g8_t129_q47.svg",
+    "options": [
+      "20 sq units",
+      "50 sq units",
+      "60 sq units",
+      "30 sq units"
+    ],
+    "answer": "50 sq units",
+    "steps": [
+      "**Step 1: Compute dimensions**",
+      "$$\\text{Width} = 7 - (-3) = 10, \\quad \\text{Height} = 8 - 3 = 5$$",
+      "**Step 2: Calculate Area**",
+      "$$A = 10 \\times 5 = 50$$",
+      "**Final Verified Answer:** \\(50\\) sq units"
+    ],
+    "formula": "A = |x_2 - x_1| \\times |y_2 - y_1|"
+  },
+  {
+    "id": 133380,
+    "title": "Horizontal Distance #48",
+    "text": "Find the distance between the horizontal points \\(P(-5, 0)\\) and \\(Q(10, 0)\\).",
+    "img": "/images/g8_t129_q48.svg",
+    "options": [
+      "10 units",
+      "5 units",
+      "15 units",
+      "18 units"
+    ],
+    "answer": "15 units",
+    "steps": [
+      "**Step 1: Subtract x-coordinates**",
+      "$$d = |10 - (-5)| = |10 + 5| = 15$$",
+      "**Final Verified Answer:** \\(15 units\\)"
+    ],
+    "formula": "d = |x_2 - x_1|"
+  },
+  {
+    "id": 133381,
+    "title": "Map Distance Application #49",
+    "text": "On a city grid map where each unit equals 1 km, Camilla's house is at \\((1, 3)\\) and school is at \\((7, 11)\\). What is the direct distance between house and school?",
+    "img": "/images/g8_t129_q49.svg",
+    "options": [
+      "14 km (v1)",
+      "10 km",
+      "14 km",
+      "8 km"
+    ],
+    "answer": "10 km",
+    "steps": [
+      "**Step 1: Apply distance formula**",
+      "$$d = \\sqrt{(7 - 1)^2 + (11 - 3)^2} = \\sqrt{6^2 + 8^2}$$",
+      "**Step 2: Evaluate square root**",
+      "$$d = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ km}$$",
+      "**Final Verified Answer:** \\(10\\text{ km}\\)"
+    ],
+    "formula": "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+  },
+  {
+    "id": 133382,
+    "title": "Circle Center Coordinates #50",
+    "text": "A circle has a diameter with endpoints at \\(A(-5, 2)\\) and \\(B(4, 9)\\). Find the center coordinates of the circle.",
+    "img": "/images/g8_t129_q50.svg",
+    "options": [
+      "(9, 7)",
+      "(0.5, 4.5)",
+      "(-0.5, 5.5)",
+      "(-1, 11)"
+    ],
+    "answer": "(-0.5, 5.5)",
+    "steps": [
+      "**Step 1: Average x and y coordinates**",
+      "$$C_x = \\frac{-5 + 4}{2} = -0.5, \\quad C_y = \\frac{2 + 9}{2} = 5.5$$",
+      "**Final Verified Answer:** \\((-0.5, 5.5)\\)"
+    ],
+    "formula": "\\text{Center} = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  }
+]

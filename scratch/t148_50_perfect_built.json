@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "134283",
+    "title": "Q1: Definition of Congruent Triangles",
+    "question_text": "Define congruent triangles in terms of corresponding sides and corresponding angles.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF \\iff \\text{All corresponding sides and angles are equal}",
+    "optA": "Two triangles are congruent if all three corresponding sides are equal and all three corresponding angles are equal.",
+    "optB": "Two triangles are congruent if all three corresponding angles are equal, regardless of side lengths.",
+    "optC": "Two triangles are congruent if they have the same perimeter and area, even if side lengths differ.",
+    "optD": "Two triangles are congruent if two corresponding sides are equal and one angle is a right angle.",
+    "correct_answer": "Two triangles are congruent if all three corresponding sides are equal and all three corresponding angles are equal.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q1.svg",
+    "options": [
+      "Two triangles are congruent if they have the same perimeter and area, even if side lengths differ.",
+      "Two triangles are congruent if all three corresponding angles are equal, regardless of side lengths.",
+      "Two triangles are congruent if all three corresponding sides are equal and all three corresponding angles are equal.",
+      "Two triangles are congruent if two corresponding sides are equal and one angle is a right angle."
+    ],
+    "correct": "Two triangles are congruent if all three corresponding sides are equal and all three corresponding angles are equal."
+  },
+  {
+    "id": "134284",
+    "title": "Q2: CPCTC Acronym and Meaning",
+    "question_text": "State the acronym CPCTC and explain what it means in geometric proofs.",
+    "math_formula": "\\text{CPCTC: Corresponding Parts of Congruent Triangles are Congruent}",
+    "optA": "CPCTC stands for \"Corresponding Parts of Congruent Triangles are Congruent\"; once two triangles are proven congruent, their matching sides and angles are equal.",
+    "optB": "CPCTC stands for \"Calculated Pairs of Complementary Triangles Calculate\"; it is used to find complementary angles in a triangle.",
+    "optC": "CPCTC stands for \"Corresponding Perimeter Creates Triangle Congruence\"; it states that triangles with equal perimeters are congruent.",
+    "optD": "CPCTC stands for \"Congruent Polygons Create Total Congruence\"; it applies only to regular polygons with more than 4 sides.",
+    "correct_answer": "CPCTC stands for \"Corresponding Parts of Congruent Triangles are Congruent\"; once two triangles are proven congruent, their matching sides and angles are equal.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q2.svg",
+    "options": [
+      "CPCTC stands for \"Calculated Pairs of Complementary Triangles Calculate\"; it is used to find complementary angles in a triangle.",
+      "CPCTC stands for \"Corresponding Parts of Congruent Triangles are Congruent\"; once two triangles are proven congruent, their matching sides and angles are equal.",
+      "CPCTC stands for \"Congruent Polygons Create Total Congruence\"; it applies only to regular polygons with more than 4 sides.",
+      "CPCTC stands for \"Corresponding Perimeter Creates Triangle Congruence\"; it states that triangles with equal perimeters are congruent."
+    ],
+    "correct": "CPCTC stands for \"Corresponding Parts of Congruent Triangles are Congruent\"; once two triangles are proven congruent, their matching sides and angles are equal."
+  },
+  {
+    "id": "134285",
+    "title": "Q3: Side-Side-Side (SSS) Postulate",
+    "question_text": "State and illustrate the Side-Side-Side (SSS) Congruence Postulate.",
+    "math_formula": "AB = DE, \\; BC = EF, \\; AC = DF \\implies \\Delta ABC \\cong \\Delta DEF",
+    "optA": "If three sides of one triangle are congruent to three sides of another triangle, then the triangles are congruent (SSS).",
+    "optB": "If two sides and any angle of one triangle are congruent to two sides and an angle of another, the triangles are congruent.",
+    "optC": "If three angles of one triangle are congruent to three angles of another, the triangles are congruent.",
+    "optD": "If the hypotenuse and one leg of a right triangle are equal to those of another, it is SSS congruence.",
+    "correct_answer": "If three sides of one triangle are congruent to three sides of another triangle, then the triangles are congruent (SSS).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q3.svg",
+    "options": [
+      "If three sides of one triangle are congruent to three sides of another triangle, then the triangles are congruent (SSS).",
+      "If three angles of one triangle are congruent to three angles of another, the triangles are congruent.",
+      "If the hypotenuse and one leg of a right triangle are equal to those of another, it is SSS congruence.",
+      "If two sides and any angle of one triangle are congruent to two sides and an angle of another, the triangles are congruent."
+    ],
+    "correct": "If three sides of one triangle are congruent to three sides of another triangle, then the triangles are congruent (SSS)."
+  },
+  {
+    "id": "134286",
+    "title": "Q4: Side-Angle-Side (SAS) Postulate",
+    "question_text": "State and illustrate the Side-Angle-Side (SAS) Congruence Postulate.",
+    "math_formula": "AB = DE, \\; \\angle B = \\angle E, \\; BC = EF \\implies \\Delta ABC \\cong \\Delta DEF",
+    "optA": "If two sides and the included angle of one triangle are congruent to two sides and the included angle of another triangle, then the triangles are congruent (SAS).",
+    "optB": "If two sides and a non-included angle of one triangle are congruent to two sides and a non-included angle of another, the triangles are congruent.",
+    "optC": "If two angles and the included side of one triangle are congruent to two angles and the included side of another, it is SAS.",
+    "optD": "If all three sides and one angle are congruent, it is SAS congruence.",
+    "correct_answer": "If two sides and the included angle of one triangle are congruent to two sides and the included angle of another triangle, then the triangles are congruent (SAS).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q4.svg",
+    "options": [
+      "If two angles and the included side of one triangle are congruent to two angles and the included side of another, it is SAS.",
+      "If all three sides and one angle are congruent, it is SAS congruence.",
+      "If two sides and the included angle of one triangle are congruent to two sides and the included angle of another triangle, then the triangles are congruent (SAS).",
+      "If two sides and a non-included angle of one triangle are congruent to two sides and a non-included angle of another, the triangles are congruent."
+    ],
+    "correct": "If two sides and the included angle of one triangle are congruent to two sides and the included angle of another triangle, then the triangles are congruent (SAS)."
+  },
+  {
+    "id": "134287",
+    "title": "Q5: Angle-Side-Angle (ASA) Postulate",
+    "question_text": "State and illustrate the Angle-Side-Angle (ASA) Congruence Postulate.",
+    "math_formula": "\\angle A = \\angle D, \\; AB = DE, \\; \\angle B = \\angle E \\implies \\Delta ABC \\cong \\Delta DEF",
+    "optA": "If two angles and the included side of one triangle are congruent to two angles and the included side of another triangle, then the triangles are congruent (ASA).",
+    "optB": "If two angles and a non-included side of one triangle are congruent to those of another, it is ASA.",
+    "optC": "If two sides and the included angle of one triangle are congruent to those of another, it is ASA.",
+    "optD": "If three angles of one triangle are congruent to three angles of another, it is ASA.",
+    "correct_answer": "If two angles and the included side of one triangle are congruent to two angles and the included side of another triangle, then the triangles are congruent (ASA).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q5.svg",
+    "options": [
+      "If two angles and a non-included side of one triangle are congruent to those of another, it is ASA.",
+      "If two sides and the included angle of one triangle are congruent to those of another, it is ASA.",
+      "If two angles and the included side of one triangle are congruent to two angles and the included side of another triangle, then the triangles are congruent (ASA).",
+      "If three angles of one triangle are congruent to three angles of another, it is ASA."
+    ],
+    "correct": "If two angles and the included side of one triangle are congruent to two angles and the included side of another triangle, then the triangles are congruent (ASA)."
+  },
+  {
+    "id": "134288",
+    "title": "Q6: Angle-Angle-Side (AAS) Theorem",
+    "question_text": "State and illustrate the Angle-Angle-Side (AAS) Congruence Theorem.",
+    "math_formula": "\\angle A = \\angle D, \\; \\angle B = \\angle E, \\; BC = EF \\implies \\Delta ABC \\cong \\Delta DEF",
+    "optA": "If two angles and a non-included side of one triangle are congruent to two angles and the corresponding non-included side of another triangle, then the triangles are congruent (AAS).",
+    "optB": "If two angles and the included side of one triangle are congruent to those of another, it is AAS.",
+    "optC": "If three angles of one triangle are congruent to three angles of another, it is AAS.",
+    "optD": "If two sides and a non-included angle are congruent, it is AAS.",
+    "correct_answer": "If two angles and a non-included side of one triangle are congruent to two angles and the corresponding non-included side of another triangle, then the triangles are congruent (AAS).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q6.svg",
+    "options": [
+      "If two sides and a non-included angle are congruent, it is AAS.",
+      "If two angles and the included side of one triangle are congruent to those of another, it is AAS.",
+      "If two angles and a non-included side of one triangle are congruent to two angles and the corresponding non-included side of another triangle, then the triangles are congruent (AAS).",
+      "If three angles of one triangle are congruent to three angles of another, it is AAS."
+    ],
+    "correct": "If two angles and a non-included side of one triangle are congruent to two angles and the corresponding non-included side of another triangle, then the triangles are congruent (AAS)."
+  },
+  {
+    "id": "134289",
+    "title": "Q7: Hypotenuse-Leg (HL) Theorem",
+    "question_text": "State the Hypotenuse-Leg (HL) Congruence Theorem for right-angled triangles.",
+    "math_formula": "\\text{Right } \\Delta s: \\; c_1 = c_2, \\; a_1 = a_2 \\implies \\Delta_1 \\cong \\Delta_2",
+    "optA": "If the hypotenuse and one leg of a right triangle are congruent to the hypotenuse and one leg of another right triangle, then the triangles are congruent (HL).",
+    "optB": "If the hypotenuse and any acute angle of a right triangle are congruent to those of another, it is HL.",
+    "optC": "If both legs of a right triangle are congruent to both legs of another right triangle, it is HL.",
+    "optD": "HL applies to any triangle where two sides and an angle are equal.",
+    "correct_answer": "If the hypotenuse and one leg of a right triangle are congruent to the hypotenuse and one leg of another right triangle, then the triangles are congruent (HL).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q7.svg",
+    "options": [
+      "HL applies to any triangle where two sides and an angle are equal.",
+      "If both legs of a right triangle are congruent to both legs of another right triangle, it is HL.",
+      "If the hypotenuse and any acute angle of a right triangle are congruent to those of another, it is HL.",
+      "If the hypotenuse and one leg of a right triangle are congruent to the hypotenuse and one leg of another right triangle, then the triangles are congruent (HL)."
+    ],
+    "correct": "If the hypotenuse and one leg of a right triangle are congruent to the hypotenuse and one leg of another right triangle, then the triangles are congruent (HL)."
+  },
+  {
+    "id": "134290",
+    "title": "Q8: Right Triangle Congruence Theorems (LL, LA, HA)",
+    "question_text": "State the Leg-Leg (LL), Leg-Acute Angle (LA), and Hypotenuse-Acute Angle (HA) right triangle congruence theorems.",
+    "math_formula": "\\text{LL } \\equiv \\text{SAS}, \\quad \\text{LA } \\equiv \\text{ASA/AAS}, \\quad \\text{HA } \\equiv \\text{AAS}",
+    "optA": "LL: two legs equal (SAS equivalent); LA: one leg and acute angle equal (ASA/AAS equivalent); HA: hypotenuse and acute angle equal (AAS equivalent).",
+    "optB": "LL: leg and hypotenuse equal; LA: leg and area equal; HA: hypotenuse and altitude equal.",
+    "optC": "LL, LA, and HA are valid for all acute and obtuse triangles regardless of right angles.",
+    "optD": "LL: two hypotenuses equal; LA: two right angles equal; HA: hypotenuse and perimeter equal.",
+    "correct_answer": "LL: two legs equal (SAS equivalent); LA: one leg and acute angle equal (ASA/AAS equivalent); HA: hypotenuse and acute angle equal (AAS equivalent).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q8.svg",
+    "options": [
+      "LL: two legs equal (SAS equivalent); LA: one leg and acute angle equal (ASA/AAS equivalent); HA: hypotenuse and acute angle equal (AAS equivalent).",
+      "LL, LA, and HA are valid for all acute and obtuse triangles regardless of right angles.",
+      "LL: leg and hypotenuse equal; LA: leg and area equal; HA: hypotenuse and altitude equal.",
+      "LL: two hypotenuses equal; LA: two right angles equal; HA: hypotenuse and perimeter equal."
+    ],
+    "correct": "LL: two legs equal (SAS equivalent); LA: one leg and acute angle equal (ASA/AAS equivalent); HA: hypotenuse and acute angle equal (AAS equivalent)."
+  },
+  {
+    "id": "134291",
+    "title": "Q9: Algebraic Application of Congruent Triangles",
+    "question_text": "Given △ABC ≅ △DEF, if AB = 2x + 3, DE = 15, m∠C = (4y - 8)°, and m∠F = 52°, find x and y.",
+    "math_formula": "2x + 3 = 15 \\implies x = 6; \\quad 4y - 8 = 52 \\implies y = 15",
+    "optA": "x = 6, y = 15",
+    "optB": "x = 9, y = 11",
+    "optC": "x = 6, y = 10",
+    "optD": "x = 7.5, y = 15",
+    "correct_answer": "x = 6, y = 15",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q9.svg",
+    "options": [
+      "x = 6, y = 15",
+      "x = 6, y = 10",
+      "x = 9, y = 11",
+      "x = 7.5, y = 15"
+    ],
+    "correct": "x = 6, y = 15"
+  },
+  {
+    "id": "134292",
+    "title": "Q10: Invalidity of AAA Criterion",
+    "question_text": "Explain why Angle-Angle-Angle (AAA) is NOT a valid congruence criterion for triangles. Provide a counterexample.",
+    "math_formula": "\\text{AAA } \\implies \\text{Similarity (same shape), NOT Congruence (same size)}",
+    "optA": "AAA guarantees that triangles have the same shape (similar), but not necessarily the same size; e.g., an equilateral triangle with side 2 cm and another with side 5 cm both have angles 60°, 60°, 60° but are not congruent.",
+    "optB": "AAA is invalid because angles in a triangle do not sum to 180°.",
+    "optC": "AAA is valid only when all three angles are acute angles.",
+    "optD": "AAA is invalid because two triangles can never have equal corresponding angles.",
+    "correct_answer": "AAA guarantees that triangles have the same shape (similar), but not necessarily the same size; e.g., an equilateral triangle with side 2 cm and another with side 5 cm both have angles 60°, 60°, 60° but are not congruent.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q10.svg",
+    "options": [
+      "AAA guarantees that triangles have the same shape (similar), but not necessarily the same size; e.g., an equilateral triangle with side 2 cm and another with side 5 cm both have angles 60°, 60°, 60° but are not congruent.",
+      "AAA is invalid because angles in a triangle do not sum to 180°.",
+      "AAA is invalid because two triangles can never have equal corresponding angles.",
+      "AAA is valid only when all three angles are acute angles."
+    ],
+    "correct": "AAA guarantees that triangles have the same shape (similar), but not necessarily the same size; e.g., an equilateral triangle with side 2 cm and another with side 5 cm both have angles 60°, 60°, 60° but are not congruent."
+  },
+  {
+    "id": "134293",
+    "title": "Q11: Ambiguity of SSA / ASS",
+    "question_text": "Explain why Side-Side-Angle (SSA / ASS) is NOT a valid congruence criterion for triangles. Provide a sketch of the ambiguous case.",
+    "math_formula": "\\text{SSA is ambiguous: two non-congruent triangles can share 2 sides and a non-included angle}",
+    "optA": "SSA is ambiguous because given two side lengths and a non-included acute angle, two different triangles (one acute, one obtuse) can often be constructed.",
+    "optB": "SSA is invalid because side lengths can never be equal in two different triangles.",
+    "optC": "SSA is valid for all triangles except right-angled triangles.",
+    "optD": "SSA is invalid because the included angle must always be 90°.",
+    "correct_answer": "SSA is ambiguous because given two side lengths and a non-included acute angle, two different triangles (one acute, one obtuse) can often be constructed.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q11.svg",
+    "options": [
+      "SSA is invalid because the included angle must always be 90°.",
+      "SSA is valid for all triangles except right-angled triangles.",
+      "SSA is invalid because side lengths can never be equal in two different triangles.",
+      "SSA is ambiguous because given two side lengths and a non-included acute angle, two different triangles (one acute, one obtuse) can often be constructed."
+    ],
+    "correct": "SSA is ambiguous because given two side lengths and a non-included acute angle, two different triangles (one acute, one obtuse) can often be constructed."
+  },
+  {
+    "id": "134294",
+    "title": "Q12: Finding Missing Angle in Congruent Triangles",
+    "question_text": "In △PQR and △STU, PQ = ST, QR = TU, and PR = SU. If m∠P = 55° and m∠Q = 65°, find m∠U.",
+    "math_formula": "m\\angle R = 180^\\circ - (55^\\circ + 65^\\circ) = 60^\\circ \\implies m\\angle U = 60^\\circ",
+    "optA": "60°",
+    "optB": "55°",
+    "optC": "65°",
+    "optD": "120°",
+    "correct_answer": "60°",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q12.svg",
+    "options": [
+      "65°",
+      "55°",
+      "60°",
+      "120°"
+    ],
+    "correct": "60°"
+  },
+  {
+    "id": "134295",
+    "title": "Q13: Isosceles Triangle Theorem & Converse",
+    "question_text": "In △ABC, AB = AC. State the Isosceles Triangle Theorem (Base Angles Theorem) and its converse.",
+    "math_formula": "AB = AC \\iff \\angle B = \\angle C",
+    "optA": "Theorem: If two sides of a triangle are congruent, then the angles opposite them are congruent (base angles are equal); Converse: If two angles of a triangle are congruent, then the sides opposite them are congruent.",
+    "optB": "Theorem: If two sides are equal, the vertex angle is 90°; Converse: If vertex angle is 90°, all sides are equal.",
+    "optC": "Theorem: In an isosceles triangle, all three angles measure 60°; Converse: If all angles measure 60°, it is isosceles.",
+    "optD": "Theorem: Base angles sum to 90°; Converse: If angles sum to 90°, the triangle is isosceles.",
+    "correct_answer": "Theorem: If two sides of a triangle are congruent, then the angles opposite them are congruent (base angles are equal); Converse: If two angles of a triangle are congruent, then the sides opposite them are congruent.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q13.svg",
+    "options": [
+      "Theorem: In an isosceles triangle, all three angles measure 60°; Converse: If all angles measure 60°, it is isosceles.",
+      "Theorem: Base angles sum to 90°; Converse: If angles sum to 90°, the triangle is isosceles.",
+      "Theorem: If two sides are equal, the vertex angle is 90°; Converse: If vertex angle is 90°, all sides are equal.",
+      "Theorem: If two sides of a triangle are congruent, then the angles opposite them are congruent (base angles are equal); Converse: If two angles of a triangle are congruent, then the sides opposite them are congruent."
+    ],
+    "correct": "Theorem: If two sides of a triangle are congruent, then the angles opposite them are congruent (base angles are equal); Converse: If two angles of a triangle are congruent, then the sides opposite them are congruent."
+  },
+  {
+    "id": "134296",
+    "title": "Q14: Finding Base Angles of Isosceles Triangle",
+    "question_text": "In an isosceles triangle ABC with AB = AC, if the vertex angle ∠A measures 44°, find the measures of base angles ∠B and ∠C.",
+    "math_formula": "m\\angle B = m\\angle C = \\frac{180^\\circ - 44^\\circ}{2} = 68^\\circ",
+    "optA": "68° and 68°",
+    "optB": "44° and 92°",
+    "optC": "60° and 60°",
+    "optD": "136° and 44°",
+    "correct_answer": "68° and 68°",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q14.svg",
+    "options": [
+      "60° and 60°",
+      "44° and 92°",
+      "68° and 68°",
+      "136° and 44°"
+    ],
+    "correct": "68° and 68°"
+  },
+  {
+    "id": "134297",
+    "title": "Q15: Isosceles Triangle Word Problem",
+    "question_text": "In an isosceles triangle, a base angle is 15° more than twice the vertex angle. Find the measures of all three angles.",
+    "math_formula": "x + 2(2x + 15) = 180 \\implies 5x = 150 \\implies x = 30^\\circ, \\quad 2(30)+15 = 75^\\circ",
+    "optA": "Vertex angle = 30°, Base angles = 75° and 75°",
+    "optB": "Vertex angle = 40°, Base angles = 70° and 70°",
+    "optC": "Vertex angle = 20°, Base angles = 80° and 80°",
+    "optD": "Vertex angle = 36°, Base angles = 72° and 72°",
+    "correct_answer": "Vertex angle = 30°, Base angles = 75° and 75°",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Vertex angle = 20°, Base angles = 80° and 80°",
+      "Vertex angle = 36°, Base angles = 72° and 72°",
+      "Vertex angle = 40°, Base angles = 70° and 70°",
+      "Vertex angle = 30°, Base angles = 75° and 75°"
+    ],
+    "correct": "Vertex angle = 30°, Base angles = 75° and 75°"
+  },
+  {
+    "id": "134298",
+    "title": "Q16: Equilateral Triangle Theorem",
+    "question_text": "State the Equilateral Triangle Theorem: prove that every equilateral triangle is equiangular, and find the measure of each angle.",
+    "math_formula": "AB = BC = CA \\implies \\angle A = \\angle B = \\angle C = \\frac{180^\\circ}{3} = 60^\\circ",
+    "optA": "Every equilateral triangle is equiangular with each interior angle measuring exactly 60°.",
+    "optB": "Every equilateral triangle is equiangular with each interior angle measuring 90°.",
+    "optC": "Equilateral triangles have two equal angles of 45° and one angle of 90°.",
+    "optD": "Equilateral triangles have angles measuring 30°, 60°, and 90°.",
+    "correct_answer": "Every equilateral triangle is equiangular with each interior angle measuring exactly 60°.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q16.svg",
+    "options": [
+      "Equilateral triangles have angles measuring 30°, 60°, and 90°.",
+      "Every equilateral triangle is equiangular with each interior angle measuring exactly 60°.",
+      "Every equilateral triangle is equiangular with each interior angle measuring 90°.",
+      "Equilateral triangles have two equal angles of 45° and one angle of 90°."
+    ],
+    "correct": "Every equilateral triangle is equiangular with each interior angle measuring exactly 60°."
+  },
+  {
+    "id": "134299",
+    "title": "Q17: Triangle Midline Theorem Statement",
+    "question_text": "State the Midline Theorem for triangles regarding the segment connecting the midpoints of two sides.",
+    "math_formula": "D, E \\text{ midpoints} \\implies DE \\parallel BC \\quad \\text{and} \\quad DE = \\frac{1}{2} BC",
+    "optA": "The segment connecting the midpoints of two sides of a triangle is parallel to the third side and is half as long as the third side.",
+    "optB": "The segment connecting midpoints is perpendicular to the third side and equal to the third side.",
+    "optC": "The segment connecting midpoints divides the triangle into two congruent triangles.",
+    "optD": "The segment connecting midpoints is twice as long as the third side.",
+    "correct_answer": "The segment connecting the midpoints of two sides of a triangle is parallel to the third side and is half as long as the third side.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q17.svg",
+    "options": [
+      "The segment connecting the midpoints of two sides of a triangle is parallel to the third side and is half as long as the third side.",
+      "The segment connecting midpoints is twice as long as the third side.",
+      "The segment connecting midpoints is perpendicular to the third side and equal to the third side.",
+      "The segment connecting midpoints divides the triangle into two congruent triangles."
+    ],
+    "correct": "The segment connecting the midpoints of two sides of a triangle is parallel to the third side and is half as long as the third side."
+  },
+  {
+    "id": "134300",
+    "title": "Q18: Midline Theorem Calculation",
+    "question_text": "In △ABC, D is the midpoint of AB and E is the midpoint of AC. If BC = 18 cm, find the length of DE. If m∠ADE = 62°, find m∠ABC.",
+    "math_formula": "DE = \\frac{1}{2}(18) = 9\\text{ cm}, \\quad m\\angle ABC = m\\angle ADE = 62^\\circ",
+    "optA": "DE = 9 cm, m∠ABC = 62°",
+    "optB": "DE = 36 cm, m∠ABC = 118°",
+    "optC": "DE = 9 cm, m∠ABC = 118°",
+    "optD": "DE = 12 cm, m∠ABC = 62°",
+    "correct_answer": "DE = 9 cm, m∠ABC = 62°",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q18.svg",
+    "options": [
+      "DE = 9 cm, m∠ABC = 62°",
+      "DE = 36 cm, m∠ABC = 118°",
+      "DE = 12 cm, m∠ABC = 62°",
+      "DE = 9 cm, m∠ABC = 118°"
+    ],
+    "correct": "DE = 9 cm, m∠ABC = 62°"
+  },
+  {
+    "id": "134301",
+    "title": "Q19: Medial Triangle Perimeter",
+    "question_text": "In △PQR, points M, N, and P are the midpoints of sides PQ, QR, and PR respectively. If the perimeter of △PQR is 36 cm, find the perimeter of the medial triangle △MNP.",
+    "math_formula": "\\text{Perimeter}(\\Delta MNP) = \\frac{1}{2} \\text{Perimeter}(\\Delta PQR) = \\frac{36}{2} = 18\\text{ cm}",
+    "optA": "18 cm",
+    "optB": "9 cm",
+    "optC": "72 cm",
+    "optD": "24 cm",
+    "correct_answer": "18 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q19.svg",
+    "options": [
+      "18 cm",
+      "72 cm",
+      "24 cm",
+      "9 cm"
+    ],
+    "correct": "18 cm"
+  },
+  {
+    "id": "134302",
+    "title": "Q20: Perpendicular Bisector Theorem",
+    "question_text": "State the Perpendicular Bisector Theorem and its converse.",
+    "math_formula": "P \\in \\text{perp bisector of } AB \\iff PA = PB",
+    "optA": "Theorem: Any point on the perpendicular bisector of a segment is equidistant from the segment's endpoints; Converse: Any point equidistant from the endpoints lies on the perpendicular bisector.",
+    "optB": "Theorem: A perpendicular bisector divides a segment into a 2:1 ratio; Converse: Any point dividing a segment 2:1 is on the perpendicular bisector.",
+    "optC": "Theorem: Perpendicular bisectors only exist in right triangles; Converse: Right triangles have 3 perpendicular bisectors.",
+    "optD": "Theorem: The perpendicular bisector is equal in length to the segment; Converse: Equal segments are perpendicular.",
+    "correct_answer": "Theorem: Any point on the perpendicular bisector of a segment is equidistant from the segment's endpoints; Converse: Any point equidistant from the endpoints lies on the perpendicular bisector.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q20.svg",
+    "options": [
+      "Theorem: The perpendicular bisector is equal in length to the segment; Converse: Equal segments are perpendicular.",
+      "Theorem: Perpendicular bisectors only exist in right triangles; Converse: Right triangles have 3 perpendicular bisectors.",
+      "Theorem: A perpendicular bisector divides a segment into a 2:1 ratio; Converse: Any point dividing a segment 2:1 is on the perpendicular bisector.",
+      "Theorem: Any point on the perpendicular bisector of a segment is equidistant from the segment's endpoints; Converse: Any point equidistant from the endpoints lies on the perpendicular bisector."
+    ],
+    "correct": "Theorem: Any point on the perpendicular bisector of a segment is equidistant from the segment's endpoints; Converse: Any point equidistant from the endpoints lies on the perpendicular bisector."
+  },
+  {
+    "id": "134303",
+    "title": "Q21: Perpendicular Bisector Algebra",
+    "question_text": "Point P lies on the perpendicular bisector of segment AB. If PA = 3x + 7 and PB = 5x - 11, find the length of PA.",
+    "math_formula": "3x + 7 = 5x - 11 \\implies 2x = 18 \\implies x = 9 \\implies PA = 3(9) + 7 = 34",
+    "optA": "x = 9, PA = 34",
+    "optB": "x = 6, PA = 25",
+    "optC": "x = 9, PA = 18",
+    "optD": "x = 4.5, PA = 20.5",
+    "correct_answer": "x = 9, PA = 34",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q21.svg",
+    "options": [
+      "x = 9, PA = 34",
+      "x = 6, PA = 25",
+      "x = 9, PA = 18",
+      "x = 4.5, PA = 20.5"
+    ],
+    "correct": "x = 9, PA = 34"
+  },
+  {
+    "id": "134304",
+    "title": "Q22: Angle Bisector Theorem",
+    "question_text": "Define an angle bisector and state the Angle Bisector Theorem regarding equidistant points from the sides of an angle.",
+    "math_formula": "P \\in \\text{angle bisector of } \\angle A \\iff d(P, \\text{side 1}) = d(P, \\text{side 2})",
+    "optA": "An angle bisector divides an angle into two equal parts; any point on the angle bisector is equidistant from the two sides of the angle.",
+    "optB": "An angle bisector cuts a side in half; any point on it is equidistant from the vertices.",
+    "optC": "An angle bisector creates a 90° angle; any point on it is equidistant from the centroid.",
+    "optD": "An angle bisector doubles the angle measure; any point on it is equidistant from the origin.",
+    "correct_answer": "An angle bisector divides an angle into two equal parts; any point on the angle bisector is equidistant from the two sides of the angle.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q22.svg",
+    "options": [
+      "An angle bisector divides an angle into two equal parts; any point on the angle bisector is equidistant from the two sides of the angle.",
+      "An angle bisector doubles the angle measure; any point on it is equidistant from the origin.",
+      "An angle bisector creates a 90° angle; any point on it is equidistant from the centroid.",
+      "An angle bisector cuts a side in half; any point on it is equidistant from the vertices."
+    ],
+    "correct": "An angle bisector divides an angle into two equal parts; any point on the angle bisector is equidistant from the two sides of the angle."
+  },
+  {
+    "id": "134305",
+    "title": "Q23: Definitions of Four Triangle Centers",
+    "question_text": "Define the four centers of a triangle: circumcenter, incenter, centroid, and orthocenter.",
+    "math_formula": "\\text{Circumcenter (perp bisectors), Incenter (angle bisectors), Centroid (medians), Orthocenter (altitudes)}",
+    "optA": "Circumcenter: intersection of perpendicular bisectors; Incenter: intersection of angle bisectors; Centroid: intersection of medians; Orthocenter: intersection of altitudes.",
+    "optB": "Circumcenter: intersection of medians; Incenter: intersection of altitudes; Centroid: intersection of angle bisectors; Orthocenter: intersection of perpendicular bisectors.",
+    "optC": "Circumcenter: intersection of altitudes; Incenter: intersection of medians; Centroid: intersection of perpendicular bisectors; Orthocenter: intersection of angle bisectors.",
+    "optD": "All four centers represent the exact same single point in every triangle.",
+    "correct_answer": "Circumcenter: intersection of perpendicular bisectors; Incenter: intersection of angle bisectors; Centroid: intersection of medians; Orthocenter: intersection of altitudes.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q23.svg",
+    "options": [
+      "All four centers represent the exact same single point in every triangle.",
+      "Circumcenter: intersection of altitudes; Incenter: intersection of medians; Centroid: intersection of perpendicular bisectors; Orthocenter: intersection of angle bisectors.",
+      "Circumcenter: intersection of medians; Incenter: intersection of altitudes; Centroid: intersection of angle bisectors; Orthocenter: intersection of perpendicular bisectors.",
+      "Circumcenter: intersection of perpendicular bisectors; Incenter: intersection of angle bisectors; Centroid: intersection of medians; Orthocenter: intersection of altitudes."
+    ],
+    "correct": "Circumcenter: intersection of perpendicular bisectors; Incenter: intersection of angle bisectors; Centroid: intersection of medians; Orthocenter: intersection of altitudes."
+  },
+  {
+    "id": "134306",
+    "title": "Q24: Circumcenter Property & Construction",
+    "question_text": "Explain which triangle center is equidistant from the three vertices of a triangle and how it is constructed.",
+    "math_formula": "\\text{Circumcenter } O: \\; OA = OB = OC \\implies \\text{Intersection of perpendicular bisectors}",
+    "optA": "The Circumcenter is equidistant from all three vertices; it is constructed by finding the intersection of the perpendicular bisectors of the three sides.",
+    "optB": "The Incenter is equidistant from all three vertices; constructed by angle bisectors.",
+    "optC": "The Centroid is equidistant from all three vertices; constructed by medians.",
+    "optD": "The Orthocenter is equidistant from all three vertices; constructed by altitudes.",
+    "correct_answer": "The Circumcenter is equidistant from all three vertices; it is constructed by finding the intersection of the perpendicular bisectors of the three sides.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q24.svg",
+    "options": [
+      "The Centroid is equidistant from all three vertices; constructed by medians.",
+      "The Orthocenter is equidistant from all three vertices; constructed by altitudes.",
+      "The Incenter is equidistant from all three vertices; constructed by angle bisectors.",
+      "The Circumcenter is equidistant from all three vertices; it is constructed by finding the intersection of the perpendicular bisectors of the three sides."
+    ],
+    "correct": "The Circumcenter is equidistant from all three vertices; it is constructed by finding the intersection of the perpendicular bisectors of the three sides."
+  },
+  {
+    "id": "134307",
+    "title": "Q25: Incenter Property & Construction",
+    "question_text": "Explain which triangle center is equidistant from the three sides of a triangle and how it is constructed.",
+    "math_formula": "\\text{Incenter } I: \\; d(I, AB) = d(I, BC) = d(I, CA) \\implies \\text{Intersection of angle bisectors}",
+    "optA": "The Incenter is equidistant from all three sides; it is constructed by finding the intersection of the angle bisectors of the three interior angles.",
+    "optB": "The Circumcenter is equidistant from all three sides; constructed by perpendicular bisectors.",
+    "optC": "The Centroid is equidistant from all three sides; constructed by medians.",
+    "optD": "The Orthocenter is equidistant from all three sides; constructed by altitudes.",
+    "correct_answer": "The Incenter is equidistant from all three sides; it is constructed by finding the intersection of the angle bisectors of the three interior angles.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q25.svg",
+    "options": [
+      "The Incenter is equidistant from all three sides; it is constructed by finding the intersection of the angle bisectors of the three interior angles.",
+      "The Orthocenter is equidistant from all three sides; constructed by altitudes.",
+      "The Circumcenter is equidistant from all three sides; constructed by perpendicular bisectors.",
+      "The Centroid is equidistant from all three sides; constructed by medians."
+    ],
+    "correct": "The Incenter is equidistant from all three sides; it is constructed by finding the intersection of the angle bisectors of the three interior angles."
+  },
+  {
+    "id": "134308",
+    "title": "Q26: Centroid 2:1 Division Property",
+    "question_text": "State the Centroid Theorem: describe how the centroid divides each median of a triangle in a 2 : 1 ratio.",
+    "math_formula": "\\text{Centroid } G \\text{ on median } AD \\implies AG = \\frac{2}{3}AD, \\quad GD = \\frac{1}{3}AD",
+    "optA": "The centroid of a triangle divides each median into two segments such that the segment from vertex to centroid is twice as long as the segment from centroid to midpoint (2:1 ratio).",
+    "optB": "The centroid divides each median into two equal halves (1:1 ratio).",
+    "optC": "The centroid divides each median in a 3:1 ratio.",
+    "optD": "The centroid divides each altitude into a 2:1 ratio.",
+    "correct_answer": "The centroid of a triangle divides each median into two segments such that the segment from vertex to centroid is twice as long as the segment from centroid to midpoint (2:1 ratio).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q26.svg",
+    "options": [
+      "The centroid divides each altitude into a 2:1 ratio.",
+      "The centroid divides each median into two equal halves (1:1 ratio).",
+      "The centroid of a triangle divides each median into two segments such that the segment from vertex to centroid is twice as long as the segment from centroid to midpoint (2:1 ratio).",
+      "The centroid divides each median in a 3:1 ratio."
+    ],
+    "correct": "The centroid of a triangle divides each median into two segments such that the segment from vertex to centroid is twice as long as the segment from centroid to midpoint (2:1 ratio)."
+  },
+  {
+    "id": "134309",
+    "title": "Q27: Centroid Segment Calculation 1",
+    "question_text": "In △ABC, AD is a median with centroid G. If AD = 18 cm, find the lengths of AG and GD.",
+    "math_formula": "AG = \\frac{2}{3}(18) = 12\\text{ cm}, \\quad GD = \\frac{1}{3}(18) = 6\\text{ cm}",
+    "optA": "AG = 12 cm, GD = 6 cm",
+    "optB": "AG = 9 cm, GD = 9 cm",
+    "optC": "AG = 14 cm, GD = 4 cm",
+    "optD": "AG = 6 cm, GD = 12 cm",
+    "correct_answer": "AG = 12 cm, GD = 6 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q27.svg",
+    "options": [
+      "AG = 14 cm, GD = 4 cm",
+      "AG = 9 cm, GD = 9 cm",
+      "AG = 6 cm, GD = 12 cm",
+      "AG = 12 cm, GD = 6 cm"
+    ],
+    "correct": "AG = 12 cm, GD = 6 cm"
+  },
+  {
+    "id": "134310",
+    "title": "Q28: Centroid Segment Calculation 2",
+    "question_text": "In △XYZ, median XM has centroid G. If GM = 4 cm, find the lengths of XG and the total median XM.",
+    "math_formula": "XG = 2 \\times 4 = 8\\text{ cm}, \\quad XM = 8 + 4 = 12\\text{ cm}",
+    "optA": "XG = 8 cm, XM = 12 cm",
+    "optB": "XG = 4 cm, XM = 8 cm",
+    "optC": "XG = 12 cm, XM = 16 cm",
+    "optD": "XG = 6 cm, XM = 10 cm",
+    "correct_answer": "XG = 8 cm, XM = 12 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q28.svg",
+    "options": [
+      "XG = 12 cm, XM = 16 cm",
+      "XG = 6 cm, XM = 10 cm",
+      "XG = 8 cm, XM = 12 cm",
+      "XG = 4 cm, XM = 8 cm"
+    ],
+    "correct": "XG = 8 cm, XM = 12 cm"
+  },
+  {
+    "id": "134311",
+    "title": "Q29: Definition & Location of Orthocenter",
+    "question_text": "Define the altitude of a triangle and describe the location of the orthocenter in an acute, right, and obtuse triangle.",
+    "math_formula": "\\text{Acute: Inside; Right: Right-angle vertex; Obtuse: Outside}",
+    "optA": "An altitude is a perpendicular segment from a vertex to the opposite side; Orthocenter location: inside for acute triangles, at the right-angle vertex for right triangles, outside for obtuse triangles.",
+    "optB": "Orthocenter is always inside the triangle regardless of triangle type.",
+    "optC": "Orthocenter location: outside for acute, inside for obtuse, on the midpoint for right triangles.",
+    "optD": "An altitude connects the midpoints of two sides; orthocenter is always at the origin.",
+    "correct_answer": "An altitude is a perpendicular segment from a vertex to the opposite side; Orthocenter location: inside for acute triangles, at the right-angle vertex for right triangles, outside for obtuse triangles.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q29.svg",
+    "options": [
+      "An altitude connects the midpoints of two sides; orthocenter is always at the origin.",
+      "Orthocenter location: outside for acute, inside for obtuse, on the midpoint for right triangles.",
+      "Orthocenter is always inside the triangle regardless of triangle type.",
+      "An altitude is a perpendicular segment from a vertex to the opposite side; Orthocenter location: inside for acute triangles, at the right-angle vertex for right triangles, outside for obtuse triangles."
+    ],
+    "correct": "An altitude is a perpendicular segment from a vertex to the opposite side; Orthocenter location: inside for acute triangles, at the right-angle vertex for right triangles, outside for obtuse triangles."
+  },
+  {
+    "id": "134312",
+    "title": "Q30: Altitude to Base of Isosceles Triangle",
+    "question_text": "Explain why the altitude to the base of an isosceles triangle is also the median and the angle bisector of the vertex angle.",
+    "math_formula": "\\Delta ABD \\cong \\Delta ACD \\text{ by HL/SAS} \\implies BD = CD \\text{ and } \\angle BAD = \\angle CAD",
+    "optA": "In isosceles △ABC with AB = AC, drawing altitude AD creates two congruent right triangles (△ABD ≅ △ACD by HL), proving BD = CD (median) and ∠BAD = ∠CAD (angle bisector) by CPCTC.",
+    "optB": "It is true only when the isosceles triangle is also a right triangle.",
+    "optC": "The altitude is the median because all three sides of an isosceles triangle are equal.",
+    "optD": "The altitude can never be a median in any triangle.",
+    "correct_answer": "In isosceles △ABC with AB = AC, drawing altitude AD creates two congruent right triangles (△ABD ≅ △ACD by HL), proving BD = CD (median) and ∠BAD = ∠CAD (angle bisector) by CPCTC.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q30.svg",
+    "options": [
+      "It is true only when the isosceles triangle is also a right triangle.",
+      "In isosceles △ABC with AB = AC, drawing altitude AD creates two congruent right triangles (△ABD ≅ △ACD by HL), proving BD = CD (median) and ∠BAD = ∠CAD (angle bisector) by CPCTC.",
+      "The altitude is the median because all three sides of an isosceles triangle are equal.",
+      "The altitude can never be a median in any triangle."
+    ],
+    "correct": "In isosceles △ABC with AB = AC, drawing altitude AD creates two congruent right triangles (△ABD ≅ △ACD by HL), proving BD = CD (median) and ∠BAD = ∠CAD (angle bisector) by CPCTC."
+  },
+  {
+    "id": "134313",
+    "title": "Q31: Congruence Postulate for Shared Base Triangles",
+    "question_text": "Two triangles △ABC and △DBC share a common base BC on the same side. If AB = DC and AC = DB, identify the triangle congruence postulate that proves △ABC ≅ △DCB.",
+    "math_formula": "AB = DC, \\; AC = DB, \\; BC = CB \\text{ (Reflexive)} \\implies \\text{SSS Congruence}",
+    "optA": "Side-Side-Side (SSS) Postulate",
+    "optB": "Side-Angle-Side (SAS) Postulate",
+    "optC": "Angle-Side-Angle (ASA) Postulate",
+    "optD": "Angle-Angle-Angle (AAA) Criterion",
+    "correct_answer": "Side-Side-Side (SSS) Postulate",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q31.svg",
+    "options": [
+      "Angle-Angle-Angle (AAA) Criterion",
+      "Side-Angle-Side (SAS) Postulate",
+      "Angle-Side-Angle (ASA) Postulate",
+      "Side-Side-Side (SSS) Postulate"
+    ],
+    "correct": "Side-Side-Side (SSS) Postulate"
+  },
+  {
+    "id": "134314",
+    "title": "Q32: Kite Diagonal Bisector Proof",
+    "question_text": "In the figure of a kite ABCD with AB = AD and CB = CD, prove that diagonal AC bisects ∠BAD and ∠BCD using SSS congruence.",
+    "math_formula": "AB = AD, \\; CB = CD, \\; AC = AC \\implies \\Delta ABC \\cong \\Delta ADC \\text{ (SSS)} \\implies \\angle BAC = \\angle DAC",
+    "optA": "△ABC ≅ △ADC by SSS (AB=AD, CB=CD, AC=AC common side); by CPCTC, ∠BAC = ∠DAC and ∠BCA = ∠DCA, so AC bisects both angles.",
+    "optB": "△ABC ≅ △ADC by AAA; CPCTC proves diagonals are equal.",
+    "optC": "AC bisects the angles because ABCD is a rectangle.",
+    "optD": "△ABC ≅ △ADC by SSA congruence.",
+    "correct_answer": "△ABC ≅ △ADC by SSS (AB=AD, CB=CD, AC=AC common side); by CPCTC, ∠BAC = ∠DAC and ∠BCA = ∠DCA, so AC bisects both angles.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q32.svg",
+    "options": [
+      "△ABC ≅ △ADC by AAA; CPCTC proves diagonals are equal.",
+      "△ABC ≅ △ADC by SSA congruence.",
+      "AC bisects the angles because ABCD is a rectangle.",
+      "△ABC ≅ △ADC by SSS (AB=AD, CB=CD, AC=AC common side); by CPCTC, ∠BAC = ∠DAC and ∠BCA = ∠DCA, so AC bisects both angles."
+    ],
+    "correct": "△ABC ≅ △ADC by SSS (AB=AD, CB=CD, AC=AC common side); by CPCTC, ∠BAC = ∠DAC and ∠BCA = ∠DCA, so AC bisects both angles."
+  },
+  {
+    "id": "134315",
+    "title": "Q33: Parallelogram Rectangle Proof",
+    "question_text": "Prove that if the diagonals of a parallelogram are congruent, then the triangles formed by adjacent sides and diagonals are congruent by SSS, establishing that the parallelogram is a rectangle.",
+    "math_formula": "AC = BD \\implies \\Delta ABC \\cong \\Delta DCB \\text{ (SSS)} \\implies \\angle ABC = \\angle DCB = 90^\\circ",
+    "optA": "In parallelogram ABCD with AC = BD, △ABC ≅ △DCB by SSS (AB=DC, BC=CB, AC=BD); since consecutive angles sum to 180° and are equal, each angle is 90° (rectangle).",
+    "optB": "Diagonals being congruent proves ABCD is a rhombus, not a rectangle.",
+    "optC": "△ABC ≅ △DCB by SAS because diagonals bisect each other at right angles.",
+    "optD": "Diagonals equal means all four sides must be equal.",
+    "correct_answer": "In parallelogram ABCD with AC = BD, △ABC ≅ △DCB by SSS (AB=DC, BC=CB, AC=BD); since consecutive angles sum to 180° and are equal, each angle is 90° (rectangle).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q33.svg",
+    "options": [
+      "△ABC ≅ △DCB by SAS because diagonals bisect each other at right angles.",
+      "In parallelogram ABCD with AC = BD, △ABC ≅ △DCB by SSS (AB=DC, BC=CB, AC=BD); since consecutive angles sum to 180° and are equal, each angle is 90° (rectangle).",
+      "Diagonals being congruent proves ABCD is a rhombus, not a rectangle.",
+      "Diagonals equal means all four sides must be equal."
+    ],
+    "correct": "In parallelogram ABCD with AC = BD, △ABC ≅ △DCB by SSS (AB=DC, BC=CB, AC=BD); since consecutive angles sum to 180° and are equal, each angle is 90° (rectangle)."
+  },
+  {
+    "id": "134316",
+    "title": "Q34: Surveyor Indirect Measurement Application",
+    "question_text": "A surveyor wishes to measure the distance across a river between points A and B. Describe how the surveyor can use congruent right triangles (ASA or SAS) on land to measure AB indirectly.",
+    "math_formula": "\\text{Construct } \\Delta CDE \\cong \\Delta CAB \\implies DE = AB",
+    "optA": "Set up a baseline perpendicular to AB, locate a midpoint C, walk equal distance past C to D, turn 90° to E to align with C and B; △CAB ≅ △CDE by ASA, so DE = AB.",
+    "optB": "Measure the angle at A and multiply by the width of the river.",
+    "optC": "Use SSS congruence by constructing a triangle with sides equal to the river length.",
+    "optD": "Use AAA similarity to estimate AB without measuring any land distances.",
+    "correct_answer": "Set up a baseline perpendicular to AB, locate a midpoint C, walk equal distance past C to D, turn 90° to E to align with C and B; △CAB ≅ △CDE by ASA, so DE = AB.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q34.svg",
+    "options": [
+      "Set up a baseline perpendicular to AB, locate a midpoint C, walk equal distance past C to D, turn 90° to E to align with C and B; △CAB ≅ △CDE by ASA, so DE = AB.",
+      "Use SSS congruence by constructing a triangle with sides equal to the river length.",
+      "Use AAA similarity to estimate AB without measuring any land distances.",
+      "Measure the angle at A and multiply by the width of the river."
+    ],
+    "correct": "Set up a baseline perpendicular to AB, locate a midpoint C, walk equal distance past C to D, turn 90° to E to align with C and B; △CAB ≅ △CDE by ASA, so DE = AB."
+  },
+  {
+    "id": "134317",
+    "title": "Q35: SAS Congruent Triangles Algebra",
+    "question_text": "In △ABC and △DEF, AB ≅ DE, ∠A ≅ ∠D, and AC ≅ DF. If BC = 3x - 1 and EF = 2x + 6, find the value of BC.",
+    "math_formula": "\\Delta ABC \\cong \\Delta DEF \\text{ (SAS)} \\implies 3x - 1 = 2x + 6 \\implies x = 7 \\implies BC = 20",
+    "optA": "x = 7, BC = 20",
+    "optB": "x = 5, BC = 14",
+    "optC": "x = 7, BC = 21",
+    "optD": "x = 3.5, BC = 9.5",
+    "correct_answer": "x = 7, BC = 20",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q35.svg",
+    "options": [
+      "x = 7, BC = 21",
+      "x = 3.5, BC = 9.5",
+      "x = 7, BC = 20",
+      "x = 5, BC = 14"
+    ],
+    "correct": "x = 7, BC = 20"
+  },
+  {
+    "id": "134318",
+    "title": "Q36: Right Triangles HL Congruence",
+    "question_text": "In right triangles △PQR (right-angled at Q) and △XYZ (right-angled at Y), PR = XZ = 13 cm, and PQ = XY = 5 cm. Prove congruence and state the theorem used.",
+    "math_formula": "\\text{Hypotenuse } PR = XZ = 13, \\; \\text{Leg } PQ = XY = 5 \\implies \\Delta PQR \\cong \\Delta XYZ \\text{ (HL Theorem)}",
+    "optA": "△PQR ≅ △XYZ by Hypotenuse-Leg (HL) Theorem (hypotenuse 13 cm and leg 5 cm are equal).",
+    "optB": "△PQR ≅ △XYZ by SSS Theorem.",
+    "optC": "△PQR ≅ △XYZ by SAS Postulate.",
+    "optD": "△PQR ≅ △XYZ by AAA Criterion.",
+    "correct_answer": "△PQR ≅ △XYZ by Hypotenuse-Leg (HL) Theorem (hypotenuse 13 cm and leg 5 cm are equal).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q36.svg",
+    "options": [
+      "△PQR ≅ △XYZ by AAA Criterion.",
+      "△PQR ≅ △XYZ by Hypotenuse-Leg (HL) Theorem (hypotenuse 13 cm and leg 5 cm are equal).",
+      "△PQR ≅ △XYZ by SSS Theorem.",
+      "△PQR ≅ △XYZ by SAS Postulate."
+    ],
+    "correct": "△PQR ≅ △XYZ by Hypotenuse-Leg (HL) Theorem (hypotenuse 13 cm and leg 5 cm are equal)."
+  },
+  {
+    "id": "134319",
+    "title": "Q37: Compass & Straightedge Angle Copy Construction",
+    "question_text": "Explain how to construct a congruent copy of a given angle using a straightedge and compass.",
+    "math_formula": "\\text{Construct arcs of equal radii } \\implies \\text{Triangle congruence by SSS}",
+    "optA": "Draw a ray, swing equal arcs from original vertex and new vertex, measure arc distance between ray intersections, mark distance on new arc; SSS congruence guarantees equal angles.",
+    "optB": "Use a ruler to measure the angle in centimeters and draw an equal length line.",
+    "optC": "Draw a perpendicular line and bisect it twice.",
+    "optD": "Draw two parallel lines using only a straightedge.",
+    "correct_answer": "Draw a ray, swing equal arcs from original vertex and new vertex, measure arc distance between ray intersections, mark distance on new arc; SSS congruence guarantees equal angles.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q37.svg",
+    "options": [
+      "Draw a perpendicular line and bisect it twice.",
+      "Draw a ray, swing equal arcs from original vertex and new vertex, measure arc distance between ray intersections, mark distance on new arc; SSS congruence guarantees equal angles.",
+      "Draw two parallel lines using only a straightedge.",
+      "Use a ruler to measure the angle in centimeters and draw an equal length line."
+    ],
+    "correct": "Draw a ray, swing equal arcs from original vertex and new vertex, measure arc distance between ray intersections, mark distance on new arc; SSS congruence guarantees equal angles."
+  },
+  {
+    "id": "134320",
+    "title": "Q38: Equilateral Triangle Construction",
+    "question_text": "Explain how to construct an equilateral triangle on a given line segment using only a compass and straightedge.",
+    "math_formula": "r = AB, \\; \\text{arcs from } A \\text{ and } B \\text{ intersect at } C \\implies AB = AC = BC \\text{ (SSS)}",
+    "optA": "Set compass radius to length of segment AB; draw arcs centered at A and B above the segment; their intersection C forms equilateral △ABC by SSS (AB = AC = BC).",
+    "optB": "Draw a 90° angle at A, mark length AB, and connect the endpoints.",
+    "optC": "Bisect segment AB and draw a circle with diameter AB.",
+    "optD": "Draw three random intersecting lines and measure until angles are 60°.",
+    "correct_answer": "Set compass radius to length of segment AB; draw arcs centered at A and B above the segment; their intersection C forms equilateral △ABC by SSS (AB = AC = BC).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q38.svg",
+    "options": [
+      "Bisect segment AB and draw a circle with diameter AB.",
+      "Draw a 90° angle at A, mark length AB, and connect the endpoints.",
+      "Set compass radius to length of segment AB; draw arcs centered at A and B above the segment; their intersection C forms equilateral △ABC by SSS (AB = AC = BC).",
+      "Draw three random intersecting lines and measure until angles are 60°."
+    ],
+    "correct": "Set compass radius to length of segment AB; draw arcs centered at A and B above the segment; their intersection C forms equilateral △ABC by SSS (AB = AC = BC)."
+  },
+  {
+    "id": "134321",
+    "title": "Q39: Angle Bisector SAS Proof",
+    "question_text": "In △JKL, JK = JL. The bisector of ∠J intersects KL at point M. Prove that △JKM ≅ △JLM using the SAS postulate.",
+    "math_formula": "JK = JL, \\; \\angle KJM = \\angle LJM, \\; JM = JM \\implies \\Delta JKM \\cong \\Delta JLM \\text{ (SAS)}",
+    "optA": "△JKM ≅ △JLM by SAS (JK=JL given, ∠KJM=∠LJM by angle bisector, JM=JM shared side).",
+    "optB": "△JKM ≅ △JLM by SSS because KM = ML is given.",
+    "optC": "△JKM ≅ △JLM by ASA because ∠K = ∠L is given.",
+    "optD": "△JKM ≅ △JLM by AAA because all angles are equal.",
+    "correct_answer": "△JKM ≅ △JLM by SAS (JK=JL given, ∠KJM=∠LJM by angle bisector, JM=JM shared side).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q39.svg",
+    "options": [
+      "△JKM ≅ △JLM by ASA because ∠K = ∠L is given.",
+      "△JKM ≅ △JLM by SSS because KM = ML is given.",
+      "△JKM ≅ △JLM by AAA because all angles are equal.",
+      "△JKM ≅ △JLM by SAS (JK=JL given, ∠KJM=∠LJM by angle bisector, JM=JM shared side)."
+    ],
+    "correct": "△JKM ≅ △JLM by SAS (JK=JL given, ∠KJM=∠LJM by angle bisector, JM=JM shared side)."
+  },
+  {
+    "id": "134322",
+    "title": "Q40: Perpendicular Median Isosceles Proof",
+    "question_text": "In △ABC, median AM is perpendicular to BC. Prove that △ABC is an isosceles triangle.",
+    "math_formula": "BM = MC, \\; \\angle AMB = \\angle AMC = 90^\\circ, \\; AM = AM \\implies \\Delta AMB \\cong \\Delta AMC \\text{ (SAS)} \\implies AB = AC",
+    "optA": "Since AM is median and altitude, BM=MC and ∠AMB=∠AMC=90°; △AMB ≅ △AMC by SAS (BM=MC, ∠AMB=∠AMC, AM common), so AB=AC by CPCTC (isosceles).",
+    "optB": "△ABC is isosceles because all medians in any triangle are equal.",
+    "optC": "△ABC is isosceles by SSS congruence of △ABC with itself.",
+    "optD": "AM being perpendicular to BC proves △ABC is an equilateral triangle.",
+    "correct_answer": "Since AM is median and altitude, BM=MC and ∠AMB=∠AMC=90°; △AMB ≅ △AMC by SAS (BM=MC, ∠AMB=∠AMC, AM common), so AB=AC by CPCTC (isosceles).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q40.svg",
+    "options": [
+      "AM being perpendicular to BC proves △ABC is an equilateral triangle.",
+      "Since AM is median and altitude, BM=MC and ∠AMB=∠AMC=90°; △AMB ≅ △AMC by SAS (BM=MC, ∠AMB=∠AMC, AM common), so AB=AC by CPCTC (isosceles).",
+      "△ABC is isosceles by SSS congruence of △ABC with itself.",
+      "△ABC is isosceles because all medians in any triangle are equal."
+    ],
+    "correct": "Since AM is median and altitude, BM=MC and ∠AMB=∠AMC=90°; △AMB ≅ △AMC by SAS (BM=MC, ∠AMB=∠AMC, AM common), so AB=AC by CPCTC (isosceles)."
+  },
+  {
+    "id": "134323",
+    "title": "Q41: Roof Truss King Post Engineering Application",
+    "question_text": "In a roof truss design with symmetric rafters forming an isosceles triangle, explain how a king post acts as a perpendicular bisector and creates congruent right triangles.",
+    "math_formula": "\\text{Rafters } AB = AC, \\; \\text{King post } AD \\perp BC \\implies \\Delta ABD \\cong \\Delta ACD \\text{ (HL/SAS)}",
+    "optA": "The king post AD drops perpendicular to tie beam BC; with symmetric rafters AB = AC, it creates right triangles △ABD ≅ △ACD (HL or SAS), bisecting BC and distributing load evenly.",
+    "optB": "The king post makes the roof truss an equilateral triangle.",
+    "optC": "The king post is parallel to the rafters and prevents right angles.",
+    "optD": "The king post creates two non-congruent obtuse triangles.",
+    "correct_answer": "The king post AD drops perpendicular to tie beam BC; with symmetric rafters AB = AC, it creates right triangles △ABD ≅ △ACD (HL or SAS), bisecting BC and distributing load evenly.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q41.svg",
+    "options": [
+      "The king post creates two non-congruent obtuse triangles.",
+      "The king post is parallel to the rafters and prevents right angles.",
+      "The king post AD drops perpendicular to tie beam BC; with symmetric rafters AB = AC, it creates right triangles △ABD ≅ △ACD (HL or SAS), bisecting BC and distributing load evenly.",
+      "The king post makes the roof truss an equilateral triangle."
+    ],
+    "correct": "The king post AD drops perpendicular to tie beam BC; with symmetric rafters AB = AC, it creates right triangles △ABD ≅ △ACD (HL or SAS), bisecting BC and distributing load evenly."
+  },
+  {
+    "id": "134324",
+    "title": "Q42: Perpendicular Bisector Equidistance Proof",
+    "question_text": "Given segment AB with midpoint M, line l is drawn perpendicular to AB through M. If C is any point on l, prove that △AMC ≅ △BMC.",
+    "math_formula": "AM = BM, \\; \\angle AMC = \\angle BMC = 90^\\circ, \\; CM = CM \\implies \\Delta AMC \\cong \\Delta BMC \\text{ (SAS)}",
+    "optA": "△AMC ≅ △BMC by SAS (AM = BM by midpoint, ∠AMC = ∠BMC = 90° by perpendicular line, CM = CM common side).",
+    "optB": "△AMC ≅ △BMC by SSS because AC = BC is given in the problem.",
+    "optC": "△AMC ≅ △BMC by ASA because ∠A = ∠B is given.",
+    "optD": "△AMC ≅ △BMC by AAA criterion.",
+    "correct_answer": "△AMC ≅ △BMC by SAS (AM = BM by midpoint, ∠AMC = ∠BMC = 90° by perpendicular line, CM = CM common side).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q42.svg",
+    "options": [
+      "△AMC ≅ △BMC by SAS (AM = BM by midpoint, ∠AMC = ∠BMC = 90° by perpendicular line, CM = CM common side).",
+      "△AMC ≅ △BMC by AAA criterion.",
+      "△AMC ≅ △BMC by ASA because ∠A = ∠B is given.",
+      "△AMC ≅ △BMC by SSS because AC = BC is given in the problem."
+    ],
+    "correct": "△AMC ≅ △BMC by SAS (AM = BM by midpoint, ∠AMC = ∠BMC = 90° by perpendicular line, CM = CM common side)."
+  },
+  {
+    "id": "134325",
+    "title": "Q43: Angle Bisector Altitude Isosceles Proof",
+    "question_text": "If the bisector of an angle of a triangle is also an altitude to the opposite side, prove that the triangle is isosceles.",
+    "math_formula": "\\angle BAD = \\angle CAD, \\; AD = AD, \\; \\angle ADB = \\angle ADC = 90^\\circ \\implies \\Delta ABD \\cong \\Delta ACD \\text{ (ASA)} \\implies AB = AC",
+    "optA": "In △ABC with angle bisector AD ⊥ BC, ∠BAD = ∠CAD, AD = AD (common side), and ∠ADB = ∠ADC = 90°; △ABD ≅ △ACD by ASA, so AB = AC by CPCTC.",
+    "optB": "It proves the triangle is scalene because all angles differ.",
+    "optC": "△ABD ≅ △ACD by SSS postulate.",
+    "optD": "The triangle must be equilateral because AD is an angle bisector.",
+    "correct_answer": "In △ABC with angle bisector AD ⊥ BC, ∠BAD = ∠CAD, AD = AD (common side), and ∠ADB = ∠ADC = 90°; △ABD ≅ △ACD by ASA, so AB = AC by CPCTC.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q43.svg",
+    "options": [
+      "The triangle must be equilateral because AD is an angle bisector.",
+      "In △ABC with angle bisector AD ⊥ BC, ∠BAD = ∠CAD, AD = AD (common side), and ∠ADB = ∠ADC = 90°; △ABD ≅ △ACD by ASA, so AB = AC by CPCTC.",
+      "It proves the triangle is scalene because all angles differ.",
+      "△ABD ≅ △ACD by SSS postulate."
+    ],
+    "correct": "In △ABC with angle bisector AD ⊥ BC, ∠BAD = ∠CAD, AD = AD (common side), and ∠ADB = ∠ADC = 90°; △ABD ≅ △ACD by ASA, so AB = AC by CPCTC."
+  },
+  {
+    "id": "134326",
+    "title": "Q44: Similar vs Congruent Triangles Explanation",
+    "question_text": "In △ABC and △DEF, ∠A ≅ ∠D, ∠B ≅ ∠E, but AB = 6 cm and DE = 9 cm. Explain why these triangles are similar but NOT congruent.",
+    "math_formula": "\\angle A = \\angle D, \\; \\angle B = \\angle E \\implies \\text{AA Similarity, but } AB \\neq DE \\implies \\text{Scale factor } 1.5 \\neq 1",
+    "optA": "Corresponding angles are equal (AA similarity), so the triangles have the same shape; however, corresponding side lengths differ (AB ≠ DE), so they are not congruent (different sizes).",
+    "optB": "The triangles are congruent by AA criterion.",
+    "optC": "The triangles are neither similar nor congruent because their sides are unequal.",
+    "optD": "The triangles are congruent because 6 cm and 9 cm sum to 15 cm.",
+    "correct_answer": "Corresponding angles are equal (AA similarity), so the triangles have the same shape; however, corresponding side lengths differ (AB ≠ DE), so they are not congruent (different sizes).",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "The triangles are neither similar nor congruent because their sides are unequal.",
+      "The triangles are congruent by AA criterion.",
+      "Corresponding angles are equal (AA similarity), so the triangles have the same shape; however, corresponding side lengths differ (AB ≠ DE), so they are not congruent (different sizes).",
+      "The triangles are congruent because 6 cm and 9 cm sum to 15 cm."
+    ],
+    "correct": "Corresponding angles are equal (AA similarity), so the triangles have the same shape; however, corresponding side lengths differ (AB ≠ DE), so they are not congruent (different sizes)."
+  },
+  {
+    "id": "134327",
+    "title": "Q45: Congruent Medians Isosceles Proof",
+    "question_text": "In △ABC, medians BE and CF are congruent. Prove that △ABC is an isosceles triangle.",
+    "math_formula": "BE = CF, \\; BG = \\frac{2}{3}BE = \\frac{2}{3}CF = CG \\implies \\Delta BGC \\text{ isosceles} \\implies AB = AC",
+    "optA": "Centroid G divides medians in 2:1 ratio, so BG = CG and GE = GF; △BGF ≅ △CGE by SAS or SSS of △GBC, establishing base angles ∠ABC = ∠ACB and AB = AC (isosceles).",
+    "optB": "Medians being equal directly implies all three sides AB = BC = CA are equal.",
+    "optC": "BE = CF proves △ABC is a right-angled triangle.",
+    "optD": "△ABC is scalene because medians intersect at 90°.",
+    "correct_answer": "Centroid G divides medians in 2:1 ratio, so BG = CG and GE = GF; △BGF ≅ △CGE by SAS or SSS of △GBC, establishing base angles ∠ABC = ∠ACB and AB = AC (isosceles).",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q45.svg",
+    "options": [
+      "Medians being equal directly implies all three sides AB = BC = CA are equal.",
+      "△ABC is scalene because medians intersect at 90°.",
+      "BE = CF proves △ABC is a right-angled triangle.",
+      "Centroid G divides medians in 2:1 ratio, so BG = CG and GE = GF; △BGF ≅ △CGE by SAS or SSS of △GBC, establishing base angles ∠ABC = ∠ACB and AB = AC (isosceles)."
+    ],
+    "correct": "Centroid G divides medians in 2:1 ratio, so BG = CG and GE = GF; △BGF ≅ △CGE by SAS or SSS of △GBC, establishing base angles ∠ABC = ∠ACB and AB = AC (isosceles)."
+  },
+  {
+    "id": "134328",
+    "title": "Q46: Overlapping Triangles Strategy",
+    "question_text": "Given two overlapping triangles sharing a common angle, identify corresponding parts and describe the strategy for proving congruence.",
+    "math_formula": "\\text{Identify shared angle/side, redraw overlapping triangles separately, apply SAS/ASA/AAS}",
+    "optA": "Redraw the two overlapping triangles separately, highlight the shared common angle/side (reflexive property), and match remaining given congruent sides/angles to apply SAS, ASA, or AAS.",
+    "optB": "Ignore the overlapping parts and calculate the perimeters directly.",
+    "optC": "Overlapping triangles can never be congruent.",
+    "optD": "Assume all overlapping triangles are right triangles and use HL.",
+    "correct_answer": "Redraw the two overlapping triangles separately, highlight the shared common angle/side (reflexive property), and match remaining given congruent sides/angles to apply SAS, ASA, or AAS.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q46.svg",
+    "options": [
+      "Assume all overlapping triangles are right triangles and use HL.",
+      "Ignore the overlapping parts and calculate the perimeters directly.",
+      "Overlapping triangles can never be congruent.",
+      "Redraw the two overlapping triangles separately, highlight the shared common angle/side (reflexive property), and match remaining given congruent sides/angles to apply SAS, ASA, or AAS."
+    ],
+    "correct": "Redraw the two overlapping triangles separately, highlight the shared common angle/side (reflexive property), and match remaining given congruent sides/angles to apply SAS, ASA, or AAS."
+  },
+  {
+    "id": "134329",
+    "title": "Q47: Rigid Transformations & Congruence Definition",
+    "question_text": "Explain the concept of rigid transformations (translations, reflections, rotations) and how they relate to the definition of congruent figures.",
+    "math_formula": "\\text{Rigid transformation (Isometry) preserves distance and angle measure} \\implies \\text{Figure } F \\cong F'",
+    "optA": "Rigid transformations (isometries) preserve distance and angle measure; two figures are congruent if and only if one can be mapped onto the other by a sequence of translations, reflections, or rotations.",
+    "optB": "Rigid transformations change the size of figures while keeping angles constant.",
+    "optC": "Translations and reflections create similar figures, but only dilations create congruent figures.",
+    "optD": "Rigid transformations apply only to circles and squares.",
+    "correct_answer": "Rigid transformations (isometries) preserve distance and angle measure; two figures are congruent if and only if one can be mapped onto the other by a sequence of translations, reflections, or rotations.",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Translations and reflections create similar figures, but only dilations create congruent figures.",
+      "Rigid transformations (isometries) preserve distance and angle measure; two figures are congruent if and only if one can be mapped onto the other by a sequence of translations, reflections, or rotations.",
+      "Rigid transformations apply only to circles and squares.",
+      "Rigid transformations change the size of figures while keeping angles constant."
+    ],
+    "correct": "Rigid transformations (isometries) preserve distance and angle measure; two figures are congruent if and only if one can be mapped onto the other by a sequence of translations, reflections, or rotations."
+  },
+  {
+    "id": "134330",
+    "title": "Q48: Quadrilateral Double Angle Bisector Proof",
+    "question_text": "In quadrilateral ABCD, diagonal AC bisects both ∠A and ∠C. Prove that AB = AD and BC = CD.",
+    "math_formula": "\\angle BAC = \\angle DAC, \\; AC = AC, \\; \\angle BCA = \\angle DCA \\implies \\Delta ABC \\cong \\Delta ADC \\text{ (ASA)} \\implies AB = AD, \\; BC = CD",
+    "optA": "△ABC ≅ △ADC by ASA (∠BAC = ∠DAC, AC = AC common side, ∠BCA = ∠DCA); by CPCTC, corresponding sides AB = AD and BC = CD.",
+    "optB": "AB = AD and BC = CD because ABCD is a rectangle.",
+    "optC": "△ABC ≅ △ADC by SSS postulate.",
+    "optD": "Diagonal AC bisecting angles proves ABCD is a square.",
+    "correct_answer": "△ABC ≅ △ADC by ASA (∠BAC = ∠DAC, AC = AC common side, ∠BCA = ∠DCA); by CPCTC, corresponding sides AB = AD and BC = CD.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q48.svg",
+    "options": [
+      "△ABC ≅ △ADC by ASA (∠BAC = ∠DAC, AC = AC common side, ∠BCA = ∠DCA); by CPCTC, corresponding sides AB = AD and BC = CD.",
+      "AB = AD and BC = CD because ABCD is a rectangle.",
+      "△ABC ≅ △ADC by SSS postulate.",
+      "Diagonal AC bisecting angles proves ABCD is a square."
+    ],
+    "correct": "△ABC ≅ △ADC by ASA (∠BAC = ∠DAC, AC = AC common side, ∠BCA = ∠DCA); by CPCTC, corresponding sides AB = AD and BC = CD."
+  },
+  {
+    "id": "134331",
+    "title": "Q49: Isosceles Base Subsegment Congruence Proof",
+    "question_text": "In △PQR, PQ = PR. Points S and T lie on base QR such that QS = TR. Prove that PS = PT.",
+    "math_formula": "PQ = PR, \\; \\angle Q = \\angle R \\text{ (Isosceles)}, \\; QS = TR \\implies \\Delta PQS \\cong \\Delta PRT \\text{ (SAS)} \\implies PS = PT",
+    "optA": "In isosceles △PQR, base angles ∠Q = ∠R; △PQS ≅ △PRT by SAS (PQ = PR, ∠Q = ∠R, QS = TR), so PS = PT by CPCTC.",
+    "optB": "PS = PT because S and T are the exact same point.",
+    "optC": "△PQS ≅ △PRT by AAA criterion.",
+    "optD": "PS = PT because QR is perpendicular to PQ.",
+    "correct_answer": "In isosceles △PQR, base angles ∠Q = ∠R; △PQS ≅ △PRT by SAS (PQ = PR, ∠Q = ∠R, QS = TR), so PS = PT by CPCTC.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q49.svg",
+    "options": [
+      "In isosceles △PQR, base angles ∠Q = ∠R; △PQS ≅ △PRT by SAS (PQ = PR, ∠Q = ∠R, QS = TR), so PS = PT by CPCTC.",
+      "PS = PT because S and T are the exact same point.",
+      "PS = PT because QR is perpendicular to PQ.",
+      "△PQS ≅ △PRT by AAA criterion."
+    ],
+    "correct": "In isosceles △PQR, base angles ∠Q = ∠R; △PQS ≅ △PRT by SAS (PQ = PR, ∠Q = ∠R, QS = TR), so PS = PT by CPCTC."
+  },
+  {
+    "id": "134332",
+    "title": "Q50: Circumscribed Circle Construction & Justification",
+    "question_text": "Construct and justify the steps to construct the circumscribed circle of a given acute triangle using perpendicular bisectors.",
+    "math_formula": "\\text{Construct perp bisectors of } 2 \\text{ sides} \\implies \\text{Intersection } O \\implies \\text{Radius } R = OA = OB = OC",
+    "optA": "Construct perpendicular bisectors of at least two sides of △ABC; their intersection O is the circumcenter (OA = OB = OC by Perpendicular Bisector Theorem); draw circle with center O and radius OA.",
+    "optB": "Construct angle bisectors of all three angles and draw circle with radius equal to the perimeter.",
+    "optC": "Construct altitudes from all three vertices and draw a circle touching the midpoints.",
+    "optD": "Draw a circle passing through the centroid with diameter equal to the longest side.",
+    "correct_answer": "Construct perpendicular bisectors of at least two sides of △ABC; their intersection O is the circumcenter (OA = OB = OC by Perpendicular Bisector Theorem); draw circle with center O and radius OA.",
+    "show_image": 1,
+    "image_url": "/images/g9_t148_q50.svg",
+    "options": [
+      "Construct altitudes from all three vertices and draw a circle touching the midpoints.",
+      "Construct angle bisectors of all three angles and draw circle with radius equal to the perimeter.",
+      "Construct perpendicular bisectors of at least two sides of △ABC; their intersection O is the circumcenter (OA = OB = OC by Perpendicular Bisector Theorem); draw circle with center O and radius OA.",
+      "Draw a circle passing through the centroid with diameter equal to the longest side."
+    ],
+    "correct": "Construct perpendicular bisectors of at least two sides of △ABC; their intersection O is the circumcenter (OA = OB = OC by Perpendicular Bisector Theorem); draw circle with center O and radius OA."
+  }
+]

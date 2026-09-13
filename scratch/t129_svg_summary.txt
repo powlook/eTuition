@@ -1,0 +1,250 @@
+File: g8_t129_q1.svg | QID: 133333
+  Question: In which quadrant of the Cartesian coordinate plane is the point \(P(-9, -9)\) located?...
+  Answer: Quadrant III
+  SVG Texts: ['Point P(-9, -9) Quadrant Location', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'QI', 'QII', 'QIII', 'QIV', 'P(-9, -9)']
+============================================================
+File: g8_t129_q2.svg | QID: 133334
+  Question: Calculate the distance between points \(A(-3, 5)\) and \(B(3, 11)\) on the Cartesian plane....
+  Answer: \sqrt{72}
+  SVG Texts: ['Distance between A(-3,5) and B(3,11)', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'A(-3, 5)', 'B(3, 11)', 'd = \\sqrt{72}']
+============================================================
+File: g8_t129_q3.svg | QID: 133335
+  Question: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(-7, -5)\) and \(B(2, -6)\)....
+  Answer: (-2.5, -5.5)
+  SVG Texts: ['Segment AB Midpoint M(-2.5, -5.5)', 'X', 'Y', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '0', 'A(-7, -5)', 'B(2, -6)', 'M(-2.5, -5.5)']
+============================================================
+File: g8_t129_q4.svg | QID: 133336
+  Question: The midpoint of line segment \(PQ\) is \(M(4, -4)\). If endpoint \(P\) has coordinates \((-4, -5)\), find the coordinate...
+  Answer: (12, -3)
+  SVG Texts: ['Segment PQ Endpoint Q(12, -3)', 'X', 'Y', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '0', 'P(-4, -5)', 'M(4, -4)', 'Q(12, -3)']
+============================================================
+File: g8_t129_q5.svg | QID: 133337
+  Question: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle....
+  Answer: 60 units
+  SVG Texts: ['Right Triangle ΔABC on Cartesian Plane', 'X', 'Y', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '0', 'A(0,0)', 'B(15,0)', 'C(0,20)', 'a = 15', 'b = 20']
+============================================================
+File: g8_t129_q6.svg | QID: 133338
+  Question: Determine if the points \(A(1, 6)\), \(B(3, 10)\), and \(C(6, 16)\) lie on the same straight line (collinear)....
+  Answer: Collinear (Slope m = 2)
+  SVG Texts: ['Collinear Points A, B, C (Slope m = 2)', 'X', 'Y', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '0', 'A(1,6)', 'B(3,10)', 'C(6,16)']
+============================================================
+File: g8_t129_q7.svg | QID: 133339
+  Question: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-2, 4)\) an...
+  Answer: 36 sq units
+  SVG Texts: ['Rectangle Area on Coordinate Plane', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', '(-2, 4)', '(7, 8)', 'Area = 36 sq units']
+============================================================
+File: g8_t129_q8.svg | QID: 133340
+  Question: Find the distance between the horizontal points \(P(-5, 0)\) and \(Q(7, 0)\)....
+  Answer: 12 units
+  SVG Texts: ['Horizontal Distance Segment PQ', 'X', 'Y', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '0', 'P(-5, 0)', 'Q(7, 0)', 'Distance = 12 units']
+============================================================
+File: g8_t129_q9.svg | QID: 133341
+  Question: On a city grid map where each unit equals 1 km, Camilla's house is at \((3, 5)\) and school is at \((9, 13)\). What is t...
+  Answer: 10 km
+  SVG Texts: ['City Grid Map Distance', 'X', 'Y', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '0', 'House (3, 5)', 'School (9, 13)', 'd = 10 km']
+============================================================
+File: g8_t129_q10.svg | QID: 133342
+  Question: A circle has a diameter with endpoints at \(A(-4, -2)\) and \(B(6, 6)\). Find the center coordinates of the circle....
+  Answer: (1, 2)
+  SVG Texts: ['Circle Diameter &amp; Center', 'X', 'Y', '-8', '-8', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '8', '8', '0', 'A(-4,-2)', 'B(6,6)', 'Center(1, 2)']
+============================================================
+File: g8_t129_q11.svg | QID: 133343
+  Question: In which quadrant of the Cartesian coordinate plane is the point \(P(-4, 4)\) located?...
+  Answer: Quadrant II
+  SVG Texts: ['Point P(-4, 4) Quadrant Location', 'X', 'Y', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '0', 'QI', 'QII', 'QIII', 'QIV', 'P(-4, 4)']
+============================================================
+File: g8_t129_q12.svg | QID: 133344
+  Question: Calculate the distance between points \(A(-3, -3)\) and \(B(5, 1)\) on the Cartesian plane....
+  Answer: \sqrt{80}
+  SVG Texts: ['Distance between A(-3,-3) and B(5,1)', 'X', 'Y', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '0', 'A(-3, -3)', 'B(5, 1)', 'd = \\sqrt{80}']
+============================================================
+File: g8_t129_q13.svg | QID: 133345
+  Question: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(7, -6)\) and \(B(-5, 0)\)....
+  Answer: (1, -3)
+  SVG Texts: ['Segment AB Midpoint M(1, -3)', 'X', 'Y', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '0', 'A(7, -6)', 'B(-5, 0)', 'M(1, -3)']
+============================================================
+File: g8_t129_q14.svg | QID: 133346
+  Question: The midpoint of line segment \(PQ\) is \(M(0, -3)\). If endpoint \(P\) has coordinates \((7, -2)\), find the coordinates...
+  Answer: (-7, -4)
+  SVG Texts: ['Segment PQ Endpoint Q(-7, -4)', 'X', 'Y', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '0', 'P(7, -2)', 'M(0, -3)', 'Q(-7, -4)']
+============================================================
+File: g8_t129_q15.svg | QID: 133347
+  Question: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle....
+  Answer: 60 units
+  SVG Texts: ['Right Triangle ΔABC on Cartesian Plane', 'X', 'Y', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '0', 'A(0,0)', 'B(15,0)', 'C(0,20)', 'a = 15', 'b = 20']
+============================================================
+File: g8_t129_q16.svg | QID: 133348
+  Question: Determine if the points \(A(1, 8)\), \(B(3, 16)\), and \(C(6, 28)\) lie on the same straight line (collinear)....
+  Answer: Collinear (Slope m = 4)
+  SVG Texts: ['Collinear Points A, B, C (Slope m = 4)', 'X', 'Y', '-30', '-30', '-28', '-28', '-26', '-26', '-24', '-24', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '24', '24', '26', '26', '28', '28', '30', '30', '0', 'A(1,8)', 'B(3,16)', 'C(6,28)']
+============================================================
+File: g8_t129_q17.svg | QID: 133349
+  Question: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((0, 4)\) and...
+  Answer: 15 sq units
+  SVG Texts: ['Rectangle Area on Coordinate Plane', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', '(0, 4)', '(3, 9)', 'Area = 15 sq units']
+============================================================
+File: g8_t129_q18.svg | QID: 133350
+  Question: Find the distance between the horizontal points \(P(-5, -2)\) and \(Q(11, -2)\)....
+  Answer: 16 units
+  SVG Texts: ['Horizontal Distance Segment PQ', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'P(-5, -2)', 'Q(11, -2)', 'Distance = 16 units']
+============================================================
+File: g8_t129_q19.svg | QID: 133351
+  Question: On a city grid map where each unit equals 1 km, Camilla's house is at \((2, 3)\) and school is at \((8, 11)\). What is t...
+  Answer: 10 km
+  SVG Texts: ['City Grid Map Distance', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'House (2, 3)', 'School (8, 11)', 'd = 10 km']
+============================================================
+File: g8_t129_q20.svg | QID: 133352
+  Question: A circle has a diameter with endpoints at \(A(-6, -2)\) and \(B(10, 8)\). Find the center coordinates of the circle....
+  Answer: (2, 3)
+  SVG Texts: ['Circle Diameter &amp; Center', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'A(-6,-2)', 'B(10,8)', 'Center(2, 3)']
+============================================================
+File: g8_t129_q21.svg | QID: 133353
+  Question: In which quadrant of the Cartesian coordinate plane is the point \(P(-2, 3)\) located?...
+  Answer: Quadrant II
+  SVG Texts: ['Point P(-2, 3) Quadrant Location', 'X', 'Y', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '0', 'QI', 'QII', 'QIII', 'QIV', 'P(-2, 3)']
+============================================================
+File: g8_t129_q22.svg | QID: 133354
+  Question: Calculate the distance between points \(A(-1, 4)\) and \(B(4, 8)\) on the Cartesian plane....
+  Answer: \sqrt{41}
+  SVG Texts: ['Distance between A(-1,4) and B(4,8)', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'A(-1, 4)', 'B(4, 8)', 'd = \\sqrt{41}']
+============================================================
+File: g8_t129_q23.svg | QID: 133355
+  Question: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(6, -7)\) and \(B(-2, -8)\)....
+  Answer: (2, -7.5)
+  SVG Texts: ['Segment AB Midpoint M(2, -7.5)', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'A(6, -7)', 'B(-2, -8)', 'M(2, -7.5)']
+============================================================
+File: g8_t129_q24.svg | QID: 133356
+  Question: The midpoint of line segment \(PQ\) is \(M(2, 3)\). If endpoint \(P\) has coordinates \((7, -5)\), find the coordinates ...
+  Answer: (-3, 11)
+  SVG Texts: ['Segment PQ Endpoint Q(-3, 11)', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'P(7, -5)', 'M(2, 3)', 'Q(-3, 11)']
+============================================================
+File: g8_t129_q25.svg | QID: 133357
+  Question: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle....
+  Answer: 60 units
+  SVG Texts: ['Right Triangle ΔABC on Cartesian Plane', 'X', 'Y', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '0', 'A(0,0)', 'B(15,0)', 'C(0,20)', 'a = 15', 'b = 20']
+============================================================
+File: g8_t129_q26.svg | QID: 133358
+  Question: Determine if the points \(A(1, 5)\), \(B(3, 13)\), and \(C(6, 25)\) lie on the same straight line (collinear)....
+  Answer: Collinear (Slope m = 4)
+  SVG Texts: ['Collinear Points A, B, C (Slope m = 4)', 'X', 'Y', '-26', '-26', '-24', '-24', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '24', '24', '26', '26', '0', 'A(1,5)', 'B(3,13)', 'C(6,25)']
+============================================================
+File: g8_t129_q27.svg | QID: 133359
+  Question: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-5, 3)\) an...
+  Answer: 70 sq units
+  SVG Texts: ['Rectangle Area on Coordinate Plane', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', '(-5, 3)', '(5, 10)', 'Area = 70 sq units']
+============================================================
+File: g8_t129_q28.svg | QID: 133360
+  Question: Find the distance between the horizontal points \(P(-10, -1)\) and \(Q(12, -1)\)....
+  Answer: 22 units
+  SVG Texts: ['Horizontal Distance Segment PQ', 'X', 'Y', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '0', 'P(-10, -1)', 'Q(12, -1)', 'Distance = 22 units']
+============================================================
+File: g8_t129_q29.svg | QID: 133361
+  Question: On a city grid map where each unit equals 1 km, Camilla's house is at \((3, 5)\) and school is at \((9, 13)\). What is t...
+  Answer: 10 km
+  SVG Texts: ['City Grid Map Distance', 'X', 'Y', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '0', 'House (3, 5)', 'School (9, 13)', 'd = 10 km']
+============================================================
+File: g8_t129_q30.svg | QID: 133362
+  Question: A circle has a diameter with endpoints at \(A(-5, 0)\) and \(B(9, 9)\). Find the center coordinates of the circle....
+  Answer: (2, 4.5)
+  SVG Texts: ['Circle Diameter &amp; Center', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'A(-5,0)', 'B(9,9)', 'Center(2, 4.5)']
+============================================================
+File: g8_t129_q31.svg | QID: 133363
+  Question: In which quadrant of the Cartesian coordinate plane is the point \(P(-6, -3)\) located?...
+  Answer: Quadrant III
+  SVG Texts: ['Point P(-6, -3) Quadrant Location', 'X', 'Y', '-8', '-8', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '8', '8', '0', 'QI', 'QII', 'QIII', 'QIV', 'P(-6, -3)']
+============================================================
+File: g8_t129_q32.svg | QID: 133364
+  Question: Calculate the distance between points \(A(4, -1)\) and \(B(8, 6)\) on the Cartesian plane....
+  Answer: \sqrt{65}
+  SVG Texts: ['Distance between A(4,-1) and B(8,6)', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'A(4, -1)', 'B(8, 6)', 'd = \\sqrt{65}']
+============================================================
+File: g8_t129_q33.svg | QID: 133365
+  Question: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(-5, 5)\) and \(B(-3, -6)\)....
+  Answer: (-4, -0.5)
+  SVG Texts: ['Segment AB Midpoint M(-4, -0.5)', 'X', 'Y', '-8', '-8', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '8', '8', '0', 'A(-5, 5)', 'B(-3, -6)', 'M(-4, -0.5)']
+============================================================
+File: g8_t129_q34.svg | QID: 133366
+  Question: The midpoint of line segment \(PQ\) is \(M(0, 0)\). If endpoint \(P\) has coordinates \((-1, 2)\), find the coordinates ...
+  Answer: (1, -2)
+  SVG Texts: ['Segment PQ Endpoint Q(1, -2)', 'X', 'Y', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '0', 'P(-1, 2)', 'M(0, 0)', 'Q(1, -2)']
+============================================================
+File: g8_t129_q35.svg | QID: 133367
+  Question: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle....
+  Answer: 60 units
+  SVG Texts: ['Right Triangle ΔABC on Cartesian Plane', 'X', 'Y', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '0', 'A(0,0)', 'B(15,0)', 'C(0,20)', 'a = 15', 'b = 20']
+============================================================
+File: g8_t129_q36.svg | QID: 133368
+  Question: Determine if the points \(A(1, 7)\), \(B(3, 15)\), and \(C(6, 27)\) lie on the same straight line (collinear)....
+  Answer: Collinear (Slope m = 4)
+  SVG Texts: ['Collinear Points A, B, C (Slope m = 4)', 'X', 'Y', '-28', '-28', '-26', '-26', '-24', '-24', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '24', '24', '26', '26', '28', '28', '0', 'A(1,7)', 'B(3,15)', 'C(6,27)']
+============================================================
+File: g8_t129_q37.svg | QID: 133369
+  Question: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-5, 4)\) an...
+  Answer: 21 sq units
+  SVG Texts: ['Rectangle Area on Coordinate Plane', 'X', 'Y', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '0', '(-5, 4)', '(2, 7)', 'Area = 21 sq units']
+============================================================
+File: g8_t129_q38.svg | QID: 133370
+  Question: Find the distance between the horizontal points \(P(-4, -1)\) and \(Q(4, -1)\)....
+  Answer: 8 units
+  SVG Texts: ['Horizontal Distance Segment PQ', 'X', 'Y', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '0', 'P(-4, -1)', 'Q(4, -1)', 'Distance = 8 units']
+============================================================
+File: g8_t129_q39.svg | QID: 133371
+  Question: On a city grid map where each unit equals 1 km, Camilla's house is at \((3, 3)\) and school is at \((9, 11)\). What is t...
+  Answer: 10 km
+  SVG Texts: ['City Grid Map Distance', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'House (3, 3)', 'School (9, 11)', 'd = 10 km']
+============================================================
+File: g8_t129_q40.svg | QID: 133372
+  Question: A circle has a diameter with endpoints at \(A(-6, -3)\) and \(B(9, 8)\). Find the center coordinates of the circle....
+  Answer: (1.5, 2.5)
+  SVG Texts: ['Circle Diameter &amp; Center', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'A(-6,-3)', 'B(9,8)', 'Center(1.5, 2.5)']
+============================================================
+File: g8_t129_q41.svg | QID: 133373
+  Question: In which quadrant of the Cartesian coordinate plane is the point \(P(-2, 9)\) located?...
+  Answer: Quadrant II
+  SVG Texts: ['Point P(-2, 9) Quadrant Location', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'QI', 'QII', 'QIII', 'QIV', 'P(-2, 9)']
+============================================================
+File: g8_t129_q42.svg | QID: 133374
+  Question: Calculate the distance between points \(A(-4, -3)\) and \(B(3, 2)\) on the Cartesian plane....
+  Answer: \sqrt{74}
+  SVG Texts: ['Distance between A(-4,-3) and B(3,2)', 'X', 'Y', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '0', 'A(-4, -3)', 'B(3, 2)', 'd = \\sqrt{74}']
+============================================================
+File: g8_t129_q43.svg | QID: 133375
+  Question: Find the coordinates of the midpoint of line segment \(AB\) joining \(A(5, -3)\) and \(B(-1, -2)\)....
+  Answer: (2, -2.5)
+  SVG Texts: ['Segment AB Midpoint M(2, -2.5)', 'X', 'Y', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '0', 'A(5, -3)', 'B(-1, -2)', 'M(2, -2.5)']
+============================================================
+File: g8_t129_q44.svg | QID: 133376
+  Question: The midpoint of line segment \(PQ\) is \(M(-3, 4)\). If endpoint \(P\) has coordinates \((-3, 6)\), find the coordinates...
+  Answer: (-3, 2)
+  SVG Texts: ['Segment PQ Endpoint Q(-3, 2)', 'X', 'Y', '-8', '-8', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '8', '8', '0', 'P(-3, 6)', 'M(-3, 4)', 'Q(-3, 2)']
+============================================================
+File: g8_t129_q45.svg | QID: 133377
+  Question: A triangle has vertices at \(A(0, 0)\), \(B(15, 0)\), and \(C(0, 20)\). Find the perimeter of the triangle....
+  Answer: 60 units
+  SVG Texts: ['Right Triangle ΔABC on Cartesian Plane', 'X', 'Y', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '0', 'A(0,0)', 'B(15,0)', 'C(0,20)', 'a = 15', 'b = 20']
+============================================================
+File: g8_t129_q46.svg | QID: 133378
+  Question: Determine if the points \(A(1, 8)\), \(B(3, 14)\), and \(C(6, 23)\) lie on the same straight line (collinear)....
+  Answer: Collinear (Slope m = 3)
+  SVG Texts: ['Collinear Points A, B, C (Slope m = 3)', 'X', 'Y', '-24', '-24', '-22', '-22', '-20', '-20', '-18', '-18', '-16', '-16', '-14', '-14', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '14', '14', '16', '16', '18', '18', '20', '20', '22', '22', '24', '24', '0', 'A(1,8)', 'B(3,14)', 'C(6,23)']
+============================================================
+File: g8_t129_q47.svg | QID: 133379
+  Question: Find the area of a rectangle whose sides are parallel to the coordinate axes and has opposite vertices at \((-3, 3)\) an...
+  Answer: 50 sq units
+  SVG Texts: ['Rectangle Area on Coordinate Plane', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', '(-3, 3)', '(7, 8)', 'Area = 50 sq units']
+============================================================
+File: g8_t129_q48.svg | QID: 133380
+  Question: Find the distance between the horizontal points \(P(-5, 0)\) and \(Q(10, 0)\)....
+  Answer: 15 units
+  SVG Texts: ['Horizontal Distance Segment PQ', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'P(-5, 0)', 'Q(10, 0)', 'Distance = 15 units']
+============================================================
+File: g8_t129_q49.svg | QID: 133381
+  Question: On a city grid map where each unit equals 1 km, Camilla's house is at \((1, 3)\) and school is at \((7, 11)\). What is t...
+  Answer: 10 km
+  SVG Texts: ['City Grid Map Distance', 'X', 'Y', '-12', '-12', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '12', '12', '0', 'House (1, 3)', 'School (7, 11)', 'd = 10 km']
+============================================================
+File: g8_t129_q50.svg | QID: 133382
+  Question: A circle has a diameter with endpoints at \(A(-5, 2)\) and \(B(4, 9)\). Find the center coordinates of the circle....
+  Answer: (-0.5, 5.5)
+  SVG Texts: ['Circle Diameter &amp; Center', 'X', 'Y', '-10', '-10', '-8', '-8', '-6', '-6', '-4', '-4', '-2', '-2', '2', '2', '4', '4', '6', '6', '8', '8', '10', '10', '0', 'A(-5,2)', 'B(4,9)', 'Center(-0.5, 5.5)']
+============================================================

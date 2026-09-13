@@ -1,0 +1,50 @@
+=== Type 1: g8_t134_q1.svg (QID 133583) ===
+Question: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+Answer: Consistent-dependent (Infinitely many solutions)
+Current SVG Texts: ['Coincident Lines System: 2x - y = 4 and 4x - 2y = 8', '2x - y = 4', '4x - 2y = 8', 'X', 'Y', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '0', 'Coincident Lines (Infinitely Many Solutions)']
+======================================================================
+=== Type 2: g8_t134_q2.svg (QID 133584) ===
+Question: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+Answer: (4, 2)
+Current SVG Texts: ['System Solution: x + y = 6 and x - y = 2', 'x + y = 6', 'x - y = 2', 'X', 'Y', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '0', '(4, 2)']
+======================================================================
+=== Type 3: g8_t134_q3.svg (QID 133585) ===
+Question: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+Answer: x = 3, y = 4
+Current SVG Texts: ['Substitution System: y = 3x - 5 and 2x + 3y = 18', '3x - y = 5', '2x + 3y = 18', 'X', 'Y', '-9', '-9', '-7', '-7', '-5', '-5', '-3', '-3', '-1', '-1', '1', '1', '3', '3', '5', '5', '7', '7', '9', '9', '0', '(3, 4)']
+======================================================================
+=== Type 4: g8_t134_q4.svg (QID 133586) ===
+Question: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+Answer: x = 4, y = 2
+Current SVG Texts: ['Elimination System: 3x + 2y = 16 and 5x - 2y = 16', '3x + 2y = 16', '5x - 2y = 16', 'X', 'Y', '-8', '-8', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '8', '8', '0', '(4, 2)']
+======================================================================
+=== Type 5: g8_t134_q5.svg (QID 133587) ===
+Question: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+Answer: (2, 1)
+Current SVG Texts: ['System Solution: 4x + 3y = 11 and 3x - 5y = -7', '4x + 3y = 11', '3x - 5y = -7', 'X', 'Y', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '0', '(2, 1)']
+======================================================================
+=== Type 6: g8_t134_q6.svg (QID 133588) ===
+Question: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+Answer: No Solution (Inconsistent System)
+Current SVG Texts: ['Inconsistent System: 2x + 6y = 10 and x + 3y = 7', '2x + 6y = 10', 'x + 3y = 7', 'X', 'Y', '-7', '-7', '-6', '-6', '-5', '-5', '-4', '-4', '-3', '-3', '-2', '-2', '-1', '-1', '1', '1', '2', '2', '3', '3', '4', '4', '5', '5', '6', '6', '7', '7', '0', 'Parallel Lines (No Solution)']
+======================================================================
+=== Type 7: g8_t134_q7.svg (QID 133589) ===
+Question: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+Answer: 41 and 23
+Current SVG Texts: ['Number System: x + y = 64 and x - y = 18', 'x + y = 64', 'x - y = 18', 'X', 'Y', '-25', '-25', '-21', '-21', '-17', '-17', '-13', '-13', '-9', '-9', '-5', '-5', '-1', '-1', '3', '3', '7', '7', '11', '11', '15', '15', '19', '19', '23', '23', '0', '(41, 23)']
+======================================================================
+=== Type 8: g8_t134_q8.svg (QID 133590) ===
+Question: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+Answer: Burger: ₱45, Drink: ₱20
+Current SVG Texts: ['Cafeteria Prices: 3b + 2d = 175 and 2b + 4d = 170', '3b + 2d = 175', '2b + 4d = 170', 'X', 'Y', '-25', '-25', '-21', '-21', '-17', '-17', '-13', '-13', '-9', '-9', '-5', '-5', '-1', '-1', '3', '3', '7', '7', '11', '11', '15', '15', '19', '19', '23', '23', '0', '(45, 20)']
+======================================================================
+=== Type 9: g8_t134_q9.svg (QID 133591) ===
+Question: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+Answer: Boat: 15 km/h, Current: 3 km/h
+Current SVG Texts: ['Boat &amp; Current Rates: b + c = 18 and b - c = 12', 'b + c = 18', 'b - c = 12', 'X', 'Y', '-18', '-18', '-14', '-14', '-10', '-10', '-6', '-6', '-2', '-2', '2', '2', '6', '6', '10', '10', '14', '14', '18', '18', '0', '(15, 3)']
+======================================================================
+=== Type 10: g8_t134_q10.svg (QID 133592) ===
+Question: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+Answer: 10 liters of 20% solution and 20 liters of 50% solution
+Current SVG Texts: ['Acid Mixture: x + y = 30 and 0.2x + 0.5y = 12', 'x + y = 30', '0.2x + 0.5y = 12', 'X', 'Y', '-25', '-25', '-21', '-21', '-17', '-17', '-13', '-13', '-9', '-9', '-5', '-5', '-1', '-1', '3', '3', '7', '7', '11', '11', '15', '15', '19', '19', '23', '23', '0', '(10, 20)']
+======================================================================

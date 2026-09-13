@@ -1,0 +1,21 @@
+DB server/etuition.db: 50 questions found
+  Generic placeholder options count in server/etuition.db: 0
+DB QBank/server/qbank.db: 50 questions found
+  Generic placeholder options count in QBank/server/qbank.db: 0
+DB QBank/server/etuition.db: 50 questions found
+  Generic placeholder options count in QBank/server/etuition.db: 0
+JSON questions.json: 50 questions found
+  Generic placeholder options count in questions.json: 0
+JSON QBank/questions.json: 50 questions found
+  Generic placeholder options count in QBank/questions.json: 0
+JSON QBank/public/questions.json: 50 questions found
+  Generic placeholder options count in QBank/public/questions.json: 0
+JSON QBank/dist/questions.json: 50 questions found
+  Generic placeholder options count in QBank/dist/questions.json: 0
+
+--- Question ID 134284 ([T148-Q134284]) ---
+Text: State the acronym CPCTC and explain what it means in geometric proofs.
+Options: ['CPCTC stands for "Corresponding Parts of Congruent Triangles are Congruent"; once two triangles are proven congruent, their matching sides and angles are equal.', 'CPCTC stands for "Calculated Pairs of Complementary Triangles Calculate"; it is used to find complementary angles in a triangle.', 'CPCTC stands for "Corresponding Perimeter Creates Triangle Congruence"; it states that triangles with equal perimeters are congruent.', 'CPCTC stands for "Congruent Polygons Create Total Congruence"; it applies only to regular polygons with more than 4 sides.']
+Correct Answer: CPCTC stands for "Corresponding Parts of Congruent Triangles are Congruent"; once two triangles are proven congruent, their matching sides and angles are equal.
+Math Formula: \text{CPCTC: Corresponding Parts of Congruent Triangles are Congruent}
+Show Image: 1, Image URL: /images/g9_t148_q2.svg

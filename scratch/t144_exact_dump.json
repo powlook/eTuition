@@ -1,0 +1,752 @@
+[
+  {
+    "id": "134083",
+    "title": "Q1: Define and illustrate the three undefined ter...",
+    "question_text": "Define and illustrate the three undefined terms in geometry: point, line, and plane.",
+    "math_formula": "\\text{Point, Line, and Plane are undefined terms}",
+    "options": [
+      "Point (0D), Line (0D), Plane (1D)",
+      "Point (1D), Line (2D), Plane (3D)",
+      "Point (circle), Line (square), Plane (cube)",
+      "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)"
+    ],
+    "correct_answer": "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q1.svg"
+  },
+  {
+    "id": "134084",
+    "title": "Q2: State the correct geometric notation for a li...",
+    "question_text": "State the correct geometric notation for a line passing through points A and B, a line segment with endpoints A and B, and a ray originating at A and passing through B.",
+    "math_formula": "\\overleftrightarrow{AB}, \\quad \\overline{AB}, \\quad \\overrightarrow{AB}",
+    "options": [
+      "Line AB, Segment ←AB→, Ray AB",
+      "Line ←AB→, Line Segment AB, Ray →AB",
+      "Line →AB, Segment AB, Ray ←AB→",
+      "Line AB, Segment →AB, Ray ←AB→"
+    ],
+    "correct_answer": "Line ←AB→, Line Segment AB, Ray →AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q2.svg"
+  },
+  {
+    "id": "134085",
+    "title": "Q3: Explain the geometric difference between ray ...",
+    "question_text": "Explain the geometric difference between ray AB and ray BA. Illustrate with a diagram.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q3.svg"
+  },
+  {
+    "id": "134086",
+    "title": "Q4: Points P, Q, and R lie on the same straight l...",
+    "question_text": "Points P, Q, and R lie on the same straight line. What term describes this geometric relationship?",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Complementary (sum to 90°)",
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q4.svg"
+  },
+  {
+    "id": "134087",
+    "title": "Q5: Points A, B, C, and D lie on the same flat su...",
+    "question_text": "Points A, B, C, and D lie on the same flat surface. What geometric term describes these points?",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Vertical Angles (equal)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q5.svg"
+  },
+  {
+    "id": "134088",
+    "title": "Q6: If point M lies between points A and B on lin...",
+    "question_text": "If point M lies between points A and B on line segment AB, state the Segment Addition Postulate in equation form.",
+    "math_formula": "AM + MB = AB",
+    "options": [
+      "AM + MB = AB",
+      "AB + MB = AM",
+      "AM - MB = AB",
+      "AM × MB = AB"
+    ],
+    "correct_answer": "AM + MB = AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q6.svg"
+  },
+  {
+    "id": "134089",
+    "title": "Q7: Given that B is between A and C, if AB = 3x -...",
+    "question_text": "Given that B is between A and C, if AB = 3x - 5, BC = 2x + 1, and AC = 26, write the equation to find x and determine the length of AB.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q7.svg"
+  },
+  {
+    "id": "134090",
+    "title": "Q8: Define an angle and name its two constituent ...",
+    "question_text": "Define an angle and name its two constituent rays and common endpoint.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q8.svg"
+  },
+  {
+    "id": "134091",
+    "title": "Q9: Describe the three different ways to name an ...",
+    "question_text": "Describe the three different ways to name an angle with vertex B and sides passing through A and C.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Vertical Angles (equal)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q9.svg"
+  },
+  {
+    "id": "134092",
+    "title": "Q10: Explain the Angle Addition Postulate using ra...",
+    "question_text": "Explain the Angle Addition Postulate using ray OB lying in the interior of ∠AOC.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)",
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q10.svg"
+  },
+  {
+    "id": "134093",
+    "title": "Q11: If ray BD bisects ∠ABC, and m∠ABD = (4x + 3)°...",
+    "question_text": "If ray BD bisects ∠ABC, and m∠ABD = (4x + 3)° and m∠DBC = (6x - 15)°, find the value of x and m∠ABC.",
+    "math_formula": "\\text{Point, Line, and Plane are undefined terms}",
+    "options": [
+      "Point (0D), Line (0D), Plane (1D)",
+      "Point (circle), Line (square), Plane (cube)",
+      "Point (1D), Line (2D), Plane (3D)",
+      "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)"
+    ],
+    "correct_answer": "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q11.svg"
+  },
+  {
+    "id": "134094",
+    "title": "Q12: Classify an angle whose measure is: a) 42°, b...",
+    "question_text": "Classify an angle whose measure is: a) 42°, b) 90°, c) 138°, d) 180°.",
+    "math_formula": "\\overleftrightarrow{AB}, \\quad \\overline{AB}, \\quad \\overrightarrow{AB}",
+    "options": [
+      "Line ←AB→, Line Segment AB, Ray →AB",
+      "Line AB, Segment ←AB→, Ray AB",
+      "Line →AB, Segment AB, Ray ←AB→",
+      "Line AB, Segment →AB, Ray ←AB→"
+    ],
+    "correct_answer": "Line ←AB→, Line Segment AB, Ray →AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q12.svg"
+  },
+  {
+    "id": "134095",
+    "title": "Q13: Define complementary angles and supplementary...",
+    "question_text": "Define complementary angles and supplementary angles. Give one numerical example of each.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q13.svg"
+  },
+  {
+    "id": "134096",
+    "title": "Q14: Two angles are complementary. If the measure ...",
+    "question_text": "Two angles are complementary. If the measure of one angle is 18° more than twice the measure of the other, find both angle measures.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q14.svg"
+  },
+  {
+    "id": "134097",
+    "title": "Q15: Two angles form a linear pair. If one angle m...",
+    "question_text": "Two angles form a linear pair. If one angle measures (5x + 20)° and the other measures (3x - 8)°, determine the measure of each angle.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q15.svg"
+  },
+  {
+    "id": "134098",
+    "title": "Q16: Define adjacent angles and state the two cond...",
+    "question_text": "Define adjacent angles and state the two conditions required for two angles to be adjacent.",
+    "math_formula": "AM + MB = AB",
+    "options": [
+      "AM × MB = AB",
+      "AM - MB = AB",
+      "AB + MB = AM",
+      "AM + MB = AB"
+    ],
+    "correct_answer": "AM + MB = AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q16.svg"
+  },
+  {
+    "id": "134099",
+    "title": "Q17: Define vertical angles and state the Vertical...",
+    "question_text": "Define vertical angles and state the Vertical Angles Theorem.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q17.svg"
+  },
+  {
+    "id": "134100",
+    "title": "Q18: Two intersecting lines form vertical angles m...",
+    "question_text": "Two intersecting lines form vertical angles measuring (7x - 14)° and (4x + 19)°. Find the value of x and the measures of all four angles formed at the intersection.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Complementary (sum to 90°)",
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q18.svg"
+  },
+  {
+    "id": "134101",
+    "title": "Q19: Explain the difference between congruent segm...",
+    "question_text": "Explain the difference between congruent segments and equal segment lengths in terms of notation.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Complementary (sum to 90°)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q19.svg"
+  },
+  {
+    "id": "134102",
+    "title": "Q20: State the definition of the midpoint of a lin...",
+    "question_text": "State the definition of the midpoint of a line segment.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q20.svg"
+  },
+  {
+    "id": "134103",
+    "title": "Q21: Point M is the midpoint of segment PQ. If PM ...",
+    "question_text": "Point M is the midpoint of segment PQ. If PM = 5x - 7 and MQ = 3x + 9, find the length of PQ.",
+    "math_formula": "\\text{Point, Line, and Plane are undefined terms}",
+    "options": [
+      "Point (circle), Line (square), Plane (cube)",
+      "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+      "Point (0D), Line (0D), Plane (1D)",
+      "Point (1D), Line (2D), Plane (3D)"
+    ],
+    "correct_answer": "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q21.svg"
+  },
+  {
+    "id": "134104",
+    "title": "Q22: Define a segment bisector and give three exam...",
+    "question_text": "Define a segment bisector and give three examples of geometric figures that can act as a segment bisector.",
+    "math_formula": "\\overleftrightarrow{AB}, \\quad \\overline{AB}, \\quad \\overrightarrow{AB}",
+    "options": [
+      "Line AB, Segment →AB, Ray ←AB→",
+      "Line ←AB→, Line Segment AB, Ray →AB",
+      "Line AB, Segment ←AB→, Ray AB",
+      "Line →AB, Segment AB, Ray ←AB→"
+    ],
+    "correct_answer": "Line ←AB→, Line Segment AB, Ray →AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q22.svg"
+  },
+  {
+    "id": "134105",
+    "title": "Q23: Explain what is meant by perpendicular line s...",
+    "question_text": "Explain what is meant by perpendicular line segments using the concept of right angles.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q23.svg"
+  },
+  {
+    "id": "134106",
+    "title": "Q24: Define collinear points and non-collinear poi...",
+    "question_text": "Define collinear points and non-collinear points, and state how many non-collinear points determine a unique plane.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Complementary (sum to 90°)",
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q24.svg"
+  },
+  {
+    "id": "134107",
+    "title": "Q25: State the Ruler Postulate and explain how it ...",
+    "question_text": "State the Ruler Postulate and explain how it is used to determine the distance between two points on a number line.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q25.svg"
+  },
+  {
+    "id": "134108",
+    "title": "Q26: State the Protractor Postulate and explain ho...",
+    "question_text": "State the Protractor Postulate and explain how it assigns degree measures to angles.",
+    "math_formula": "AM + MB = AB",
+    "options": [
+      "AM + MB = AB",
+      "AB + MB = AM",
+      "AM - MB = AB",
+      "AM × MB = AB"
+    ],
+    "correct_answer": "AM + MB = AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q26.svg"
+  },
+  {
+    "id": "134109",
+    "title": "Q27: Explain why three collinear points do NOT det...",
+    "question_text": "Explain why three collinear points do NOT determine a unique plane.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)",
+      "Alternate Interior Angles"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q27.svg"
+  },
+  {
+    "id": "134110",
+    "title": "Q28: If plane M and plane N intersect, describe th...",
+    "question_text": "If plane M and plane N intersect, describe the geometric figure formed by their intersection.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q28.svg"
+  },
+  {
+    "id": "134111",
+    "title": "Q29: If two lines intersect, describe their inters...",
+    "question_text": "If two lines intersect, describe their intersection.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Complementary (sum to 90°)",
+      "Alternate Interior Angles"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q29.svg"
+  },
+  {
+    "id": "134112",
+    "title": "Q30: Describe the relationship between a line and ...",
+    "question_text": "Describe the relationship between a line and a plane if the line intersects the plane at exactly one point.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)",
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q30.svg"
+  },
+  {
+    "id": "134113",
+    "title": "Q31: Name all possible rays that can be formed usi...",
+    "question_text": "Name all possible rays that can be formed using three collinear points X, Y, and Z arranged in that order.",
+    "math_formula": "\\text{Point, Line, and Plane are undefined terms}",
+    "options": [
+      "Point (1D), Line (2D), Plane (3D)",
+      "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+      "Point (circle), Line (square), Plane (cube)",
+      "Point (0D), Line (0D), Plane (1D)"
+    ],
+    "correct_answer": "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q31.svg"
+  },
+  {
+    "id": "134114",
+    "title": "Q32: Define an acute angle, an obtuse angle, a str...",
+    "question_text": "Define an acute angle, an obtuse angle, a straight angle, and a reflex angle with their respective degree ranges.",
+    "math_formula": "\\overleftrightarrow{AB}, \\quad \\overline{AB}, \\quad \\overrightarrow{AB}",
+    "options": [
+      "Line AB, Segment →AB, Ray ←AB→",
+      "Line ←AB→, Line Segment AB, Ray →AB",
+      "Line →AB, Segment AB, Ray ←AB→",
+      "Line AB, Segment ←AB→, Ray AB"
+    ],
+    "correct_answer": "Line ←AB→, Line Segment AB, Ray →AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q32.svg"
+  },
+  {
+    "id": "134115",
+    "title": "Q33: Given that ∠1 and ∠2 are vertical angles, and...",
+    "question_text": "Given that ∠1 and ∠2 are vertical angles, and ∠2 and ∠3 are supplementary, prove that ∠1 and ∠3 are supplementary.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Vertical Angles (equal)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q33.svg"
+  },
+  {
+    "id": "134116",
+    "title": "Q34: If m∠PQR = 120° and ray QS divides ∠PQR such ...",
+    "question_text": "If m∠PQR = 120° and ray QS divides ∠PQR such that m∠PQS : m∠SQR = 2 : 3, calculate the measures of ∠PQS and ∠SQR.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Complementary (sum to 90°)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q34.svg"
+  },
+  {
+    "id": "134117",
+    "title": "Q35: Explain how a physical object like a tabletop...",
+    "question_text": "Explain how a physical object like a tabletop, a laser pointer, and a folded sheet of paper model geometric concepts of plane, ray, and line.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q35.svg"
+  },
+  {
+    "id": "134118",
+    "title": "Q36: Explain the concept of opposite rays and how ...",
+    "question_text": "Explain the concept of opposite rays and how they relate to a straight angle.",
+    "math_formula": "AM + MB = AB",
+    "options": [
+      "AM - MB = AB",
+      "AB + MB = AM",
+      "AM × MB = AB",
+      "AM + MB = AB"
+    ],
+    "correct_answer": "AM + MB = AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q36.svg"
+  },
+  {
+    "id": "134119",
+    "title": "Q37: Given points A, B, C on a line such that AB =...",
+    "question_text": "Given points A, B, C on a line such that AB = 8 and BC = 14, determine the two possible lengths for segment AC.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q37.svg"
+  },
+  {
+    "id": "134120",
+    "title": "Q38: Define a polygon in terms of coplanar line se...",
+    "question_text": "Define a polygon in terms of coplanar line segments and non-collinear endpoints.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)",
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q38.svg"
+  },
+  {
+    "id": "134121",
+    "title": "Q39: Explain the difference between convex and con...",
+    "question_text": "Explain the difference between convex and concave geometric figures with sketches.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)",
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q39.svg"
+  },
+  {
+    "id": "134122",
+    "title": "Q40: If ray OT bisects straight angle ∠ROS, determ...",
+    "question_text": "If ray OT bisects straight angle ∠ROS, determine the measures of ∠ROT and ∠TOS and classify them.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q40.svg"
+  },
+  {
+    "id": "134123",
+    "title": "Q41: A line segment has endpoints at coordinates -...",
+    "question_text": "A line segment has endpoints at coordinates -9 and 15 on a 1D coordinate axis. Find the coordinate of its midpoint.",
+    "math_formula": "\\text{Point, Line, and Plane are undefined terms}",
+    "options": [
+      "Point (circle), Line (square), Plane (cube)",
+      "Point (0D), Line (0D), Plane (1D)",
+      "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+      "Point (1D), Line (2D), Plane (3D)"
+    ],
+    "correct_answer": "Point (no size), Line (1D infinite length), Plane (2D infinite flat surface)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q41.svg"
+  },
+  {
+    "id": "134124",
+    "title": "Q42: Two complementary angles have measures in the...",
+    "question_text": "Two complementary angles have measures in the ratio 4 : 5. Find the measure of each angle.",
+    "math_formula": "\\overleftrightarrow{AB}, \\quad \\overline{AB}, \\quad \\overrightarrow{AB}",
+    "options": [
+      "Line AB, Segment ←AB→, Ray AB",
+      "Line AB, Segment →AB, Ray ←AB→",
+      "Line →AB, Segment AB, Ray ←AB→",
+      "Line ←AB→, Line Segment AB, Ray →AB"
+    ],
+    "correct_answer": "Line ←AB→, Line Segment AB, Ray →AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q42.svg"
+  },
+  {
+    "id": "134125",
+    "title": "Q43: Two supplementary angles have measures in the...",
+    "question_text": "Two supplementary angles have measures in the ratio 7 : 11. Find the measure of each angle.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q43.svg"
+  },
+  {
+    "id": "134126",
+    "title": "Q44: An angle measures 34° less than its supplemen...",
+    "question_text": "An angle measures 34° less than its supplement. Set up an equation and solve for the angle.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Vertical Angles (equal)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q44.svg"
+  },
+  {
+    "id": "134127",
+    "title": "Q45: An angle measures 14° more than three times i...",
+    "question_text": "An angle measures 14° more than three times its complement. Find the measure of the angle.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Alternate Interior Angles",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q45.svg"
+  },
+  {
+    "id": "134128",
+    "title": "Q46: Describe how a carpenter uses a plumb line an...",
+    "question_text": "Describe how a carpenter uses a plumb line and a square to verify verticality and right angles.",
+    "math_formula": "AM + MB = AB",
+    "options": [
+      "AB + MB = AM",
+      "AM × MB = AB",
+      "AM - MB = AB",
+      "AM + MB = AB"
+    ],
+    "correct_answer": "AM + MB = AB",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q46.svg"
+  },
+  {
+    "id": "134129",
+    "title": "Q47: Identify which geometric notation is invalid ...",
+    "question_text": "Identify which geometric notation is invalid and explain why: a) Ray AB, b) Line segment AB, c) Length |AB| = 5 cm, d) Angle ABC = 50°.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)",
+      "Linear Pair (Supplementary, sum to 180°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q47.svg"
+  },
+  {
+    "id": "134130",
+    "title": "Q48: If point K lies on the interior of ∠JLM such ...",
+    "question_text": "If point K lies on the interior of ∠JLM such that m∠JLK = 2x + 10, m∠KLM = 4x - 6, and m∠JLM = 94°, solve for x.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Vertical Angles (equal)",
+      "Complementary (sum to 90°)",
+      "Alternate Interior Angles"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q48.svg"
+  },
+  {
+    "id": "134131",
+    "title": "Q49: State the postulate that guarantees that thro...",
+    "question_text": "State the postulate that guarantees that through any two given points, there is exactly one unique straight line.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Complementary (sum to 90°)",
+      "Vertical Angles (equal)",
+      "Alternate Interior Angles"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q49.svg"
+  },
+  {
+    "id": "134132",
+    "title": "Q50: Describe the geometric model of skew lines an...",
+    "question_text": "Describe the geometric model of skew lines and explain why skew lines are neither parallel nor intersecting.",
+    "math_formula": "\\angle 1 + \\angle 2 = 180^\\circ",
+    "options": [
+      "Alternate Interior Angles",
+      "Vertical Angles (equal)",
+      "Linear Pair (Supplementary, sum to 180°)",
+      "Complementary (sum to 90°)"
+    ],
+    "correct_answer": "Linear Pair (Supplementary, sum to 180°)",
+    "show_image": 1,
+    "image_url": "/images/g9_t144_q50.svg"
+  }
+]

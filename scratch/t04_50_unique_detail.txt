@@ -1,0 +1,200 @@
+Q01 (T04-Q001):
+  Text: Define a quadrilateral and state the Polygon Interior Angle Sum Theorem for any convex quadrilateral (Sum = 360°).
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q02 (T04-Q002):
+  Text: Construct the complete hierarchical classification tree (Euler / Venn diagram) for quadrilaterals: explain the relationships between trapezoids, parallelograms, rectangles, rhombuses, squares, and kites.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q03 (T04-Q003):
+  Text: Explain why every square is a rectangle and a rhombus, but not every rectangle or rhombus is a square.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q04 (T04-Q004):
+  Text: State the five defining properties of a parallelogram concerning opposite sides, opposite angles, consecutive angles, and diagonals.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q05 (T04-Q005):
+  Text: In parallelogram ABCD, m∠A = (4x + 15)° and m∠C = (6x - 25)°. Solve for x and find the degree measures of all four interior angles.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q06 (T04-Q006):
+  Text: In parallelogram PQRS, adjacent sides measure PQ = 3x - 5 cm and QR = 2x + 3 cm. If the perimeter of the parallelogram is 56 cm, find the lengths of all four sides.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q07 (T04-Q007):
+  Text: The diagonals of parallelogram ABCD intersect at point E. If AE = 2x + 3, EC = 3x - 4, BE = 4y - 1, and ED = y + 8, find the numerical values of x, y, AC, and BD.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q08 (T04-Q008):
+  Text: In parallelogram ABCD, the height corresponding to base AB is 8 cm. If AB = 15 cm and AD = 10 cm, calculate the area of the parallelogram and the height corresponding to base AD.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q09 (T04-Q009):
+  Text: Define a rectangle and prove that a parallelogram is a rectangle if and only if its diagonals are congruent.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q10 (T04-Q010):
+  Text: In rectangle ABCD, diagonals AC and BD intersect at E. If AC = 5x - 8 and BD = 2x + 13, solve for x and find the length of diagonal BD.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q11 (T04-Q011):
+  Text: In rectangle PQRS, diagonal PR makes an angle of 28° with side PQ. Calculate the angle between diagonal PR and side PS, and find the acute angle between the intersecting diagonals.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q12 (T04-Q012):
+  Text: A rectangular soccer field has a length of 105 meters and a width of 68 meters. Calculate the diagonal distance between opposite corner flags.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q13 (T04-Q013):
+  Text: Define a rhombus and prove that its diagonals are perpendicular bisectors of each other and bisect the interior vertex angles.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q14 (T04-Q014):
+  Text: In rhombus ABCD, the diagonals intersect at E. If diagonal AC = 16 cm and diagonal BD = 12 cm, calculate the side length, perimeter, and area of the rhombus.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q15 (T04-Q015):
+  Text: In rhombus JKLM, if m∠JKL = 124°, calculate the measures of ∠JKM, ∠MLK, and ∠JML.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q16 (T04-Q016):
+  Text: A diamond-shaped road warning sign is a rhombus with side length 60 cm and an interior angle of 60°. Calculate the exact lengths of both diagonal braces in simplified radical form.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q17 (T04-Q017):
+  Text: Define a square and state the exact ratio of its side length to its diagonal length (1 : √2).
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q18 (T04-Q018):
+  Text: The diagonal of a square plaza measures 28 meters. Calculate the exact side length, perimeter, and surface area of the plaza in simplest radical form.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q19 (T04-Q019):
+  Text: In square ABCD, point P lies on diagonal AC such that AP = AB. If side length AB = 10 cm, calculate the length of segment PC.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q20 (T04-Q020):
+  Text: Define a trapezoid and distinguish its bases, legs, and base angles. Define an isosceles trapezoid.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q21 (T04-Q021):
+  Text: Prove that the base angles of an isosceles trapezoid are congruent and that its diagonals are equal in length.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q22 (T04-Q022):
+  Text: In isosceles trapezoid ABCD with AB || CD, leg AD = 10 cm, base AB = 12 cm, and base CD = 24 cm. Calculate the perpendicular height and the area of the trapezoid.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q23 (T04-Q023):
+  Text: In isosceles trapezoid PQRS with PQ || RS, if m∠P = (3x + 20)° and m∠S = (2x + 10)°, solve for x and find all four interior angles.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q24 (T04-Q024):
+  Text: State the Trapezoid Midsegment (Median) Theorem relating the midsegment length to the sum of the bases.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q25 (T04-Q025):
+  Text: In trapezoid ABCD with bases AB and CD, midsegment MN has length 22 cm. If base CD is 8 cm longer than base AB, find the lengths of both parallel bases.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q26 (T04-Q026):
+  Text: In trapezoid WXYZ with midsegment EF, base WX = 3x + 1, base YZ = 5x - 7, and midsegment EF = 21. Solve for x and find the base lengths.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q27 (T04-Q027):
+  Text: Define a kite and state its defining properties regarding adjacent sides, perpendicular diagonals, axis of symmetry, and opposite angles.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q28 (T04-Q028):
+  Text: Derive the formula for the area of a kite: Area = (1/2)d₁ · d₂ where d₁ and d₂ are the lengths of the perpendicular diagonals.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q29 (T04-Q029):
+  Text: A decorative kite has diagonal spars of length 35 cm and 48 cm. Calculate the area of fabric required to cover the face of the kite.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q30 (T04-Q030):
+  Text: In kite ABCD where AB = AD and CB = CD, the diagonals intersect at E. If AE = 6 cm, EC = 15 cm, and BE = 8 cm, calculate the lengths of all four sides and the perimeter of the kite.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q31 (T04-Q031):
+  Text: In kite PQRS with PQ = PS and RQ = RS, if m∠PQR = 112° and m∠QPS = 64°, calculate the degree measures of ∠PSR and ∠QRS.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q32 (T04-Q032):
+  Text: Given vertices A(-3, 2), B(1, 5), C(7, 3), and D(3, 0), prove whether quadrilateral ABCD is a parallelogram, rectangle, rhombus, or general trapezoid using distance and slope formulas.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q33 (T04-Q033):
+  Text: Vertices of quadrilateral ABCD are A(0, 0), B(a, 0), C(a + b, c), and D(b, c). Prove algebraically that ABCD is always a parallelogram.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q34 (T04-Q034):
+  Text: Find the coordinates of the fourth vertex D of parallelogram ABCD if A(-2, 1), B(4, 3), and C(2, 7).
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q35 (T04-Q035):
+  Text: State and prove Varignon's Theorem: the figure formed by sequentially connecting the midpoints of the sides of ANY quadrilateral is always a parallelogram.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q36 (T04-Q036):
+  Text: If the original quadrilateral in Varignon's Theorem is a rhombus, prove that the Varignon parallelogram is a rectangle.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q37 (T04-Q037):
+  Text: If the original quadrilateral is a rectangle, prove that the Varignon parallelogram is a rhombus.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q38 (T04-Q038):
+  Text: If the original quadrilateral is an isosceles trapezoid, prove that the Varignon parallelogram is a rhombus.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q39 (T04-Q039):
+  Text: A scissor lift mechanism utilizes linked rhombuses. Explain how the properties of equal sides and bisecting diagonals allow vertical elevation while maintaining horizontal platform stability.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q40 (T04-Q040):
+  Text: An adjustable architect's desk lamp uses a parallelogram linkage. Explain why the lamp head maintains a constant tilt angle as the arm is raised or lowered.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q41 (T04-Q041):
+  Text: A surveyor measures a four-sided agricultural field ABCD. The sides are AB = 120 m, BC = 90 m, CD = 130 m, DA = 80 m, and diagonal AC = 150 m. Calculate the total field area by dividing it into two triangles.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q42 (T04-Q042):
+  Text: A homeowner constructs a wooden garden gate. Explain why adding a diagonal brace converts a flexible quadrilateral frame into a rigid structure (Triangle Rigidity vs Quadrilateral Flexibility).
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q43 (T04-Q043):
+  Text: A student claims that any quadrilateral with perpendicular diagonals must be a rhombus. Provide a sketch of a kite or non-equilateral quadrilateral to disprove this statement.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q44 (T04-Q044):
+  Text: A student states: 'A trapezoid can have three right angles.' Prove why a quadrilateral with three right angles must be a rectangle, making this configuration impossible for a trapezoid.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q45 (T04-Q045):
+  Text: A student asserts that if opposite angles of a quadrilateral are supplementary, the quadrilateral must be a parallelogram. Provide a counterexample (e.g., an isosceles trapezoid).
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q46 (T04-Q046):
+  Text: Write a two-column proof: Prove that if the opposite angles of a quadrilateral are congruent, then the quadrilateral is a parallelogram.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q47 (T04-Q047):
+  Text: Write a two-column proof: Prove that a parallelogram with congruent diagonals is a rectangle.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q48 (T04-Q048):
+  Text: Write a two-column proof: Prove that if one pair of opposite sides of a quadrilateral are both parallel and congruent, then the quadrilateral is a parallelogram.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q49 (T04-Q049):
+  Text: In right trapezoid ABCD, ∠A = ∠D = 90°. If base AB = 6 cm, base CD = 14 cm, and leg AD = 6 cm, calculate the exact length of the slant leg BC.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+
+Q50 (T04-Q050):
+  Text: A corporate logo is shaped as a rhombus whose diagonals are in the ratio 3 : 4. If the perimeter of the rhombus is 40 cm, calculate its area.
+  Comp: Classify quadrilaterals; use properties of parallelograms, rectangles, squares, rhombuses, trapezoids, and kites to find measures of angles, sides, heights, and diagonals; solve problems.
+

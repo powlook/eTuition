@@ -1,39 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" width="500" height="340">
   <rect width="100%" height="100%" fill="#0f172a" rx="12" />
 
-  <!-- Header Title -->
-  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
-  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
-    Probabilities of simple and compound events. #6
-  </text>
+  <g transform="translate(40, 50)">
+    <!-- Die Face 1 -->
+    <rect x="20" y="20" width="60" height="60" fill="#1e293b" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <circle cx="50" cy="50" r="5" fill="#38bdf8"/>
+    <text x="50" y="100" text-anchor="middle" fill="#e2e8f0" font-family="sans-serif" font-size="12">1</text>
 
-  <!-- Body Content -->
-  
-        <g transform="translate(90, 60)">
-          <!-- Root -->
-          <circle cx="20" cy="120" r="5" fill="#f59e0b" />
-          <!-- Branch 1 -->
-          <line x1="20" y1="120" x2="100" y2="60" stroke="#38bdf8" stroke-width="2.5" />
-          <text x="50" y="80" font-family="sans-serif" font-size="11" fill="#38bdf8" font-weight="bold">P(H) = 0.5</text>
-          <!-- Branch 2 -->
-          <line x1="20" y1="120" x2="100" y2="180" stroke="#ec4899" stroke-width="2.5" />
-          <text x="50" y="165" font-family="sans-serif" font-size="11" fill="#ec4899" font-weight="bold">P(T) = 0.5</text>
+    <!-- Die Face 2 -->
+    <rect x="100" y="20" width="60" height="60" fill="#1e293b" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <circle cx="115" cy="35" r="5" fill="#38bdf8"/>
+    <circle cx="145" cy="65" r="5" fill="#38bdf8"/>
+    <text x="130" y="100" text-anchor="middle" fill="#e2e8f0" font-family="sans-serif" font-size="12">2 (Even)</text>
 
-          <!-- Sub Branches -->
-          <line x1="100" y1="60" x2="180" y2="30" stroke="#10b981" stroke-width="2" />
-          <text x="200" y="35" font-family="sans-serif" font-size="11" fill="#e2e8f0">HH (0.25)</text>
+    <!-- Die Face 3 -->
+    <rect x="180" y="20" width="60" height="60" fill="#1e293b" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <circle cx="195" cy="35" r="5" fill="#38bdf8"/>
+    <circle cx="210" cy="50" r="5" fill="#38bdf8"/>
+    <circle cx="225" cy="65" r="5" fill="#38bdf8"/>
+    <text x="210" y="100" text-anchor="middle" fill="#e2e8f0" font-family="sans-serif" font-size="12">3</text>
 
-          <line x1="100" y1="60" x2="180" y2="90" stroke="#10b981" stroke-width="2" />
-          <text x="200" y="95" font-family="sans-serif" font-size="11" fill="#e2e8f0">HT (0.25)</text>
+    <!-- Die Face 4 -->
+    <rect x="260" y="20" width="60" height="60" fill="#1e293b" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <circle cx="275" cy="35" r="5" fill="#38bdf8"/><circle cx="305" cy="35" r="5" fill="#38bdf8"/>
+    <circle cx="275" cy="65" r="5" fill="#38bdf8"/><circle cx="305" cy="65" r="5" fill="#38bdf8"/>
+    <text x="290" y="100" text-anchor="middle" fill="#e2e8f0" font-family="sans-serif" font-size="12">4 (Even)</text>
 
-          <line x1="100" y1="180" x2="180" y2="150" stroke="#10b981" stroke-width="2" />
-          <text x="200" y="155" font-family="sans-serif" font-size="11" fill="#e2e8f0">TH (0.25)</text>
+    <!-- Die Face 5 -->
+    <rect x="340" y="20" width="60" height="60" fill="#1e293b" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <circle cx="355" cy="35" r="5" fill="#38bdf8"/><circle cx="385" cy="35" r="5" fill="#38bdf8"/>
+    <circle cx="370" cy="50" r="5" fill="#38bdf8"/>
+    <circle cx="355" cy="65" r="5" fill="#38bdf8"/><circle cx="385" cy="65" r="5" fill="#38bdf8"/>
+    <text x="370" y="100" text-anchor="middle" fill="#e2e8f0" font-family="sans-serif" font-size="12">5</text>
 
-          <line x1="100" y1="180" x2="180" y2="210" stroke="#10b981" stroke-width="2" />
-          <text x="200" y="215" font-family="sans-serif" font-size="11" fill="#e2e8f0">TT (0.25)</text>
+    <!-- Die Face 6 -->
+    <g transform="translate(180, 120)">
+      <rect x="0" y="0" width="60" height="60" fill="#1e293b" stroke="#38bdf8" stroke-width="2" rx="8"/>
+      <circle cx="15" cy="15" r="5" fill="#38bdf8"/><circle cx="45" cy="15" r="5" fill="#38bdf8"/>
+      <circle cx="15" cy="30" r="5" fill="#38bdf8"/><circle cx="45" cy="30" r="5" fill="#38bdf8"/>
+      <circle cx="15" cy="45" r="5" fill="#38bdf8"/><circle cx="45" cy="45" r="5" fill="#38bdf8"/>
+      <text x="30" y="80" text-anchor="middle" fill="#e2e8f0" font-family="sans-serif" font-size="12">6 (Even)</text>
+    </g>
+  </g>
+  <text x="250" y="315" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="12">Standard Fair Six-Sided Die (Sample Space = {1, 2, 3, 4, 5, 6})</text>
 
-          <rect x="20" y="250" width="240" height="28" rx="6" fill="rgba(56, 189, 248, 0.9)" />
-          <text x="140" y="269" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Tree Diagram: Multiply Branch Probabilities</text>
-        </g>
-      
 </svg>

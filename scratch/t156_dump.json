@@ -1,0 +1,752 @@
+[
+  {
+    "id": "134683",
+    "title": "Q1: Define a quadratic function and write its sta...",
+    "question_text": "Define a quadratic function and write its standard form f(x) = ax² + bx + c (where a ≠ 0).",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = a^x, graph is exponential",
+      "f(x) = k/x, graph is a hyperbola",
+      "f(x) = mx + b, graph is a straight line"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q1.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134684",
+    "title": "Q2: Define a parabola and identify its key struct...",
+    "question_text": "Define a parabola and identify its key structural features: vertex, axis of symmetry, focus, and directrix.",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = a^x, graph is exponential",
+      "f(x) = k/x, graph is a hyperbola",
+      "f(x) = mx + b, graph is a straight line"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q2.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134685",
+    "title": "Q3: Explain how the sign of coefficient a determi...",
+    "question_text": "Explain how the sign of coefficient a determines whether a parabola opens upward or downward.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q3.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134686",
+    "title": "Q4: Explain how the magnitude |a| affects the wid...",
+    "question_text": "Explain how the magnitude |a| affects the width (vertical stretch or compression) of the parabola compared to y = x².",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q4.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134687",
+    "title": "Q5: Write the vertex form of a quadratic function...",
+    "question_text": "Write the vertex form of a quadratic function: f(x) = a(x - h)² + k and state the coordinates of the vertex.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q5.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134688",
+    "title": "Q6: Identify the vertex, axis of symmetry, direct...",
+    "question_text": "Identify the vertex, axis of symmetry, direction of opening, and min/max value of f(x) = 2(x - 3)² + 5.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q6.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134689",
+    "title": "Q7: Identify the vertex and axis of symmetry of f...",
+    "question_text": "Identify the vertex and axis of symmetry of f(x) = -(x + 4)² - 7. Does this function have a minimum or maximum value?",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q7.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134690",
+    "title": "Q8: Transform the standard quadratic function f(x...",
+    "question_text": "Transform the standard quadratic function f(x) = x² - 6x + 14 into vertex form by completing the square.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q8.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134691",
+    "title": "Q9: Transform f(x) = 2x² + 12x - 5 into vertex fo...",
+    "question_text": "Transform f(x) = 2x² + 12x - 5 into vertex form f(x) = a(x - h)² + k.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q9.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134692",
+    "title": "Q10: Transform f(x) = -3x² + 24x - 40 into vertex ...",
+    "question_text": "Transform f(x) = -3x² + 24x - 40 into vertex form.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q10.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134693",
+    "title": "Q11: Convert the vertex form f(x) = -2(x + 3)² + 1...",
+    "question_text": "Convert the vertex form f(x) = -2(x + 3)² + 11 into standard form f(x) = ax² + bx + c.",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = k/x, graph is a hyperbola",
+      "f(x) = mx + b, graph is a straight line",
+      "f(x) = a^x, graph is exponential"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q11.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134694",
+    "title": "Q12: State the formulas for the vertex coordinates...",
+    "question_text": "State the formulas for the vertex coordinates (h, k) directly from standard form: h = -b / (2a) and k = f(h) = (4ac - b²) / (4a).",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = mx + b, graph is a straight line",
+      "f(x) = a^x, graph is exponential",
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = k/x, graph is a hyperbola"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q12.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134695",
+    "title": "Q13: Find the vertex and axis of symmetry of f(x) ...",
+    "question_text": "Find the vertex and axis of symmetry of f(x) = 3x² - 18x + 20 using h = -b / (2a).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q13.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134696",
+    "title": "Q14: Find the y-intercept of the quadratic functio...",
+    "question_text": "Find the y-intercept of the quadratic function f(x) = 4x² - 7x - 15.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q14.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134697",
+    "title": "Q15: Find the x-intercepts (zeros) of f(x) = x² - ...",
+    "question_text": "Find the x-intercepts (zeros) of f(x) = x² - 5x - 14 algebraically.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q15.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134698",
+    "title": "Q16: Find the zeros of the factored quadratic func...",
+    "question_text": "Find the zeros of the factored quadratic function f(x) = 3(x - 4)(2x + 5).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q16.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134699",
+    "title": "Q17: State the domain and range of the quadratic f...",
+    "question_text": "State the domain and range of the quadratic function f(x) = 2(x - 1)² - 8.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q17.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134700",
+    "title": "Q18: State the domain and range of the quadratic f...",
+    "question_text": "State the domain and range of the quadratic function f(x) = -3(x + 2)² + 27.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q18.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134701",
+    "title": "Q19: Identify the intervals of increase and decrea...",
+    "question_text": "Identify the intervals of increase and decrease for the parabola f(x) = (x - 4)² + 2.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q19.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134702",
+    "title": "Q20: Identify the intervals of increase and decrea...",
+    "question_text": "Identify the intervals of increase and decrease for the parabola f(x) = -(x + 1)² + 9.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q20.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134703",
+    "title": "Q21: Describe the geometric transformations requir...",
+    "question_text": "Describe the geometric transformations required to obtain the graph of f(x) = 2(x - 3)² + 4 from the parent graph y = x².",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = k/x, graph is a hyperbola",
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = a^x, graph is exponential",
+      "f(x) = mx + b, graph is a straight line"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q21.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134704",
+    "title": "Q22: Describe the transformations that map y = x² ...",
+    "question_text": "Describe the transformations that map y = x² onto f(x) = -(1/2)(x + 5)² - 3.",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = a^x, graph is exponential",
+      "f(x) = mx + b, graph is a straight line",
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = k/x, graph is a hyperbola"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q22.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134705",
+    "title": "Q23: Write the quadratic equation of a parabola wi...",
+    "question_text": "Write the quadratic equation of a parabola with vertex at (2, -3) that passes through the point (4, 5).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q23.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134706",
+    "title": "Q24: Write the quadratic equation of a parabola wi...",
+    "question_text": "Write the quadratic equation of a parabola with vertex at (-1, 8) and y-intercept at (0, 6).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q24.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134707",
+    "title": "Q25: Find the quadratic function having x-intercep...",
+    "question_text": "Find the quadratic function having x-intercepts at (-3, 0) and (5, 0) and passing through (1, -16).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q25.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134708",
+    "title": "Q26: A projectile is launched upward; its height i...",
+    "question_text": "A projectile is launched upward; its height in meters after t seconds is given by h(t) = -5t² + 20t + 25. Find the initial launch height.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q26.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134709",
+    "title": "Q27: Using the projectile function in Question 26,...",
+    "question_text": "Using the projectile function in Question 26, find the time t at which the projectile reaches its maximum height.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q27.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134710",
+    "title": "Q28: Using the projectile function in Question 26,...",
+    "question_text": "Using the projectile function in Question 26, calculate the maximum height reached.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q28.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134711",
+    "title": "Q29: Using the projectile function in Question 26,...",
+    "question_text": "Using the projectile function in Question 26, find the total time of flight until the projectile strikes the ground (h(t) = 0).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q29.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134712",
+    "title": "Q30: A farmer has 120 meters of fencing to enclose...",
+    "question_text": "A farmer has 120 meters of fencing to enclose a rectangular livestock pen against an existing barn wall. Write the area function A(x) in terms of width x.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q30.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134713",
+    "title": "Q31: From Question 30, find the dimensions that ma...",
+    "question_text": "From Question 30, find the dimensions that maximize the enclosed area and calculate the maximum area.",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = a^x, graph is exponential",
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = mx + b, graph is a straight line",
+      "f(x) = k/x, graph is a hyperbola"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q31.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134714",
+    "title": "Q32: A company models its monthly profit P(x) (in ...",
+    "question_text": "A company models its monthly profit P(x) (in thousands of pesos) from selling x thousand gadgets as P(x) = -2x² + 40x - 50. Find the sales volume that maximizes profit and determine max profit.",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = mx + b, graph is a straight line",
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+      "f(x) = a^x, graph is exponential",
+      "f(x) = k/x, graph is a hyperbola"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q32.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134715",
+    "title": "Q33: Explain how the discriminant D = b² - 4ac det...",
+    "question_text": "Explain how the discriminant D = b² - 4ac determines the number and nature of the x-intercepts of a quadratic graph.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q33.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134716",
+    "title": "Q34: Match the discriminant value to the graph: a)...",
+    "question_text": "Match the discriminant value to the graph: a) D > 0, b) D = 0, c) D < 0 with (2 x-intercepts, 1 tangent x-intercept, no x-intercepts).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q34.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134717",
+    "title": "Q35: Sketch the graph of f(x) = x² - 4x - 5 by plo...",
+    "question_text": "Sketch the graph of f(x) = x² - 4x - 5 by plotting the vertex, axis of symmetry, x-intercepts, and y-intercept.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q35.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134718",
+    "title": "Q36: Sketch the graph of f(x) = -x² + 2x + 8 clear...",
+    "question_text": "Sketch the graph of f(x) = -x² + 2x + 8 clearly showing all key features.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q36.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134719",
+    "title": "Q37: Given f(x) = ax² + bx + c, what can you deduc...",
+    "question_text": "Given f(x) = ax² + bx + c, what can you deduce about the signs of a, b, and c if the parabola opens downward, has its vertex in Quadrant I, and y-intercept on the positive y-axis?",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q37.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134720",
+    "title": "Q38: Find the axis of symmetry and vertex for the ...",
+    "question_text": "Find the axis of symmetry and vertex for the parabola f(x) = 0.5x² - 4x + 10.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q38.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134721",
+    "title": "Q39: A suspension bridge cable hangs in the shape ...",
+    "question_text": "A suspension bridge cable hangs in the shape of a parabola. The towers are 100 m apart and 20 m high, with the cable touching the road at the center. Write the quadratic equation modeling the cable.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q39.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134722",
+    "title": "Q40: Find the quadratic function whose graph passe...",
+    "question_text": "Find the quadratic function whose graph passes through the three points (0, 3), (1, 6), and (2, 11).",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q40.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134723",
+    "title": "Q41: Find the value of k such that the vertex of f...",
+    "question_text": "Find the value of k such that the vertex of f(x) = x² - 8x + k lies on the x-axis.",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = mx + b, graph is a straight line",
+      "f(x) = a^x, graph is exponential",
+      "f(x) = k/x, graph is a hyperbola",
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q41.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134724",
+    "title": "Q42: Find the value of c such that the maximum val...",
+    "question_text": "Find the value of c such that the maximum value of f(x) = -2x² + 12x + c is 25.",
+    "math_formula": "f(x) = ax^2 + bx + c, \\quad a \\neq 0",
+    "options": [
+      "f(x) = a^x, graph is exponential",
+      "f(x) = mx + b, graph is a straight line",
+      "f(x) = k/x, graph is a hyperbola",
+      "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola"
+    ],
+    "correct_answer": "f(x) = ax² + bx + c (a ≠ 0), graph is a parabola",
+    "image_url": "/images/g9_t156_q42.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134725",
+    "title": "Q43: A rectangular photograph is 8 cm by 10 cm. A ...",
+    "question_text": "A rectangular photograph is 8 cm by 10 cm. A uniform border of width x is added around it. Write the total area function A(x) in standard quadratic form.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q43.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134726",
+    "title": "Q44: Explain the symmetry property of parabolas: i...",
+    "question_text": "Explain the symmetry property of parabolas: if f(2) = 7 and f(8) = 7, what is the x-coordinate of the vertex?",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q44.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134727",
+    "title": "Q45: Find the zeros of f(x) = 4x² - 12x + 9 algebr...",
+    "question_text": "Find the zeros of f(x) = 4x² - 12x + 9 algebraically and describe the graph's relationship with the x-axis.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q45.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134728",
+    "title": "Q46: Find the domain, range, and zeros of f(x) = -...",
+    "question_text": "Find the domain, range, and zeros of f(x) = -(x - 5)².",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q46.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134729",
+    "title": "Q47: Analyze the effect of changing parameter c in...",
+    "question_text": "Analyze the effect of changing parameter c in f(x) = ax² + bx + c on the vertical position of the graph.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "The sign of a has no effect on opening direction",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q47.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134730",
+    "title": "Q48: Analyze the effect of changing parameter h in...",
+    "question_text": "Analyze the effect of changing parameter h in f(x) = a(x - h)² + k on the horizontal position of the graph.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q48.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134731",
+    "title": "Q49: A ball is thrown from a rooftop 30 m high wit...",
+    "question_text": "A ball is thrown from a rooftop 30 m high with an initial velocity of 25 m/s. Its height is h(t) = -5t² + 25t + 30. Graph the function and state the domain and range appropriate for this physical context.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "The sign of a has no effect on opening direction",
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, the graph is a circle",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q49.svg",
+    "show_image": 1
+  },
+  {
+    "id": "134732",
+    "title": "Q50: State the quadratic function that represents ...",
+    "question_text": "State the quadratic function that represents the sum of two numbers whose product is maximized when their sum is 20.",
+    "math_formula": "a > 0 \\implies \\bigcup, \\quad a < 0 \\implies \\bigcap",
+    "options": [
+      "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+      "If a > 0, parabola opens to the right; if a < 0, opens to the left",
+      "If a > 0, the graph is a circle",
+      "The sign of a has no effect on opening direction"
+    ],
+    "correct_answer": "If a > 0, parabola opens upward (minimum); if a < 0, parabola opens downward (maximum)",
+    "image_url": "/images/g9_t156_q50.svg",
+    "show_image": 1
+  }
+]

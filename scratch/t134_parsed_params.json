@@ -1,0 +1,442 @@
+[
+  {
+    "idx": 1,
+    "fname": "g8_t134_q1.svg",
+    "qid": 133583,
+    "type_idx": 1,
+    "qtext": "Classify the system of equations by comparing slopes and y-intercepts: \\(\\{ 2x - y = 4 \\,;\\, 4x - 2y = 8 \\}\\).",
+    "ans": "Consistent-dependent (Infinitely many solutions)"
+  },
+  {
+    "idx": 2,
+    "fname": "g8_t134_q2.svg",
+    "qid": 133584,
+    "type_idx": 2,
+    "qtext": "Solve the system of linear equations: \\(\\{ x + y = 6 \\,;\\, x - y = 2 \\}\\).",
+    "ans": "(4, 2)"
+  },
+  {
+    "idx": 3,
+    "fname": "g8_t134_q3.svg",
+    "qid": 133585,
+    "type_idx": 3,
+    "qtext": "Solve the system of equations using the Substitution Method: \\(\\{ y = 3x - 5 \\,;\\, 2x + 3y = 18 \\}\\).",
+    "ans": "x = 3, y = 4"
+  },
+  {
+    "idx": 4,
+    "fname": "g8_t134_q4.svg",
+    "qid": 133586,
+    "type_idx": 4,
+    "qtext": "Solve the system of equations using the Elimination Method: \\(\\{ 3x + 2y = 16 \\,;\\, 5x - 2y = 16 \\}\\).",
+    "ans": "x = 4, y = 2"
+  },
+  {
+    "idx": 5,
+    "fname": "g8_t134_q5.svg",
+    "qid": 133587,
+    "type_idx": 5,
+    "qtext": "Solve the system of linear equations: \\(\\{ 4x + 3y = 11 \\,;\\, 3x - 5y = -7 \\}\\).",
+    "ans": "(2, 1)"
+  },
+  {
+    "idx": 6,
+    "fname": "g8_t134_q6.svg",
+    "qid": 133588,
+    "type_idx": 6,
+    "qtext": "Determine the number of solutions for the system: \\(\\{ 2x + 6y = 10 \\,;\\, x + 3y = 7 \\}\\).",
+    "ans": "No Solution (Inconsistent System)"
+  },
+  {
+    "idx": 7,
+    "fname": "g8_t134_q7.svg",
+    "qid": 133589,
+    "type_idx": 7,
+    "qtext": "The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.",
+    "ans": "41 and 23",
+    "eq1": "x + y = 64",
+    "eq2": "x - y = 18"
+  },
+  {
+    "idx": 8,
+    "fname": "g8_t134_q8.svg",
+    "qid": 133590,
+    "type_idx": 8,
+    "qtext": "At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.",
+    "ans": "Burger: ₱45, Drink: ₱20",
+    "eq1": "3b + 2d = 175",
+    "eq2": "2b + 4d = 170"
+  },
+  {
+    "idx": 9,
+    "fname": "g8_t134_q9.svg",
+    "qid": 133591,
+    "type_idx": 9,
+    "qtext": "A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.",
+    "ans": "Boat: 15 km/h, Current: 3 km/h",
+    "eq1": "b + c = 18",
+    "eq2": "b - c = 12"
+  },
+  {
+    "idx": 10,
+    "fname": "g8_t134_q10.svg",
+    "qid": 133592,
+    "type_idx": 10,
+    "qtext": "A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?",
+    "ans": "10 liters of 20% solution and 20 liters of 50% solution",
+    "eq1": "x + y = 30",
+    "eq2": "0.2x + 0.5y = 12"
+  },
+  {
+    "idx": 11,
+    "fname": "g8_t134_q11.svg",
+    "qid": 133593,
+    "type_idx": 1,
+    "qtext": "Classify the system of equations by comparing slopes and y-intercepts: \\(\\{ 2x - y = 4 \\,;\\, 4x - 2y = 8 \\}\\).",
+    "ans": "Consistent-dependent (Infinitely many solutions)"
+  },
+  {
+    "idx": 12,
+    "fname": "g8_t134_q12.svg",
+    "qid": 133594,
+    "type_idx": 2,
+    "qtext": "Solve the system of linear equations: \\(\\{ x + y = 6 \\,;\\, x - y = 2 \\}\\).",
+    "ans": "(4, 2)"
+  },
+  {
+    "idx": 13,
+    "fname": "g8_t134_q13.svg",
+    "qid": 133595,
+    "type_idx": 3,
+    "qtext": "Solve the system of equations using the Substitution Method: \\(\\{ y = 3x - 5 \\,;\\, 2x + 3y = 18 \\}\\).",
+    "ans": "x = 3, y = 4"
+  },
+  {
+    "idx": 14,
+    "fname": "g8_t134_q14.svg",
+    "qid": 133596,
+    "type_idx": 4,
+    "qtext": "Solve the system of equations using the Elimination Method: \\(\\{ 3x + 2y = 16 \\,;\\, 5x - 2y = 16 \\}\\).",
+    "ans": "x = 4, y = 2"
+  },
+  {
+    "idx": 15,
+    "fname": "g8_t134_q15.svg",
+    "qid": 133597,
+    "type_idx": 5,
+    "qtext": "Solve the system of linear equations: \\(\\{ 4x + 3y = 11 \\,;\\, 3x - 5y = -7 \\}\\).",
+    "ans": "(2, 1)"
+  },
+  {
+    "idx": 16,
+    "fname": "g8_t134_q16.svg",
+    "qid": 133598,
+    "type_idx": 6,
+    "qtext": "Determine the number of solutions for the system: \\(\\{ 2x + 6y = 10 \\,;\\, x + 3y = 7 \\}\\).",
+    "ans": "No Solution (Inconsistent System)"
+  },
+  {
+    "idx": 17,
+    "fname": "g8_t134_q17.svg",
+    "qid": 133599,
+    "type_idx": 7,
+    "qtext": "The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.",
+    "ans": "41 and 23",
+    "eq1": "x + y = 64",
+    "eq2": "x - y = 18"
+  },
+  {
+    "idx": 18,
+    "fname": "g8_t134_q18.svg",
+    "qid": 133600,
+    "type_idx": 8,
+    "qtext": "At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.",
+    "ans": "Burger: ₱45, Drink: ₱20",
+    "eq1": "3b + 2d = 175",
+    "eq2": "2b + 4d = 170"
+  },
+  {
+    "idx": 19,
+    "fname": "g8_t134_q19.svg",
+    "qid": 133601,
+    "type_idx": 9,
+    "qtext": "A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.",
+    "ans": "Boat: 15 km/h, Current: 3 km/h",
+    "eq1": "b + c = 18",
+    "eq2": "b - c = 12"
+  },
+  {
+    "idx": 20,
+    "fname": "g8_t134_q20.svg",
+    "qid": 133602,
+    "type_idx": 10,
+    "qtext": "A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?",
+    "ans": "10 liters of 20% solution and 20 liters of 50% solution",
+    "eq1": "x + y = 30",
+    "eq2": "0.2x + 0.5y = 12"
+  },
+  {
+    "idx": 21,
+    "fname": "g8_t134_q21.svg",
+    "qid": 133603,
+    "type_idx": 1,
+    "qtext": "Classify the system of equations by comparing slopes and y-intercepts: \\(\\{ 2x - y = 4 \\,;\\, 4x - 2y = 8 \\}\\).",
+    "ans": "Consistent-dependent (Infinitely many solutions)"
+  },
+  {
+    "idx": 22,
+    "fname": "g8_t134_q22.svg",
+    "qid": 133604,
+    "type_idx": 2,
+    "qtext": "Solve the system of linear equations: \\(\\{ x + y = 6 \\,;\\, x - y = 2 \\}\\).",
+    "ans": "(4, 2)"
+  },
+  {
+    "idx": 23,
+    "fname": "g8_t134_q23.svg",
+    "qid": 133605,
+    "type_idx": 3,
+    "qtext": "Solve the system of equations using the Substitution Method: \\(\\{ y = 3x - 5 \\,;\\, 2x + 3y = 18 \\}\\).",
+    "ans": "x = 3, y = 4"
+  },
+  {
+    "idx": 24,
+    "fname": "g8_t134_q24.svg",
+    "qid": 133606,
+    "type_idx": 4,
+    "qtext": "Solve the system of equations using the Elimination Method: \\(\\{ 3x + 2y = 16 \\,;\\, 5x - 2y = 16 \\}\\).",
+    "ans": "x = 4, y = 2"
+  },
+  {
+    "idx": 25,
+    "fname": "g8_t134_q25.svg",
+    "qid": 133607,
+    "type_idx": 5,
+    "qtext": "Solve the system of linear equations: \\(\\{ 4x + 3y = 11 \\,;\\, 3x - 5y = -7 \\}\\).",
+    "ans": "(2, 1)"
+  },
+  {
+    "idx": 26,
+    "fname": "g8_t134_q26.svg",
+    "qid": 133608,
+    "type_idx": 6,
+    "qtext": "Determine the number of solutions for the system: \\(\\{ 2x + 6y = 10 \\,;\\, x + 3y = 7 \\}\\).",
+    "ans": "No Solution (Inconsistent System)"
+  },
+  {
+    "idx": 27,
+    "fname": "g8_t134_q27.svg",
+    "qid": 133609,
+    "type_idx": 7,
+    "qtext": "The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.",
+    "ans": "41 and 23",
+    "eq1": "x + y = 64",
+    "eq2": "x - y = 18"
+  },
+  {
+    "idx": 28,
+    "fname": "g8_t134_q28.svg",
+    "qid": 133610,
+    "type_idx": 8,
+    "qtext": "At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.",
+    "ans": "Burger: ₱45, Drink: ₱20",
+    "eq1": "3b + 2d = 175",
+    "eq2": "2b + 4d = 170"
+  },
+  {
+    "idx": 29,
+    "fname": "g8_t134_q29.svg",
+    "qid": 133611,
+    "type_idx": 9,
+    "qtext": "A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.",
+    "ans": "Boat: 15 km/h, Current: 3 km/h",
+    "eq1": "b + c = 18",
+    "eq2": "b - c = 12"
+  },
+  {
+    "idx": 30,
+    "fname": "g8_t134_q30.svg",
+    "qid": 133612,
+    "type_idx": 10,
+    "qtext": "A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?",
+    "ans": "10 liters of 20% solution and 20 liters of 50% solution",
+    "eq1": "x + y = 30",
+    "eq2": "0.2x + 0.5y = 12"
+  },
+  {
+    "idx": 31,
+    "fname": "g8_t134_q31.svg",
+    "qid": 133613,
+    "type_idx": 1,
+    "qtext": "Classify the system of equations by comparing slopes and y-intercepts: \\(\\{ 2x - y = 4 \\,;\\, 4x - 2y = 8 \\}\\).",
+    "ans": "Consistent-dependent (Infinitely many solutions)"
+  },
+  {
+    "idx": 32,
+    "fname": "g8_t134_q32.svg",
+    "qid": 133614,
+    "type_idx": 2,
+    "qtext": "Solve the system of linear equations: \\(\\{ x + y = 6 \\,;\\, x - y = 2 \\}\\).",
+    "ans": "(4, 2)"
+  },
+  {
+    "idx": 33,
+    "fname": "g8_t134_q33.svg",
+    "qid": 133615,
+    "type_idx": 3,
+    "qtext": "Solve the system of equations using the Substitution Method: \\(\\{ y = 3x - 5 \\,;\\, 2x + 3y = 18 \\}\\).",
+    "ans": "x = 3, y = 4"
+  },
+  {
+    "idx": 34,
+    "fname": "g8_t134_q34.svg",
+    "qid": 133616,
+    "type_idx": 4,
+    "qtext": "Solve the system of equations using the Elimination Method: \\(\\{ 3x + 2y = 16 \\,;\\, 5x - 2y = 16 \\}\\).",
+    "ans": "x = 4, y = 2"
+  },
+  {
+    "idx": 35,
+    "fname": "g8_t134_q35.svg",
+    "qid": 133617,
+    "type_idx": 5,
+    "qtext": "Solve the system of linear equations: \\(\\{ 4x + 3y = 11 \\,;\\, 3x - 5y = -7 \\}\\).",
+    "ans": "(2, 1)"
+  },
+  {
+    "idx": 36,
+    "fname": "g8_t134_q36.svg",
+    "qid": 133618,
+    "type_idx": 6,
+    "qtext": "Determine the number of solutions for the system: \\(\\{ 2x + 6y = 10 \\,;\\, x + 3y = 7 \\}\\).",
+    "ans": "No Solution (Inconsistent System)"
+  },
+  {
+    "idx": 37,
+    "fname": "g8_t134_q37.svg",
+    "qid": 133619,
+    "type_idx": 7,
+    "qtext": "The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.",
+    "ans": "41 and 23",
+    "eq1": "x + y = 64",
+    "eq2": "x - y = 18"
+  },
+  {
+    "idx": 38,
+    "fname": "g8_t134_q38.svg",
+    "qid": 133620,
+    "type_idx": 8,
+    "qtext": "At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.",
+    "ans": "Burger: ₱45, Drink: ₱20",
+    "eq1": "3b + 2d = 175",
+    "eq2": "2b + 4d = 170"
+  },
+  {
+    "idx": 39,
+    "fname": "g8_t134_q39.svg",
+    "qid": 133621,
+    "type_idx": 9,
+    "qtext": "A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.",
+    "ans": "Boat: 15 km/h, Current: 3 km/h",
+    "eq1": "b + c = 18",
+    "eq2": "b - c = 12"
+  },
+  {
+    "idx": 40,
+    "fname": "g8_t134_q40.svg",
+    "qid": 133622,
+    "type_idx": 10,
+    "qtext": "A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?",
+    "ans": "10 liters of 20% solution and 20 liters of 50% solution",
+    "eq1": "x + y = 30",
+    "eq2": "0.2x + 0.5y = 12"
+  },
+  {
+    "idx": 41,
+    "fname": "g8_t134_q41.svg",
+    "qid": 133623,
+    "type_idx": 1,
+    "qtext": "Classify the system of equations by comparing slopes and y-intercepts: \\(\\{ 2x - y = 4 \\,;\\, 4x - 2y = 8 \\}\\).",
+    "ans": "Consistent-dependent (Infinitely many solutions)"
+  },
+  {
+    "idx": 42,
+    "fname": "g8_t134_q42.svg",
+    "qid": 133624,
+    "type_idx": 2,
+    "qtext": "Solve the system of linear equations: \\(\\{ x + y = 6 \\,;\\, x - y = 2 \\}\\).",
+    "ans": "(4, 2)"
+  },
+  {
+    "idx": 43,
+    "fname": "g8_t134_q43.svg",
+    "qid": 133625,
+    "type_idx": 3,
+    "qtext": "Solve the system of equations using the Substitution Method: \\(\\{ y = 3x - 5 \\,;\\, 2x + 3y = 18 \\}\\).",
+    "ans": "x = 3, y = 4"
+  },
+  {
+    "idx": 44,
+    "fname": "g8_t134_q44.svg",
+    "qid": 133626,
+    "type_idx": 4,
+    "qtext": "Solve the system of equations using the Elimination Method: \\(\\{ 3x + 2y = 16 \\,;\\, 5x - 2y = 16 \\}\\).",
+    "ans": "x = 4, y = 2"
+  },
+  {
+    "idx": 45,
+    "fname": "g8_t134_q45.svg",
+    "qid": 133627,
+    "type_idx": 5,
+    "qtext": "Solve the system of linear equations: \\(\\{ 4x + 3y = 11 \\,;\\, 3x - 5y = -7 \\}\\).",
+    "ans": "(2, 1)"
+  },
+  {
+    "idx": 46,
+    "fname": "g8_t134_q46.svg",
+    "qid": 133628,
+    "type_idx": 6,
+    "qtext": "Determine the number of solutions for the system: \\(\\{ 2x + 6y = 10 \\,;\\, x + 3y = 7 \\}\\).",
+    "ans": "No Solution (Inconsistent System)"
+  },
+  {
+    "idx": 47,
+    "fname": "g8_t134_q47.svg",
+    "qid": 133629,
+    "type_idx": 7,
+    "qtext": "The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.",
+    "ans": "41 and 23",
+    "eq1": "x + y = 64",
+    "eq2": "x - y = 18"
+  },
+  {
+    "idx": 48,
+    "fname": "g8_t134_q48.svg",
+    "qid": 133630,
+    "type_idx": 8,
+    "qtext": "At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.",
+    "ans": "Burger: ₱45, Drink: ₱20",
+    "eq1": "3b + 2d = 175",
+    "eq2": "2b + 4d = 170"
+  },
+  {
+    "idx": 49,
+    "fname": "g8_t134_q49.svg",
+    "qid": 133631,
+    "type_idx": 9,
+    "qtext": "A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.",
+    "ans": "Boat: 15 km/h, Current: 3 km/h",
+    "eq1": "b + c = 18",
+    "eq2": "b - c = 12"
+  },
+  {
+    "idx": 50,
+    "fname": "g8_t134_q50.svg",
+    "qid": 133632,
+    "type_idx": 10,
+    "qtext": "A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?",
+    "ans": "10 liters of 20% solution and 20 liters of 50% solution",
+    "eq1": "x + y = 30",
+    "eq2": "0.2x + 0.5y = 12"
+  }
+]

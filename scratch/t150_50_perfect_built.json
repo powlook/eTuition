@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "134383",
+    "title": "Q1: Definition of Similar Polygons",
+    "question_text": "Define similar polygons in terms of corresponding angles and corresponding side lengths.",
+    "math_formula": "\\text{Polygon}_1 \\sim \\text{Polygon}_2 \\iff \\text{Angles equal and sides proportional } \\frac{a_1}{a_2} = k",
+    "optA": "Two polygons are similar if their corresponding angles are equal and their corresponding side lengths are proportional.",
+    "optB": "Two polygons are similar if all corresponding side lengths and angles are exactly equal.",
+    "optC": "Two polygons are similar if they have equal perimeters, regardless of angle measures.",
+    "optD": "Two polygons are similar if their interior angles sum to 360°.",
+    "correct_answer": "Two polygons are similar if their corresponding angles are equal and their corresponding side lengths are proportional.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q1.svg",
+    "options": [
+      "Two polygons are similar if their interior angles sum to 360°.",
+      "Two polygons are similar if all corresponding side lengths and angles are exactly equal.",
+      "Two polygons are similar if their corresponding angles are equal and their corresponding side lengths are proportional.",
+      "Two polygons are similar if they have equal perimeters, regardless of angle measures."
+    ],
+    "correct": "Two polygons are similar if their corresponding angles are equal and their corresponding side lengths are proportional."
+  },
+  {
+    "id": "134384",
+    "title": "Q2: Congruence vs Similarity Comparison",
+    "question_text": "Explain the difference between congruence (≅) and similarity (~) of geometric figures.",
+    "math_formula": "\\text{Congruence: Same shape AND size } (k=1); \\quad \\text{Similarity: Same shape, DIFFERENT size } (k > 0)",
+    "optA": "Congruent figures have identical shapes and equal sizes (scale factor k = 1); Similar figures have identical shapes (equal angles) but can differ in size (scale factor k ≠ 1).",
+    "optB": "Congruent figures have different shapes; Similar figures have equal areas.",
+    "optC": "Congruent figures apply to triangles only; Similar figures apply to circles only.",
+    "optD": "There is no difference; congruence and similarity mean the exact same thing.",
+    "correct_answer": "Congruent figures have identical shapes and equal sizes (scale factor k = 1); Similar figures have identical shapes (equal angles) but can differ in size (scale factor k ≠ 1).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q2.svg",
+    "options": [
+      "Congruent figures apply to triangles only; Similar figures apply to circles only.",
+      "Congruent figures have different shapes; Similar figures have equal areas.",
+      "Congruent figures have identical shapes and equal sizes (scale factor k = 1); Similar figures have identical shapes (equal angles) but can differ in size (scale factor k ≠ 1).",
+      "There is no difference; congruence and similarity mean the exact same thing."
+    ],
+    "correct": "Congruent figures have identical shapes and equal sizes (scale factor k = 1); Similar figures have identical shapes (equal angles) but can differ in size (scale factor k ≠ 1)."
+  },
+  {
+    "id": "134385",
+    "title": "Q3: Scale Factor Effect on Perimeter and Area",
+    "question_text": "What is a scale factor (ratio of similitude)? Explain how a scale factor k affects perimeter and area.",
+    "math_formula": "\\text{Perimeter Ratio} = k, \\quad \\text{Area Ratio} = k^2",
+    "optA": "Scale factor k is the constant ratio of corresponding side lengths; perimeters change by factor k, while areas change by factor k².",
+    "optB": "Scale factor k is the sum of side lengths; perimeters change by k², while areas change by k.",
+    "optC": "Scale factor k is the difference in angles; perimeters and areas both change by 2k.",
+    "optD": "Scale factor k affects angles by k, while side lengths remain unchanged.",
+    "correct_answer": "Scale factor k is the constant ratio of corresponding side lengths; perimeters change by factor k, while areas change by factor k².",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Scale factor k is the difference in angles; perimeters and areas both change by 2k.",
+      "Scale factor k is the constant ratio of corresponding side lengths; perimeters change by factor k, while areas change by factor k².",
+      "Scale factor k is the sum of side lengths; perimeters change by k², while areas change by k.",
+      "Scale factor k affects angles by k, while side lengths remain unchanged."
+    ],
+    "correct": "Scale factor k is the constant ratio of corresponding side lengths; perimeters change by factor k, while areas change by factor k²."
+  },
+  {
+    "id": "134386",
+    "title": "Q4: Perimeter of Similar Rectangles",
+    "question_text": "Two similar rectangles have a scale factor of 3 : 5. If the perimeter of the smaller rectangle is 36 cm, find the perimeter of the larger rectangle.",
+    "math_formula": "\\frac{36}{P_{\\text{large}}} = \\frac{3}{5} \\implies P_{\\text{large}} = \\frac{36 \\times 5}{3} = 60\\text{ cm}",
+    "optA": "60 cm",
+    "optB": "100 cm",
+    "optC": "48 cm",
+    "optD": "75 cm",
+    "correct_answer": "60 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q4.svg",
+    "options": [
+      "60 cm",
+      "100 cm",
+      "75 cm",
+      "48 cm"
+    ],
+    "correct": "60 cm"
+  },
+  {
+    "id": "134387",
+    "title": "Q5: Side Length Scale Factor from Area Ratio",
+    "question_text": "Two similar polygons have areas of 48 cm² and 108 cm². Find the ratio of their corresponding side lengths in simplest form.",
+    "math_formula": "\\text{Area Ratio} = \\frac{48}{108} = \\frac{4}{9} \\implies \\text{Side Scale Factor } k = \\sqrt{\\frac{4}{9}} = \\frac{2}{3} = 2 : 3",
+    "optA": "2 : 3",
+    "optB": "4 : 9",
+    "optC": "1 : 2",
+    "optD": "3 : 4",
+    "correct_answer": "2 : 3",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "1 : 2",
+      "4 : 9",
+      "2 : 3",
+      "3 : 4"
+    ],
+    "correct": "2 : 3"
+  },
+  {
+    "id": "134388",
+    "title": "Q6: Angle-Angle (AA) Similarity Postulate",
+    "question_text": "State the Angle-Angle (AA) Similarity Postulate for triangles.",
+    "math_formula": "\\angle A = \\angle D, \\quad \\angle B = \\angle E \\implies \\Delta ABC \\sim \\Delta DEF",
+    "optA": "If two angles of one triangle are congruent to two angles of another triangle, then the two triangles are similar (AA).",
+    "optB": "If two sides of one triangle are equal to two sides of another, the triangles are similar.",
+    "optC": "If three angles sum to 180° in both triangles, they are similar.",
+    "optD": "AA similarity requires all three sides to be equal.",
+    "correct_answer": "If two angles of one triangle are congruent to two angles of another triangle, then the two triangles are similar (AA).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q6.svg",
+    "options": [
+      "If three angles sum to 180° in both triangles, they are similar.",
+      "AA similarity requires all three sides to be equal.",
+      "If two sides of one triangle are equal to two sides of another, the triangles are similar.",
+      "If two angles of one triangle are congruent to two angles of another triangle, then the two triangles are similar (AA)."
+    ],
+    "correct": "If two angles of one triangle are congruent to two angles of another triangle, then the two triangles are similar (AA)."
+  },
+  {
+    "id": "134389",
+    "title": "Q7: Side-Angle-Side (SAS) Similarity Theorem",
+    "question_text": "State the Side-Angle-Side (SAS) Similarity Theorem for triangles.",
+    "math_formula": "\\frac{AB}{DE} = \\frac{AC}{DF} = k, \\quad \\angle A = \\angle D \\implies \\Delta ABC \\sim \\Delta DEF",
+    "optA": "If an angle of one triangle is congruent to an angle of another triangle and the sides including these angles are proportional, then the triangles are similar (SAS).",
+    "optB": "If two sides are congruent and the included angle is 90°, the triangles are similar.",
+    "optC": "If two angles and the included side are equal, it is SAS similarity.",
+    "optD": "If all three sides are proportional, it is SAS similarity.",
+    "correct_answer": "If an angle of one triangle is congruent to an angle of another triangle and the sides including these angles are proportional, then the triangles are similar (SAS).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q7.svg",
+    "options": [
+      "If an angle of one triangle is congruent to an angle of another triangle and the sides including these angles are proportional, then the triangles are similar (SAS).",
+      "If two sides are congruent and the included angle is 90°, the triangles are similar.",
+      "If all three sides are proportional, it is SAS similarity.",
+      "If two angles and the included side are equal, it is SAS similarity."
+    ],
+    "correct": "If an angle of one triangle is congruent to an angle of another triangle and the sides including these angles are proportional, then the triangles are similar (SAS)."
+  },
+  {
+    "id": "134390",
+    "title": "Q8: Side-Side-Side (SSS) Similarity Theorem",
+    "question_text": "State the Side-Side-Side (SSS) Similarity Theorem for triangles.",
+    "math_formula": "\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{AC}{DF} = k \\implies \\Delta ABC \\sim \\Delta DEF",
+    "optA": "If the corresponding side lengths of two triangles are proportional, then the triangles are similar (SSS).",
+    "optB": "If three sides of one triangle are equal in length to three sides of another, it is SSS similarity.",
+    "optC": "If three angles of one triangle are equal to three angles of another, it is SSS similarity.",
+    "optD": "If two sides are proportional and one angle is equal, it is SSS similarity.",
+    "correct_answer": "If the corresponding side lengths of two triangles are proportional, then the triangles are similar (SSS).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q8.svg",
+    "options": [
+      "If the corresponding side lengths of two triangles are proportional, then the triangles are similar (SSS).",
+      "If three sides of one triangle are equal in length to three sides of another, it is SSS similarity.",
+      "If three angles of one triangle are equal to three angles of another, it is SSS similarity.",
+      "If two sides are proportional and one angle is equal, it is SSS similarity."
+    ],
+    "correct": "If the corresponding side lengths of two triangles are proportional, then the triangles are similar (SSS)."
+  },
+  {
+    "id": "134391",
+    "title": "Q9: AA Similarity Verification Problem",
+    "question_text": "In △ABC and △DEF, m∠A = 48°, m∠B = 72°, m∠D = 48°, and m∠F = 60°. Determine whether △ABC ~ △DEF and justify your answer.",
+    "math_formula": "m\\angle C = 180^\\circ - (48^\\circ + 72^\\circ) = 60^\\circ \\implies m\\angle A = m\\angle D, \\; m\\angle C = m\\angle F \\implies \\text{Similar by AA}",
+    "optA": "Yes, △ABC ~ △DEF by AA Similarity because m∠C = 60° matches m∠F = 60° and m∠A = m∠D = 48°.",
+    "optB": "No, because m∠B (72°) does not match m∠F (60°).",
+    "optC": "No, because side lengths are not provided.",
+    "optD": "Yes, by SSS similarity.",
+    "correct_answer": "Yes, △ABC ~ △DEF by AA Similarity because m∠C = 60° matches m∠F = 60° and m∠A = m∠D = 48°.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q9.svg",
+    "options": [
+      "Yes, by SSS similarity.",
+      "No, because m∠B (72°) does not match m∠F (60°).",
+      "No, because side lengths are not provided.",
+      "Yes, △ABC ~ △DEF by AA Similarity because m∠C = 60° matches m∠F = 60° and m∠A = m∠D = 48°."
+    ],
+    "correct": "Yes, △ABC ~ △DEF by AA Similarity because m∠C = 60° matches m∠F = 60° and m∠A = m∠D = 48°."
+  },
+  {
+    "id": "134392",
+    "title": "Q10: SSS Similarity Verification Problem",
+    "question_text": "In △PQR and △STU, PQ = 6 cm, QR = 9 cm, PR = 12 cm, and ST = 8 cm, TU = 12 cm, SU = 16 cm. Prove whether △PQR ~ △STU.",
+    "math_formula": "\\frac{6}{8} = \\frac{9}{12} = \\frac{12}{16} = \\frac{3}{4} \\implies \\text{Similar by SSS (scale factor 3:4)}",
+    "optA": "Yes, △PQR ~ △STU by SSS Similarity with a scale factor of 3 : 4 (6/8 = 9/12 = 12/16 = 3/4).",
+    "optB": "No, because the ratios of corresponding sides are not equal.",
+    "optC": "Yes, by AA similarity postulate.",
+    "optD": "No, because STU is larger than PQR.",
+    "correct_answer": "Yes, △PQR ~ △STU by SSS Similarity with a scale factor of 3 : 4 (6/8 = 9/12 = 12/16 = 3/4).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q10.svg",
+    "options": [
+      "No, because the ratios of corresponding sides are not equal.",
+      "Yes, by AA similarity postulate.",
+      "Yes, △PQR ~ △STU by SSS Similarity with a scale factor of 3 : 4 (6/8 = 9/12 = 12/16 = 3/4).",
+      "No, because STU is larger than PQR."
+    ],
+    "correct": "Yes, △PQR ~ △STU by SSS Similarity with a scale factor of 3 : 4 (6/8 = 9/12 = 12/16 = 3/4)."
+  },
+  {
+    "id": "134393",
+    "title": "Q11: Triangle Proportionality Theorem Calculation",
+    "question_text": "In △ABC, DE || BC where D is on AB and E is on AC. If AD = 4 cm, DB = 6 cm, and AE = 5 cm, find the length of EC using the Triangle Proportionality Theorem.",
+    "math_formula": "\\frac{AD}{DB} = \\frac{AE}{EC} \\implies \\frac{4}{6} = \\frac{5}{EC} \\implies EC = \\frac{6 \\times 5}{4} = 7.5\\text{ cm}",
+    "optA": "7.5 cm",
+    "optB": "8 cm",
+    "optC": "6.5 cm",
+    "optD": "10 cm",
+    "correct_answer": "7.5 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q11.svg",
+    "options": [
+      "8 cm",
+      "10 cm",
+      "7.5 cm",
+      "6.5 cm"
+    ],
+    "correct": "7.5 cm"
+  },
+  {
+    "id": "134394",
+    "title": "Q12: Triangle Proportionality Theorem Statement",
+    "question_text": "State the Triangle Proportionality Theorem (Basic Proportionality / Thales' Theorem) and its converse.",
+    "math_formula": "DE \\parallel BC \\iff \\frac{AD}{DB} = \\frac{AE}{EC}",
+    "optA": "Theorem: If a line is parallel to one side of a triangle intersecting the other two sides, it divides those sides proportionally; Converse: If a line divides two sides proportionally, it is parallel to the third side.",
+    "optB": "Theorem: A parallel line cuts a triangle into two congruent triangles; Converse: Congruent triangles have parallel sides.",
+    "optC": "Theorem: Parallel lines double the area of a triangle; Converse: Double area means parallel lines.",
+    "optD": "Theorem: A line parallel to the base is always 5 cm long.",
+    "correct_answer": "Theorem: If a line is parallel to one side of a triangle intersecting the other two sides, it divides those sides proportionally; Converse: If a line divides two sides proportionally, it is parallel to the third side.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q12.svg",
+    "options": [
+      "Theorem: A line parallel to the base is always 5 cm long.",
+      "Theorem: If a line is parallel to one side of a triangle intersecting the other two sides, it divides those sides proportionally; Converse: If a line divides two sides proportionally, it is parallel to the third side.",
+      "Theorem: Parallel lines double the area of a triangle; Converse: Double area means parallel lines.",
+      "Theorem: A parallel line cuts a triangle into two congruent triangles; Converse: Congruent triangles have parallel sides."
+    ],
+    "correct": "Theorem: If a line is parallel to one side of a triangle intersecting the other two sides, it divides those sides proportionally; Converse: If a line divides two sides proportionally, it is parallel to the third side."
+  },
+  {
+    "id": "134395",
+    "title": "Q13: Triangle Proportionality Algebraic Problem",
+    "question_text": "In △ABC with DE || BC, if AD = x + 1, DB = 2x - 1, AE = 3, and EC = 5, solve for x.",
+    "math_formula": "\\frac{x + 1}{2x - 1} = \\frac{3}{5} \\implies 5(x + 1) = 3(2x - 1) \\implies 5x + 5 = 6x - 3 \\implies x = 8",
+    "optA": "x = 8",
+    "optB": "x = 6",
+    "optC": "x = 10",
+    "optD": "x = 4",
+    "correct_answer": "x = 8",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q13.svg",
+    "options": [
+      "x = 10",
+      "x = 6",
+      "x = 4",
+      "x = 8"
+    ],
+    "correct": "x = 8"
+  },
+  {
+    "id": "134396",
+    "title": "Q14: Triangle Angle Bisector Theorem Statement",
+    "question_text": "State the Triangle Angle Bisector Theorem regarding the ratio of opposite side segments to adjacent sides.",
+    "math_formula": "\\text{Angle Bisector } AD \\implies \\frac{BD}{DC} = \\frac{AB}{AC}",
+    "optA": "An angle bisector in a triangle divides the opposite side into two segments that are proportional to the adjacent sides of the triangle (BD / DC = AB / AC).",
+    "optB": "An angle bisector divides the opposite side into two equal halves in all triangles.",
+    "optC": "An angle bisector is always perpendicular to the opposite side.",
+    "optD": "An angle bisector creates two congruent triangles.",
+    "correct_answer": "An angle bisector in a triangle divides the opposite side into two segments that are proportional to the adjacent sides of the triangle (BD / DC = AB / AC).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q14.svg",
+    "options": [
+      "An angle bisector divides the opposite side into two equal halves in all triangles.",
+      "An angle bisector in a triangle divides the opposite side into two segments that are proportional to the adjacent sides of the triangle (BD / DC = AB / AC).",
+      "An angle bisector creates two congruent triangles.",
+      "An angle bisector is always perpendicular to the opposite side."
+    ],
+    "correct": "An angle bisector in a triangle divides the opposite side into two segments that are proportional to the adjacent sides of the triangle (BD / DC = AB / AC)."
+  },
+  {
+    "id": "134397",
+    "title": "Q15: Angle Bisector Segment Calculation",
+    "question_text": "In △PQR, ray PS bisects ∠P intersecting QR at S. If PQ = 12 cm, PR = 18 cm, and QS = 6 cm, find the length of SR.",
+    "math_formula": "\\frac{PQ}{PR} = \\frac{QS}{SR} \\implies \\frac{12}{18} = \\frac{6}{SR} \\implies \\frac{2}{3} = \\frac{6}{SR} \\implies SR = 9\\text{ cm}",
+    "optA": "9 cm",
+    "optB": "8 cm",
+    "optC": "12 cm",
+    "optD": "10 cm",
+    "correct_answer": "9 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q15.svg",
+    "options": [
+      "9 cm",
+      "10 cm",
+      "8 cm",
+      "12 cm"
+    ],
+    "correct": "9 cm"
+  },
+  {
+    "id": "134398",
+    "title": "Q16: Flagpole Indirect Measurement (Shadow Method)",
+    "question_text": "A 6-foot tall person casts a shadow of 9 feet at the same time a nearby flagpole casts a shadow of 45 feet. Calculate the height of the flagpole.",
+    "math_formula": "\\frac{6}{9} = \\frac{h}{45} \\implies h = \\frac{6 \\times 45}{9} = 30\\text{ feet}",
+    "optA": "30 feet",
+    "optB": "36 feet",
+    "optC": "25 feet",
+    "optD": "40 feet",
+    "correct_answer": "30 feet",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q16.svg",
+    "options": [
+      "36 feet",
+      "30 feet",
+      "40 feet",
+      "25 feet"
+    ],
+    "correct": "30 feet"
+  },
+  {
+    "id": "134399",
+    "title": "Q17: Tree Height Indirect Measurement",
+    "question_text": "A tree casts a 15-meter shadow while a vertical 2-meter measuring stick casts a 1.2-meter shadow. How tall is the tree?",
+    "math_formula": "\\frac{h}{15} = \\frac{2}{1.2} \\implies h = \\frac{15 \\times 2}{1.2} = 25\\text{ meters}",
+    "optA": "25 meters",
+    "optB": "20 meters",
+    "optC": "30 meters",
+    "optD": "18 meters",
+    "correct_answer": "25 meters",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q17.svg",
+    "options": [
+      "20 meters",
+      "30 meters",
+      "18 meters",
+      "25 meters"
+    ],
+    "correct": "25 meters"
+  },
+  {
+    "id": "134400",
+    "title": "Q18: Cliff Height Measurement via Ground Mirror",
+    "question_text": "A surveyor uses a mirror placed flat on the ground 12 meters from the base of a cliff. The surveyor stands 2 meters from the mirror so that the top of the cliff is visible in the mirror. If the surveyor's eye level is 1.6 meters, calculate the cliff height.",
+    "math_formula": "\\frac{h}{12} = \\frac{1.6}{2} \\implies h = 12 \\times 0.8 = 9.6\\text{ meters}",
+    "optA": "9.6 meters",
+    "optB": "15 meters",
+    "optC": "10.5 meters",
+    "optD": "8.4 meters",
+    "correct_answer": "9.6 meters",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q18.svg",
+    "options": [
+      "9.6 meters",
+      "10.5 meters",
+      "8.4 meters",
+      "15 meters"
+    ],
+    "correct": "9.6 meters"
+  },
+  {
+    "id": "134401",
+    "title": "Q19: Geometric Mean Theorems Statement",
+    "question_text": "State the Right Triangle Altitude Theorem (Geometric Mean Theorems for Altitude and Legs).",
+    "math_formula": "h = \\sqrt{p \\cdot q}, \\quad a = \\sqrt{p \\cdot c}, \\quad b = \\sqrt{q \\cdot c}",
+    "optA": "Altitude to hypotenuse is the geometric mean of hypotenuse segments (h = √(p·q)); each leg is the geometric mean of adjacent hypotenuse segment and total hypotenuse (leg = √(p·c)).",
+    "optB": "Altitude is the arithmetic mean of hypotenuse segments (h = (p + q)/2).",
+    "optC": "Altitude is equal to the product of legs divided by hypotenuse squared.",
+    "optD": "Altitude equals half the hypotenuse in all right triangles.",
+    "correct_answer": "Altitude to hypotenuse is the geometric mean of hypotenuse segments (h = √(p·q)); each leg is the geometric mean of adjacent hypotenuse segment and total hypotenuse (leg = √(p·c)).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q19.svg",
+    "options": [
+      "Altitude to hypotenuse is the geometric mean of hypotenuse segments (h = √(p·q)); each leg is the geometric mean of adjacent hypotenuse segment and total hypotenuse (leg = √(p·c)).",
+      "Altitude is the arithmetic mean of hypotenuse segments (h = (p + q)/2).",
+      "Altitude is equal to the product of legs divided by hypotenuse squared.",
+      "Altitude equals half the hypotenuse in all right triangles."
+    ],
+    "correct": "Altitude to hypotenuse is the geometric mean of hypotenuse segments (h = √(p·q)); each leg is the geometric mean of adjacent hypotenuse segment and total hypotenuse (leg = √(p·c))."
+  },
+  {
+    "id": "134402",
+    "title": "Q20: Altitude Geometric Mean Calculation",
+    "question_text": "In right triangle ABC with right angle at C, altitude CD is drawn to hypotenuse AB. If AD = 4 cm and DB = 9 cm, find the length of altitude CD.",
+    "math_formula": "CD = \\sqrt{AD \\times DB} = \\sqrt{4 \\times 9} = \\sqrt{36} = 6\\text{ cm}",
+    "optA": "6 cm",
+    "optB": "6.5 cm",
+    "optC": "13 cm",
+    "optD": "5 cm",
+    "correct_answer": "6 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q20.svg",
+    "options": [
+      "13 cm",
+      "5 cm",
+      "6 cm",
+      "6.5 cm"
+    ],
+    "correct": "6 cm"
+  },
+  {
+    "id": "134403",
+    "title": "Q21: Leg Geometric Mean Calculation",
+    "question_text": "Referring to the right triangle in Question 20 (AD = 4 cm, DB = 9 cm, AB = 13 cm), find the exact lengths of legs AC and BC.",
+    "math_formula": "AC = \\sqrt{4 \\times 13} = 2\\sqrt{13} \\approx 7.21\\text{ cm}, \\quad BC = \\sqrt{9 \\times 13} = 3\\sqrt{13} \\approx 10.82\\text{ cm}",
+    "optA": "AC = 2√13 cm (≈ 7.21 cm), BC = 3√13 cm (≈ 10.82 cm)",
+    "optB": "AC = 6 cm, BC = 9 cm",
+    "optC": "AC = 5 cm, BC = 12 cm",
+    "optD": "AC = √13 cm, BC = 2√13 cm",
+    "correct_answer": "AC = 2√13 cm (≈ 7.21 cm), BC = 3√13 cm (≈ 10.82 cm)",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q21.svg",
+    "options": [
+      "AC = 2√13 cm (≈ 7.21 cm), BC = 3√13 cm (≈ 10.82 cm)",
+      "AC = 5 cm, BC = 12 cm",
+      "AC = 6 cm, BC = 9 cm",
+      "AC = √13 cm, BC = 2√13 cm"
+    ],
+    "correct": "AC = 2√13 cm (≈ 7.21 cm), BC = 3√13 cm (≈ 10.82 cm)"
+  },
+  {
+    "id": "134404",
+    "title": "Q22: Right Triangle Area via Hypotenuse Segments",
+    "question_text": "In right triangle XYZ with altitude h to hypotenuse c, the segments of the hypotenuse are 3 cm and 12 cm. Find the area of triangle XYZ.",
+    "math_formula": "h = \\sqrt{3 \\times 12} = 6\\text{ cm}, \\quad c = 3 + 12 = 15\\text{ cm} \\implies \\text{Area} = \\frac{1}{2} \\times 15 \\times 6 = 45\\text{ cm}^2",
+    "optA": "45 cm²",
+    "optB": "36 cm²",
+    "optC": "90 cm²",
+    "optD": "54 cm²",
+    "correct_answer": "45 cm²",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q22.svg",
+    "options": [
+      "45 cm²",
+      "54 cm²",
+      "90 cm²",
+      "36 cm²"
+    ],
+    "correct": "45 cm²"
+  },
+  {
+    "id": "134405",
+    "title": "Q23: Photo Enlargement Scaling",
+    "question_text": "A photographic print measuring 4 inches by 6 inches is enlarged so that its longer side is 15 inches. What is the width of the enlarged photo?",
+    "math_formula": "\\frac{4}{6} = \\frac{w}{15} \\implies w = \\frac{4 \\times 15}{6} = 10\\text{ inches}",
+    "optA": "10 inches",
+    "optB": "12 inches",
+    "optC": "8 inches",
+    "optD": "9 inches",
+    "correct_answer": "10 inches",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q23.svg",
+    "options": [
+      "9 inches",
+      "8 inches",
+      "10 inches",
+      "12 inches"
+    ],
+    "correct": "10 inches"
+  },
+  {
+    "id": "134406",
+    "title": "Q24: Map Scale Distance Calculation",
+    "question_text": "A map has a scale of 1 cm : 50 km. If the distance between two cities on the map is 7.4 cm, find the actual distance between them.",
+    "math_formula": "\\text{Actual Distance} = 7.4 \\times 50 = 370\\text{ km}",
+    "optA": "370 km",
+    "optB": "350 km",
+    "optC": "400 km",
+    "optD": "320 km",
+    "correct_answer": "370 km",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q24.svg",
+    "options": [
+      "350 km",
+      "400 km",
+      "370 km",
+      "320 km"
+    ],
+    "correct": "370 km"
+  },
+  {
+    "id": "134407",
+    "title": "Q25: Similar Cylinders Surface Area & Volume Ratios",
+    "question_text": "Two similar cylinders have heights in the ratio 2 : 3. What is the ratio of their surface areas, and what is the ratio of their volumes?",
+    "math_formula": "\\text{Area Ratio} = 2^2 : 3^2 = 4 : 9, \\quad \\text{Volume Ratio} = 2^3 : 3^3 = 8 : 27",
+    "optA": "Surface Area ratio = 4 : 9, Volume ratio = 8 : 27",
+    "optB": "Surface Area ratio = 2 : 3, Volume ratio = 4 : 9",
+    "optC": "Surface Area ratio = 8 : 27, Volume ratio = 16 : 81",
+    "optD": "Surface Area ratio = 4 : 6, Volume ratio = 6 : 9",
+    "correct_answer": "Surface Area ratio = 4 : 9, Volume ratio = 8 : 27",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Surface Area ratio = 4 : 6, Volume ratio = 6 : 9",
+      "Surface Area ratio = 2 : 3, Volume ratio = 4 : 9",
+      "Surface Area ratio = 8 : 27, Volume ratio = 16 : 81",
+      "Surface Area ratio = 4 : 9, Volume ratio = 8 : 27"
+    ],
+    "correct": "Surface Area ratio = 4 : 9, Volume ratio = 8 : 27"
+  },
+  {
+    "id": "134408",
+    "title": "Q26: Architectural Blueprint Scale Area",
+    "question_text": "An architectural blueprint has a scale of 1 : 100. If a rectangular room measures 6 cm by 8 cm on the blueprint, find the actual area of the room in square meters.",
+    "math_formula": "6\\text{ cm} \\to 6\\text{ m}, \\quad 8\\text{ cm} \\to 8\\text{ m} \\implies \\text{Actual Area} = 6 \\times 8 = 48\\text{ m}^2",
+    "optA": "48 m²",
+    "optB": "480 m²",
+    "optC": "24 m²",
+    "optD": "96 m²",
+    "correct_answer": "48 m²",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q26.svg",
+    "options": [
+      "24 m²",
+      "96 m²",
+      "48 m²",
+      "480 m²"
+    ],
+    "correct": "48 m²"
+  },
+  {
+    "id": "134409",
+    "title": "Q27: SAS Similar Triangles Parallel Segment",
+    "question_text": "In △ABC, point D is on AB and E is on AC such that AD = 3, AB = 9, AE = 4, and AC = 12. If BC = 15, find DE.",
+    "math_formula": "\\frac{AD}{AB} = \\frac{3}{9} = \\frac{1}{3}, \\quad \\frac{AE}{AC} = \\frac{4}{12} = \\frac{1}{3} \\implies DE = \\frac{1}{3} \\times 15 = 5",
+    "optA": "5",
+    "optB": "6",
+    "optC": "4.5",
+    "optD": "7.5",
+    "correct_answer": "5",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q27.svg",
+    "options": [
+      "6",
+      "7.5",
+      "4.5",
+      "5"
+    ],
+    "correct": "5"
+  },
+  {
+    "id": "134410",
+    "title": "Q28: Converse of Triangle Proportionality Proof",
+    "question_text": "Prove that if a line divides two sides of a triangle proportionally, it is parallel to the third side.",
+    "math_formula": "\\frac{AD}{DB} = \\frac{AE}{EC} \\implies \\frac{AD}{AB} = \\frac{AE}{AC} \\implies \\Delta ADE \\sim \\Delta ABC \\text{ (SAS)} \\implies \\angle ADE = \\angle B \\implies DE \\parallel BC",
+    "optA": "Proportional sides give AD/AB = AE/AC; with shared ∠A, △ADE ~ △ABC by SAS; matching angles ∠ADE = ∠B prove DE || BC by converse of corresponding angles.",
+    "optB": "Proportional sides mean DE is equal to BC.",
+    "optC": "Proportional sides prove DE is perpendicular to BC.",
+    "optD": "It is true only when D and E are midpoints.",
+    "correct_answer": "Proportional sides give AD/AB = AE/AC; with shared ∠A, △ADE ~ △ABC by SAS; matching angles ∠ADE = ∠B prove DE || BC by converse of corresponding angles.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q28.svg",
+    "options": [
+      "It is true only when D and E are midpoints.",
+      "Proportional sides mean DE is equal to BC.",
+      "Proportional sides give AD/AB = AE/AC; with shared ∠A, △ADE ~ △ABC by SAS; matching angles ∠ADE = ∠B prove DE || BC by converse of corresponding angles.",
+      "Proportional sides prove DE is perpendicular to BC."
+    ],
+    "correct": "Proportional sides give AD/AB = AE/AC; with shared ∠A, △ADE ~ △ABC by SAS; matching angles ∠ADE = ∠B prove DE || BC by converse of corresponding angles."
+  },
+  {
+    "id": "134411",
+    "title": "Q29: Similar Triangles Perimeter Ratio Side Calculation",
+    "question_text": "Two similar triangles have perimeters of 45 cm and 60 cm. If one side of the first triangle is 12 cm, find the corresponding side of the second triangle.",
+    "math_formula": "\\frac{45}{60} = \\frac{12}{x} \\implies \\frac{3}{4} = \\frac{12}{x} \\implies x = \\frac{12 \\times 4}{3} = 16\\text{ cm}",
+    "optA": "16 cm",
+    "optB": "15 cm",
+    "optC": "18 cm",
+    "optD": "20 cm",
+    "correct_answer": "16 cm",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "16 cm",
+      "20 cm",
+      "18 cm",
+      "15 cm"
+    ],
+    "correct": "16 cm"
+  },
+  {
+    "id": "134412",
+    "title": "Q30: Flashlight Beam Shadow Scaling",
+    "question_text": "A flashlight beam expands as it travels. An object 10 cm tall placed 20 cm from the light source casts a shadow on a wall 80 cm from the source. How tall is the shadow?",
+    "math_formula": "\\frac{10}{20} = \\frac{s}{80} \\implies s = \\frac{10 \\times 80}{20} = 40\\text{ cm}",
+    "optA": "40 cm",
+    "optB": "30 cm",
+    "optC": "50 cm",
+    "optD": "32 cm",
+    "correct_answer": "40 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q30.svg",
+    "options": [
+      "32 cm",
+      "30 cm",
+      "40 cm",
+      "50 cm"
+    ],
+    "correct": "40 cm"
+  },
+  {
+    "id": "134413",
+    "title": "Q31: SAS Similarity Proportion Calculation",
+    "question_text": "In △ABC and △A'B'C', ∠A ≅ ∠A' and the sides including those angles are proportional (AB / A'B' = AC / A'C'). If AB = 8, A'B' = 12, AC = 10, find A'C'.",
+    "math_formula": "\\frac{8}{12} = \\frac{10}{A'C'} \\implies \\frac{2}{3} = \\frac{10}{A'C'} \\implies A'C' = 15",
+    "optA": "15",
+    "optB": "12.5",
+    "optC": "16",
+    "optD": "14",
+    "correct_answer": "15",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q31.svg",
+    "options": [
+      "15",
+      "16",
+      "12.5",
+      "14"
+    ],
+    "correct": "15"
+  },
+  {
+    "id": "134414",
+    "title": "Q32: Equilateral Triangles Always Similar Proof",
+    "question_text": "Prove that any two equilateral triangles are always similar.",
+    "math_formula": "\\text{All angles } 60^\\circ, \\; \\text{Side ratios } \\frac{s_1}{s_2} = k \\implies \\text{Similar by AA / SSS}",
+    "optA": "Every equilateral triangle has interior angles of 60°, 60°, 60°; since corresponding angles are equal, all equilateral triangles are similar by AA Similarity Postulate.",
+    "optB": "Equilateral triangles are similar only if they have the same perimeter.",
+    "optC": "Equilateral triangles are congruent, not similar.",
+    "optD": "Equilateral triangles are similar only if their side lengths are integers.",
+    "correct_answer": "Every equilateral triangle has interior angles of 60°, 60°, 60°; since corresponding angles are equal, all equilateral triangles are similar by AA Similarity Postulate.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q32.svg",
+    "options": [
+      "Every equilateral triangle has interior angles of 60°, 60°, 60°; since corresponding angles are equal, all equilateral triangles are similar by AA Similarity Postulate.",
+      "Equilateral triangles are similar only if their side lengths are integers.",
+      "Equilateral triangles are similar only if they have the same perimeter.",
+      "Equilateral triangles are congruent, not similar."
+    ],
+    "correct": "Every equilateral triangle has interior angles of 60°, 60°, 60°; since corresponding angles are equal, all equilateral triangles are similar by AA Similarity Postulate."
+  },
+  {
+    "id": "134415",
+    "title": "Q33: Squares vs Rectangles Similarity Proof",
+    "question_text": "Prove that any two squares are always similar, but any two rectangles are not necessarily similar.",
+    "math_formula": "\\text{Squares: All angles } 90^\\circ \\text{ and sides ratio } \\frac{a}{b} = \\frac{a}{b}; \\quad \\text{Rectangles: Length/width ratios can differ}",
+    "optA": "Squares always have 90° angles and equal side ratios (a/b = a/b); Rectangles have 90° angles but length-to-width ratios can differ (e.g., 2×4 rectangle is not similar to 3×9 rectangle).",
+    "optB": "Rectangles are always similar, but squares are not.",
+    "optC": "Both squares and rectangles are always similar to each other.",
+    "optD": "Neither squares nor rectangles can ever be similar.",
+    "correct_answer": "Squares always have 90° angles and equal side ratios (a/b = a/b); Rectangles have 90° angles but length-to-width ratios can differ (e.g., 2×4 rectangle is not similar to 3×9 rectangle).",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Squares always have 90° angles and equal side ratios (a/b = a/b); Rectangles have 90° angles but length-to-width ratios can differ (e.g., 2×4 rectangle is not similar to 3×9 rectangle).",
+      "Both squares and rectangles are always similar to each other.",
+      "Rectangles are always similar, but squares are not.",
+      "Neither squares nor rectangles can ever be similar."
+    ],
+    "correct": "Squares always have 90° angles and equal side ratios (a/b = a/b); Rectangles have 90° angles but length-to-width ratios can differ (e.g., 2×4 rectangle is not similar to 3×9 rectangle)."
+  },
+  {
+    "id": "134416",
+    "title": "Q34: Trapezoid Diagonals Similar Triangles Proof",
+    "question_text": "In trapezoid ABCD with AB || CD, the diagonals AC and BD intersect at E. Prove that △ABE ~ △CDE.",
+    "math_formula": "\\angle ABE = \\angle CDE, \\; \\angle BAE = \\angle DCE \\text{ (Alt Int } \\angle s) \\implies \\Delta ABE \\sim \\Delta CDE \\text{ (AA)}",
+    "optA": "With AB || CD, alternate interior angles ∠ABE = ∠CDE and ∠BAE = ∠DCE; vertical angles ∠AEB = ∠CED; therefore △ABE ~ △CDE by AA Similarity.",
+    "optB": "△ABE ~ △CDE by SAS because diagonals bisect each other.",
+    "optC": "△ABE ≅ △CDE by SSS congruence.",
+    "optD": "Trapezoid diagonals never form similar triangles.",
+    "correct_answer": "With AB || CD, alternate interior angles ∠ABE = ∠CDE and ∠BAE = ∠DCE; vertical angles ∠AEB = ∠CED; therefore △ABE ~ △CDE by AA Similarity.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q34.svg",
+    "options": [
+      "With AB || CD, alternate interior angles ∠ABE = ∠CDE and ∠BAE = ∠DCE; vertical angles ∠AEB = ∠CED; therefore △ABE ~ △CDE by AA Similarity.",
+      "△ABE ~ △CDE by SAS because diagonals bisect each other.",
+      "△ABE ≅ △CDE by SSS congruence.",
+      "Trapezoid diagonals never form similar triangles."
+    ],
+    "correct": "With AB || CD, alternate interior angles ∠ABE = ∠CDE and ∠BAE = ∠DCE; vertical angles ∠AEB = ∠CED; therefore △ABE ~ △CDE by AA Similarity."
+  },
+  {
+    "id": "134417",
+    "title": "Q35: Trapezoid Diagonals Segment Calculation",
+    "question_text": "In the trapezoid of Question 34 (AB || CD, △ABE ~ △CDE), if AB = 8 cm, CD = 20 cm, and AE = 6 cm, find the length of EC.",
+    "math_formula": "\\frac{AB}{CD} = \\frac{AE}{EC} \\implies \\frac{8}{20} = \\frac{6}{EC} \\implies \\frac{2}{5} = \\frac{6}{EC} \\implies EC = 15\\text{ cm}",
+    "optA": "15 cm",
+    "optB": "12 cm",
+    "optC": "18 cm",
+    "optD": "10 cm",
+    "correct_answer": "15 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q35.svg",
+    "options": [
+      "15 cm",
+      "12 cm",
+      "18 cm",
+      "10 cm"
+    ],
+    "correct": "15 cm"
+  },
+  {
+    "id": "134418",
+    "title": "Q36: Model Airplane Scale Wingspan Calculation",
+    "question_text": "A model airplane is built to a scale of 1 : 48. If the wingspan of the model is 25 cm, what is the actual wingspan of the aircraft in meters?",
+    "math_formula": "\\text{Actual} = 25 \\times 48 = 1200\\text{ cm} = 12\\text{ meters}",
+    "optA": "12 meters",
+    "optB": "14.4 meters",
+    "optC": "10 meters",
+    "optD": "15 meters",
+    "correct_answer": "12 meters",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q36.svg",
+    "options": [
+      "12 meters",
+      "15 meters",
+      "10 meters",
+      "14.4 meters"
+    ],
+    "correct": "12 meters"
+  },
+  {
+    "id": "134419",
+    "title": "Q37: Inverted Similar Triangle Proof",
+    "question_text": "In △PQR, S is on PQ and T is on PR such that ∠PST ≅ ∠R. Prove that △PST ~ △PRQ.",
+    "math_formula": "\\angle P = \\angle P \\text{ (Shared)}, \\; \\angle PST = \\angle R \\implies \\Delta PST \\sim \\Delta PRQ \\text{ (AA)}",
+    "optA": "∠P ≅ ∠P (Reflexive shared angle); ∠PST ≅ ∠R (Given); △PST ~ △PRQ by AA Similarity Postulate.",
+    "optB": "△PST ~ △PRQ by SSS similarity.",
+    "optC": "△PST ≅ △PRQ by SAS postulate.",
+    "optD": "ST || QR is required to prove similarity.",
+    "correct_answer": "∠P ≅ ∠P (Reflexive shared angle); ∠PST ≅ ∠R (Given); △PST ~ △PRQ by AA Similarity Postulate.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q37.svg",
+    "options": [
+      "△PST ~ △PRQ by SSS similarity.",
+      "ST || QR is required to prove similarity.",
+      "∠P ≅ ∠P (Reflexive shared angle); ∠PST ≅ ∠R (Given); △PST ~ △PRQ by AA Similarity Postulate.",
+      "△PST ≅ △PRQ by SAS postulate."
+    ],
+    "correct": "∠P ≅ ∠P (Reflexive shared angle); ∠PST ≅ ∠R (Given); △PST ~ △PRQ by AA Similarity Postulate."
+  },
+  {
+    "id": "134420",
+    "title": "Q38: Pantographs & Digital Image Scaling Principle",
+    "question_text": "Explain how pantographs and digital image scaling algorithms use geometric similarity principles.",
+    "math_formula": "(x', y') = (k \\cdot x, k \\cdot y) \\implies \\text{Preserves shape, multiplies dimensions by } k",
+    "optA": "Pantographs (mechanical linkages) and digital scalers multiply all x and y coordinates by a uniform scale factor k, preserving angle measures and shape while resizing.",
+    "optB": "They distort angles while keeping perimeter constant.",
+    "optC": "They rotate images by 90° without changing size.",
+    "optD": "They apply only to 3D spheres.",
+    "correct_answer": "Pantographs (mechanical linkages) and digital scalers multiply all x and y coordinates by a uniform scale factor k, preserving angle measures and shape while resizing.",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "They apply only to 3D spheres.",
+      "They distort angles while keeping perimeter constant.",
+      "Pantographs (mechanical linkages) and digital scalers multiply all x and y coordinates by a uniform scale factor k, preserving angle measures and shape while resizing.",
+      "They rotate images by 90° without changing size."
+    ],
+    "correct": "Pantographs (mechanical linkages) and digital scalers multiply all x and y coordinates by a uniform scale factor k, preserving angle measures and shape while resizing."
+  },
+  {
+    "id": "134421",
+    "title": "Q39: Similar Triangles Area Calculation",
+    "question_text": "If △ABC ~ △DEF with similarity ratio 4 : 7, and the area of △ABC is 64 cm², calculate the area of △DEF.",
+    "math_formula": "\\frac{\\text{Area}_{ABC}}{\\text{Area}_{DEF}} = \\left(\\frac{4}{7}\\right)^2 = \\frac{16}{49} \\implies \\text{Area}_{DEF} = \\frac{64 \\times 49}{16} = 196\\text{ cm}^2",
+    "optA": "196 cm²",
+    "optB": "112 cm²",
+    "optC": "144 cm²",
+    "optD": "256 cm²",
+    "correct_answer": "196 cm²",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "112 cm²",
+      "256 cm²",
+      "196 cm²",
+      "144 cm²"
+    ],
+    "correct": "196 cm²"
+  },
+  {
+    "id": "134422",
+    "title": "Q40: Intersecting Chords Theorem Proof",
+    "question_text": "In a circle, two chords AB and CD intersect at internal point E. Prove that △AEC ~ △DEB, and establish that AE · EB = CE · ED (Intersecting Chords Theorem).",
+    "math_formula": "\\angle AEC = \\angle DEB \\text{ (Vert)}, \\; \\angle CAE = \\angle BDE \\text{ (Inscribed same arc)} \\implies \\Delta AEC \\sim \\Delta DEB \\implies \\frac{AE}{ED} = \\frac{CE}{EB}",
+    "optA": "Inscribed angles subtending same arc are equal (∠CAE = ∠BDE); vertical angles ∠AEC = ∠DEB; △AEC ~ △DEB by AA; AE/ED = CE/EB ⟹ AE·EB = CE·ED.",
+    "optB": "Chords are equal in length; AE·EB = CE·ED by Pythagorean Theorem.",
+    "optC": "△AEC ≅ △DEB by SSS congruence.",
+    "optD": "Intersecting chords always meet at 90°.",
+    "correct_answer": "Inscribed angles subtending same arc are equal (∠CAE = ∠BDE); vertical angles ∠AEC = ∠DEB; △AEC ~ △DEB by AA; AE/ED = CE/EB ⟹ AE·EB = CE·ED.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q40.svg",
+    "options": [
+      "Inscribed angles subtending same arc are equal (∠CAE = ∠BDE); vertical angles ∠AEC = ∠DEB; △AEC ~ △DEB by AA; AE/ED = CE/EB ⟹ AE·EB = CE·ED.",
+      "Chords are equal in length; AE·EB = CE·ED by Pythagorean Theorem.",
+      "Intersecting chords always meet at 90°.",
+      "△AEC ≅ △DEB by SSS congruence."
+    ],
+    "correct": "Inscribed angles subtending same arc are equal (∠CAE = ∠BDE); vertical angles ∠AEC = ∠DEB; △AEC ~ △DEB by AA; AE/ED = CE/EB ⟹ AE·EB = CE·ED."
+  },
+  {
+    "id": "134423",
+    "title": "Q41: Altitude Geometric Mean Algebra",
+    "question_text": "In right triangle ABC with right angle at C, altitude CD = 6 cm divides hypotenuse AB into segments AD = x and DB = 3x. Find x and the length of AB.",
+    "math_formula": "6^2 = x \\cdot (3x) \\implies 3x^2 = 36 \\implies x^2 = 12 \\implies x = 2\\sqrt{3} \\approx 3.46\\text{ cm}, \\quad AB = 4x = 8\\sqrt{3} \\approx 13.86\\text{ cm}",
+    "optA": "x = 2√3 cm (≈ 3.46 cm), AB = 8√3 cm (≈ 13.86 cm)",
+    "optB": "x = 4 cm, AB = 16 cm",
+    "optC": "x = 3 cm, AB = 12 cm",
+    "optD": "x = 2 cm, AB = 8 cm",
+    "correct_answer": "x = 2√3 cm (≈ 3.46 cm), AB = 8√3 cm (≈ 13.86 cm)",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q41.svg",
+    "options": [
+      "x = 2 cm, AB = 8 cm",
+      "x = 3 cm, AB = 12 cm",
+      "x = 4 cm, AB = 16 cm",
+      "x = 2√3 cm (≈ 3.46 cm), AB = 8√3 cm (≈ 13.86 cm)"
+    ],
+    "correct": "x = 2√3 cm (≈ 3.46 cm), AB = 8√3 cm (≈ 13.86 cm)"
+  },
+  {
+    "id": "134424",
+    "title": "Q42: Ramp Rise Surface Distance Application",
+    "question_text": "A ramp rises 2 meters over a horizontal run of 15 meters. How high has a person risen after walking 9 meters along the ramp surface?",
+    "math_formula": "\\frac{h}{9} = \\frac{2}{15} \\implies h = \\frac{2 \\times 9}{15} = 1.2\\text{ meters}",
+    "optA": "1.2 meters",
+    "optB": "1.5 meters",
+    "optC": "1.0 meter",
+    "optD": "0.9 meters",
+    "correct_answer": "1.2 meters",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q42.svg",
+    "options": [
+      "1.0 meter",
+      "0.9 meters",
+      "1.5 meters",
+      "1.2 meters"
+    ],
+    "correct": "1.2 meters"
+  },
+  {
+    "id": "134425",
+    "title": "Q43: Three Parallel Lines Transversal Theorem",
+    "question_text": "State the Three Parallel Lines Theorem (Transversal Proportionality Theorem) and formulate an illustrative algebraic problem.",
+    "math_formula": "l_1 \\parallel l_2 \\parallel l_3 \\implies \\frac{a}{b} = \\frac{c}{d}",
+    "optA": "If three or more parallel lines intersect two transversals, then they cut off the transversals proportionally (a/b = c/d).",
+    "optB": "Three parallel lines divide any plane into three equal areas.",
+    "optC": "Three parallel lines create 90° angles with all transversals.",
+    "optD": "Three parallel lines are always equal in length.",
+    "correct_answer": "If three or more parallel lines intersect two transversals, then they cut off the transversals proportionally (a/b = c/d).",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q43.svg",
+    "options": [
+      "If three or more parallel lines intersect two transversals, then they cut off the transversals proportionally (a/b = c/d).",
+      "Three parallel lines are always equal in length.",
+      "Three parallel lines create 90° angles with all transversals.",
+      "Three parallel lines divide any plane into three equal areas."
+    ],
+    "correct": "If three or more parallel lines intersect two transversals, then they cut off the transversals proportionally (a/b = c/d)."
+  },
+  {
+    "id": "134426",
+    "title": "Q44: Trapezoid & Parallel Line Area Ratio Problem",
+    "question_text": "In △ABC, points D and E lie on AB and BC respectively such that DE || AC. If the area of △BDE is 16 cm² and the area of trapezoid ADEC is 33 cm², find the ratio BD : DA.",
+    "math_formula": "\\text{Area}_{ABC} = 16 + 33 = 49 \\implies \\frac{\\text{Area}_{BDE}}{\\text{Area}_{ABC}} = \\frac{16}{49} \\implies \\frac{BD}{BA} = \\frac{4}{7} \\implies BD : DA = 4 : 3",
+    "optA": "4 : 3",
+    "optB": "16 : 33",
+    "optC": "4 : 7",
+    "optD": "2 : 3",
+    "correct_answer": "4 : 3",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q44.svg",
+    "options": [
+      "4 : 3",
+      "16 : 33",
+      "4 : 7",
+      "2 : 3"
+    ],
+    "correct": "4 : 3"
+  },
+  {
+    "id": "134427",
+    "title": "Q45: Similarity Transformations Properties",
+    "question_text": "Explain why similarity transformations preserve angle measures but change lengths by a constant scale factor.",
+    "math_formula": "\\text{Dilation with center } O \\text{ and scale } k: \\; d(P', Q') = k \\cdot d(P, Q), \\; \\angle \\text{ unchanged}",
+    "optA": "Similarity transformations (dilations combined with rigid motions) multiply all distances by scale factor k, keeping direction ratios constant; because rays remain parallel/proportionate, interior angle measures are preserved.",
+    "optB": "Dilations change angles but keep side lengths equal.",
+    "optC": "Similarity transformations change circles into squares.",
+    "optD": "Dilations preserve area while changing angles.",
+    "correct_answer": "Similarity transformations (dilations combined with rigid motions) multiply all distances by scale factor k, keeping direction ratios constant; because rays remain parallel/proportionate, interior angle measures are preserved.",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "Dilations change angles but keep side lengths equal.",
+      "Similarity transformations (dilations combined with rigid motions) multiply all distances by scale factor k, keeping direction ratios constant; because rays remain parallel/proportionate, interior angle measures are preserved.",
+      "Similarity transformations change circles into squares.",
+      "Dilations preserve area while changing angles."
+    ],
+    "correct": "Similarity transformations (dilations combined with rigid motions) multiply all distances by scale factor k, keeping direction ratios constant; because rays remain parallel/proportionate, interior angle measures are preserved."
+  },
+  {
+    "id": "134428",
+    "title": "Q46: Ladder Strut Attachment Distance",
+    "question_text": "A painter leans a ladder against a wall, touching a point 4 m high. A horizontal strut connects the ladder to the wall at a height of 1.5 m. If the ladder is 5 m long, how far up the ladder is the strut attached?",
+    "math_formula": "\\frac{d}{5} = \\frac{1.5}{4} \\implies d = \\frac{1.5 \\times 5}{4} = \\frac{7.5}{4} = 1.875\\text{ meters}",
+    "optA": "1.875 meters",
+    "optB": "2.125 meters",
+    "optC": "1.5 meters",
+    "optD": "2.5 meters",
+    "correct_answer": "1.875 meters",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q46.svg",
+    "options": [
+      "2.5 meters",
+      "1.5 meters",
+      "2.125 meters",
+      "1.875 meters"
+    ],
+    "correct": "1.875 meters"
+  },
+  {
+    "id": "134429",
+    "title": "Q47: Similar Triangle Side Lengths Scaling",
+    "question_text": "In △ABC, AB = 10, BC = 14, and AC = 16. A smaller similar triangle has a longest side of 12. Find the lengths of its other two sides.",
+    "math_formula": "k = \\frac{12}{16} = 0.75 \\implies \\text{Side 1} = 10 \\times 0.75 = 7.5, \\quad \\text{Side 2} = 14 \\times 0.75 = 10.5",
+    "optA": "7.5 and 10.5",
+    "optB": "8 and 11",
+    "optC": "6 and 9.5",
+    "optD": "8.5 and 10",
+    "correct_answer": "7.5 and 10.5",
+    "show_image": 0,
+    "image_url": null,
+    "options": [
+      "8.5 and 10",
+      "7.5 and 10.5",
+      "8 and 11",
+      "6 and 9.5"
+    ],
+    "correct": "7.5 and 10.5"
+  },
+  {
+    "id": "134430",
+    "title": "Q48: Ratio of Perimeters Equals Ratio of Medians Proof",
+    "question_text": "Prove that the ratio of the perimeters of two similar triangles equals the ratio of any two corresponding medians.",
+    "math_formula": "\\frac{P_1}{P_2} = k, \\quad \\text{Medians } \\frac{m_1}{m_2} = k \\implies \\frac{P_1}{P_2} = \\frac{m_1}{m_2} = k",
+    "optA": "Scale factor k relates all corresponding linear dimensions (sides, perimeters, medians, altitudes); since P₁/P₂ = k and m₁/m₂ = k, ratio of perimeters equals ratio of medians.",
+    "optB": "Perimeters equal medians squared.",
+    "optC": "Medians are perpendicular to perimeters.",
+    "optD": "It applies only to right triangles.",
+    "correct_answer": "Scale factor k relates all corresponding linear dimensions (sides, perimeters, medians, altitudes); since P₁/P₂ = k and m₁/m₂ = k, ratio of perimeters equals ratio of medians.",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q48.svg",
+    "options": [
+      "Medians are perpendicular to perimeters.",
+      "Perimeters equal medians squared.",
+      "It applies only to right triangles.",
+      "Scale factor k relates all corresponding linear dimensions (sides, perimeters, medians, altitudes); since P₁/P₂ = k and m₁/m₂ = k, ratio of perimeters equals ratio of medians."
+    ],
+    "correct": "Scale factor k relates all corresponding linear dimensions (sides, perimeters, medians, altitudes); since P₁/P₂ = k and m₁/m₂ = k, ratio of perimeters equals ratio of medians."
+  },
+  {
+    "id": "134431",
+    "title": "Q49: Ratio of Areas Equals Square of Altitudes Ratio Proof",
+    "question_text": "Prove that the ratio of the areas of two similar triangles equals the square of the ratio of their corresponding altitudes.",
+    "math_formula": "\\text{Area}_1 = \\frac{1}{2} b_1 h_1, \\quad \\text{Area}_2 = \\frac{1}{2} b_2 h_2 \\implies \\frac{\\text{Area}_1}{\\text{Area}_2} = \\left(\\frac{b_1}{b_2}\\right)\\left(\\frac{h_1}{h_2}\\right) = k \\cdot k = k^2",
+    "optA": "Area = 1/2 · base · height; for similar triangles, base ratio b₁/b₂ = k and altitude ratio h₁/h₂ = k; thus Area₁/Area₂ = k · k = k² = (h₁/h₂)².",
+    "optB": "Area ratio equals altitude ratio k.",
+    "optC": "Area ratio equals 2k.",
+    "optD": "Area ratio equals altitude ratio cubed k³.",
+    "correct_answer": "Area = 1/2 · base · height; for similar triangles, base ratio b₁/b₂ = k and altitude ratio h₁/h₂ = k; thus Area₁/Area₂ = k · k = k² = (h₁/h₂)².",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q49.svg",
+    "options": [
+      "Area = 1/2 · base · height; for similar triangles, base ratio b₁/b₂ = k and altitude ratio h₁/h₂ = k; thus Area₁/Area₂ = k · k = k² = (h₁/h₂)².",
+      "Area ratio equals altitude ratio k.",
+      "Area ratio equals 2k.",
+      "Area ratio equals altitude ratio cubed k³."
+    ],
+    "correct": "Area = 1/2 · base · height; for similar triangles, base ratio b₁/b₂ = k and altitude ratio h₁/h₂ = k; thus Area₁/Area₂ = k · k = k² = (h₁/h₂)²."
+  },
+  {
+    "id": "134432",
+    "title": "Q50: Pinhole Camera Image Height Calculation",
+    "question_text": "A pinhole camera forms an inverted real image on a screen 15 cm behind the pinhole. If a 1.8-meter tall person stands 3 meters in front of the pinhole, calculate the height of the image on the screen.",
+    "math_formula": "\\frac{h_{\\text{image}}}{15\\text{ cm}} = \\frac{1.8\\text{ m}}{3\\text{ m}} = 0.6 \\implies h_{\\text{image}} = 15 \\times 0.6 = 9\\text{ cm}",
+    "optA": "9 cm",
+    "optB": "12 cm",
+    "optC": "7.5 cm",
+    "optD": "10 cm",
+    "correct_answer": "9 cm",
+    "show_image": 1,
+    "image_url": "/images/g9_t150_q50.svg",
+    "options": [
+      "9 cm",
+      "12 cm",
+      "10 cm",
+      "7.5 cm"
+    ],
+    "correct": "9 cm"
+  }
+]

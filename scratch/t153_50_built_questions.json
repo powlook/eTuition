@@ -1,0 +1,1123 @@
+[
+  {
+    "num": 1,
+    "title": "Define the Three Primary Trigonometric Ratios",
+    "text": "Define the three primary trigonometric ratios: sine (sin), cosine (cos), and tangent (tan) in terms of opposite, adjacent, and hypotenuse of a right triangle.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "options": [
+      "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+      "sin θ = Opp/Adj, cos θ = Adj/Opp, tan θ = Hyp/Adj",
+      "sin θ = Adj/Hyp, cos θ = Opp/Hyp, tan θ = Hyp/Opp",
+      "sin θ = Hyp/Opp, cos θ = Hyp/Adj, tan θ = Adj/Opp"
+    ],
+    "answer": "sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj",
+    "hint": "SOH-CAH-TOA: Sine is Opp/Hyp, Cosine is Adj/Hyp, Tangent is Opp/Adj.",
+    "steps": [
+      "**Step 1: Sine** - sin θ = Opp / Hyp",
+      "**Step 2: Cosine** - cos θ = Adj / Hyp",
+      "**Step 3: Tangent** - tan θ = Opp / Adj",
+      "**Final Answer:** sin θ = Opp/Hyp, cos θ = Adj/Hyp, tan θ = Opp/Adj"
+    ],
+    "id": 134533,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 2,
+    "title": "State the Mnemonic SOH-CAH-TOA",
+    "text": "State the mnemonic SOH-CAH-TOA and explain its meaning in right triangle trigonometry.",
+    "formula": "\\text{SOH}: \\sin = \\frac{\\text{O}}{\\text{H}}, \\quad \\text{CAH}: \\cos = \\frac{\\text{A}}{\\text{H}}, \\quad \\text{TOA}: \\tan = \\frac{\\text{O}}{\\text{A}}",
+    "options": [
+      "SOH: sin = Opp/Hyp, CAH: cos = Adj/Hyp, TOA: tan = Opp/Adj",
+      "SOH: sin = Opp/Adj, CAH: cos = Adj/Opp, TOA: tan = Hyp/Adj",
+      "SOH: sin = Adj/Hyp, CAH: cos = Opp/Hyp, TOA: tan = Opp/Adj",
+      "SOH: sin = Hyp/Opp, CAH: cos = Hyp/Adj, TOA: tan = Adj/Opp"
+    ],
+    "answer": "SOH: sin = Opp/Hyp, CAH: cos = Adj/Hyp, TOA: tan = Opp/Adj",
+    "hint": "SOH stands for Sine = Opposite / Hypotenuse.",
+    "steps": [
+      "**Step 1: Parse SOH** - S = Sine, O = Opposite, H = Hypotenuse.",
+      "**Step 2: Parse CAH** - C = Cosine, A = Adjacent, H = Hypotenuse.",
+      "**Step 3: Parse TOA** - T = Tangent, O = Opposite, A = Adjacent.",
+      "**Final Answer:** SOH: sin = Opp/Hyp, CAH: cos = Adj/Hyp, TOA: tan = Opp/Adj"
+    ],
+    "id": 134534,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 3,
+    "title": "Trigonometric Ratios for 3-4-5 Right Triangle",
+    "text": "In right triangle ABC with right angle at C, side a = 3, b = 4, and c = 5. Write the exact numerical values of sin A, cos A, tan A, sin B, cos B, and tan B.",
+    "formula": "\\sin A = \\frac{3}{5}, \\quad \\cos A = \\frac{4}{5}, \\quad \\tan A = \\frac{3}{4}",
+    "options": [
+      "sin A = 3/5, cos A = 4/5, tan A = 3/4, sin B = 4/5, cos B = 3/5, tan B = 4/3",
+      "sin A = 4/5, cos A = 3/5, tan A = 4/3, sin B = 3/5, cos B = 4/5, tan B = 3/4",
+      "sin A = 3/4, cos A = 4/5, tan A = 3/5, sin B = 4/3, cos B = 3/5, tan B = 4/5",
+      "sin A = 5/3, cos A = 5/4, tan A = 4/3, sin B = 5/4, cos B = 5/3, tan B = 3/4"
+    ],
+    "answer": "sin A = 3/5, cos A = 4/5, tan A = 3/4, sin B = 4/5, cos B = 3/5, tan B = 4/3",
+    "hint": "For angle A, opposite is a = 3, adjacent is b = 4, hypotenuse c = 5.",
+    "steps": [
+      "**Step 1: Calculate ratios for A** - sin A = 3/5, cos A = 4/5, tan A = 3/4.",
+      "**Step 2: Calculate ratios for B** - sin B = 4/5, cos B = 3/5, tan B = 4/3.",
+      "**Final Answer:** sin A = 3/5, cos A = 4/5, tan A = 3/4, sin B = 4/5, cos B = 3/5, tan B = 4/3"
+    ],
+    "id": 134535,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q3.svg"
+  },
+  {
+    "num": 4,
+    "title": "Trigonometric Ratios for 5-12-13 Right Triangle",
+    "text": "In right triangle XYZ with right angle at Y, leg XY = 5 cm and hypotenuse XZ = 13 cm. Find leg YZ and evaluate sin X, cos X, and tan X.",
+    "formula": "YZ = \\sqrt{13^2 - 5^2} = 12 \\text{ cm}, \\quad \\sin X = \\frac{12}{13}, \\quad \\cos X = \\frac{5}{13}, \\quad \\tan X = \\frac{12}{5}",
+    "options": [
+      "YZ = 12 cm, sin X = 12/13, cos X = 5/13, tan X = 12/5",
+      "YZ = 12 cm, sin X = 5/13, cos X = 12/13, tan X = 5/12",
+      "YZ = 14 cm, sin X = 5/13, cos X = 12/13, tan X = 12/5",
+      "YZ = 10 cm, sin X = 12/13, cos X = 5/13, tan X = 5/12"
+    ],
+    "answer": "YZ = 12 cm, sin X = 12/13, cos X = 5/13, tan X = 12/5",
+    "hint": "Apply Pythagorean theorem: YZ = √(13² - 5²) = √144 = 12 cm.",
+    "steps": [
+      "**Step 1: Find YZ** - YZ = √(169 - 25) = 12 cm.",
+      "**Step 2: Calculate ratios for X** - Opposite = 12, Adjacent = 5, Hypotenuse = 13.",
+      "**Final Answer:** YZ = 12 cm, sin X = 12/13, cos X = 5/13, tan X = 12/5"
+    ],
+    "id": 134536,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q4.svg"
+  },
+  {
+    "num": 5,
+    "title": "Exact Values of 30° Trigonometric Ratios",
+    "text": "State the exact numerical values of sin 30°, cos 30°, and tan 30° in simplest radical form.",
+    "formula": "\\sin 30^\\circ = \\frac{1}{2}, \\quad \\cos 30^\\circ = \\frac{\\sqrt{3}}{2}, \\quad \\tan 30^\\circ = \\frac{\\sqrt{3}}{3}",
+    "options": [
+      "sin 30° = 1/2, cos 30° = √3/2, tan 30° = √3/3",
+      "sin 30° = √3/2, cos 30° = 1/2, tan 30° = √3",
+      "sin 30° = √2/2, cos 30° = √2/2, tan 30° = 1",
+      "sin 30° = 1/2, cos 30° = √2/2, tan 30° = 1/2"
+    ],
+    "answer": "sin 30° = 1/2, cos 30° = √3/2, tan 30° = √3/3",
+    "hint": "In a 30°-60°-90° triangle with sides 1, √3, 2, sin 30° = 1/2.",
+    "steps": [
+      "**Step 1: sin 30°** = 1/2",
+      "**Step 2: cos 30°** = √3/2",
+      "**Step 3: tan 30°** = 1/√3 = √3/3",
+      "**Final Answer:** sin 30° = 1/2, cos 30° = √3/2, tan 30° = √3/3"
+    ],
+    "id": 134537,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 6,
+    "title": "Exact Values of 45° Trigonometric Ratios",
+    "text": "State the exact numerical values of sin 45°, cos 45°, and tan 45° in simplest radical form.",
+    "formula": "\\sin 45^\\circ = \\frac{\\sqrt{2}}{2}, \\quad \\cos 45^\\circ = \\frac{\\sqrt{2}}{2}, \\quad \\tan 45^\\circ = 1",
+    "options": [
+      "sin 45° = √2/2, cos 45° = √2/2, tan 45° = 1",
+      "sin 45° = 1/2, cos 45° = √3/2, tan 45° = √3/3",
+      "sin 45° = √3/2, cos 45° = 1/2, tan 45° = √3",
+      "sin 45° = 1, cos 45° = 1, tan 45° = √2/2"
+    ],
+    "answer": "sin 45° = √2/2, cos 45° = √2/2, tan 45° = 1",
+    "hint": "In a 45°-45°-90° triangle with legs 1 and hypotenuse √2, sin 45° = 1/√2 = √2/2.",
+    "steps": [
+      "**Step 1: sin 45°** = 1/√2 = √2/2",
+      "**Step 2: cos 45°** = 1/√2 = √2/2",
+      "**Step 3: tan 45°** = 1/1 = 1",
+      "**Final Answer:** sin 45° = √2/2, cos 45° = √2/2, tan 45° = 1"
+    ],
+    "id": 134538,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 7,
+    "title": "Exact Values of 60° Trigonometric Ratios",
+    "text": "State the exact numerical values of sin 60°, cos 60°, and tan 60° in simplest radical form.",
+    "formula": "\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}, \\quad \\cos 60^\\circ = \\frac{1}{2}, \\quad \\tan 60^\\circ = \\sqrt{3}",
+    "options": [
+      "sin 60° = √3/2, cos 60° = 1/2, tan 60° = √3",
+      "sin 60° = 1/2, cos 60° = √3/2, tan 60° = √3/3",
+      "sin 60° = √2/2, cos 60° = √2/2, tan 60° = 1",
+      "sin 60° = √3, cos 60° = 1/2, tan 60° = √3/2"
+    ],
+    "answer": "sin 60° = √3/2, cos 60° = 1/2, tan 60° = √3",
+    "hint": "In a 30°-60°-90° triangle, opposite 60° is √3 and hypotenuse is 2.",
+    "steps": [
+      "**Step 1: sin 60°** = √3/2",
+      "**Step 2: cos 60°** = 1/2",
+      "**Step 3: tan 60°** = √3/1 = √3",
+      "**Final Answer:** sin 60° = √3/2, cos 60° = 1/2, tan 60° = √3"
+    ],
+    "id": 134539,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 8,
+    "title": "Reciprocal Trigonometric Ratios Definitions",
+    "text": "Define the reciprocal trigonometric ratios: cosecant (csc), secant (sec), and cotangent (cot) in terms of sine, cosine, and tangent.",
+    "formula": "\\csc \\theta = \\frac{1}{\\sin \\theta}, \\quad \\sec \\theta = \\frac{1}{\\cos \\theta}, \\quad \\cot \\theta = \\frac{1}{\\tan \\theta}",
+    "options": [
+      "csc θ = 1/sin θ, sec θ = 1/cos θ, cot θ = 1/tan θ",
+      "csc θ = 1/cos θ, sec θ = 1/sin θ, cot θ = tan θ",
+      "csc θ = sin θ, sec θ = cos θ, cot θ = tan θ",
+      "csc θ = 1/tan θ, sec θ = 1/sin θ, cot θ = 1/cos θ"
+    ],
+    "answer": "csc θ = 1/sin θ, sec θ = 1/cos θ, cot θ = 1/tan θ",
+    "hint": "Cosecant is reciprocal of sine; secant is reciprocal of cosine.",
+    "steps": [
+      "**Step 1: csc θ** = 1 / sin θ",
+      "**Step 2: sec θ** = 1 / cos θ",
+      "**Step 3: cot θ** = 1 / tan θ",
+      "**Final Answer:** csc θ = 1/sin θ, sec θ = 1/cos θ, cot θ = 1/tan θ"
+    ],
+    "id": 134540,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 9,
+    "title": "Co-Function Trigonometric Identities",
+    "text": "State the co-function identities relating sine and cosine, and tangent and cotangent for complementary acute angles.",
+    "formula": "\\sin(90^\\circ - \\theta) = \\cos \\theta, \\quad \\cos(90^\\circ - \\theta) = \\sin \\theta, \\quad \\tan(90^\\circ - \\theta) = \\cot \\theta",
+    "options": [
+      "sin(90° - θ) = cos θ, cos(90° - θ) = sin θ, tan(90° - θ) = cot θ",
+      "sin(90° - θ) = sin θ, cos(90° - θ) = cos θ, tan(90° - θ) = tan θ",
+      "sin(90° + θ) = cos θ, cos(90° + θ) = sin θ, tan(90° + θ) = cot θ",
+      "sin(180° - θ) = cos θ, cos(180° - θ) = sin θ, tan(180° - θ) = cot θ"
+    ],
+    "answer": "sin(90° - θ) = cos θ, cos(90° - θ) = sin θ, tan(90° - θ) = cot θ",
+    "hint": "Co-functions of complementary angles are equal.",
+    "steps": [
+      "**Step 1: sin(90° - θ)** = cos θ",
+      "**Step 2: cos(90° - θ)** = sin θ",
+      "**Step 3: tan(90° - θ)** = cot θ",
+      "**Final Answer:** sin(90° - θ) = cos θ, cos(90° - θ) = sin θ, tan(90° - θ) = cot θ"
+    ],
+    "id": 134541,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 10,
+    "title": "Evaluate Cosine & Tangent from sin θ = 0.6",
+    "text": "If sin θ = 0.6 and θ is an acute angle, find the exact numerical values of cos θ and tan θ without using a calculator.",
+    "formula": "\\cos \\theta = \\sqrt{1 - (0.6)^2} = 0.8, \\quad \\tan \\theta = \\frac{0.6}{0.8} = 0.75",
+    "options": [
+      "cos θ = 0.8, tan θ = 0.75",
+      "cos θ = 0.75, tan θ = 0.8",
+      "cos θ = 0.5, tan θ = 1.2",
+      "cos θ = 0.64, tan θ = 0.6"
+    ],
+    "answer": "cos θ = 0.8, tan θ = 0.75",
+    "hint": "Apply cos θ = √(1 - sin² θ) = √(1 - 0.36) = √0.64 = 0.8.",
+    "steps": [
+      "**Step 1: Calculate cos θ** - √(1 - 0.36) = 0.8.",
+      "**Step 2: Calculate tan θ** - 0.6 / 0.8 = 0.75.",
+      "**Final Answer:** cos θ = 0.8, tan θ = 0.75"
+    ],
+    "id": 134542,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 11,
+    "title": "Evaluate Sine & Cosine from tan A = 5/12",
+    "text": "If tan A = 5/12 and A is an acute angle, find the exact values of sin A and cos A.",
+    "formula": "\\text{Hyp} = \\sqrt{5^2 + 12^2} = 13 \\implies \\sin A = \\frac{5}{13}, \\quad \\cos A = \\frac{12}{13}",
+    "options": [
+      "sin A = 5/13, cos A = 12/13",
+      "sin A = 12/13, cos A = 5/13",
+      "sin A = 5/12, cos A = 12/5",
+      "sin A = 5/17, cos A = 12/17"
+    ],
+    "answer": "sin A = 5/13, cos A = 12/13",
+    "hint": "Opposite = 5, Adjacent = 12 ⟹ Hypotenuse = √(25 + 144) = 13.",
+    "steps": [
+      "**Step 1: Find Hypotenuse** - √(5² + 12²) = 13.",
+      "**Step 2: Calculate sin A & cos A** - sin A = 5/13, cos A = 12/13.",
+      "**Final Answer:** sin A = 5/13, cos A = 12/13"
+    ],
+    "id": 134543,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 12,
+    "title": "Verify Pythagorean Identity for θ = 30°",
+    "text": "Verify the Fundamental Pythagorean Trigonometric Identity: sin² θ + cos² θ = 1 for θ = 30°.",
+    "formula": "\\left(\\frac{1}{2}\\right)^2 + \\left(\\frac{\\sqrt{3}}{2}\\right)^2 = \\frac{1}{4} + \\frac{3}{4} = 1",
+    "options": [
+      "(1/2)² + (√3/2)² = 1/4 + 3/4 = 1",
+      "(1/2) + (√3/2) = (1 + √3)/2 ≠ 1",
+      "(√3/2)² - (1/2)² = 3/4 - 1/4 = 1/2",
+      "(1/2)² + (1/2)² = 2/4 = 1/2"
+    ],
+    "answer": "(1/2)² + (√3/2)² = 1/4 + 3/4 = 1",
+    "hint": "Substitute sin 30° = 1/2 and cos 30° = √3/2.",
+    "steps": [
+      "**Step 1: Substitute values** - (1/2)² + (√3/2)²",
+      "**Step 2: Square terms** - 1/4 + 3/4 = 4/4 = 1.",
+      "**Final Answer:** (1/2)² + (√3/2)² = 1/4 + 3/4 = 1"
+    ],
+    "id": 134544,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 13,
+    "title": "Define Angle of Elevation",
+    "text": "Define an angle of elevation and select its correct geometric description.",
+    "formula": "\\text{Angle of Elevation} = \\text{Angle between line of sight and horizontal looking UPWARD}",
+    "options": [
+      "Angle formed by line of sight and horizontal when looking UPWARD",
+      "Angle formed by line of sight and horizontal when looking DOWNWARD",
+      "Angle formed by line of sight and vertical wall",
+      "Angle formed by ground and vertical wall"
+    ],
+    "answer": "Angle formed by line of sight and horizontal when looking UPWARD",
+    "hint": "Elevation refers to looking above the horizontal line of sight.",
+    "steps": [
+      "**Step 1: Horizontal reference** - Line parallel to ground.",
+      "**Step 2: Upward sight** - Observer looks up to object.",
+      "**Final Answer:** Angle formed by line of sight and horizontal when looking UPWARD"
+    ],
+    "id": 134545,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q13.svg"
+  },
+  {
+    "num": 14,
+    "title": "Define Angle of Depression",
+    "text": "Define an angle of depression and explain why the angle of depression from an observer to a target equals the angle of elevation from the target back to the observer.",
+    "formula": "\\text{Angle of Depression} = \\text{Angle of Elevation (by Alternate Interior Angles)}",
+    "options": [
+      "Looking DOWNWARD; equal by Alternate Interior Angles of parallel horizontals",
+      "Looking UPWARD; equal by Vertical Angles",
+      "Looking DOWNWARD; equal by Complementary Angles summing to 90°",
+      "Looking UPWARD; equal by Corresponding Angles"
+    ],
+    "answer": "Looking DOWNWARD; equal by Alternate Interior Angles of parallel horizontals",
+    "hint": "Horizontal lines of sight at top and bottom are parallel.",
+    "steps": [
+      "**Step 1: Downward sight** - Observer looks down below horizontal.",
+      "**Step 2: Parallel lines** - Horizontal lines at top and bottom are parallel.",
+      "**Step 3: Transversal** - Line of sight is a transversal forming equal alternate interior angles.",
+      "**Final Answer:** Looking DOWNWARD; equal by Alternate Interior Angles of parallel horizontals"
+    ],
+    "id": 134546,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q14.svg"
+  },
+  {
+    "num": 15,
+    "title": "Cell Tower Height Calculation from 25m Ground Distance",
+    "text": "From a point on the ground 25 meters away from the base of a cell tower, the angle of elevation to the top of the tower is 48°. Calculate the height of the tower to two decimal places.",
+    "formula": "h = 25 \\times \\tan(48^\\circ) = 25 \\times 1.1106 = 27.77 \\text{ meters}",
+    "options": [
+      "27.77 meters",
+      "22.51 meters",
+      "18.58 meters",
+      "33.64 meters"
+    ],
+    "answer": "27.77 meters",
+    "hint": "tan(48°) = height / 25 ⟹ height = 25 × tan(48°).",
+    "steps": [
+      "**Step 1: Formula** - h = 25 × tan(48°)",
+      "**Step 2: Calculate** - 25 × 1.1106 = 27.77 meters.",
+      "**Final Answer:** 27.77 meters"
+    ],
+    "id": 134547,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q15.svg"
+  },
+  {
+    "num": 16,
+    "title": "Lighthouse Boat Distance from 40m Cliff",
+    "text": "A lighthouse keeper at top of a 40-meter cliff spots a boat at sea. The angle of depression to the boat is 22°. Calculate the horizontal distance from the base of the cliff to the boat to two decimal places.",
+    "formula": "d = \\frac{40}{\\tan(22^\\circ)} = \\frac{40}{0.4040} = 98.99 \\text{ meters}",
+    "options": [
+      "98.99 meters",
+      "16.16 meters",
+      "43.14 meters",
+      "106.77 meters"
+    ],
+    "answer": "98.99 meters",
+    "hint": "tan(22°) = 40 / d ⟹ d = 40 / tan(22°).",
+    "steps": [
+      "**Step 1: Formula** - d = 40 / tan(22°)",
+      "**Step 2: Calculate** - 40 / 0.4040 = 98.99 meters.",
+      "**Final Answer:** 98.99 meters"
+    ],
+    "id": 134548,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q16.svg"
+  },
+  {
+    "num": 17,
+    "title": "Extension Ladder Height Reach at 72° Angle",
+    "text": "A 6-meter ladder leans against a building making a 72° angle with the ground. How high up the building wall does the ladder reach to two decimal places?",
+    "formula": "h = 6 \\times \\sin(72^\\circ) = 6 \\times 0.9511 = 5.71 \\text{ meters}",
+    "options": [
+      "5.71 meters",
+      "1.85 meters",
+      "6.31 meters",
+      "4.85 meters"
+    ],
+    "answer": "5.71 meters",
+    "hint": "sin(72°) = height / 6 ⟹ height = 6 × sin(72°).",
+    "steps": [
+      "**Step 1: Formula** - h = 6 × sin(72°)",
+      "**Step 2: Calculate** - 6 × 0.9511 = 5.71 meters.",
+      "**Final Answer:** 5.71 meters"
+    ],
+    "id": 134549,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q17.svg"
+  },
+  {
+    "num": 18,
+    "title": "Kite Altitude Calculation from 80m String",
+    "text": "A kite is flying at a string length of 80 meters. If the string makes an angle of 52° with the horizontal, calculate the vertical altitude of the kite above the ground to two decimal places.",
+    "formula": "h = 80 \\times \\sin(52^\\circ) = 80 \\times 0.7880 = 63.04 \\text{ meters}",
+    "options": [
+      "63.04 meters",
+      "49.25 meters",
+      "102.40 meters",
+      "55.30 meters"
+    ],
+    "answer": "63.04 meters",
+    "hint": "sin(52°) = altitude / 80 ⟹ altitude = 80 × sin(52°).",
+    "steps": [
+      "**Step 1: Formula** - h = 80 × sin(52°)",
+      "**Step 2: Calculate** - 80 × 0.7880 = 63.04 meters.",
+      "**Final Answer:** 63.04 meters"
+    ],
+    "id": 134550,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q18.svg"
+  },
+  {
+    "num": 19,
+    "title": "Airplane Climb Ground Distance Covered",
+    "text": "An airplane climbs at a steady angle of 12° after takeoff. If it travels 5 km along its flight path, what is the horizontal ground distance covered to two decimal places?",
+    "formula": "d = 5 \\times \\cos(12^\\circ) = 5 \\times 0.9781 = 4.89 \\text{ km}",
+    "options": [
+      "4.89 km",
+      "1.04 km",
+      "5.11 km",
+      "4.25 km"
+    ],
+    "answer": "4.89 km",
+    "hint": "cos(12°) = ground distance / 5 ⟹ ground distance = 5 × cos(12°).",
+    "steps": [
+      "**Step 1: Formula** - d = 5 × cos(12°)",
+      "**Step 2: Calculate** - 5 × 0.9781 = 4.89 km.",
+      "**Final Answer:** 4.89 km"
+    ],
+    "id": 134551,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q19.svg"
+  },
+  {
+    "num": 20,
+    "title": "Solve Right Triangle Given Hypotenuse 15cm & Angle 36°",
+    "text": "Solve the right triangle ABC (C = 90°) given that A = 36° and hypotenuse c = 15 cm. Find side a, side b, and angle B.",
+    "formula": "B = 54^\\circ, \\quad a = 15 \\sin(36^\\circ) = 8.82 \\text{ cm}, \\quad b = 15 \\cos(36^\\circ) = 12.14 \\text{ cm}",
+    "options": [
+      "B = 54°, a = 8.82 cm, b = 12.14 cm",
+      "B = 54°, a = 12.14 cm, b = 8.82 cm",
+      "B = 44°, a = 9.50 cm, b = 11.00 cm",
+      "B = 64°, a = 7.50 cm, b = 13.00 cm"
+    ],
+    "answer": "B = 54°, a = 8.82 cm, b = 12.14 cm",
+    "hint": "Angle B = 90° - 36° = 54°; a = 15 × sin(36°); b = 15 × cos(36°).",
+    "steps": [
+      "**Step 1: Angle B** - 90° - 36° = 54°",
+      "**Step 2: Side a** - 15 × sin(36°) = 8.82 cm",
+      "**Step 3: Side b** - 15 × cos(36°) = 12.14 cm",
+      "**Final Answer:** B = 54°, a = 8.82 cm, b = 12.14 cm"
+    ],
+    "id": 134552,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q20.svg"
+  },
+  {
+    "num": 21,
+    "title": "Solve Right Triangle Given Legs 8cm & 15cm",
+    "text": "Solve the right triangle ABC (C = 90°) given that side a = 8 cm and side b = 15 cm. Find hypotenuse c and angle A to two decimal places.",
+    "formula": "c = \\sqrt{8^2 + 15^2} = 17 \\text{ cm}, \\quad A = \\arctan\\left(\\frac{8}{15}\\right) = 28.07^\\circ",
+    "options": [
+      "c = 17 cm, A = 28.07°",
+      "c = 17 cm, A = 61.93°",
+      "c = 23 cm, A = 32.50°",
+      "c = 15.5 cm, A = 25.00°"
+    ],
+    "answer": "c = 17 cm, A = 28.07°",
+    "hint": "Hypotenuse c = √(64 + 225) = 17; tan A = 8/15 ⟹ A = 28.07°.",
+    "steps": [
+      "**Step 1: Hypotenuse c** - √(64 + 225) = 17 cm",
+      "**Step 2: Angle A** - arctan(8/15) = 28.07°",
+      "**Final Answer:** c = 17 cm, A = 28.07°"
+    ],
+    "id": 134553,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q21.svg"
+  },
+  {
+    "num": 22,
+    "title": "Observation Tower Distance Between Two Cars",
+    "text": "From the top of an 80-meter observation tower, the angles of depression to two cars parked on a straight road extending from the tower base are 28° and 42°. Calculate the distance between the two cars to two decimal places.",
+    "formula": "d_1 = \\frac{80}{\\tan(28^\\circ)} = 150.46 \\text{ m}, \\quad d_2 = \\frac{80}{\\tan(42^\\circ)} = 88.85 \\text{ m} \\implies \\Delta d = 61.61 \\text{ meters}",
+    "options": [
+      "61.61 meters",
+      "42.50 meters",
+      "75.20 meters",
+      "88.85 meters"
+    ],
+    "answer": "61.61 meters",
+    "hint": "Distance between cars = 80/tan(28°) - 80/tan(42°) = 150.46 - 88.85 = 61.61 m.",
+    "steps": [
+      "**Step 1: Distance to Far Car** - 80 / tan(28°) = 150.46 m",
+      "**Step 2: Distance to Near Car** - 80 / tan(42°) = 88.85 m",
+      "**Step 3: Distance Between Cars** - 150.46 - 88.85 = 61.61 m",
+      "**Final Answer:** 61.61 meters"
+    ],
+    "id": 134554,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q22.svg"
+  },
+  {
+    "num": 23,
+    "title": "Surveyor Building Height Calculation from 40m",
+    "text": "A surveyor stands 40 meters from the base of a building. The angle of elevation to the top of the building is 35°. Calculate the height of the building to two decimal places.",
+    "formula": "h = 40 \\times \\tan(35^\\circ) = 40 \\times 0.7002 = 28.01 \\text{ meters}",
+    "options": [
+      "28.01 meters",
+      "32.77 meters",
+      "22.94 meters",
+      "57.12 meters"
+    ],
+    "answer": "28.01 meters",
+    "hint": "tan(35°) = height / 40 ⟹ height = 40 × tan(35°).",
+    "steps": [
+      "**Step 1: Formula** - h = 40 × tan(35°)",
+      "**Step 2: Calculate** - 40 × 0.7002 = 28.01 meters.",
+      "**Final Answer:** 28.01 meters"
+    ],
+    "id": 134555,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q23.svg"
+  },
+  {
+    "num": 24,
+    "title": "Wheelchair Ramp Surface Length Calculation",
+    "text": "A wheelchair ramp must be built with a maximum allowable angle of incline of 4.8°. If the vertical rise to the doorway is 1.2 meters, calculate the minimum required length of the ramp surface to two decimal places.",
+    "formula": "L = \\frac{1.2}{\\sin(4.8^\\circ)} = \\frac{1.2}{0.0837} = 14.34 \\text{ meters}",
+    "options": [
+      "14.34 meters",
+      "12.00 meters",
+      "10.50 meters",
+      "16.80 meters"
+    ],
+    "answer": "14.34 meters",
+    "hint": "sin(4.8°) = 1.2 / L ⟹ L = 1.2 / sin(4.8°).",
+    "steps": [
+      "**Step 1: Formula** - L = 1.2 / sin(4.8°)",
+      "**Step 2: Calculate** - 1.2 / 0.0837 = 14.34 meters.",
+      "**Final Answer:** 14.34 meters"
+    ],
+    "id": 134556,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q24.svg"
+  },
+  {
+    "num": 25,
+    "title": "Tourist Distance from 45m Monument with Eye Level 1.6m",
+    "text": "A tourist views a monument of height 45 meters. If the tourist's eye level is 1.6 meters above ground and the angle of elevation to the top of the monument is 28°, how far is the tourist standing from the monument?",
+    "formula": "d = \\frac{45 - 1.6}{\\tan(28^\\circ)} = \\frac{43.4}{0.5317} = 81.63 \\text{ meters}",
+    "options": [
+      "81.63 meters",
+      "84.63 meters",
+      "75.40 meters",
+      "92.15 meters"
+    ],
+    "answer": "81.63 meters",
+    "hint": "Net height = 45 - 1.6 = 43.4 m; tan(28°) = 43.4 / d ⟹ d = 43.4 / tan(28°).",
+    "steps": [
+      "**Step 1: Net Height** - 45 - 1.6 = 43.4 meters",
+      "**Step 2: Distance d** - 43.4 / tan(28°) = 81.63 meters",
+      "**Final Answer:** 81.63 meters"
+    ],
+    "id": 134557,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q25.svg"
+  },
+  {
+    "num": 26,
+    "title": "Evaluate Trigonometric Expression (2 sin 30° + 4 cos 60° - tan 45°)",
+    "text": "Evaluate without using a calculator: 2 sin 30° + 4 cos 60° - tan 45°.",
+    "formula": "2\\left(\\frac{1}{2}\\right) + 4\\left(\\frac{1}{2}\\right) - 1 = 1 + 2 - 1 = 2",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0"
+    ],
+    "answer": "2",
+    "hint": "Substitute sin 30° = 1/2, cos 60° = 1/2, tan 45° = 1.",
+    "steps": [
+      "**Step 1: Substitute values** - 2(1/2) + 4(1/2) - 1",
+      "**Step 2: Simplify** - 1 + 2 - 1 = 2",
+      "**Final Answer:** 2"
+    ],
+    "id": 134558,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 27,
+    "title": "Evaluate Trigonometric Expression (sin 45° cos 45° + sin 30° cos 60°)",
+    "text": "Evaluate the exact numerical value: (sin 45° · cos 45°) + (sin 30° · cos 60°).",
+    "formula": "\\left(\\frac{\\sqrt{2}}{2} \\cdot \\frac{\\sqrt{2}}{2}\\right) + \\left(\\frac{1}{2} \\cdot \\frac{1}{2}\\right) = \\frac{2}{4} + \\frac{1}{4} = \\frac{3}{4}",
+    "options": [
+      "3/4",
+      "1/2",
+      "1",
+      "5/4"
+    ],
+    "answer": "3/4",
+    "hint": "(√2/2)(√2/2) + (1/2)(1/2) = 2/4 + 1/4 = 3/4.",
+    "steps": [
+      "**Step 1: First term** - (√2/2)² = 2/4 = 1/2",
+      "**Step 2: Second term** - (1/2)² = 1/4",
+      "**Step 3: Sum** - 2/4 + 1/4 = 3/4",
+      "**Final Answer:** 3/4"
+    ],
+    "id": 134559,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 28,
+    "title": "Evaluate Complex Trigonometric Fraction",
+    "text": "Evaluate: \\(\\frac{\\tan^2 60^\\circ - 2 \\sin^2 45^\\circ}{\\cos^2 30^\\circ + \\sin^2 30^\\circ}\\).",
+    "formula": "\\frac{(\\sqrt{3})^2 - 2\\left(\\frac{\\sqrt{2}}{2}\\right)^2}{\\left(\\frac{\\sqrt{3}}{2}\\right)^2 + \\left(\\frac{1}{2}\\right)^2} = \\frac{3 - 2(2/4)}{3/4 + 1/4} = \\frac{3 - 1}{1} = 2",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "1/2"
+    ],
+    "answer": "2",
+    "hint": "Numerator = 3 - 2(1/2) = 2; Denominator = 1 (Pythagorean Identity).",
+    "steps": [
+      "**Step 1: Numerator** - (√3)² - 2(1/2) = 3 - 1 = 2",
+      "**Step 2: Denominator** - 3/4 + 1/4 = 1",
+      "**Step 3: Quotient** - 2 / 1 = 2",
+      "**Final Answer:** 2"
+    ],
+    "id": 134560,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 29,
+    "title": "Solve Co-Function Equation cos(2x + 10°) = sin(3x - 15°)",
+    "text": "If cos(2x + 10°) = sin(3x - 15°) where both angles are acute, find the value of x in degrees.",
+    "formula": "(2x + 10^\\circ) + (3x - 15^\\circ) = 90^\\circ \\implies 5x - 5^\\circ = 90^\\circ \\implies 5x = 95^\\circ \\implies x = 19^\\circ",
+    "options": [
+      "19°",
+      "21°",
+      "15°",
+      "25°"
+    ],
+    "answer": "19°",
+    "hint": "For co-functions cos A = sin B, the angles are complementary: A + B = 90°.",
+    "steps": [
+      "**Step 1: Set complementary equation** - (2x + 10) + (3x - 15) = 90",
+      "**Step 2: Simplify** - 5x - 5 = 90 ⟹ 5x = 95",
+      "**Step 3: Solve x** - x = 19°",
+      "**Final Answer:** 19°"
+    ],
+    "id": 134561,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 30,
+    "title": "Solve Co-Function Equation tan(4θ) = cot(θ + 10°)",
+    "text": "If tan(4θ) = cot(θ + 10°), solve for the acute angle θ in degrees.",
+    "formula": "4\\theta + (\\theta + 10^\\circ) = 90^\\circ \\implies 5\\theta + 10^\\circ = 90^\\circ \\implies 5\\theta = 80^\\circ \\implies \\theta = 16^\\circ",
+    "options": [
+      "16°",
+      "20°",
+      "14°",
+      "18°"
+    ],
+    "answer": "16°",
+    "hint": "tan A = cot B ⟹ A + B = 90°.",
+    "steps": [
+      "**Step 1: Set equation** - 4θ + (θ + 10) = 90",
+      "**Step 2: Simplify** - 5θ = 80",
+      "**Step 3: Solve θ** - θ = 16°",
+      "**Final Answer:** 16°"
+    ],
+    "id": 134562,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 31,
+    "title": "Ship Bearing 140° Navigation Components",
+    "text": "A ship sails from port on a course of 140° for 50 nautical miles. How far South and how far East has the ship traveled to two decimal places?",
+    "formula": "\\text{South} = 50 \\cos(40^\\circ) = 38.30 \\text{ nmi}, \\quad \\text{East} = 50 \\sin(40^\\circ) = 32.14 \\text{ nmi}",
+    "options": [
+      "South = 38.30 nmi, East = 32.14 nmi",
+      "South = 32.14 nmi, East = 38.30 nmi",
+      "South = 40.00 nmi, East = 30.00 nmi",
+      "South = 45.00 nmi, East = 25.00 nmi"
+    ],
+    "answer": "South = 38.30 nmi, East = 32.14 nmi",
+    "hint": "140° bearing makes a 40° angle with South (or 50° with East).",
+    "steps": [
+      "**Step 1: South component** - 50 × cos(40°) = 38.30 nmi",
+      "**Step 2: East component** - 50 × sin(40°) = 32.14 nmi",
+      "**Final Answer:** South = 38.30 nmi, East = 32.14 nmi"
+    ],
+    "id": 134563,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q31.svg"
+  },
+  {
+    "num": 32,
+    "title": "Zip-Line Cable Length & Slope Angle Calculation",
+    "text": "A zip-line cable is anchored between two trees across a canyon. Tree A has cable attached at 24m height, Tree B at 10m height, and horizontal distance between trees is 35m. Calculate the cable length and slope angle to two decimal places.",
+    "formula": "L = \\sqrt{35^2 + (24 - 10)^2} = \\sqrt{1225 + 196} = 37.70 \\text{ m}, \\quad \\theta = \\arctan\\left(\\frac{14}{35}\\right) = 21.80^\\circ",
+    "options": [
+      "Cable length = 37.70 m, Slope angle = 21.80°",
+      "Cable length = 39.20 m, Slope angle = 25.40°",
+      "Cable length = 35.00 m, Slope angle = 18.20°",
+      "Cable length = 42.10 m, Slope angle = 30.00°"
+    ],
+    "answer": "Cable length = 37.70 m, Slope angle = 21.80°",
+    "hint": "Height difference = 24 - 10 = 14m; L = √(35² + 14²) = 37.70m; θ = arctan(14/35).",
+    "steps": [
+      "**Step 1: Height difference** - 24 - 10 = 14 m",
+      "**Step 2: Cable length** - √(1225 + 196) = 37.70 meters",
+      "**Step 3: Slope angle** - arctan(14/35) = 21.80°",
+      "**Final Answer:** Cable length = 37.70 m, Slope angle = 21.80°"
+    ],
+    "id": 134564,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q32.svg"
+  },
+  {
+    "num": 33,
+    "title": "Hot Air Balloon Altitude from Two Tracking Stations",
+    "text": "An observer at ground level spots a hot air balloon directly above a road. Two tracking stations 500m apart on opposite sides of the balloon measure angles of elevation 38° and 54°. Calculate the balloon altitude to two decimal places.",
+    "formula": "h\\left(\\frac{1}{\\tan 38^\\circ} + \\frac{1}{\\tan 54^\\circ}\\right) = 500 \\implies h(1.2799 + 0.7265) = 500 \\implies h = 249.20 \\text{ meters}",
+    "options": [
+      "249.20 meters",
+      "285.40 meters",
+      "215.10 meters",
+      "310.00 meters"
+    ],
+    "answer": "249.20 meters",
+    "hint": "Set x = h/tan(38°) and (500 - x) = h/tan(54°). Solve h = 500 / (1/tan(38°) + 1/tan(54°)).",
+    "steps": [
+      "**Step 1: Set equation** - h(1.2799 + 0.7265) = 500",
+      "**Step 2: Sum cotangents** - 2.0064 h = 500",
+      "**Step 3: Solve h** - 500 / 2.0064 = 249.20 meters",
+      "**Final Answer:** 249.20 meters"
+    ],
+    "id": 134565,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q33.svg"
+  },
+  {
+    "num": 34,
+    "title": "Building Height with 12m Flagpole on Top",
+    "text": "A 12-meter flagpole stands on top of a building. From a point on the ground, the angles of elevation to the bottom and top of the flagpole are 40° and 50° respectively. Calculate the height of the building to two decimal places.",
+    "formula": "h = \\frac{12 \\tan 40^\\circ}{\\tan 50^\\circ - \\tan 40^\\circ} = \\frac{12(0.8391)}{1.1918 - 0.8391} = \\frac{10.069}{0.3527} = 28.55 \\text{ meters}",
+    "options": [
+      "28.55 meters",
+      "32.40 meters",
+      "24.10 meters",
+      "36.00 meters"
+    ],
+    "answer": "28.55 meters",
+    "hint": "d = h / tan(40°) and h + 12 = d tan(50°). Solve h = 12 tan(40°) / (tan(50°) - tan(40°)).",
+    "steps": [
+      "**Step 1: Express d** - d = h / tan(40°) = 1.1918 h",
+      "**Step 2: Set equation** - (h + 12) = 1.1918 h × 0.8391 = 1.4203 h",
+      "**Step 3: Solve h** - 0.4203 h = 12 ⟹ h = 28.55 meters",
+      "**Final Answer:** 28.55 meters"
+    ],
+    "id": 134566,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q34.svg"
+  },
+  {
+    "num": 35,
+    "title": "Isosceles Triangle Perimeter (Base 16cm, Base Angles 50°)",
+    "text": "Find the perimeter of an isosceles triangle whose base is 16 cm and whose base angles each measure 50° to two decimal places.",
+    "formula": "\\text{Leg } s = \\frac{8}{\\cos(50^\\circ)} = 12.45 \\text{ cm} \\implies P = 16 + 2(12.45) = 40.90 \\text{ cm}",
+    "options": [
+      "40.90 cm",
+      "36.50 cm",
+      "44.80 cm",
+      "32.00 cm"
+    ],
+    "answer": "40.90 cm",
+    "hint": "Half base = 8 cm; Leg s = 8 / cos(50°) = 12.45 cm; Perimeter = 16 + 2(12.45) = 40.90 cm.",
+    "steps": [
+      "**Step 1: Calculate leg** - 8 / cos(50°) = 12.45 cm",
+      "**Step 2: Total perimeter** - 16 + 2(12.45) = 40.90 cm",
+      "**Final Answer:** 40.90 cm"
+    ],
+    "id": 134567,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q35.svg"
+  },
+  {
+    "num": 36,
+    "title": "Isosceles Triangle Area (Legs 12cm, Vertex Angle 40°)",
+    "text": "Find the area of an isosceles triangle whose equal legs measure 12 cm and whose vertex angle measures 40° to two decimal places.",
+    "formula": "\\text{Area} = \\frac{1}{2}(12)(12)\\sin(40^\\circ) = 72 \\times 0.6428 = 46.28 \\text{ cm}^2",
+    "options": [
+      "46.28 cm²",
+      "52.40 cm²",
+      "36.10 cm²",
+      "72.00 cm²"
+    ],
+    "answer": "46.28 cm²",
+    "hint": "Area = (1/2) a b sin(C) = (1/2)(12)(12) sin(40°).",
+    "steps": [
+      "**Step 1: Formula** - Area = 72 × sin(40°)",
+      "**Step 2: Calculate** - 72 × 0.6428 = 46.28 cm²",
+      "**Final Answer:** 46.28 cm²"
+    ],
+    "id": 134568,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q36.svg"
+  },
+  {
+    "num": 37,
+    "title": "Regular Pentagon Inscribed in Circle Radius 10cm",
+    "text": "In a regular pentagon inscribed in a circle of radius 10 cm, use trigonometry to calculate the side length and perimeter of the pentagon to two decimal places.",
+    "formula": "s = 2(10)\\sin(36^\\circ) = 11.76 \\text{ cm}, \\quad P = 5 \\times 11.76 = 58.78 \\text{ cm}",
+    "options": [
+      "Side = 11.76 cm, Perimeter = 58.78 cm",
+      "Side = 10.00 cm, Perimeter = 50.00 cm",
+      "Side = 14.14 cm, Perimeter = 70.70 cm",
+      "Side = 12.50 cm, Perimeter = 62.50 cm"
+    ],
+    "answer": "Side = 11.76 cm, Perimeter = 58.78 cm",
+    "hint": "Central angle per side = 72°; Side = 2 R sin(36°) = 20 × 0.5878 = 11.76 cm.",
+    "steps": [
+      "**Step 1: Half central angle** - 36°",
+      "**Step 2: Side length** - 2 × 10 × sin(36°) = 11.76 cm",
+      "**Step 3: Perimeter** - 5 × 11.76 = 58.78 cm",
+      "**Final Answer:** Side = 11.76 cm, Perimeter = 58.78 cm"
+    ],
+    "id": 134569,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q37.svg"
+  },
+  {
+    "num": 38,
+    "title": "Camera Tripod Tilt Angle to Stage Banner",
+    "text": "A camera is mounted on a tripod 1.5 meters above the ground, 12 meters away from a stage banner extending from ground (0m) to top (3.5m). Calculate the tilt angle from horizontal to top of banner to two decimal places.",
+    "formula": "\\theta = \\arctan\\left(\\frac{3.5 - 1.5}{12}\\right) = \\arctan\\left(\\frac{2.0}{12}\\right) = 9.46^\\circ",
+    "options": [
+      "9.46°",
+      "16.25°",
+      "12.50°",
+      "6.80°"
+    ],
+    "answer": "9.46°",
+    "hint": "Net height = 3.5 - 1.5 = 2.0 m; tan θ = 2.0 / 12 ⟹ θ = arctan(0.1667) = 9.46°.",
+    "steps": [
+      "**Step 1: Net Height** - 3.5 - 1.5 = 2.0 m",
+      "**Step 2: Tilt Angle** - arctan(2/12) = 9.46°",
+      "**Final Answer:** 9.46°"
+    ],
+    "id": 134570,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q38.svg"
+  },
+  {
+    "num": 39,
+    "title": "Conceptual Bound: Why sin θ and cos θ Never Exceed 1",
+    "text": "Explain why the value of sin θ and cos θ can never exceed 1 for any acute angle θ in a right triangle.",
+    "formula": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}} \\le 1, \\quad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}} \\le 1 \\quad (\\text{since Hyp } > \\text{ Opp, Adj})",
+    "options": [
+      "Hypotenuse is always the longest side, so ratio Opp/Hyp or Adj/Hyp ≤ 1",
+      "Legs are always equal to hypotenuse in all right triangles",
+      "Sum of acute angles is 180°, limiting ratio values",
+      "Pythagorean theorem restricts tangent values to 1"
+    ],
+    "answer": "Hypotenuse is always the longest side, so ratio Opp/Hyp or Adj/Hyp ≤ 1",
+    "hint": "In any right triangle, the hypotenuse opposite 90° is strictly longer than either leg.",
+    "steps": [
+      "**Step 1: Hypotenuse property** - Hypotenuse is the longest side in a right triangle.",
+      "**Step 2: Ratio upper bound** - Numerator (leg) is smaller than denominator (hypotenuse).",
+      "**Final Answer:** Hypotenuse is always the longest side, so ratio Opp/Hyp or Adj/Hyp ≤ 1"
+    ],
+    "id": 134571,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 40,
+    "title": "Conceptual Behavior: Why tan θ Grows Without Bound",
+    "text": "Explain why tan θ increases without bound as θ approaches 90°.",
+    "formula": "\\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}} \\to \\infty \\quad \\text{as } \\text{Adj} \\to 0",
+    "options": [
+      "As θ → 90°, Adjacent leg → 0, so Opp/Adj → ∞",
+      "As θ → 90°, Hypotenuse → 0, so Opp/Hyp → ∞",
+      "As θ → 90°, Opposite leg → 0, so Adj/Opp → ∞",
+      "As θ → 90°, sum of angles exceeds 180°"
+    ],
+    "answer": "As θ → 90°, Adjacent leg → 0, so Opp/Adj → ∞",
+    "hint": "As angle approaches 90°, adjacent leg shrinks toward 0 while opposite leg remains non-zero.",
+    "steps": [
+      "**Step 1: Adjacent leg shrink** - Adj → 0 as θ → 90°.",
+      "**Step 2: Division by zero limit** - Opp / Adj → ∞.",
+      "**Final Answer:** As θ → 90°, Adjacent leg → 0, so Opp/Adj → ∞"
+    ],
+    "id": 134572,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 41,
+    "title": "Algebraic Trigonometric Expressions for sin θ = x/y",
+    "text": "If sin θ = x / y, express cos θ and tan θ in terms of algebraic variables x and y for acute angle θ.",
+    "formula": "\\cos \\theta = \\frac{\\sqrt{y^2 - x^2}}{y}, \\quad \\tan \\theta = \\frac{x}{\\sqrt{y^2 - x^2}}",
+    "options": [
+      "cos θ = √(y² - x²)/y, tan θ = x/√(y² - x²)",
+      "cos θ = x/√(y² + x²), tan θ = y/x",
+      "cos θ = (y - x)/y, tan θ = x/(y - x)",
+      "cos θ = √(x² + y²)/y, tan θ = √(y² - x²)/x"
+    ],
+    "answer": "cos θ = √(y² - x²)/y, tan θ = x/√(y² - x²)",
+    "hint": "Opposite = x, Hypotenuse = y ⟹ Adjacent = √(y² - x²).",
+    "steps": [
+      "**Step 1: Find Adjacent** - √(y² - x²)",
+      "**Step 2: cos θ** - Adjacent / Hypotenuse = √(y² - x²) / y",
+      "**Step 3: tan θ** - Opposite / Adjacent = x / √(y² - x²)",
+      "**Final Answer:** cos θ = √(y² - x²)/y, tan θ = x/√(y² - x²)"
+    ],
+    "id": 134573,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 42,
+    "title": "Submarine Dive Depth After 30 Minutes",
+    "text": "A submarine dives at an angle of 15° beneath the ocean surface at a speed of 20 km/h. What is its vertical depth after 30 minutes to two decimal places?",
+    "formula": "d = (20 \\times 0.5)\\sin(15^\\circ) = 10 \\times 0.2588 = 2.59 \\text{ km}",
+    "options": [
+      "2.59 km",
+      "9.66 km",
+      "5.00 km",
+      "3.48 km"
+    ],
+    "answer": "2.59 km",
+    "hint": "Distance traveled in 30 min = 10 km; Depth = 10 × sin(15°) = 2.59 km.",
+    "steps": [
+      "**Step 1: Distance** - 20 km/h × 0.5 h = 10 km",
+      "**Step 2: Depth** - 10 × sin(15°) = 2.59 km",
+      "**Final Answer:** 2.59 km"
+    ],
+    "id": 134574,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q42.svg"
+  },
+  {
+    "num": 43,
+    "title": "Forest Ranger Watchtower Distance to Fire",
+    "text": "A forest ranger in a 35-meter watchtower spots a smoke column at an angle of depression of 4.5°. Calculate the direct horizontal distance from the base of the tower to the fire to two decimal places.",
+    "formula": "d = \\frac{35}{\\tan(4.5^\\circ)} = \\frac{35}{0.0787} = 444.73 \\text{ meters}",
+    "options": [
+      "444.73 meters",
+      "350.00 meters",
+      "280.50 meters",
+      "520.10 meters"
+    ],
+    "answer": "444.73 meters",
+    "hint": "tan(4.5°) = 35 / d ⟹ d = 35 / tan(4.5°).",
+    "steps": [
+      "**Step 1: Formula** - d = 35 / tan(4.5°)",
+      "**Step 2: Calculate** - 35 / 0.0787 = 444.73 meters",
+      "**Final Answer:** 444.73 meters"
+    ],
+    "id": 134575,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q43.svg"
+  },
+  {
+    "num": 44,
+    "title": "Highway Incline Angle of Elevation",
+    "text": "A highway ascends 150 meters over a distance of 2.5 kilometers of pavement. Find the angle of elevation of the road grade to two decimal places.",
+    "formula": "\\theta = \\arcsin\\left(\\frac{150}{2500}\\right) = \\arcsin(0.0600) = 3.44^\\circ",
+    "options": [
+      "3.44°",
+      "5.71°",
+      "2.15°",
+      "6.00°"
+    ],
+    "answer": "3.44°",
+    "hint": "2.5 km = 2500 m; sin θ = 150 / 2500 = 0.0600 ⟹ θ = arcsin(0.0600) = 3.44°.",
+    "steps": [
+      "**Step 1: Convert units** - 2.5 km = 2500 meters",
+      "**Step 2: Calculate sin θ** - 150 / 2500 = 0.0600",
+      "**Step 3: Calculate angle** - arcsin(0.0600) = 3.44°",
+      "**Final Answer:** 3.44°"
+    ],
+    "id": 134576,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q44.svg"
+  },
+  {
+    "num": 45,
+    "title": "Right Triangle Acute Angles from tan A = 3",
+    "text": "In △ABC with right angle at C, if tan A = 3, find the measures of angles A and B to two decimal places.",
+    "formula": "A = \\arctan(3) = 71.57^\\circ, \\quad B = 90^\\circ - 71.57^\\circ = 18.43^\\circ",
+    "options": [
+      "A = 71.57°, B = 18.43°",
+      "A = 60.00°, B = 30.00°",
+      "A = 45.00°, B = 45.00°",
+      "A = 75.00°, B = 15.00°"
+    ],
+    "answer": "A = 71.57°, B = 18.43°",
+    "hint": "A = arctan(3) = 71.57°; B = 90° - 71.57° = 18.43°.",
+    "steps": [
+      "**Step 1: Angle A** - arctan(3) = 71.57°",
+      "**Step 2: Angle B** - 90° - 71.57° = 18.43°",
+      "**Final Answer:** A = 71.57°, B = 18.43°"
+    ],
+    "id": 134577,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q45.svg"
+  },
+  {
+    "num": 46,
+    "title": "Satellite Tracking Rocket Altitude at 64° Elevation",
+    "text": "From a satellite tracking station, a rocket is tracked at an angle of elevation of 64° at a direct line-of-sight distance of 85 km. Calculate the altitude of the rocket to two decimal places.",
+    "formula": "h = 85 \\times \\sin(64^\\circ) = 85 \\times 0.8988 = 76.40 \\text{ km}",
+    "options": [
+      "76.40 km",
+      "37.26 km",
+      "94.57 km",
+      "68.00 km"
+    ],
+    "answer": "76.40 km",
+    "hint": "sin(64°) = height / 85 ⟹ height = 85 × sin(64°).",
+    "steps": [
+      "**Step 1: Formula** - h = 85 × sin(64°)",
+      "**Step 2: Calculate** - 85 × 0.8988 = 76.40 km",
+      "**Final Answer:** 76.40 km"
+    ],
+    "id": 134578,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q46.svg"
+  },
+  {
+    "num": 47,
+    "title": "Pedestrian Overpass Staircase Length Calculation",
+    "text": "A pedestrian overpass spans an 8-lane expressway. The stairs have a slope angle of 32° and reach a height of 6 meters. What is the length of the stairway rail to two decimal places?",
+    "formula": "L = \\frac{6}{\\sin(32^\\circ)} = \\frac{6}{0.5299} = 11.32 \\text{ meters}",
+    "options": [
+      "11.32 meters",
+      "9.60 meters",
+      "14.50 meters",
+      "8.40 meters"
+    ],
+    "answer": "11.32 meters",
+    "hint": "sin(32°) = 6 / L ⟹ L = 6 / sin(32°).",
+    "steps": [
+      "**Step 1: Formula** - L = 6 / sin(32°)",
+      "**Step 2: Calculate** - 6 / 0.5299 = 11.32 meters",
+      "**Final Answer:** 11.32 meters"
+    ],
+    "id": 134579,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q47.svg"
+  },
+  {
+    "num": 48,
+    "title": "Prove Identity tan θ + cot θ = sec θ csc θ",
+    "text": "Prove the trigonometric identity: tan θ + cot θ = sec θ csc θ for acute angles.",
+    "formula": "\\frac{\\sin \\theta}{\\cos \\theta} + \\frac{\\cos \\theta}{\\sin \\theta} = \\frac{\\sin^2 \\theta + \\cos^2 \\theta}{\\sin \\theta \\cos \\theta} = \\frac{1}{\\sin \\theta \\cos \\theta} = \\sec \\theta \\csc \\theta",
+    "options": [
+      "sin/cos + cos/sin = (sin² + cos²)/(sin cos) = 1/(sin cos) = sec csc",
+      "sin/cos - cos/sin = 0",
+      "tan × cot = 1 ⟹ sec × csc = 1",
+      "1/sin + 1/cos = (sin + cos)/1"
+    ],
+    "answer": "sin/cos + cos/sin = (sin² + cos²)/(sin cos) = 1/(sin cos) = sec csc",
+    "hint": "Convert to sines and cosines: sin/cos + cos/sin = (sin² + cos²)/(sin cos) = 1/(sin cos).",
+    "steps": [
+      "**Step 1: Common denominator** - (sin² θ + cos² θ) / (sin θ cos θ)",
+      "**Step 2: Apply Pythagorean identity** - 1 / (sin θ cos θ)",
+      "**Step 3: Convert to reciprocals** - (1/cos θ)(1/sin θ) = sec θ csc θ",
+      "**Final Answer:** sin/cos + cos/sin = (sin² + cos²)/(sin cos) = 1/(sin cos) = sec csc"
+    ],
+    "id": 134580,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 49,
+    "title": "Prove Identity (1 - sin θ)(1 + sin θ) = cos² θ",
+    "text": "Prove that (1 - sin θ)(1 + sin θ) = cos² θ.",
+    "formula": "(1 - \\sin \\theta)(1 + \\sin \\theta) = 1 - \\sin^2 \\theta = \\cos^2 \\theta",
+    "options": [
+      "1 - sin² θ = cos² θ",
+      "1 + sin² θ = cos² θ",
+      "1 - cos² θ = 1",
+      "(1 - sin θ)² = cos² θ"
+    ],
+    "answer": "1 - sin² θ = cos² θ",
+    "hint": "Difference of squares: (1 - sin θ)(1 + sin θ) = 1 - sin² θ = cos² θ.",
+    "steps": [
+      "**Step 1: Expand difference of squares** - 1 - sin² θ",
+      "**Step 2: Apply Pythagorean identity** - cos² θ = 1 - sin² θ",
+      "**Final Answer:** 1 - sin² θ = cos² θ"
+    ],
+    "id": 134581,
+    "needs_img": false,
+    "img_url": null
+  },
+  {
+    "num": 50,
+    "title": "Suspension Bridge Cable Inclination Angle",
+    "text": "A suspension bridge cable hangs between two towers of height 75 meters above the roadway, 300 meters apart. The cable meets the roadway at the center. Find the angle of inclination of the straight tangent line from center to tower top to two decimal places.",
+    "formula": "\\theta = \\arctan\\left(\\frac{75}{150}\\right) = \\arctan(0.5) = 26.57^\\circ",
+    "options": [
+      "26.57°",
+      "30.00°",
+      "45.00°",
+      "18.43°"
+    ],
+    "answer": "26.57°",
+    "hint": "Half span = 150m; height = 75m; tan θ = 75/150 = 0.5 ⟹ θ = 26.57°.",
+    "steps": [
+      "**Step 1: Half span** - 300 / 2 = 150 meters",
+      "**Step 2: Calculate angle** - arctan(75/150) = arctan(0.5) = 26.57°",
+      "**Final Answer:** 26.57°"
+    ],
+    "id": 134582,
+    "needs_img": true,
+    "img_url": "/images/g9_t153_q50.svg"
+  }
+]

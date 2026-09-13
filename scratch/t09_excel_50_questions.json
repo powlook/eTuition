@@ -1,0 +1,852 @@
+[
+  {
+    "num": 1,
+    "q_num": "T09-Q001",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "State the Triangle Inequality Theorem: the sum of the lengths of any two sides of a triangle must be strictly greater than the length of the third side (a + b > c, a + c > b, b + c > a).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 2,
+    "q_num": "T09-Q002",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Determine whether a valid triangle can be formed with side lengths: a) 5 cm, 8 cm, 14 cm; b) 6 cm, 9 cm, 15 cm; c) 7 cm, 11 cm, 15 cm. Justify each case.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 3,
+    "q_num": "T09-Q003",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Two sides of a triangle have lengths 9 cm and 16 cm. Find the range of all possible lengths for the third side x in inequality notation.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 4,
+    "q_num": "T09-Q004",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "If the sides of a triangle measure 2x + 3, 3x + 1, and 19, determine the allowable range of values for variable x.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 5,
+    "q_num": "T09-Q005",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A triangle has integer side lengths. Two sides measure 6 cm and 13 cm. Determine the minimum possible perimeter and maximum possible perimeter of the triangle.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 6,
+    "q_num": "T09-Q006",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "State the Side-Angle Inequality Theorem: in any triangle, if one side is longer than another side, the angle opposite the longer side is larger than the angle opposite the shorter side.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 7,
+    "q_num": "T09-Q007",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "State the Angle-Side Inequality Theorem: in any triangle, the longer side lies opposite the larger interior angle.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 8,
+    "q_num": "T09-Q008",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △ABC, side AB = 12 cm, BC = 8 cm, and AC = 15 cm. List the interior angles ∠A, ∠B, ∠C in order from smallest to largest.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 9,
+    "q_num": "T09-Q009",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △PQR, m∠P = 48°, m∠Q = 76°, and m∠R = 56°. Arrange the side lengths PQ, QR, and PR in order from shortest to longest.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 10,
+    "q_num": "T09-Q010",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △XYZ, exterior angle at vertex X measures 125° and m∠Y = 40°. Order all three side lengths of △XYZ from longest to shortest.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 11,
+    "q_num": "T09-Q011",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "State the Exterior Angle Inequality Theorem: the measure of an exterior angle of a triangle is strictly greater than the measure of either of its remote interior angles.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 12,
+    "q_num": "T09-Q012",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △ABC, side BC is extended past C to point D, forming exterior angle ∠ACD. If m∠A = (3x + 10)° and m∠ACD = 115°, set up the inequality for x.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 13,
+    "q_num": "T09-Q013",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Prove the Exterior Angle Inequality Theorem using the Exterior Angle Theorem (m∠ext = m∠int₁ + m∠int₂) and positive angle measure axioms.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 14,
+    "q_num": "T09-Q014",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "State the Hinge Theorem (SAS Inequality Theorem): if two triangles have two pairs of congruent sides, the triangle with the larger included angle has the longer third side.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 15,
+    "q_num": "T09-Q015",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "State the Converse of the Hinge Theorem (SSS Inequality Theorem).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 16,
+    "q_num": "T09-Q016",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △ABC and △DEF, AB = DE = 8 cm, AC = DF = 11 cm. If included angle ∠A = 52° and ∠D = 68°, use the Hinge Theorem to compare the lengths of side BC and side EF.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 17,
+    "q_num": "T09-Q017",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △PQR and △STU, PQ = ST = 7, PR = SU = 10, QR = 9, and TU = 12. Use the Converse of the Hinge Theorem to compare m∠P and m∠S.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 18,
+    "q_num": "T09-Q018",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Two hikers leave base camp. Hiker A walks 4 km North, turns 40° East of North, and walks 3 km. Hiker B walks 4 km North, turns 65° East of North, and walks 3 km. Use the Hinge Theorem to determine which hiker is farther from camp.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 19,
+    "q_num": "T09-Q019",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Prove using triangle inequalities that the hypotenuse is strictly the longest side in any right-angled triangle.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 20,
+    "q_num": "T09-Q020",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In an obtuse triangle, prove that the side opposite the obtuse angle must be the longest side.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 21,
+    "q_num": "T09-Q021",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In an isosceles triangle with equal legs of length 12 cm, find the range of possible lengths for the base b.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 22,
+    "q_num": "T09-Q022",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "An isosceles triangle has a perimeter of 32 cm and integer side lengths. List all possible integer dimensions (leg, leg, base) of the triangle.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 23,
+    "q_num": "T09-Q023",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "State the Perpendicular Bisector Theorem and its converse regarding equidistant locations.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 24,
+    "q_num": "T09-Q024",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △ABC, altitude AH is drawn from A to base BC. Prove that side AB > AH and side AC > AH (the perpendicular segment is the shortest distance from a point to a line).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 25,
+    "q_num": "T09-Q025",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △ABC, median AM is drawn from vertex A to midpoint M of BC. Prove that AM < (1/2)(AB + AC).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 26,
+    "q_num": "T09-Q026",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Prove that the sum of the lengths of the three altitudes of a triangle is less than the perimeter of the triangle.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 27,
+    "q_num": "T09-Q027",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Prove that the perimeter of a triangle is strictly greater than the sum of its three medians.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 28,
+    "q_num": "T09-Q028",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Point P is any point in the interior of △ABC. Prove that PA + PB + PC > (1/2)(AB + BC + AC).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 29,
+    "q_num": "T09-Q029",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In convex quadrilateral ABCD, prove that the sum of the lengths of the diagonals AC + BD is greater than half the perimeter (1/2)(AB + BC + CD + DA).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 30,
+    "q_num": "T09-Q030",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In quadrilateral ABCD, prove that the sum of the diagonals AC + BD is strictly less than the perimeter AB + BC + CD + DA.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 31,
+    "q_num": "T09-Q031",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A telecommunication relay station is to be built to connect three rural villages A, B, and C located at the vertices of a triangle. Explain which geometric principles and triangle centers optimize signal coverage and cable distances.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 32,
+    "q_num": "T09-Q032",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A robotic arm has two linkages of lengths 40 cm and 30 cm connected by a motorized elbow joint. Determine the circular reachable workspace annulus (minimum and maximum reach radius from the shoulder pivot).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 33,
+    "q_num": "T09-Q033",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A scissors mechanism changes its tip separation as the handle angle opens from 20° to 70°. Apply the Hinge Theorem to model the expanding tip span.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 34,
+    "q_num": "T09-Q034",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A delivery drone flies from Warehouse W to Customer A (12 km), then to Customer B (18 km), and returns to W. Find the minimum and maximum possible total flight distance for the triangular route.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 35,
+    "q_num": "T09-Q035",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A structural tripod has legs of lengths 2.5 m, 2.5 m, and 3.0 m. Verify whether the leg ends can be placed 6 meters apart on level ground.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 36,
+    "q_num": "T09-Q036",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Explain why the circumcenter of an obtuse triangle lies outside the triangle, while for an acute triangle it lies inside.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 37,
+    "q_num": "T09-Q037",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Explain why the centroid of ANY triangle always lies strictly inside the triangle regardless of triangle shape.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 38,
+    "q_num": "T09-Q038",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In a city park shaped like △ABC with AB = 300 m, BC = 400 m, and AC = 500 m, where should an emergency defibrillator be placed so it is equidistant from all three perimeter walkways?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 39,
+    "q_num": "T09-Q039",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Given coordinates A(1, 2), B(5, 5), and C(x, 2), find the range of x such that △ABC forms a non-degenerate triangle.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 40,
+    "q_num": "T09-Q040",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Verify using coordinate distance formulas that the points P(-2, 1), Q(2, 4), and R(6, 7) are collinear and therefore CANNOT form a triangle (PQ + QR = PR).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 41,
+    "q_num": "T09-Q041",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △ABC with vertices A(0, 0), B(6, 0), and C(2, 4), order the interior angles by computing the side lengths.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 42,
+    "q_num": "T09-Q042",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A student claims that a triangle can have side lengths 4 cm, 6 cm, and 10 cm because 4 + 6 = 10. Explain why this equality results in a flat line segment rather than a triangle.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 43,
+    "q_num": "T09-Q043",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A student asserts that in △ABC with m∠A = 80°, side BC must be 80 cm long. Explain the fundamental difference between angle degree measure and side length.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 44,
+    "q_num": "T09-Q044",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A student attempts to apply the Hinge Theorem to two triangles where only one pair of sides is congruent. Explain why the Hinge Theorem requires two pairs of congruent sides.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 45,
+    "q_num": "T09-Q045",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "If the side lengths of a triangle are a, b, c in arithmetic progression, and a < b < c, prove that a > c/3.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 46,
+    "q_num": "T09-Q046",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "Prove that in any △ABC with side lengths a, b, c: a² + b² + c² < 2(ab + bc + ca).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 47,
+    "q_num": "T09-Q047",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "In △ABC, if m∠A = 2 m∠B, prove that a² = b(b + c).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 48,
+    "q_num": "T09-Q048",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "If a, b, c are the side lengths of a triangle, prove that √(a) + √(b) > √(c).",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 49,
+    "q_num": "T09-Q049",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A door is hinged to a wall. Apply the Hinge Theorem to explain why the distance from the door handle to the doorframe catch increases monotonically as the opening angle increases from 0° to 90°.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  },
+  {
+    "num": 50,
+    "q_num": "T09-Q050",
+    "title": "Measurement and Geometry (MG)",
+    "text": "Solve problems involving perpendicular bisector theorem, isosceles/equilateral theorems, midline theorem; explain triangle inequality theorems and compare measures in a triangle; apply Hinge Theorem.",
+    "formula": "A triangular garden has two sides of length 15 m and 22 m. If the angle between them increases from 40° to 75°, apply the Hinge Theorem to explain what happens to the perimeter of the garden.",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "answer": null,
+    "hint": null,
+    "steps": null,
+    "img_title": null
+  }
+]

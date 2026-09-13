@@ -1,0 +1,28 @@
+DB server/etuition.db: 50 questions found
+  Generic placeholder options count in server/etuition.db: 0
+DB QBank/server/qbank.db: 50 questions found
+  Generic placeholder options count in QBank/server/qbank.db: 0
+DB QBank/server/etuition.db: 50 questions found
+  Generic placeholder options count in QBank/server/etuition.db: 0
+JSON questions.json: 50 questions found
+  Generic placeholder options count in questions.json: 0
+JSON QBank/questions.json: 50 questions found
+  Generic placeholder options count in QBank/questions.json: 0
+JSON QBank/public/questions.json: 50 questions found
+  Generic placeholder options count in QBank/public/questions.json: 0
+JSON QBank/dist/questions.json: 50 questions found
+  Generic placeholder options count in QBank/dist/questions.json: 0
+
+--- Question ID 134484 ([T152-Q134484]) ---
+Text: Determine which of the following sets of side lengths can form a valid triangle: a) 4 cm, 7 cm, 12 cm; b) 5 cm, 12 cm, 13 cm; c) 6 cm, 8 cm, 14 cm.
+Options: ['Only set b (5 cm, 12 cm, 13 cm) forms a valid triangle.', 'Only set a (4 cm, 7 cm, 12 cm) forms a valid triangle.', 'Both set b and set c form valid triangles.', 'All three sets form valid triangles.']
+Correct Answer: Only set b (5 cm, 12 cm, 13 cm) forms a valid triangle.
+Math Formula: a + b > c \implies 4+7=11 < 12 \text{ (No)}, \; 5+12=17 > 13 \text{ (Yes)}, \; 6+8=14 \text{ (No)}
+Show Image: 1, Image URL: /images/g9_t152_q2.svg
+
+--- Question ID 134502 ([T152-Q134502]) ---
+Text: In △ABC, points D and E are midpoints of AB and AC respectively. If DE = 3x - 2 and BC = 4x + 8, find the value of x, DE, and BC.
+Options: ['x = 6, DE = 16 cm, BC = 32 cm', 'x = 4, DE = 10 cm, BC = 20 cm', 'x = 5, DE = 13 cm, BC = 26 cm', 'x = 8, DE = 22 cm, BC = 44 cm']
+Correct Answer: x = 6, DE = 16 cm, BC = 32 cm
+Math Formula: BC = 2(DE) \implies 4x + 8 = 2(3x - 2) \implies 4x + 8 = 6x - 4 \implies 2x = 12 \implies x = 6 \implies DE = 16, \; BC = 32
+Show Image: 1, Image URL: /images/g9_t152_q20.svg

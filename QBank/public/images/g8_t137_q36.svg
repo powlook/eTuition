@@ -1,23 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
-  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
-
-  <!-- Header Title -->
-  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
-  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
-    TV Screen Diagonal #36
-  </text>
-
-  <!-- Body Content -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" width="420" height="320">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12"/>
+  <rect x="20" y="16" width="380" height="36" fill="#1e293b" rx="8"/>
+  <text x="210" y="40" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#38bdf8" text-anchor="middle">TV Screen Dimensions</text>
   
-      <g transform="translate(100, 90)">
-        <!-- TV Screen Outer -->
-        <rect x="0" y="0" width="280" height="190" rx="8" fill="rgba(15, 23, 42, 0.9)" stroke="#38bdf8" stroke-width="3" />
-        <!-- Diagonal -->
-        <line x1="0" y1="190" x2="280" y2="0" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="6,4" />
-        <!-- Labels -->
-        <text x="140" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0" font-weight="bold">Width = 40"</text>
-        <text x="-40" y="100" font-family="sans-serif" font-size="13" fill="#e2e8f0" font-weight="bold">Height = 30"</text>
-        <text x="140" y="85" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#f59e0b" font-weight="bold">Diagonal = ? (50")</text>
-      </g>
-    
+  <rect x="110" y="80" width="220" height="150" fill="#1e293b" stroke="#64748b" stroke-width="3" rx="6"/>
+  <line x1="110" y1="230" x2="330" y2="80" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="6,4"/>
+  
+  <text x="220" y="255" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">Width = 40&quot;</text>
+  <text x="95" y="160" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#f8fafc" text-anchor="end">Height = 30&quot;</text>
+  
+  <rect x="160" y="138" width="120" height="28" fill="#1e293b" rx="4" stroke="#38bdf8" stroke-width="1"/>
+  <text x="220" y="157" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#38bdf8" text-anchor="middle">Diagonal = ?</text>
 </svg>

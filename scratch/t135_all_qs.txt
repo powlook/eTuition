@@ -1,0 +1,302 @@
+Total questions for Topic 135: 50
+
+Q01 (ID 133633): Linear Inequality Test Points #1
+  Text: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Img:  /images/g8_t135_q1.svg
+  Ans:  (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Opts: ['(0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy', 'All three points satisfy', 'Only (0, 0) satisfies', 'None satisfy']
+--------------------------------------------------
+Q02 (ID 133634): Strict Linear Inequality Graph #2
+  Text: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Img:  /images/g8_t135_q2.svg
+  Ans:  Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Opts: ['Dashed boundary line 2x + y = 4, shade region containing (3, 3)', 'Solid boundary line 2x + y = 4, shade below line', 'Dashed boundary line 2x + y = 4, shade region containing (0, 0)', 'Solid boundary line 2x + y = 4, shade region containing (0, 0)']
+--------------------------------------------------
+Q03 (ID 133635): Non-Strict Linear Inequality Graph #3
+  Text: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Img:  /images/g8_t135_q3.svg
+  Ans:  Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Opts: ['Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin', 'Dashed boundary line, shade region containing origin', 'Solid boundary line, shade region NOT containing origin', 'Dashed boundary line, shade region NOT containing origin']
+--------------------------------------------------
+Q04 (ID 133636): Inequality Identification from Graph #4
+  Text: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Img:  /images/g8_t135_q4.svg
+  Ans:  2x - y \ge -3
+  Opts: ['2x - y \\ge -3', '2x - y < -3', 'x - 2y \\ge 3', '2x + y \\le 3']
+--------------------------------------------------
+Q05 (ID 133637): System of Inequalities Shading #5
+  Text: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Img:  /images/g8_t135_q5.svg
+  Ans:  Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Opts: ['Region above line x + y = 5 and below line y = x - 2', 'Region above both lines', 'Intersection region below line x + y = 5 and above dashed line y = x - 2', 'Region below both lines']
+--------------------------------------------------
+Q06 (ID 133638): System Solution Point Verification #6
+  Text: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Img:  /images/g8_t135_q6.svg
+  Ans:  (2, 1) satisfies the system
+  Opts: ['(4, 3)', '(2, 1) satisfies the system', '(0, 5)', '(-2, 4)']
+--------------------------------------------------
+Q07 (ID 133639): Baker Earnings Inequality #7
+  Text: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Img:  /images/g8_t135_q7.svg
+  Ans:  15x + 10y \ge 1200
+  Opts: ['15x + 10y \\ge 1200', '15x + 10y > 1200', '15x + 10y \\le 1200', 'x + y \\ge 1200']
+--------------------------------------------------
+Q08 (ID 133640): Baker Earnings Evaluation #8
+  Text: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Img:  /images/g8_t135_q8.svg
+  Ans:  No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Opts: ['Yes, ₱1,300 earned exceeds the goal', 'Yes, exactly ₱1,200 is earned', 'No, only ₱900 is earned', 'No, ₱1,100 earned does not meet the minimum goal of ₱1,200']
+--------------------------------------------------
+Q09 (ID 133641): Land Allocation Inequality System #9
+  Text: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Img:  /images/g8_t135_q9.svg
+  Ans:  \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Opts: ['\\begin{cases} x + y = 60 \\\\ x = 15 \\end{cases}', '\\begin{cases} x + y \\ge 60 \\\\ x \\le 15 \\end{cases}', '\\begin{cases} x + y \\le 60 \\\\ y \\ge 15 \\end{cases}', '\\begin{cases} x + y \\le 60 \\\\ x \\ge 15 \\end{cases}']
+--------------------------------------------------
+Q10 (ID 133642): Work Schedule Inequality System #10
+  Text: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Img:  /images/g8_t135_q10.svg
+  Ans:  \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Opts: ['\\begin{cases} x + y \\le 20 \\\\ 80x + 60y \\ge 1400 \\end{cases}', '\\begin{cases} 80x + 60y \\le 20 \\\\ x + y \\ge 1400 \\end{cases}', '\\begin{cases} x + y = 20 \\\\ 80x + 60y = 1400 \\end{cases}', '\\begin{cases} x + y \\ge 20 \\\\ 80x + 60y \\le 1400 \\end{cases}']
+--------------------------------------------------
+Q11 (ID 133643): Linear Inequality Test Points #11
+  Text: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Img:  /images/g8_t135_q11.svg
+  Ans:  (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Opts: ['(0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy', 'All three points satisfy', 'Only (0, 0) satisfies', 'None satisfy']
+--------------------------------------------------
+Q12 (ID 133644): Strict Linear Inequality Graph #12
+  Text: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Img:  /images/g8_t135_q12.svg
+  Ans:  Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Opts: ['Dashed boundary line 2x + y = 4, shade region containing (3, 3)', 'Dashed boundary line 2x + y = 4, shade region containing (0, 0)', 'Solid boundary line 2x + y = 4, shade region containing (0, 0)', 'Solid boundary line 2x + y = 4, shade below line']
+--------------------------------------------------
+Q13 (ID 133645): Non-Strict Linear Inequality Graph #13
+  Text: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Img:  /images/g8_t135_q13.svg
+  Ans:  Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Opts: ['Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin', 'Solid boundary line, shade region NOT containing origin', 'Dashed boundary line, shade region containing origin', 'Dashed boundary line, shade region NOT containing origin']
+--------------------------------------------------
+Q14 (ID 133646): Inequality Identification from Graph #14
+  Text: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Img:  /images/g8_t135_q14.svg
+  Ans:  2x - y \ge -3
+  Opts: ['2x + y \\le 3', '2x - y \\ge -3', '2x - y < -3', 'x - 2y \\ge 3']
+--------------------------------------------------
+Q15 (ID 133647): System of Inequalities Shading #15
+  Text: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Img:  /images/g8_t135_q15.svg
+  Ans:  Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Opts: ['Intersection region below line x + y = 5 and above dashed line y = x - 2', 'Region above both lines', 'Region above line x + y = 5 and below line y = x - 2', 'Region below both lines']
+--------------------------------------------------
+Q16 (ID 133648): System Solution Point Verification #16
+  Text: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Img:  /images/g8_t135_q16.svg
+  Ans:  (2, 1) satisfies the system
+  Opts: ['(4, 3)', '(0, 5)', '(2, 1) satisfies the system', '(-2, 4)']
+--------------------------------------------------
+Q17 (ID 133649): Baker Earnings Inequality #17
+  Text: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Img:  /images/g8_t135_q17.svg
+  Ans:  15x + 10y \ge 1200
+  Opts: ['15x + 10y > 1200', 'x + y \\ge 1200', '15x + 10y \\le 1200', '15x + 10y \\ge 1200']
+--------------------------------------------------
+Q18 (ID 133650): Baker Earnings Evaluation #18
+  Text: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Img:  /images/g8_t135_q18.svg
+  Ans:  No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Opts: ['No, only ₱900 is earned', 'Yes, exactly ₱1,200 is earned', 'No, ₱1,100 earned does not meet the minimum goal of ₱1,200', 'Yes, ₱1,300 earned exceeds the goal']
+--------------------------------------------------
+Q19 (ID 133651): Land Allocation Inequality System #19
+  Text: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Img:  /images/g8_t135_q19.svg
+  Ans:  \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Opts: ['\\begin{cases} x + y \\le 60 \\\\ x \\ge 15 \\end{cases}', '\\begin{cases} x + y \\ge 60 \\\\ x \\le 15 \\end{cases}', '\\begin{cases} x + y = 60 \\\\ x = 15 \\end{cases}', '\\begin{cases} x + y \\le 60 \\\\ y \\ge 15 \\end{cases}']
+--------------------------------------------------
+Q20 (ID 133652): Work Schedule Inequality System #20
+  Text: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Img:  /images/g8_t135_q20.svg
+  Ans:  \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Opts: ['\\begin{cases} x + y \\ge 20 \\\\ 80x + 60y \\le 1400 \\end{cases}', '\\begin{cases} 80x + 60y \\le 20 \\\\ x + y \\ge 1400 \\end{cases}', '\\begin{cases} x + y = 20 \\\\ 80x + 60y = 1400 \\end{cases}', '\\begin{cases} x + y \\le 20 \\\\ 80x + 60y \\ge 1400 \\end{cases}']
+--------------------------------------------------
+Q21 (ID 133653): Linear Inequality Test Points #21
+  Text: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Img:  /images/g8_t135_q21.svg
+  Ans:  (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Opts: ['(0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy', 'All three points satisfy', 'Only (0, 0) satisfies', 'None satisfy']
+--------------------------------------------------
+Q22 (ID 133654): Strict Linear Inequality Graph #22
+  Text: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Img:  /images/g8_t135_q22.svg
+  Ans:  Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Opts: ['Solid boundary line 2x + y = 4, shade region containing (0, 0)', 'Dashed boundary line 2x + y = 4, shade region containing (0, 0)', 'Dashed boundary line 2x + y = 4, shade region containing (3, 3)', 'Solid boundary line 2x + y = 4, shade below line']
+--------------------------------------------------
+Q23 (ID 133655): Non-Strict Linear Inequality Graph #23
+  Text: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Img:  /images/g8_t135_q23.svg
+  Ans:  Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Opts: ['Dashed boundary line, shade region NOT containing origin', 'Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin', 'Dashed boundary line, shade region containing origin', 'Solid boundary line, shade region NOT containing origin']
+--------------------------------------------------
+Q24 (ID 133656): Inequality Identification from Graph #24
+  Text: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Img:  /images/g8_t135_q24.svg
+  Ans:  2x - y \ge -3
+  Opts: ['2x - y \\ge -3', '2x + y \\le 3', 'x - 2y \\ge 3', '2x - y < -3']
+--------------------------------------------------
+Q25 (ID 133657): System of Inequalities Shading #25
+  Text: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Img:  /images/g8_t135_q25.svg
+  Ans:  Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Opts: ['Region above both lines', 'Region below both lines', 'Intersection region below line x + y = 5 and above dashed line y = x - 2', 'Region above line x + y = 5 and below line y = x - 2']
+--------------------------------------------------
+Q26 (ID 133658): System Solution Point Verification #26
+  Text: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Img:  /images/g8_t135_q26.svg
+  Ans:  (2, 1) satisfies the system
+  Opts: ['(4, 3)', '(0, 5)', '(2, 1) satisfies the system', '(-2, 4)']
+--------------------------------------------------
+Q27 (ID 133659): Baker Earnings Inequality #27
+  Text: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Img:  /images/g8_t135_q27.svg
+  Ans:  15x + 10y \ge 1200
+  Opts: ['15x + 10y \\le 1200', '15x + 10y > 1200', 'x + y \\ge 1200', '15x + 10y \\ge 1200']
+--------------------------------------------------
+Q28 (ID 133660): Baker Earnings Evaluation #28
+  Text: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Img:  /images/g8_t135_q28.svg
+  Ans:  No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Opts: ['Yes, ₱1,300 earned exceeds the goal', 'No, ₱1,100 earned does not meet the minimum goal of ₱1,200', 'No, only ₱900 is earned', 'Yes, exactly ₱1,200 is earned']
+--------------------------------------------------
+Q29 (ID 133661): Land Allocation Inequality System #29
+  Text: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Img:  /images/g8_t135_q29.svg
+  Ans:  \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Opts: ['\\begin{cases} x + y = 60 \\\\ x = 15 \\end{cases}', '\\begin{cases} x + y \\le 60 \\\\ x \\ge 15 \\end{cases}', '\\begin{cases} x + y \\ge 60 \\\\ x \\le 15 \\end{cases}', '\\begin{cases} x + y \\le 60 \\\\ y \\ge 15 \\end{cases}']
+--------------------------------------------------
+Q30 (ID 133662): Work Schedule Inequality System #30
+  Text: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Img:  /images/g8_t135_q30.svg
+  Ans:  \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Opts: ['\\begin{cases} x + y = 20 \\\\ 80x + 60y = 1400 \\end{cases}', '\\begin{cases} x + y \\ge 20 \\\\ 80x + 60y \\le 1400 \\end{cases}', '\\begin{cases} x + y \\le 20 \\\\ 80x + 60y \\ge 1400 \\end{cases}', '\\begin{cases} 80x + 60y \\le 20 \\\\ x + y \\ge 1400 \\end{cases}']
+--------------------------------------------------
+Q31 (ID 133663): Linear Inequality Test Points #31
+  Text: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Img:  /images/g8_t135_q31.svg
+  Ans:  (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Opts: ['(0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy', 'All three points satisfy', 'Only (0, 0) satisfies', 'None satisfy']
+--------------------------------------------------
+Q32 (ID 133664): Strict Linear Inequality Graph #32
+  Text: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Img:  /images/g8_t135_q32.svg
+  Ans:  Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Opts: ['Dashed boundary line 2x + y = 4, shade region containing (3, 3)', 'Solid boundary line 2x + y = 4, shade below line', 'Solid boundary line 2x + y = 4, shade region containing (0, 0)', 'Dashed boundary line 2x + y = 4, shade region containing (0, 0)']
+--------------------------------------------------
+Q33 (ID 133665): Non-Strict Linear Inequality Graph #33
+  Text: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Img:  /images/g8_t135_q33.svg
+  Ans:  Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Opts: ['Dashed boundary line, shade region containing origin', 'Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin', 'Solid boundary line, shade region NOT containing origin', 'Dashed boundary line, shade region NOT containing origin']
+--------------------------------------------------
+Q34 (ID 133666): Inequality Identification from Graph #34
+  Text: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Img:  /images/g8_t135_q34.svg
+  Ans:  2x - y \ge -3
+  Opts: ['x - 2y \\ge 3', '2x - y < -3', '2x - y \\ge -3', '2x + y \\le 3']
+--------------------------------------------------
+Q35 (ID 133667): System of Inequalities Shading #35
+  Text: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Img:  /images/g8_t135_q35.svg
+  Ans:  Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Opts: ['Intersection region below line x + y = 5 and above dashed line y = x - 2', 'Region below both lines', 'Region above both lines', 'Region above line x + y = 5 and below line y = x - 2']
+--------------------------------------------------
+Q36 (ID 133668): System Solution Point Verification #36
+  Text: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Img:  /images/g8_t135_q36.svg
+  Ans:  (2, 1) satisfies the system
+  Opts: ['(0, 5)', '(-2, 4)', '(4, 3)', '(2, 1) satisfies the system']
+--------------------------------------------------
+Q37 (ID 133669): Baker Earnings Inequality #37
+  Text: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Img:  /images/g8_t135_q37.svg
+  Ans:  15x + 10y \ge 1200
+  Opts: ['15x + 10y > 1200', '15x + 10y \\ge 1200', '15x + 10y \\le 1200', 'x + y \\ge 1200']
+--------------------------------------------------
+Q38 (ID 133670): Baker Earnings Evaluation #38
+  Text: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Img:  /images/g8_t135_q38.svg
+  Ans:  No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Opts: ['No, ₱1,100 earned does not meet the minimum goal of ₱1,200', 'Yes, exactly ₱1,200 is earned', 'Yes, ₱1,300 earned exceeds the goal', 'No, only ₱900 is earned']
+--------------------------------------------------
+Q39 (ID 133671): Land Allocation Inequality System #39
+  Text: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Img:  /images/g8_t135_q39.svg
+  Ans:  \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Opts: ['\\begin{cases} x + y \\le 60 \\\\ x \\ge 15 \\end{cases}', '\\begin{cases} x + y = 60 \\\\ x = 15 \\end{cases}', '\\begin{cases} x + y \\le 60 \\\\ y \\ge 15 \\end{cases}', '\\begin{cases} x + y \\ge 60 \\\\ x \\le 15 \\end{cases}']
+--------------------------------------------------
+Q40 (ID 133672): Work Schedule Inequality System #40
+  Text: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Img:  /images/g8_t135_q40.svg
+  Ans:  \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Opts: ['\\begin{cases} x + y \\ge 20 \\\\ 80x + 60y \\le 1400 \\end{cases}', '\\begin{cases} x + y = 20 \\\\ 80x + 60y = 1400 \\end{cases}', '\\begin{cases} x + y \\le 20 \\\\ 80x + 60y \\ge 1400 \\end{cases}', '\\begin{cases} 80x + 60y \\le 20 \\\\ x + y \\ge 1400 \\end{cases}']
+--------------------------------------------------
+Q41 (ID 133673): Linear Inequality Test Points #41
+  Text: Determine which of the ordered pairs (0, 0), (2, -3), and (-1, 5) satisfy the linear inequality \(3x - 2y \le 6\).
+  Img:  /images/g8_t135_q41.svg
+  Ans:  (0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy
+  Opts: ['(0, 0) and (-1, 5) satisfy, (2, -3) does not satisfy', 'All three points satisfy', 'Only (0, 0) satisfies', 'None satisfy']
+--------------------------------------------------
+Q42 (ID 133674): Strict Linear Inequality Graph #42
+  Text: Describe the graph of the linear inequality \(2x + y > 4\) on the Cartesian coordinate plane.
+  Img:  /images/g8_t135_q42.svg
+  Ans:  Dashed boundary line 2x + y = 4, shade region containing (3, 3)
+  Opts: ['Dashed boundary line 2x + y = 4, shade region containing (3, 3)', 'Dashed boundary line 2x + y = 4, shade region containing (0, 0)', 'Solid boundary line 2x + y = 4, shade region containing (0, 0)', 'Solid boundary line 2x + y = 4, shade below line']
+--------------------------------------------------
+Q43 (ID 133675): Non-Strict Linear Inequality Graph #43
+  Text: Graph the linear inequality \(3x - 4y \le 12\) on the coordinate plane. Specify boundary line style and shaded region.
+  Img:  /images/g8_t135_q43.svg
+  Ans:  Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin
+  Opts: ['Solid boundary line, shade region NOT containing origin', 'Solid boundary line passing through (4, 0) and (0, -3), shade region containing origin', 'Dashed boundary line, shade region NOT containing origin', 'Dashed boundary line, shade region containing origin']
+--------------------------------------------------
+Q44 (ID 133676): Inequality Identification from Graph #44
+  Text: Write the linear inequality represented by a graph with a solid boundary line passing through (0, 3) and (2, 7) with the shaded region containing the origin (0, 0).
+  Img:  /images/g8_t135_q44.svg
+  Ans:  2x - y \ge -3
+  Opts: ['x - 2y \\ge 3', '2x - y < -3', '2x - y \\ge -3', '2x + y \\le 3']
+--------------------------------------------------
+Q45 (ID 133677): System of Inequalities Shading #45
+  Text: Graph the system of linear inequalities on the coordinate plane: \(\begin{cases} x + y \le 5 \\ y > x - 2 \end{cases}\).
+  Img:  /images/g8_t135_q45.svg
+  Ans:  Intersection region below line x + y = 5 and above dashed line y = x - 2
+  Opts: ['Region below both lines', 'Intersection region below line x + y = 5 and above dashed line y = x - 2', 'Region above line x + y = 5 and below line y = x - 2', 'Region above both lines']
+--------------------------------------------------
+Q46 (ID 133678): System Solution Point Verification #46
+  Text: Identify which of the following coordinates lies in the solution set of the system: \(\begin{cases} 2x - y \ge 1 \\ x + 2y < 6 \end{cases}\).
+  Img:  /images/g8_t135_q46.svg
+  Ans:  (2, 1) satisfies the system
+  Opts: ['(-2, 4)', '(4, 3)', '(0, 5)', '(2, 1) satisfies the system']
+--------------------------------------------------
+Q47 (ID 133679): Baker Earnings Inequality #47
+  Text: A baker sells cupcakes (x) for ₱15 each and cookies (y) for ₱10 each. Write a linear inequality in two variables representing the condition that the baker must earn at least ₱1200 in a day.
+  Img:  /images/g8_t135_q47.svg
+  Ans:  15x + 10y \ge 1200
+  Opts: ['15x + 10y > 1200', 'x + y \\ge 1200', '15x + 10y \\ge 1200', '15x + 10y \\le 1200']
+--------------------------------------------------
+Q48 (ID 133680): Baker Earnings Evaluation #48
+  Text: Referring to the baker needing to earn at least ₱1,200 (inequality \(15x + 10y \ge 1200\)), does selling 40 cupcakes and 50 cookies meet the goal?
+  Img:  /images/g8_t135_q48.svg
+  Ans:  No, ₱1,100 earned does not meet the minimum goal of ₱1,200
+  Opts: ['No, only ₱900 is earned', 'Yes, ₱1,300 earned exceeds the goal', 'No, ₱1,100 earned does not meet the minimum goal of ₱1,200', 'Yes, exactly ₱1,200 is earned']
+--------------------------------------------------
+Q49 (ID 133681): Land Allocation Inequality System #49
+  Text: A farmer has at most 60 hectares of land to plant corn (x) and soybeans (y). Furthermore, the farmer must plant at least 15 hectares of corn. Write the system of inequalities representing these constraints.
+  Img:  /images/g8_t135_q49.svg
+  Ans:  \begin{cases} x + y \le 60 \\ x \ge 15 \end{cases}
+  Opts: ['\\begin{cases} x + y \\le 60 \\\\ y \\ge 15 \\end{cases}', '\\begin{cases} x + y \\le 60 \\\\ x \\ge 15 \\end{cases}', '\\begin{cases} x + y = 60 \\\\ x = 15 \\end{cases}', '\\begin{cases} x + y \\ge 60 \\\\ x \\le 15 \\end{cases}']
+--------------------------------------------------
+Q50 (ID 133682): Work Schedule Inequality System #50
+  Text: A student earns ₱80/hour tutoring (x) and ₱60/hour as cashier (y). She works at most 20 hours per week and needs to earn at least ₱1400. Formulate the system of linear inequalities.
+  Img:  /images/g8_t135_q50.svg
+  Ans:  \begin{cases} x + y \le 20 \\ 80x + 60y \ge 1400 \end{cases}
+  Opts: ['\\begin{cases} x + y \\le 20 \\\\ 80x + 60y \\ge 1400 \\end{cases}', '\\begin{cases} x + y \\ge 20 \\\\ 80x + 60y \\le 1400 \\end{cases}', '\\begin{cases} 80x + 60y \\le 20 \\\\ x + y \\ge 1400 \\end{cases}', '\\begin{cases} x + y = 20 \\\\ 80x + 60y = 1400 \\end{cases}']
+--------------------------------------------------

@@ -1,0 +1,349 @@
+=== Question #1 | ID: 134483 | Title: Q1: State the Triangle Inequality Theorem regardi... ===
+Text: State the Triangle Inequality Theorem regarding the sum of any two side lengths of a triangle.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of all three sides equals 180', 'The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #2 | ID: 134484 | Title: Q2: Determine whether a triangle can be construct... ===
+Text: Determine whether a triangle can be constructed with side lengths: a) 4 cm, 7 cm, 12 cm; b) 5 cm, 12 cm, 13 cm; c) 6 cm, 8 cm, 14 cm.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q2.svg
+
+=== Question #3 | ID: 134485 | Title: Q3: Two sides of a triangle measure 9 cm and 15 c... ===
+Text: Two sides of a triangle measure 9 cm and 15 cm. Find the range of possible lengths for the third side x.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q3.svg
+
+=== Question #4 | ID: 134486 | Title: Q4: If the sides of a triangle measure 3x, 4x, an... ===
+Text: If the sides of a triangle measure 3x, 4x, and 28, find the range of possible values for x.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q4.svg
+
+=== Question #5 | ID: 134487 | Title: Q5: State the Side-Angle Inequality Theorem (the ... ===
+Text: State the Side-Angle Inequality Theorem (the larger angle lies opposite the longer side).
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #6 | ID: 134488 | Title: Q6: In △ABC, side AB = 11 cm, BC = 8 cm, and AC =... ===
+Text: In △ABC, side AB = 11 cm, BC = 8 cm, and AC = 14 cm. Arrange the interior angles ∠A, ∠B, ∠C in order from smallest to largest.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q6.svg
+
+=== Question #7 | ID: 134489 | Title: Q7: State the Angle-Side Inequality Theorem (the ... ===
+Text: State the Angle-Side Inequality Theorem (the longer side lies opposite the larger angle).
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #8 | ID: 134490 | Title: Q8: In △PQR, m∠P = 52°, m∠Q = 68°, and m∠R = 60°.... ===
+Text: In △PQR, m∠P = 52°, m∠Q = 68°, and m∠R = 60°. Arrange the side lengths PQ, QR, PR in order from shortest to longest.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q8.svg
+
+=== Question #9 | ID: 134491 | Title: Q9: State the Exterior Angle Inequality Theorem.... ===
+Text: State the Exterior Angle Inequality Theorem.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of all three sides equals 180', 'The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #10 | ID: 134492 | Title: Q10: In △XYZ, exterior angle at vertex Y measures ... ===
+Text: In △XYZ, exterior angle at vertex Y measures 110°. If m∠X = 45°, prove that the exterior angle is strictly greater than either remote interior angle.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q10.svg
+
+=== Question #11 | ID: 134493 | Title: Q11: State the Hinge Theorem (SAS Inequality Theor... ===
+Text: State the Hinge Theorem (SAS Inequality Theorem) for comparing two triangles with two pairs of congruent sides.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #12 | ID: 134494 | Title: Q12: State the Converse of the Hinge Theorem (SSS ... ===
+Text: State the Converse of the Hinge Theorem (SSS Inequality Theorem).
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #13 | ID: 134495 | Title: Q13: In △ABC and △DEF, AB = DE = 8 cm, AC = DF = 1... ===
+Text: In △ABC and △DEF, AB = DE = 8 cm, AC = DF = 11 cm. If m∠A = 55° and m∠D = 70°, use the Hinge Theorem to compare the lengths of BC and EF.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q13.svg
+
+=== Question #14 | ID: 134496 | Title: Q14: In △PQR and △STU, PQ = ST = 6, PR = SU = 9, Q... ===
+Text: In △PQR and △STU, PQ = ST = 6, PR = SU = 9, QR = 8, and TU = 11. Use the Converse of the Hinge Theorem to compare m∠P and m∠S.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q14.svg
+
+=== Question #15 | ID: 134497 | Title: Q15: State the Perpendicular Bisector Theorem and ... ===
+Text: State the Perpendicular Bisector Theorem and its geometric significance in finding equidistant locations.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #16 | ID: 134498 | Title: Q16: State the Isosceles Triangle Theorem and its ... ===
+Text: State the Isosceles Triangle Theorem and its converse.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #17 | ID: 134499 | Title: Q17: In an isosceles triangle, if the vertex angle... ===
+Text: In an isosceles triangle, if the vertex angle is obtuse, explain why the base must be the longest side of the triangle.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q17.svg
+
+=== Question #18 | ID: 134500 | Title: Q18: State the Equilateral Triangle Theorem and pr... ===
+Text: State the Equilateral Triangle Theorem and prove that all three interior angles must be 60°.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #19 | ID: 134501 | Title: Q19: State the Midline Theorem for triangles: prov... ===
+Text: State the Midline Theorem for triangles: prove that the segment joining the midpoints of two sides is parallel to the third side and half its length.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #20 | ID: 134502 | Title: Q20: In △ABC, points D and E are midpoints of AB a... ===
+Text: In △ABC, points D and E are midpoints of AB and AC respectively. If DE = 3x - 2 and BC = 4x + 8, find the value of x, DE, and BC.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q20.svg
+
+=== Question #21 | ID: 134503 | Title: Q21: In right-angled triangle ABC with hypotenuse ... ===
+Text: In right-angled triangle ABC with hypotenuse AB, prove using triangle inequalities that the hypotenuse is the longest side.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q21.svg
+
+=== Question #22 | ID: 134504 | Title: Q22: A triangle has integer side lengths. Two side... ===
+Text: A triangle has integer side lengths. Two sides are 5 cm and 11 cm. What is the minimum possible perimeter and maximum possible perimeter of the triangle?
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q22.svg
+
+=== Question #23 | ID: 134505 | Title: Q23: If an isosceles triangle has legs of length 1... ===
+Text: If an isosceles triangle has legs of length 10 cm, what is the range of possible lengths for its base?
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q23.svg
+
+=== Question #24 | ID: 134506 | Title: Q24: In △ABC, angle bisector AD is drawn to side B... ===
+Text: In △ABC, angle bisector AD is drawn to side BC. If AB = 10 and AC = 6, compare the lengths of BD and CD.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q24.svg
+
+=== Question #25 | ID: 134507 | Title: Q25: Given four points A, B, C, D in a plane formi... ===
+Text: Given four points A, B, C, D in a plane forming quadrilateral ABCD, prove that the sum of the lengths of the diagonals AC + BD is greater than half the perimeter of the quadrilateral.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q25.svg
+
+=== Question #26 | ID: 134508 | Title: Q26: Can a triangle have side lengths in the ratio... ===
+Text: Can a triangle have side lengths in the ratio 2 : 3 : 6? Justify your answer using the Triangle Inequality Theorem.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #27 | ID: 134509 | Title: Q27: In △KLM, m∠K = (3x + 10)°, m∠L = (2x + 20)°, ... ===
+Text: In △KLM, m∠K = (3x + 10)°, m∠L = (2x + 20)°, and m∠M = (4x - 30)°. Find x, determine the angle measures, and order the sides from shortest to longest.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q27.svg
+
+=== Question #28 | ID: 134510 | Title: Q28: A surveyor needs to position a cell phone rel... ===
+Text: A surveyor needs to position a cell phone relay station equidistant from three towns located at vertices A, B, and C. Explain which triangle center must be located and why.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q28.svg
+
+=== Question #29 | ID: 134511 | Title: Q29: A municipal engineer wants to build a central... ===
+Text: A municipal engineer wants to build a central water reservoir equidistant from three major pipelines that form a triangle. Which triangle center should be used?
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q29.svg
+
+=== Question #30 | ID: 134512 | Title: Q30: Two hikers leave the same camp. Hiker A walks... ===
+Text: Two hikers leave the same camp. Hiker A walks 4 km East, then turns 40° North of East and walks 3 km. Hiker B walks 4 km East, then turns 60° North of East and walks 3 km. Who is farther from the camp? Justify using the Hinge Theorem.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q30.svg
+
+=== Question #31 | ID: 134513 | Title: Q31: In △ABC, point P lies in the interior of the ... ===
+Text: In △ABC, point P lies in the interior of the triangle. Prove that PA + PB + PC > (1/2)(AB + BC + AC).
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q31.svg
+
+=== Question #32 | ID: 134514 | Title: Q32: In an acute triangle, explain why the sum of ... ===
+Text: In an acute triangle, explain why the sum of any two altitudes is greater than the third altitude.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q32.svg
+
+=== Question #33 | ID: 134515 | Title: Q33: A triangular garden has two sides of length 1... ===
+Text: A triangular garden has two sides of length 12 m and 18 m. If the enclosed angle between them increases from 45° to 75°, what happens to the length of the third side? Explain using the Hinge Theorem.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q33.svg
+
+=== Question #34 | ID: 134516 | Title: Q34: Prove that the perimeter of a triangle is gre... ===
+Text: Prove that the perimeter of a triangle is greater than the sum of its three medians.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q34.svg
+
+=== Question #35 | ID: 134517 | Title: Q35: If the sides of a triangle are a, b, and c wi... ===
+Text: If the sides of a triangle are a, b, and c with a ≤ b ≤ c, state the single condition necessary to guarantee a valid triangle.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #36 | ID: 134518 | Title: Q36: Determine all possible integer values for the... ===
+Text: Determine all possible integer values for the third side of a triangle whose other two sides measure 7 cm and 10 cm.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q36.svg
+
+=== Question #37 | ID: 134519 | Title: Q37: In △ABC, altitude AH is drawn from vertex A t... ===
+Text: In △ABC, altitude AH is drawn from vertex A to side BC. Prove that AB > AH and AC > AH.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q37.svg
+
+=== Question #38 | ID: 134520 | Title: Q38: In △PQR, PQ > PR. S is a point on QR such tha... ===
+Text: In △PQR, PQ > PR. S is a point on QR such that PS is an altitude. Prove that QS > SR.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q38.svg
+
+=== Question #39 | ID: 134521 | Title: Q39: In △ABC, median AM is drawn from vertex A to ... ===
+Text: In △ABC, median AM is drawn from vertex A to midpoint M of BC. Prove that AM < (1/2)(AB + AC).
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q39.svg
+
+=== Question #40 | ID: 134522 | Title: Q40: Explain why a triangle cannot have interior a... ===
+Text: Explain why a triangle cannot have interior angle measures of 40°, 60°, and 90°.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #41 | ID: 134523 | Title: Q41: In △ABC, if m∠A > m∠B > m∠C, what is the rela... ===
+Text: In △ABC, if m∠A > m∠B > m∠C, what is the relationship between the lengths of altitudes h_a, h_b, and h_c?
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q41.svg
+
+=== Question #42 | ID: 134524 | Title: Q42: A mechanical robotic crane has two linked arm... ===
+Text: A mechanical robotic crane has two linked arms of lengths 3 m and 2 m. Describe the circular boundary region accessible by the tip of the crane.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q42.svg
+
+=== Question #43 | ID: 134525 | Title: Q43: In △XYZ, XY = 8, YZ = x + 3, and XZ = 2x - 1.... ===
+Text: In △XYZ, XY = 8, YZ = x + 3, and XZ = 2x - 1. Find the range of values for x that allows △XYZ to exist.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q43.svg
+
+=== Question #44 | ID: 134526 | Title: Q44: Prove that in any right triangle, the sum of ... ===
+Text: Prove that in any right triangle, the sum of the lengths of the two legs is greater than the length of the hypotenuse, but less than √2 times the hypotenuse.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #45 | ID: 134527 | Title: Q45: In △ABC, D is a point on segment BC. Prove th... ===
+Text: In △ABC, D is a point on segment BC. Prove that AD < max(AB, AC).
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180', 'The product of two sides equals the third side', 'The longest side equals the sum of the two shorter sides']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q45.svg
+
+=== Question #46 | ID: 134528 | Title: Q46: An isosceles triangle has a perimeter of 30 c... ===
+Text: An isosceles triangle has a perimeter of 30 cm. If the side lengths are integers, find all possible dimensions (leg, leg, base) of the triangle.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of all three sides equals 180', 'The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q46.svg
+
+=== Question #47 | ID: 134529 | Title: Q47: If two sides of a triangle are 14 cm and 9 cm... ===
+Text: If two sides of a triangle are 14 cm and 9 cm, can the third side be 5 cm? Explain why or why not.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The longest side equals the sum of the two shorter sides', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None
+
+=== Question #48 | ID: 134530 | Title: Q48: In △ABC, exterior angles at vertices A, B, an... ===
+Text: In △ABC, exterior angles at vertices A, B, and C are in the ratio 4 : 5 : 6. Find the interior angles and order the sides from longest to shortest.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q48.svg
+
+=== Question #49 | ID: 134531 | Title: Q49: Given quadrilateral ABCD, prove that AB + BC ... ===
+Text: Given quadrilateral ABCD, prove that AB + BC + CD > AD.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The product of two sides equals the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 1 | URL: /images/g9_t152_q49.svg
+
+=== Question #50 | ID: 134532 | Title: Q50: Explain how the Hinge Theorem applies to the ... ===
+Text: Explain how the Hinge Theorem applies to the opening and closing of a door or scissors.
+Formula: a + b > c, \quad a + c > b, \quad b + c > a
+Options: ['The longest side equals the sum of the two shorter sides', 'The product of two sides equals the third side', 'The sum of the lengths of any two sides must be strictly greater than the third side', 'The sum of all three sides equals 180']
+Correct Ans: The sum of the lengths of any two sides must be strictly greater than the third side
+Show Img: 0 | URL: None

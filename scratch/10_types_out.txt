@@ -1,0 +1,50 @@
+=== Type 1: g8_t137_q1.svg (QID 133983) ===
+Question: In a right triangle ABC with right angle at C, side a = 9 cm and side b = 12 cm. Find the length of hypotenuse c.
+Answer: 15 cm
+Current SVG Texts: ['Right Triangle Hypotenuse #1', 'b = 12 cm', 'a = 9 cm', 'c = ? (15 cm)', 'C', 'A', 'B']
+======================================================================
+=== Type 2: g8_t137_q2.svg (QID 133984) ===
+Question: Find the missing leg length of a right triangle whose hypotenuse measures 25 cm and one leg measures 7 cm.
+Answer: 24 cm
+Current SVG Texts: ['Missing Leg Calculation #2', 'b = 7 cm', 'a = ? (24 cm)', 'c = 25 cm']
+======================================================================
+=== Type 3: g8_t137_q3.svg (QID 133985) ===
+Question: Classify a triangle with side lengths 8 cm, 15 cm, and 17 cm as acute, right, or obtuse using the converse of the Pythagorean Theorem.
+Answer: Right Triangle (17² = 8² + 15²)
+Current SVG Texts: ['Converse Pythagorean Check #3', 'b = 15 cm', 'a = 8 cm', 'c = 17 cm', 'Right Triangle (c² = a² + b²)']
+======================================================================
+=== Type 4: g8_t137_q4.svg (QID 133986) ===
+Question: Determine whether a triangle with side lengths 7 cm, 10 cm, and 12 cm is a right triangle, acute triangle, or obtuse triangle.
+Answer: Acute Triangle (12² < 7² + 10²)
+Current SVG Texts: ['Triangle Classification (7,10,12) #4', 'b = 10 cm', 'a = 7 cm', 'c = 12 cm', 'Acute Triangle (c² = a² + b²)']
+======================================================================
+=== Type 5: g8_t137_q5.svg (QID 133987) ===
+Question: A 15-meter rescue ladder reaches a window 12 meters above the ground. How far is the foot of the ladder from the base of the building?
+Answer: 9 meters
+Current SVG Texts: ['Rescue Ladder Distance #5', 'Wall = 12 m', 'Ground = ? (9 m)', 'Ladder = 15 m']
+======================================================================
+=== Type 6: g8_t137_q6.svg (QID 133988) ===
+Question: A television screen is advertised by the length of its diagonal. If a TV screen has a width of 40 inches and a height of 30 inches, what is the screen's advertised diagonal size?
+Answer: 50 inches
+Current SVG Texts: ['TV Screen Diagonal #6', 'Width = 40"', 'Height = 30"', 'Diagonal = ? (50")']
+======================================================================
+=== Type 7: g8_t137_q7.svg (QID 133989) ===
+Question: Find the length of the diagonal of a rectangle whose dimensions are 16 cm by 12 cm.
+Answer: 20 cm
+Current SVG Texts: ['Rectangle Diagonal #7', 'Width = 16 cm', 'Height = 12 cm', 'Diagonal = 20 cm']
+======================================================================
+=== Type 8: g8_t137_q8.svg (QID 133990) ===
+Question: A runner starts at Point A, runs 6 km due North, and then turns and runs 8 km due East to Point B. What is the direct straight-line distance from Point A to Point B?
+Answer: 10 km
+Current SVG Texts: ['Runner Compass Distance #8', 'Point A', 'Point B', 'North 6 km', 'East 8 km', 'Direct Distance = ? (10 km)']
+======================================================================
+=== Type 9: g8_t137_q9.svg (QID 133991) ===
+Question: An equilateral triangle has side lengths of 10 cm. Find the exact length of its altitude (height) and its area.
+Answer: Altitude = 5√3 cm, Area = 25√3 cm²
+Current SVG Texts: ['Equilateral Altitude &amp; Area #9', 's = 10 cm', 's = 10 cm', 'Base s = 10 cm', 'Altitude h = 5√3 ≈ 8.66 cm']
+======================================================================
+=== Type 10: g8_t137_q10.svg (QID 133992) ===
+Question: A guy wire is attached to the top of a 24-meter transmission tower. The wire is anchored to the ground 10 meters from the tower base. Find the required length of the guy wire.
+Answer: 26 meters
+Current SVG Texts: ['Tower Guy Wire Length #10', 'Tower = 24 m', 'Anchor = 10 m', 'Guy Wire = ? (26 m)']
+======================================================================

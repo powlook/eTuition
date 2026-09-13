@@ -1,0 +1,402 @@
+Total questions in T160: 50
+
+Q1 (ID 134883)
+Title: Q1: Define an experiment, an outcome, a sample sp...
+Text: Define an experiment, an outcome, a sample space, and an event in probability theory.
+Formula: S = \{e_1, e_2, \dots, e_n\}, \quad E \subseteq S, \quad P(E) = \frac{n(E)}{n(S)}
+Opts: ['Sample space is the set of all possible outcomes; Event is a subset of the sample space', 'Sample space is the probability value; Event is the total count', 'Sample space and Event are identical concepts', 'Sample space applies to dice; Event applies to coins only']
+Ans: Sample space is the set of all possible outcomes; Event is a subset of the sample space
+Img: /images/g9_t160_q1.svg (show_image: 1)
+------------------------------------------------------------
+Q2 (ID 134884)
+Title: Q2: Explain the difference between a simple event...
+Text: Explain the difference between a simple event and a compound event, giving an example of each.
+Formula: P(A \cup B) = P(A) + P(B) - P(A \cap B)
+Opts: ['Simple event uses coins; Compound event uses playing cards', 'Simple event has one outcome; Compound event combines two or more simple events', 'Simple event requires 3 trials; Compound event requires 1 trial', 'Simple event probability is always 1; Compound event probability is 0']
+Ans: Simple event has one outcome; Compound event combines two or more simple events
+Img: /images/g9_t160_q2.svg (show_image: 1)
+------------------------------------------------------------
+Q3 (ID 134885)
+Title: Q3: State the probability formula for equally lik...
+Text: State the probability formula for equally likely outcomes: P(E) = n(E) / n(S).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q3.svg (show_image: 1)
+------------------------------------------------------------
+Q4 (ID 134886)
+Title: Q4: State the fundamental probability range: 0 ≤ ...
+Text: State the fundamental probability range: 0 ≤ P(E) ≤ 1, and explain what P(E) = 0 and P(E) = 1 mean.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q4.svg (show_image: 1)
+------------------------------------------------------------
+Q5 (ID 134887)
+Title: Q5: State the Complement Rule of probability: P(n...
+Text: State the Complement Rule of probability: P(not E) = 1 - P(E).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q5.svg (show_image: 1)
+------------------------------------------------------------
+Q6 (ID 134888)
+Title: Q6: A standard fair six-sided die is rolled once....
+Text: A standard fair six-sided die is rolled once. Find the probability of rolling: a) a 4, b) an even number, c) a number greater than 2, d) a prime number.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q6.svg (show_image: 1)
+------------------------------------------------------------
+Q7 (ID 134889)
+Title: Q7: A fair coin is tossed. Find the probability o...
+Text: A fair coin is tossed. Find the probability of getting Heads, and explain theoretical vs experimental probability.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q7.svg (show_image: 1)
+------------------------------------------------------------
+Q8 (ID 134890)
+Title: Q8: A standard deck of 52 playing cards has 4 sui...
+Text: A standard deck of 52 playing cards has 4 suits. Find the probability of drawing: a) an Ace, b) a red card, c) a face card (J, Q, K), d) the Queen of Spades.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q8.svg (show_image: 1)
+------------------------------------------------------------
+Q9 (ID 134891)
+Title: Q9: A bag contains 5 red balls, 7 blue balls, and...
+Text: A bag contains 5 red balls, 7 blue balls, and 8 green balls. If one ball is drawn at random, find the probability that it is: a) red, b) blue, c) NOT green.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q9.svg (show_image: 1)
+------------------------------------------------------------
+Q10 (ID 134892)
+Title: Q10: Two fair coins are tossed simultaneously. Wri...
+Text: Two fair coins are tossed simultaneously. Write the sample space S and find the probability of getting exactly one Head.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q10.svg (show_image: 1)
+------------------------------------------------------------
+Q11 (ID 134893)
+Title: Q11: Three fair coins are tossed. Write the comple...
+Text: Three fair coins are tossed. Write the complete sample space S (using a tree diagram) and find the probability of obtaining at least two Heads.
+Formula: S = \{e_1, e_2, \dots, e_n\}, \quad E \subseteq S, \quad P(E) = \frac{n(E)}{n(S)}
+Opts: ['Sample space is the probability value; Event is the total count', 'Sample space and Event are identical concepts', 'Sample space applies to dice; Event applies to coins only', 'Sample space is the set of all possible outcomes; Event is a subset of the sample space']
+Ans: Sample space is the set of all possible outcomes; Event is a subset of the sample space
+Img: /images/g9_t160_q11.svg (show_image: 1)
+------------------------------------------------------------
+Q12 (ID 134894)
+Title: Q12: Two standard six-sided dice are rolled. How m...
+Text: Two standard six-sided dice are rolled. How many outcomes are in the sample space? Find the probability that the sum of the numbers is 7.
+Formula: P(A \cup B) = P(A) + P(B) - P(A \cap B)
+Opts: ['Simple event requires 3 trials; Compound event requires 1 trial', 'Simple event probability is always 1; Compound event probability is 0', 'Simple event has one outcome; Compound event combines two or more simple events', 'Simple event uses coins; Compound event uses playing cards']
+Ans: Simple event has one outcome; Compound event combines two or more simple events
+Img: /images/g9_t160_q12.svg (show_image: 1)
+------------------------------------------------------------
+Q13 (ID 134895)
+Title: Q13: Referring to rolling two dice, find the proba...
+Text: Referring to rolling two dice, find the probability that the sum is: a) equal to 11, b) at least 10, c) less than 5, d) an even number.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q13.svg (show_image: 1)
+------------------------------------------------------------
+Q14 (ID 134896)
+Title: Q14: Define mutually exclusive (disjoint) events a...
+Text: Define mutually exclusive (disjoint) events and non-mutually exclusive events.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q14.svg (show_image: 1)
+------------------------------------------------------------
+Q15 (ID 134897)
+Title: Q15: State the Addition Rule for two mutually excl...
+Text: State the Addition Rule for two mutually exclusive events: P(A ∪ B) = P(A) + P(B).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q15.svg (show_image: 1)
+------------------------------------------------------------
+Q16 (ID 134898)
+Title: Q16: State the General Addition Rule for any two e...
+Text: State the General Addition Rule for any two events: P(A ∪ B) = P(A) + P(B) - P(A ∩ B).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q16.svg (show_image: 1)
+------------------------------------------------------------
+Q17 (ID 134899)
+Title: Q17: A single card is drawn from a standard 52-car...
+Text: A single card is drawn from a standard 52-card deck. Find the probability that the card is a King or a Queen (mutually exclusive).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q17.svg (show_image: 1)
+------------------------------------------------------------
+Q18 (ID 134900)
+Title: Q18: A single card is drawn from a 52-card deck. F...
+Text: A single card is drawn from a 52-card deck. Find the probability that the card is a Heart or a Face card (non-mutually exclusive).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q18.svg (show_image: 1)
+------------------------------------------------------------
+Q19 (ID 134901)
+Title: Q19: In a class of 40 students, 24 play basketball...
+Text: In a class of 40 students, 24 play basketball, 18 play volleyball, and 10 play both sports. If a student is chosen at random, find the probability that the student plays basketball or volleyball.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q19.svg (show_image: 1)
+------------------------------------------------------------
+Q20 (ID 134902)
+Title: Q20: Using the data in Question 19, find the proba...
+Text: Using the data in Question 19, find the probability that a randomly chosen student plays neither sport.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q20.svg (show_image: 1)
+------------------------------------------------------------
+Q21 (ID 134903)
+Title: Q21: Define independent events and dependent event...
+Text: Define independent events and dependent events in probability.
+Formula: S = \{e_1, e_2, \dots, e_n\}, \quad E \subseteq S, \quad P(E) = \frac{n(E)}{n(S)}
+Opts: ['Sample space and Event are identical concepts', 'Sample space is the set of all possible outcomes; Event is a subset of the sample space', 'Sample space applies to dice; Event applies to coins only', 'Sample space is the probability value; Event is the total count']
+Ans: Sample space is the set of all possible outcomes; Event is a subset of the sample space
+Img: /images/g9_t160_q21.svg (show_image: 1)
+------------------------------------------------------------
+Q22 (ID 134904)
+Title: Q22: State the Multiplication Rule for two indepen...
+Text: State the Multiplication Rule for two independent events: P(A ∩ B) = P(A) · P(B).
+Formula: P(A \cup B) = P(A) + P(B) - P(A \cap B)
+Opts: ['Simple event probability is always 1; Compound event probability is 0', 'Simple event requires 3 trials; Compound event requires 1 trial', 'Simple event has one outcome; Compound event combines two or more simple events', 'Simple event uses coins; Compound event uses playing cards']
+Ans: Simple event has one outcome; Compound event combines two or more simple events
+Img: /images/g9_t160_q22.svg (show_image: 1)
+------------------------------------------------------------
+Q23 (ID 134905)
+Title: Q23: A fair coin is tossed and a fair six-sided di...
+Text: A fair coin is tossed and a fair six-sided die is rolled. Find the probability of getting Tails on the coin and a 6 on the die.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q23.svg (show_image: 1)
+------------------------------------------------------------
+Q24 (ID 134906)
+Title: Q24: A bag contains 4 red marbles and 6 blue marbl...
+Text: A bag contains 4 red marbles and 6 blue marbles. A marble is drawn, its color recorded, and then replaced. A second marble is drawn. Find the probability that both marbles are red.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q24.svg (show_image: 1)
+------------------------------------------------------------
+Q25 (ID 134907)
+Title: Q25: State the Multiplication Rule for two depende...
+Text: State the Multiplication Rule for two dependent events: P(A ∩ B) = P(A) · P(B|A).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q25.svg (show_image: 1)
+------------------------------------------------------------
+Q26 (ID 134908)
+Title: Q26: Referring to the bag in Question 24, two marb...
+Text: Referring to the bag in Question 24, two marbles are drawn without replacement. Find the probability that both marbles are red.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q26.svg (show_image: 1)
+------------------------------------------------------------
+Q27 (ID 134909)
+Title: Q27: A box contains 8 good light bulbs and 2 defec...
+Text: A box contains 8 good light bulbs and 2 defective light bulbs. If two bulbs are drawn at random without replacement, find the probability that: a) both are good, b) at least one is defective.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q27.svg (show_image: 1)
+------------------------------------------------------------
+Q28 (ID 134910)
+Title: Q28: A spinner is divided into 8 equal sectors num...
+Text: A spinner is divided into 8 equal sectors numbered 1 through 8. Find the probability of spinning: a) a multiple of 3, b) an odd number or a number greater than 6.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q28.svg (show_image: 1)
+------------------------------------------------------------
+Q29 (ID 134911)
+Title: Q29: In a lottery, a player chooses 6 numbers from...
+Text: In a lottery, a player chooses 6 numbers from 1 to 42. Explain how the Fundamental Counting Principle and combinations are used to determine the total possible ticket combinations.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q29.svg (show_image: 1)
+------------------------------------------------------------
+Q30 (ID 134912)
+Title: Q30: A password consists of 3 letters followed by ...
+Text: A password consists of 3 letters followed by 2 digits. If repetition of letters and digits is allowed, what is the probability that a randomly generated password begins with 'ABC'?
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q30.svg (show_image: 1)
+------------------------------------------------------------
+Q31 (ID 134913)
+Title: Q31: A quality control test inspects electronic ch...
+Text: A quality control test inspects electronic chips. The probability that a chip passes electrical test is 0.95, and the probability it passes thermal test is 0.90. Assuming independence, find the probability it passes both tests.
+Formula: S = \{e_1, e_2, \dots, e_n\}, \quad E \subseteq S, \quad P(E) = \frac{n(E)}{n(S)}
+Opts: ['Sample space applies to dice; Event applies to coins only', 'Sample space is the set of all possible outcomes; Event is a subset of the sample space', 'Sample space and Event are identical concepts', 'Sample space is the probability value; Event is the total count']
+Ans: Sample space is the set of all possible outcomes; Event is a subset of the sample space
+Img: /images/g9_t160_q31.svg (show_image: 1)
+------------------------------------------------------------
+Q32 (ID 134914)
+Title: Q32: In a medical clinic, 60% of patients have Con...
+Text: In a medical clinic, 60% of patients have Condition A, 40% have Condition B, and 25% have both. Find the probability that a randomly selected patient has at least one of the conditions.
+Formula: P(A \cup B) = P(A) + P(B) - P(A \cap B)
+Opts: ['Simple event requires 3 trials; Compound event requires 1 trial', 'Simple event has one outcome; Compound event combines two or more simple events', 'Simple event uses coins; Compound event uses playing cards', 'Simple event probability is always 1; Compound event probability is 0']
+Ans: Simple event has one outcome; Compound event combines two or more simple events
+Img: /images/g9_t160_q32.svg (show_image: 1)
+------------------------------------------------------------
+Q33 (ID 134915)
+Title: Q33: Construct a tree diagram showing the possible...
+Text: Construct a tree diagram showing the possible gender outcomes for a family with 3 children. What is the probability that the family has 2 girls and 1 boy?
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q33.svg (show_image: 1)
+------------------------------------------------------------
+Q34 (ID 134916)
+Title: Q34: A student takes a 4-question multiple-choice ...
+Text: A student takes a 4-question multiple-choice quiz where each question has 4 options. If the student guesses randomly on all questions, find the probability of getting all 4 questions correct.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q34.svg (show_image: 1)
+------------------------------------------------------------
+Q35 (ID 134917)
+Title: Q35: Using Question 34, find the probability that ...
+Text: Using Question 34, find the probability that the student gets at least one question correct.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q35.svg (show_image: 1)
+------------------------------------------------------------
+Q36 (ID 134918)
+Title: Q36: Two cards are drawn from a standard 52-card d...
+Text: Two cards are drawn from a standard 52-card deck without replacement. Find the probability of drawing two Aces.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q36.svg (show_image: 1)
+------------------------------------------------------------
+Q37 (ID 134919)
+Title: Q37: Two cards are drawn from a 52-card deck with ...
+Text: Two cards are drawn from a 52-card deck with replacement. Find the probability of drawing two Aces.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q37.svg (show_image: 1)
+------------------------------------------------------------
+Q38 (ID 134920)
+Title: Q38: A jar contains 10 red candies, 15 green candi...
+Text: A jar contains 10 red candies, 15 green candies, and 25 yellow candies. If two candies are selected at random without replacement, find the probability that one is green and one is yellow.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q38.svg (show_image: 1)
+------------------------------------------------------------
+Q39 (ID 134921)
+Title: Q39: Explain what is meant by conditional probabil...
+Text: Explain what is meant by conditional probability P(A|B) and write its formula P(A|B) = P(A ∩ B) / P(B).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q39.svg (show_image: 1)
+------------------------------------------------------------
+Q40 (ID 134922)
+Title: Q40: A survey of 100 consumers is summarized in a ...
+Text: A survey of 100 consumers is summarized in a two-way contingency table: 45 prefer Product A (20 men, 25 women), 55 prefer Product B (30 men, 25 women). Find the probability that a randomly selected person prefers Product A given that the person is a woman.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q40.svg (show_image: 1)
+------------------------------------------------------------
+Q41 (ID 134923)
+Title: Q41: Using the contingency table in Question 40, f...
+Text: Using the contingency table in Question 40, find the probability that a selected person is a man given that the person prefers Product B.
+Formula: S = \{e_1, e_2, \dots, e_n\}, \quad E \subseteq S, \quad P(E) = \frac{n(E)}{n(S)}
+Opts: ['Sample space is the probability value; Event is the total count', 'Sample space is the set of all possible outcomes; Event is a subset of the sample space', 'Sample space applies to dice; Event applies to coins only', 'Sample space and Event are identical concepts']
+Ans: Sample space is the set of all possible outcomes; Event is a subset of the sample space
+Img: /images/g9_t160_q41.svg (show_image: 1)
+------------------------------------------------------------
+Q42 (ID 134924)
+Title: Q42: If P(A) = 0.4, P(B) = 0.5, and P(A ∪ B) = 0.7...
+Text: If P(A) = 0.4, P(B) = 0.5, and P(A ∪ B) = 0.7, find P(A ∩ B). Are events A and B independent? Justify.
+Formula: P(A \cup B) = P(A) + P(B) - P(A \cap B)
+Opts: ['Simple event probability is always 1; Compound event probability is 0', 'Simple event requires 3 trials; Compound event requires 1 trial', 'Simple event has one outcome; Compound event combines two or more simple events', 'Simple event uses coins; Compound event uses playing cards']
+Ans: Simple event has one outcome; Compound event combines two or more simple events
+Img: /images/g9_t160_q42.svg (show_image: 1)
+------------------------------------------------------------
+Q43 (ID 134925)
+Title: Q43: If P(A) = 0.6 and P(B) = 0.3, and events A an...
+Text: If P(A) = 0.6 and P(B) = 0.3, and events A and B are mutually exclusive, find P(A ∪ B) and P(A ∩ B).
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q43.svg (show_image: 1)
+------------------------------------------------------------
+Q44 (ID 134926)
+Title: Q44: Explain why the probability of any event cann...
+Text: Explain why the probability of any event cannot be negative or greater than 100%.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q44.svg (show_image: 1)
+------------------------------------------------------------
+Q45 (ID 134927)
+Title: Q45: A dart is thrown at a square target of side 2...
+Text: A dart is thrown at a square target of side 20 cm containing an inscribed circle of radius 10 cm. Find the geometric probability that the dart lands inside the circle.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q45.svg (show_image: 1)
+------------------------------------------------------------
+Q46 (ID 134928)
+Title: Q46: A board game requires a player to roll a doub...
+Text: A board game requires a player to roll a double (same number on both dice) to get out of jail. Find the probability of rolling a double on a single turn.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q46.svg (show_image: 1)
+------------------------------------------------------------
+Q47 (ID 134929)
+Title: Q47: What is the probability of NOT rolling a doub...
+Text: What is the probability of NOT rolling a double on three consecutive rolls of two fair dice?
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q47.svg (show_image: 1)
+------------------------------------------------------------
+Q48 (ID 134930)
+Title: Q48: A bag contains 3 red, 4 white, and 5 blue bal...
+Text: A bag contains 3 red, 4 white, and 5 blue balls. If three balls are drawn one by one without replacement, find the probability of drawing Red, then White, then Blue in that exact order.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) \\times n(S)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) / n(S)', 'P(E) = n(S) - n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q48.svg (show_image: 1)
+------------------------------------------------------------
+Q49 (ID 134931)
+Title: Q49: A weather forecaster states that the probabil...
+Text: A weather forecaster states that the probability of rain on Saturday is 60% and on Sunday is 70%. Assuming weather on both days is independent, find the probability that it rains on both days.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(E) / n(S)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q49.svg (show_image: 1)
+------------------------------------------------------------
+Q50 (ID 134932)
+Title: Q50: From Question 49, find the probability that i...
+Text: From Question 49, find the probability that it rains on at least one day during the weekend.
+Formula: P(E) = \frac{n(E)}{n(S)}, \quad 0 \le P(E) \le 1
+Opts: ['P(E) = n(S) - n(E)', 'P(E) = n(S) / n(E)', 'P(E) = n(E) \\times n(S)', 'P(E) = n(E) / n(S)']
+Ans: P(E) = n(E) / n(S)
+Img: /images/g9_t160_q50.svg (show_image: 1)
+------------------------------------------------------------

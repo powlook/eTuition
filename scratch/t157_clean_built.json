@@ -1,0 +1,752 @@
+[
+  {
+    "id": "134733",
+    "title": "Q1: Define a quadratic equation in one variable a...",
+    "question_text": "Define a quadratic equation in one variable and state its standard form ax² + bx + c = 0 (where a ≠ 0).",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134734",
+    "title": "Q2: State the Zero-Product Property and explain h...",
+    "question_text": "State the Zero-Product Property and explain how it is used to solve quadratic equations by factoring.",
+    "math_formula": "A \\cdot B = 0 \\implies A = 0 \\quad \\text{or} \\quad B = 0",
+    "options": [
+      "If AB = 0, then A = 0 or B = 0 (or both)",
+      "If AB = 0, then A = 1 and B = 1",
+      "If AB = 0, then A = -B",
+      "If AB = 0, then A + B = 0"
+    ],
+    "correct_answer": "If AB = 0, then A = 0 or B = 0 (or both)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134735",
+    "title": "Q3: Solve the quadratic equation by extracting sq...",
+    "question_text": "Solve the quadratic equation by extracting square roots: x² - 49 = 0.",
+    "math_formula": "x^2 = 49 \\implies x = \\pm \\sqrt{49} = \\pm 7",
+    "options": [
+      "x = ±14",
+      "x = ±7 (x = 7 or x = -7)",
+      "x = 7 only",
+      "x = 49"
+    ],
+    "correct_answer": "x = ±7 (x = 7 or x = -7)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134736",
+    "title": "Q4: Solve by extracting square roots: 3x² - 75 = ...",
+    "question_text": "Solve by extracting square roots: 3x² - 75 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134737",
+    "title": "Q5: Solve by extracting square roots: (x - 4)² = ...",
+    "question_text": "Solve by extracting square roots: (x - 4)² = 36.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134738",
+    "title": "Q6: Solve by extracting square roots: 2(x + 3)² -...",
+    "question_text": "Solve by extracting square roots: 2(x + 3)² - 32 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q6.png"
+  },
+  {
+    "id": "134739",
+    "title": "Q7: Solve by extracting square roots: (2x - 5)² =...",
+    "question_text": "Solve by extracting square roots: (2x - 5)² = 18.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134740",
+    "title": "Q8: Solve the quadratic equation by factoring: x²...",
+    "question_text": "Solve the quadratic equation by factoring: x² + 7x + 12 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134741",
+    "title": "Q9: Solve by factoring: x² - 9x + 20 = 0....",
+    "question_text": "Solve by factoring: x² - 9x + 20 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134742",
+    "title": "Q10: Solve by factoring: x² - 5x - 24 = 0....",
+    "question_text": "Solve by factoring: x² - 5x - 24 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134743",
+    "title": "Q11: Solve by factoring: 2x² + 7x + 3 = 0....",
+    "question_text": "Solve by factoring: 2x² + 7x + 3 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134744",
+    "title": "Q12: Solve by factoring: 3x² - 11x - 4 = 0....",
+    "question_text": "Solve by factoring: 3x² - 11x - 4 = 0.",
+    "math_formula": "A \\cdot B = 0 \\implies A = 0 \\quad \\text{or} \\quad B = 0",
+    "options": [
+      "If AB = 0, then A = -B",
+      "If AB = 0, then A = 0 or B = 0 (or both)",
+      "If AB = 0, then A = 1 and B = 1",
+      "If AB = 0, then A + B = 0"
+    ],
+    "correct_answer": "If AB = 0, then A = 0 or B = 0 (or both)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134745",
+    "title": "Q13: Solve by factoring: 6x² - 7x - 5 = 0....",
+    "question_text": "Solve by factoring: 6x² - 7x - 5 = 0.",
+    "math_formula": "x^2 = 49 \\implies x = \\pm \\sqrt{49} = \\pm 7",
+    "options": [
+      "x = ±7 (x = 7 or x = -7)",
+      "x = ±14",
+      "x = 49",
+      "x = 7 only"
+    ],
+    "correct_answer": "x = ±7 (x = 7 or x = -7)",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q13.png"
+  },
+  {
+    "id": "134746",
+    "title": "Q14: Solve by factoring: 4x² - 25 = 0....",
+    "question_text": "Solve by factoring: 4x² - 25 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134747",
+    "title": "Q15: Solve the incomplete quadratic equation by fa...",
+    "question_text": "Solve the incomplete quadratic equation by factoring out the GCF: 5x² - 20x = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134748",
+    "title": "Q16: Solve by completing the square: x² - 6x - 7 =...",
+    "question_text": "Solve by completing the square: x² - 6x - 7 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134749",
+    "title": "Q17: Solve by completing the square: x² + 8x + 11 ...",
+    "question_text": "Solve by completing the square: x² + 8x + 11 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134750",
+    "title": "Q18: Solve by completing the square: 2x² - 12x + 1...",
+    "question_text": "Solve by completing the square: 2x² - 12x + 10 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134751",
+    "title": "Q19: State the Quadratic Formula for solving ax² +...",
+    "question_text": "State the Quadratic Formula for solving ax² + bx + c = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134752",
+    "title": "Q20: Solve using the quadratic formula: x² - 4x - ...",
+    "question_text": "Solve using the quadratic formula: x² - 4x - 5 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q20.png"
+  },
+  {
+    "id": "134753",
+    "title": "Q21: Solve using the quadratic formula: 2x² + 5x -...",
+    "question_text": "Solve using the quadratic formula: 2x² + 5x - 3 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134754",
+    "title": "Q22: Solve using the quadratic formula: 3x² - 6x +...",
+    "question_text": "Solve using the quadratic formula: 3x² - 6x + 2 = 0.",
+    "math_formula": "A \\cdot B = 0 \\implies A = 0 \\quad \\text{or} \\quad B = 0",
+    "options": [
+      "If AB = 0, then A = 1 and B = 1",
+      "If AB = 0, then A + B = 0",
+      "If AB = 0, then A = 0 or B = 0 (or both)",
+      "If AB = 0, then A = -B"
+    ],
+    "correct_answer": "If AB = 0, then A = 0 or B = 0 (or both)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134755",
+    "title": "Q23: Solve using the quadratic formula: x² - 6x + ...",
+    "question_text": "Solve using the quadratic formula: x² - 6x + 13 = 0 (describe real vs complex solutions).",
+    "math_formula": "x^2 = 49 \\implies x = \\pm \\sqrt{49} = \\pm 7",
+    "options": [
+      "x = 7 only",
+      "x = ±14",
+      "x = ±7 (x = 7 or x = -7)",
+      "x = 49"
+    ],
+    "correct_answer": "x = ±7 (x = 7 or x = -7)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134756",
+    "title": "Q24: Define the discriminant D = b² - 4ac of a qua...",
+    "question_text": "Define the discriminant D = b² - 4ac of a quadratic equation.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134757",
+    "title": "Q25: Characterize the nature of the roots when: a)...",
+    "question_text": "Characterize the nature of the roots when: a) D > 0 and a perfect square; b) D > 0 and not a perfect square; c) D = 0; d) D < 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q25.png"
+  },
+  {
+    "id": "134758",
+    "title": "Q26: Determine the discriminant and describe the n...",
+    "question_text": "Determine the discriminant and describe the nature of the roots of 2x² - 4x + 5 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134759",
+    "title": "Q27: Determine the discriminant and describe the n...",
+    "question_text": "Determine the discriminant and describe the nature of the roots of 9x² - 12x + 4 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134760",
+    "title": "Q28: Find the value(s) of k for which the quadrati...",
+    "question_text": "Find the value(s) of k for which the quadratic equation x² - kx + 16 = 0 has equal (coincident) real roots.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134761",
+    "title": "Q29: Find the range of values of k for which the e...",
+    "question_text": "Find the range of values of k for which the equation 2x² + 6x + k = 0 has two distinct real roots.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134762",
+    "title": "Q30: State the relationship between the roots r₁ a...",
+    "question_text": "State the relationship between the roots r₁ and r₂ of ax² + bx + c = 0 and its coefficients: Sum of roots (r₁ + r₂) and Product of roots (r₁ · r₂).",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q30.png"
+  },
+  {
+    "id": "134763",
+    "title": "Q31: Find the sum and product of the roots of 3x² ...",
+    "question_text": "Find the sum and product of the roots of 3x² - 12x + 7 = 0 without solving the equation.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134764",
+    "title": "Q32: Write a quadratic equation in standard form i...",
+    "question_text": "Write a quadratic equation in standard form integer coefficients whose roots are 4 and -7.",
+    "math_formula": "A \\cdot B = 0 \\implies A = 0 \\quad \\text{or} \\quad B = 0",
+    "options": [
+      "If AB = 0, then A = 0 or B = 0 (or both)",
+      "If AB = 0, then A = -B",
+      "If AB = 0, then A = 1 and B = 1",
+      "If AB = 0, then A + B = 0"
+    ],
+    "correct_answer": "If AB = 0, then A = 0 or B = 0 (or both)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134765",
+    "title": "Q33: Write a quadratic equation whose roots are 2/...",
+    "question_text": "Write a quadratic equation whose roots are 2/3 and -5/2.",
+    "math_formula": "x^2 = 49 \\implies x = \\pm \\sqrt{49} = \\pm 7",
+    "options": [
+      "x = ±7 (x = 7 or x = -7)",
+      "x = ±14",
+      "x = 7 only",
+      "x = 49"
+    ],
+    "correct_answer": "x = ±7 (x = 7 or x = -7)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134766",
+    "title": "Q34: Write a quadratic equation whose roots are 3 ...",
+    "question_text": "Write a quadratic equation whose roots are 3 + √5 and 3 - √5.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134767",
+    "title": "Q35: The product of two consecutive positive integ...",
+    "question_text": "The product of two consecutive positive integers is 156. Set up a quadratic equation and find the integers.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q35.png"
+  },
+  {
+    "id": "134768",
+    "title": "Q36: The sum of the squares of two consecutive odd...",
+    "question_text": "The sum of the squares of two consecutive odd integers is 130. Find the integers.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134769",
+    "title": "Q37: The length of a rectangular billboard is 4 me...",
+    "question_text": "The length of a rectangular billboard is 4 meters longer than its width. If the area of the billboard is 96 m², find its dimensions.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134770",
+    "title": "Q38: A rectangular garden measuring 12 m by 16 m i...",
+    "question_text": "A rectangular garden measuring 12 m by 16 m is surrounded by a uniform concrete walkway. If the total area of garden and walkway is 285 m², find the width of the walkway.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134771",
+    "title": "Q39: An open-top box is made from a 20 cm by 20 cm...",
+    "question_text": "An open-top box is made from a 20 cm by 20 cm square piece of cardboard by cutting congruent squares of side x from each corner and folding up the sides. If the base area is 144 cm², find x.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134772",
+    "title": "Q40: A stone is thrown vertically upward with an i...",
+    "question_text": "A stone is thrown vertically upward with an initial velocity of 20 m/s from a height of 25 m. Its height after t seconds is h = -5t² + 20t + 25. How long will it take for the stone to reach the ground?",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q40.png"
+  },
+  {
+    "id": "134773",
+    "title": "Q41: A right triangle has a hypotenuse that is 2 c...",
+    "question_text": "A right triangle has a hypotenuse that is 2 cm longer than its longer leg. The shorter leg is 7 cm. Find the lengths of the other two sides.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134774",
+    "title": "Q42: Pipe A can fill a water reservoir in 3 hours ...",
+    "question_text": "Pipe A can fill a water reservoir in 3 hours less time than Pipe B. Working together, both pipes fill the reservoir in 2 hours. Set up a rational equation that reduces to a quadratic equation and solve for the individual time of each pipe.",
+    "math_formula": "A \\cdot B = 0 \\implies A = 0 \\quad \\text{or} \\quad B = 0",
+    "options": [
+      "If AB = 0, then A + B = 0",
+      "If AB = 0, then A = 1 and B = 1",
+      "If AB = 0, then A = -B",
+      "If AB = 0, then A = 0 or B = 0 (or both)"
+    ],
+    "correct_answer": "If AB = 0, then A = 0 or B = 0 (or both)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134775",
+    "title": "Q43: A motorist travels 180 km at a uniform speed....",
+    "question_text": "A motorist travels 180 km at a uniform speed. If the speed had been 15 km/h faster, the trip would have taken 1 hour less. Find the original speed.",
+    "math_formula": "x^2 = 49 \\implies x = \\pm \\sqrt{49} = \\pm 7",
+    "options": [
+      "x = ±7 (x = 7 or x = -7)",
+      "x = ±14",
+      "x = 7 only",
+      "x = 49"
+    ],
+    "correct_answer": "x = ±7 (x = 7 or x = -7)",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134776",
+    "title": "Q44: Solve the equation reducible to quadratic for...",
+    "question_text": "Solve the equation reducible to quadratic form: x⁴ - 13x² + 36 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134777",
+    "title": "Q45: Solve the reducible equation: (x² - 2x)² - 7(...",
+    "question_text": "Solve the reducible equation: (x² - 2x)² - 7(x² - 2x) + 12 = 0.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 1,
+    "image_url": "/images/g9_t157_q45.png"
+  },
+  {
+    "id": "134778",
+    "title": "Q46: Solve the fractional equation: (2 / x) + (3 /...",
+    "question_text": "Solve the fractional equation: (2 / x) + (3 / (x - 1)) = 4.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134779",
+    "title": "Q47: Solve the radical equation: √(2x + 7) = x + 2...",
+    "question_text": "Solve the radical equation: √(2x + 7) = x + 2.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134780",
+    "title": "Q48: If one root of the quadratic equation 2x² + k...",
+    "question_text": "If one root of the quadratic equation 2x² + kx - 12 = 0 is 3, find the value of k and the other root.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134781",
+    "title": "Q49: Find two numbers whose sum is 21 and whose pr...",
+    "question_text": "Find two numbers whose sum is 21 and whose product is 108.",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  },
+  {
+    "id": "134782",
+    "title": "Q50: A group of students shared the ₱1,200 cost of...",
+    "question_text": "A group of students shared the ₱1,200 cost of a study trip equally. When 4 students withdrew, each remaining student had to pay ₱10 more. How many students were originally in the group?",
+    "math_formula": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "options": [
+      "x = -b \\pm \\sqrt{b^2 - 4ac}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{a}"
+    ],
+    "correct_answer": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "show_image": 0,
+    "image_url": null
+  }
+]

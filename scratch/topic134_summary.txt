@@ -1,0 +1,250 @@
+QID 133583: System Classification #1
+  Img: /images/g8_t134_q1.svg
+  Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+  Ans: Consistent-dependent (Infinitely many solutions)
+--------------------------------------------------
+QID 133584: Solve System Graphically #2
+  Img: /images/g8_t134_q2.svg
+  Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+  Ans: (4, 2)
+--------------------------------------------------
+QID 133585: Substitution Method System #3
+  Img: /images/g8_t134_q3.svg
+  Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+  Ans: x = 3, y = 4
+--------------------------------------------------
+QID 133586: Elimination Method System #4
+  Img: /images/g8_t134_q4.svg
+  Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+  Ans: x = 4, y = 2
+--------------------------------------------------
+QID 133587: General System Solution #5
+  Img: /images/g8_t134_q5.svg
+  Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+  Ans: (2, 1)
+--------------------------------------------------
+QID 133588: Inconsistent System Identification #6
+  Img: /images/g8_t134_q6.svg
+  Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+  Ans: No Solution (Inconsistent System)
+--------------------------------------------------
+QID 133589: Number Problem System #7
+  Img: /images/g8_t134_q7.svg
+  Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+  Ans: 41 and 23
+--------------------------------------------------
+QID 133590: Cafeteria Price System #8
+  Img: /images/g8_t134_q8.svg
+  Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+  Ans: Burger: ₱45, Drink: ₱20
+--------------------------------------------------
+QID 133591: Boat & Current Motion System #9
+  Img: /images/g8_t134_q9.svg
+  Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+  Ans: Boat: 15 km/h, Current: 3 km/h
+--------------------------------------------------
+QID 133592: Acid Mixture System #10
+  Img: /images/g8_t134_q10.svg
+  Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+  Ans: 10 liters of 20% solution and 20 liters of 50% solution
+--------------------------------------------------
+QID 133593: System Classification #11
+  Img: /images/g8_t134_q11.svg
+  Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+  Ans: Consistent-dependent (Infinitely many solutions)
+--------------------------------------------------
+QID 133594: Solve System Graphically #12
+  Img: /images/g8_t134_q12.svg
+  Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+  Ans: (4, 2)
+--------------------------------------------------
+QID 133595: Substitution Method System #13
+  Img: /images/g8_t134_q13.svg
+  Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+  Ans: x = 3, y = 4
+--------------------------------------------------
+QID 133596: Elimination Method System #14
+  Img: /images/g8_t134_q14.svg
+  Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+  Ans: x = 4, y = 2
+--------------------------------------------------
+QID 133597: General System Solution #15
+  Img: /images/g8_t134_q15.svg
+  Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+  Ans: (2, 1)
+--------------------------------------------------
+QID 133598: Inconsistent System Identification #16
+  Img: /images/g8_t134_q16.svg
+  Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+  Ans: No Solution (Inconsistent System)
+--------------------------------------------------
+QID 133599: Number Problem System #17
+  Img: /images/g8_t134_q17.svg
+  Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+  Ans: 41 and 23
+--------------------------------------------------
+QID 133600: Cafeteria Price System #18
+  Img: /images/g8_t134_q18.svg
+  Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+  Ans: Burger: ₱45, Drink: ₱20
+--------------------------------------------------
+QID 133601: Boat & Current Motion System #19
+  Img: /images/g8_t134_q19.svg
+  Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+  Ans: Boat: 15 km/h, Current: 3 km/h
+--------------------------------------------------
+QID 133602: Acid Mixture System #20
+  Img: /images/g8_t134_q20.svg
+  Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+  Ans: 10 liters of 20% solution and 20 liters of 50% solution
+--------------------------------------------------
+QID 133603: System Classification #21
+  Img: /images/g8_t134_q21.svg
+  Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+  Ans: Consistent-dependent (Infinitely many solutions)
+--------------------------------------------------
+QID 133604: Solve System Graphically #22
+  Img: /images/g8_t134_q22.svg
+  Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+  Ans: (4, 2)
+--------------------------------------------------
+QID 133605: Substitution Method System #23
+  Img: /images/g8_t134_q23.svg
+  Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+  Ans: x = 3, y = 4
+--------------------------------------------------
+QID 133606: Elimination Method System #24
+  Img: /images/g8_t134_q24.svg
+  Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+  Ans: x = 4, y = 2
+--------------------------------------------------
+QID 133607: General System Solution #25
+  Img: /images/g8_t134_q25.svg
+  Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+  Ans: (2, 1)
+--------------------------------------------------
+QID 133608: Inconsistent System Identification #26
+  Img: /images/g8_t134_q26.svg
+  Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+  Ans: No Solution (Inconsistent System)
+--------------------------------------------------
+QID 133609: Number Problem System #27
+  Img: /images/g8_t134_q27.svg
+  Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+  Ans: 41 and 23
+--------------------------------------------------
+QID 133610: Cafeteria Price System #28
+  Img: /images/g8_t134_q28.svg
+  Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+  Ans: Burger: ₱45, Drink: ₱20
+--------------------------------------------------
+QID 133611: Boat & Current Motion System #29
+  Img: /images/g8_t134_q29.svg
+  Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+  Ans: Boat: 15 km/h, Current: 3 km/h
+--------------------------------------------------
+QID 133612: Acid Mixture System #30
+  Img: /images/g8_t134_q30.svg
+  Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+  Ans: 10 liters of 20% solution and 20 liters of 50% solution
+--------------------------------------------------
+QID 133613: System Classification #31
+  Img: /images/g8_t134_q31.svg
+  Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+  Ans: Consistent-dependent (Infinitely many solutions)
+--------------------------------------------------
+QID 133614: Solve System Graphically #32
+  Img: /images/g8_t134_q32.svg
+  Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+  Ans: (4, 2)
+--------------------------------------------------
+QID 133615: Substitution Method System #33
+  Img: /images/g8_t134_q33.svg
+  Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+  Ans: x = 3, y = 4
+--------------------------------------------------
+QID 133616: Elimination Method System #34
+  Img: /images/g8_t134_q34.svg
+  Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+  Ans: x = 4, y = 2
+--------------------------------------------------
+QID 133617: General System Solution #35
+  Img: /images/g8_t134_q35.svg
+  Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+  Ans: (2, 1)
+--------------------------------------------------
+QID 133618: Inconsistent System Identification #36
+  Img: /images/g8_t134_q36.svg
+  Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+  Ans: No Solution (Inconsistent System)
+--------------------------------------------------
+QID 133619: Number Problem System #37
+  Img: /images/g8_t134_q37.svg
+  Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+  Ans: 41 and 23
+--------------------------------------------------
+QID 133620: Cafeteria Price System #38
+  Img: /images/g8_t134_q38.svg
+  Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+  Ans: Burger: ₱45, Drink: ₱20
+--------------------------------------------------
+QID 133621: Boat & Current Motion System #39
+  Img: /images/g8_t134_q39.svg
+  Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+  Ans: Boat: 15 km/h, Current: 3 km/h
+--------------------------------------------------
+QID 133622: Acid Mixture System #40
+  Img: /images/g8_t134_q40.svg
+  Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+  Ans: 10 liters of 20% solution and 20 liters of 50% solution
+--------------------------------------------------
+QID 133623: System Classification #41
+  Img: /images/g8_t134_q41.svg
+  Text: Classify the system of equations by comparing slopes and y-intercepts: \(\{ 2x - y = 4 \,;\, 4x - 2y = 8 \}\).
+  Ans: Consistent-dependent (Infinitely many solutions)
+--------------------------------------------------
+QID 133624: Solve System Graphically #42
+  Img: /images/g8_t134_q42.svg
+  Text: Solve the system of linear equations: \(\{ x + y = 6 \,;\, x - y = 2 \}\).
+  Ans: (4, 2)
+--------------------------------------------------
+QID 133625: Substitution Method System #43
+  Img: /images/g8_t134_q43.svg
+  Text: Solve the system of equations using the Substitution Method: \(\{ y = 3x - 5 \,;\, 2x + 3y = 18 \}\).
+  Ans: x = 3, y = 4
+--------------------------------------------------
+QID 133626: Elimination Method System #44
+  Img: /images/g8_t134_q44.svg
+  Text: Solve the system of equations using the Elimination Method: \(\{ 3x + 2y = 16 \,;\, 5x - 2y = 16 \}\).
+  Ans: x = 4, y = 2
+--------------------------------------------------
+QID 133627: General System Solution #45
+  Img: /images/g8_t134_q45.svg
+  Text: Solve the system of linear equations: \(\{ 4x + 3y = 11 \,;\, 3x - 5y = -7 \}\).
+  Ans: (2, 1)
+--------------------------------------------------
+QID 133628: Inconsistent System Identification #46
+  Img: /images/g8_t134_q46.svg
+  Text: Determine the number of solutions for the system: \(\{ 2x + 6y = 10 \,;\, x + 3y = 7 \}\).
+  Ans: No Solution (Inconsistent System)
+--------------------------------------------------
+QID 133629: Number Problem System #47
+  Img: /images/g8_t134_q47.svg
+  Text: The sum of two numbers is 64 and their difference is 18. Set up a system of equations and find the two numbers.
+  Ans: 41 and 23
+--------------------------------------------------
+QID 133630: Cafeteria Price System #48
+  Img: /images/g8_t134_q48.svg
+  Text: At a school cafeteria, 3 burgers and 2 juice drinks cost ₱175, while 2 burgers and 4 juice drinks cost ₱170. Find the price of one burger and one juice drink.
+  Ans: Burger: ₱45, Drink: ₱20
+--------------------------------------------------
+QID 133631: Boat & Current Motion System #49
+  Img: /images/g8_t134_q49.svg
+  Text: A boat travels 36 km downstream with the current in 2 hours and takes 3 hours to travel the same distance upstream against the current. Find the speed of the boat in still water and the speed of the current.
+  Ans: Boat: 15 km/h, Current: 3 km/h
+--------------------------------------------------
+QID 133632: Acid Mixture System #50
+  Img: /images/g8_t134_q50.svg
+  Text: A chemist mixes a 20% acid solution with a 50% acid solution to produce 30 liters of a 40% acid solution. How many liters of each solution should be used?
+  Ans: 10 liters of 20% solution and 20 liters of 50% solution
+--------------------------------------------------

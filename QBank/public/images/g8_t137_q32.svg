@@ -1,20 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" width="480" height="380">
-  <rect width="100%" height="100%" fill="#0f172a" rx="12" />
-
-  <!-- Header Title -->
-  <rect x="16" y="12" width="448" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" />
-  <text x="240" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">
-    Missing Leg Calculation #32
-  </text>
-
-  <!-- Body Content -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" width="420" height="320">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12"/>
+  <rect x="20" y="16" width="380" height="36" fill="#1e293b" rx="8"/>
+  <text x="210" y="40" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#38bdf8" text-anchor="middle">Right Triangle - Missing Leg</text>
   
-      <g transform="translate(120, 80)">
-        <polygon points="0,200 220,200 0,20" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="2.5" />
-        <rect x="0" y="180" width="20" height="20" fill="none" stroke="#f59e0b" stroke-width="2" />
-        <text x="110" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e2e8f0" font-weight="bold">b = 7 cm</text>
-        <text x="-40" y="110" font-family="sans-serif" font-size="14" fill="#10b981" font-weight="bold">a = ? (24 cm)</text>
-        <text x="125" y="100" font-family="sans-serif" font-size="13" fill="#f59e0b" font-weight="bold">c = 25 cm</text>
-      </g>
-    
+  <polygon points="120,240 330,240 120,90" fill="#1e293b" stroke="#38bdf8" stroke-width="2.5"/>
+  <path d="M 120 222 L 138 222 L 138 240" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+  
+  <text x="95" y="170" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#38bdf8" text-anchor="end">a = ?</text>
+  <text x="225" y="268" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">b = 7 cm</text>
+  <text x="245" y="155" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="start">c = 25 cm</text>
 </svg>
